@@ -1,0 +1,2592 @@
+[2012-09-03 09:51:14] *** Starte Upload der Datei ***
+[2012-09-03 09:51:14] Datei: uploads/bitburger/WG_Motive_A4_quer.zip
+[2012-09-03 09:51:14] Groesse: 15888352 Bytes
+[2012-09-03 09:51:14] Upload von "uploads/bitburger/WG_Motive_A4_quer.zip" erfolgreich abgeschlossen
+[2012-09-03 09:51:14] Zugriffsrechte von "uploads/bitburger/WG_Motive_A4_quer.zip" geaendert (0755)
+[2012-09-03 09:51:14] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-03 09:51:14] Absender: Otterbach Team
+[2012-09-03 09:51:14] Empfaenger: c.eberle@otterbach.de
+[2012-09-03 09:51:14] E-Mail erfolgreich versandt
+[2012-09-03 10:10:02] *** Starte Upload der Datei ***
+[2012-09-03 10:10:02] Datei: uploads/c-eberle/RollUp_TaktikMerseburg_160x400.pdf
+[2012-09-03 10:10:02] Groesse: 72375425 Bytes
+[2012-09-03 10:10:02] Upload von "uploads/c-eberle/RollUp_TaktikMerseburg_160x400.pdf" erfolgreich abgeschlossen
+[2012-09-03 10:10:02] Zugriffsrechte von "uploads/c-eberle/RollUp_TaktikMerseburg_160x400.pdf" geaendert (0755)
+[2012-09-03 10:10:02] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-03 10:10:02] Absender: Clarissa Eberle
+[2012-09-03 10:10:02] Empfaenger: max.maulwurf@deutschebahn.com, Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-09-03 10:10:03] E-Mail erfolgreich versandt
+[2012-09-03 10:27:12] *** Starte Download der angeforderten Datei
+[2012-09-03 10:27:12] Benutzer "c-eberle" gefunden
+[2012-09-03 10:27:12] Datei "RollUp_TaktikMerseburg_160x400.pdf" gefunden
+[2012-09-03 10:27:12] Download von "RollUp_TaktikMerseburg_160x400.pdf"
+[2012-09-03 10:28:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-03 10:28:16] Benutzer: c-eberle
+[2012-09-03 10:28:16] E-Mail: c.eberle@otterbach.de
+[2012-09-03 10:28:16] Datei: RollUp_TaktikMerseburg_160x400.pdf
+[2012-09-03 10:28:16] E-Mail wurde versandt
+[2012-09-03 10:30:11] *** Starte Download der angeforderten Datei
+[2012-09-03 10:30:11] Benutzer "bitburger" gefunden
+[2012-09-03 10:30:11] Datei "Bitburger_Motiv_Grillen.zip" gefunden
+[2012-09-03 10:30:11] Download von "Bitburger_Motiv_Grillen.zip"
+[2012-09-03 10:31:53] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-03 10:31:53] Benutzer: bitburger
+[2012-09-03 10:31:53] E-Mail: bitburger@otterbach.de
+[2012-09-03 10:31:53] Datei: Bitburger_Motiv_Grillen.zip
+[2012-09-03 10:31:53] E-Mail wurde versandt
+[2012-09-03 10:33:59] *** Starte Download der angeforderten Datei
+[2012-09-03 10:33:59] Benutzer "c-eberle" gefunden
+[2012-09-03 10:33:59] Datei "RollUp_TaktikMerseburg_160x400.pdf" gefunden
+[2012-09-03 10:33:59] Download von "RollUp_TaktikMerseburg_160x400.pdf"
+[2012-09-03 10:34:25] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-03 10:34:25] Benutzer: c-eberle
+[2012-09-03 10:34:25] E-Mail: c.eberle@otterbach.de
+[2012-09-03 10:34:25] Datei: RollUp_TaktikMerseburg_160x400.pdf
+[2012-09-03 10:34:25] E-Mail wurde versandt
+[2012-09-03 03:00:58] *** Starte Download der angeforderten Datei
+[2012-09-03 03:00:59] Benutzer "c-eberle" gefunden
+[2012-09-03 03:00:59] Datei "RollUp_TaktikMerseburg_160x400.pdf" gefunden
+[2012-09-03 03:00:59] Download von "RollUp_TaktikMerseburg_160x400.pdf"
+[2012-09-03 04:13:40] *** Starte Download der angeforderten Datei
+[2012-09-03 04:13:40] Benutzer "c-eberle" gefunden
+[2012-09-03 04:13:40] Datei "RollUp_TaktikMerseburg_160x400.pdf" gefunden
+[2012-09-03 04:13:40] Download von "RollUp_TaktikMerseburg_160x400.pdf"
+[2012-09-03 05:32:08] *** Starte Upload der Datei ***
+[2012-09-03 05:32:08] Datei: uploads/bitburger/sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf
+[2012-09-03 05:32:08] Groesse: 16014105 Bytes
+[2012-09-03 05:32:08] Upload von "uploads/bitburger/sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-03 05:32:08] Zugriffsrechte von "uploads/bitburger/sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf" geaendert (0755)
+[2012-09-03 05:32:08] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-03 05:32:08] Absender: Otterbach Team
+[2012-09-03 05:32:08] Empfaenger: c.eberle@otterbach.de
+[2012-09-03 05:32:09] E-Mail erfolgreich versandt
+[2012-09-03 05:37:51] *** Starte Download der angeforderten Datei
+[2012-09-03 05:37:51] Benutzer "bitburger" gefunden
+[2012-09-03 05:37:51] Datei "sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf" gefunden
+[2012-09-03 05:37:51] Download von "sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf"
+[2012-09-03 05:37:56] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-03 05:37:56] Benutzer: bitburger
+[2012-09-03 05:37:56] E-Mail: bitburger@otterbach.de
+[2012-09-03 05:37:56] Datei: sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf
+[2012-09-03 05:37:56] E-Mail wurde versandt
+[2012-09-03 05:44:27] *** Starte Upload der Datei ***
+[2012-09-03 05:44:27] Datei: uploads/bitburger/Bitb_Radler_AF_NEU_LeBuffet_240x340_PSOLWCStand_PDFx3.pdf
+[2012-09-03 05:44:27] Groesse: 10323306 Bytes
+[2012-09-03 05:44:27] Upload von "uploads/bitburger/Bitb_Radler_AF_NEU_LeBuffet_240x340_PSOLWCStand_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-03 05:44:27] Zugriffsrechte von "uploads/bitburger/Bitb_Radler_AF_NEU_LeBuffet_240x340_PSOLWCStand_PDFx3.pdf" geaendert (0755)
+[2012-09-03 05:44:27] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-03 05:44:27] Absender: Otterbach Team
+[2012-09-03 05:44:27] Empfaenger: c.eberle@otterbach.de
+[2012-09-03 05:44:27] E-Mail erfolgreich versandt
+[2012-09-03 05:52:17] *** Starte Download der angeforderten Datei
+[2012-09-03 05:52:17] Benutzer "bitburger" gefunden
+[2012-09-03 05:52:17] Datei "WG_Motive_A4_quer.zip" gefunden
+[2012-09-03 05:52:17] Download von "WG_Motive_A4_quer.zip"
+[2012-09-03 05:52:22] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-03 05:52:22] Benutzer: bitburger
+[2012-09-03 05:52:22] E-Mail: bitburger@otterbach.de
+[2012-09-03 05:52:22] Datei: WG_Motive_A4_quer.zip
+[2012-09-03 05:52:22] E-Mail wurde versandt
+[2012-09-04 11:24:49] *** Starte Download der angeforderten Datei
+[2012-09-04 11:24:49] Benutzer "bitburger" gefunden
+[2012-09-04 11:24:50] Datei "sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf" gefunden
+[2012-09-04 11:24:50] Download von "sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf"
+[2012-09-04 11:24:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-04 11:24:58] Benutzer: bitburger
+[2012-09-04 11:24:58] E-Mail: bitburger@otterbach.de
+[2012-09-04 11:24:58] Datei: sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf
+[2012-09-04 11:25:02] E-Mail wurde versandt
+[2012-09-04 12:04:29] *** Starte Upload der Datei ***
+[2012-09-04 12:04:29] Datei: uploads/bitburger/Koestr_Probierwochen_LebensmittelZtg_280x440_PSO_LWC_Impr_PDFx3.pdf
+[2012-09-04 12:04:29] Groesse: 12868173 Bytes
+[2012-09-04 12:04:29] Upload von "uploads/bitburger/Koestr_Probierwochen_LebensmittelZtg_280x440_PSO_LWC_Impr_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-04 12:04:29] Zugriffsrechte von "uploads/bitburger/Koestr_Probierwochen_LebensmittelZtg_280x440_PSO_LWC_Impr_PDFx3.pdf" geaendert (0755)
+[2012-09-04 12:04:29] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-04 12:04:29] Absender: Otterbach Team
+[2012-09-04 12:04:29] Empfaenger: c.eberle@otterbach.de
+[2012-09-04 12:04:29] E-Mail erfolgreich versandt
+[2012-09-04 12:39:39] *** Starte Download der angeforderten Datei
+[2012-09-04 12:39:40] Benutzer "bitburger" gefunden
+[2012-09-04 12:39:40] Datei "sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf" gefunden
+[2012-09-04 12:39:40] Download von "sportLicher_isotonisch_225x290_PSR_SC_PLUS_PDFx3.pdf"
+[2012-09-04 01:07:18] *** Starte Download der angeforderten Datei
+[2012-09-04 01:07:18] Benutzer "bitburger" gefunden
+[2012-09-04 01:07:18] Datei "Koestr_Probierwochen_LebensmittelZtg_280x440_PSO_LWC_Impr_PDFx3.pdf" gefunden
+[2012-09-04 01:07:18] Download von "Koestr_Probierwochen_LebensmittelZtg_280x440_PSO_LWC_Impr_PDFx3.pdf"
+[2012-09-04 01:07:20] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-04 01:07:20] Benutzer: bitburger
+[2012-09-04 01:07:20] E-Mail: bitburger@otterbach.de
+[2012-09-04 01:07:20] Datei: Koestr_Probierwochen_LebensmittelZtg_280x440_PSO_LWC_Impr_PDFx3.pdf
+[2012-09-04 01:07:20] E-Mail wurde versandt
+[2012-09-04 02:19:17] *** Starte Download der angeforderten Datei
+[2012-09-04 02:19:17] Benutzer "bitburger" gefunden
+[2012-09-04 02:19:17] Datei "Bitb_Radler_AF_NEU_LeBuffet_240x340_PSOLWCStand_PDFx3.pdf" gefunden
+[2012-09-04 02:19:17] Download von "Bitb_Radler_AF_NEU_LeBuffet_240x340_PSOLWCStand_PDFx3.pdf"
+[2012-09-04 02:19:23] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-04 02:19:23] Benutzer: bitburger
+[2012-09-04 02:19:23] E-Mail: bitburger@otterbach.de
+[2012-09-04 02:19:23] Datei: Bitb_Radler_AF_NEU_LeBuffet_240x340_PSOLWCStand_PDFx3.pdf
+[2012-09-04 02:19:24] E-Mail wurde versandt
+[2012-09-05 03:19:52] *** Starte Upload der Datei ***
+[2012-09-05 03:19:52] Datei: uploads/bitburger/KP_Mountain_210x297.zip
+[2012-09-05 03:19:52] Groesse: 57545341 Bytes
+[2012-09-05 03:19:52] Upload von "uploads/bitburger/KP_Mountain_210x297.zip" erfolgreich abgeschlossen
+[2012-09-05 03:19:52] Zugriffsrechte von "uploads/bitburger/KP_Mountain_210x297.zip" geaendert (0755)
+[2012-09-05 03:19:52] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-05 03:19:52] Absender: Otterbach Team
+[2012-09-05 03:19:52] Empfaenger: c.eberle@otterbach.de
+[2012-09-05 03:19:53] E-Mail erfolgreich versandt
+[2012-09-05 03:44:26] *** Starte Upload der Datei ***
+[2012-09-05 03:44:26] Datei: uploads/a-bochannek/43995010_Brauerei_Forst.pdf
+[2012-09-05 03:44:26] Groesse: 23529904 Bytes
+[2012-09-05 03:44:26] Upload von "uploads/a-bochannek/43995010_Brauerei_Forst.pdf" erfolgreich abgeschlossen
+[2012-09-05 03:44:26] Zugriffsrechte von "uploads/a-bochannek/43995010_Brauerei_Forst.pdf" geaendert (0755)
+[2012-09-05 03:44:26] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-05 03:44:26] Absender: Axel Bochannek
+[2012-09-05 03:44:26] Empfaenger: a.bochannek@otterbach.de
+[2012-09-05 03:44:27] E-Mail erfolgreich versandt
+[2012-09-05 04:33:31] *** Starte Download der angeforderten Datei
+[2012-09-05 04:33:31] Benutzer "bitburger" gefunden
+[2012-09-05 04:33:31] Angeforderte Datei wurde nicht gefunden
+[2012-09-05 04:33:31] Download der Datei gescheitert
+[2012-09-05 04:33:46] *** Starte Download der angeforderten Datei
+[2012-09-05 04:33:46] Benutzer "bitburger" gefunden
+[2012-09-05 04:33:46] Angeforderte Datei wurde nicht gefunden
+[2012-09-05 04:33:46] Download der Datei gescheitert
+[2012-09-05 04:34:03] *** Starte Download der angeforderten Datei
+[2012-09-05 04:34:03] Benutzer "bitburger" gefunden
+[2012-09-05 04:34:03] Angeforderte Datei wurde nicht gefunden
+[2012-09-05 04:34:03] Download der Datei gescheitert
+[2012-09-05 04:34:11] *** Starte Download der angeforderten Datei
+[2012-09-05 04:34:11] Benutzer "bitburger" gefunden
+[2012-09-05 04:34:11] Angeforderte Datei wurde nicht gefunden
+[2012-09-05 04:34:11] Download der Datei gescheitert
+[2012-09-05 05:19:08] *** Starte Download der angeforderten Datei
+[2012-09-05 05:19:08] Benutzer "bitburger" gefunden
+[2012-09-05 05:19:08] Datei "KP_Mountain_210x297.zip" gefunden
+[2012-09-05 05:19:08] Download von "KP_Mountain_210x297.zip"
+[2012-09-05 05:25:16] *** Starte Download der angeforderten Datei
+[2012-09-05 05:25:16] Benutzer "bitburger" gefunden
+[2012-09-05 05:25:16] Datei "KP_Mountain_210x297.zip" gefunden
+[2012-09-05 05:25:16] Download von "KP_Mountain_210x297.zip"
+[2012-09-05 05:27:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-05 05:27:33] Benutzer: bitburger
+[2012-09-05 05:27:33] E-Mail: bitburger@otterbach.de
+[2012-09-05 05:27:33] Datei: KP_Mountain_210x297.zip
+[2012-09-05 05:27:33] E-Mail wurde versandt
+[2012-09-05 06:10:48] *** Starte Download der angeforderten Datei
+[2012-09-05 06:10:48] Benutzer "a-bochannek" gefunden
+[2012-09-05 06:10:48] Datei "43995010_Brauerei_Forst.pdf" gefunden
+[2012-09-05 06:10:48] Download von "43995010_Brauerei_Forst.pdf"
+[2012-09-05 06:50:24] *** Starte Download der angeforderten Datei
+[2012-09-05 06:50:24] Benutzer "a-bochannek" gefunden
+[2012-09-05 06:50:24] Datei "43995010_Brauerei_Forst.pdf" gefunden
+[2012-09-05 06:50:24] Download von "43995010_Brauerei_Forst.pdf"
+[2012-09-05 06:51:27] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-05 06:51:27] Benutzer: a-bochannek
+[2012-09-05 06:51:27] E-Mail: a.bochannek@otterbach.de
+[2012-09-05 06:51:27] Datei: 43995010_Brauerei_Forst.pdf
+[2012-09-05 06:51:27] E-Mail wurde versandt
+[2012-09-05 09:01:56] *** Starte Download der angeforderten Datei
+[2012-09-05 09:01:56] Benutzer "bitburger" gefunden
+[2012-09-05 09:01:56] Angeforderte Datei wurde nicht gefunden
+[2012-09-05 09:01:56] Download der Datei gescheitert
+[2012-09-06 08:37:29] *** Starte Loeschen der angeforderten Datei
+[2012-09-06 08:37:29] Ermittle Benutzer und Datei
+[2012-09-06 08:37:29] Benutzer "a-bochannek" gefunden
+[2012-09-06 08:37:29] Datei "43995010_Brauerei_Forst.pdf" gefunden
+[2012-09-06 08:37:29] Die Datei "43995010_Brauerei_Forst.pdf" wurde erfolgreich geloescht
+[2012-09-06 11:43:52] *** Starte Download der angeforderten Datei
+[2012-09-06 11:43:52] Benutzer "bitburger" gefunden
+[2012-09-06 11:43:52] Angeforderte Datei wurde nicht gefunden
+[2012-09-06 11:43:52] Download der Datei gescheitert
+[2012-09-06 12:37:40] *** Starte Upload der Datei ***
+[2012-09-06 12:37:40] Datei: uploads/c-eberle/MAX_HighNoon_43cm.zip
+[2012-09-06 12:37:40] Groesse: 13841939 Bytes
+[2012-09-06 12:37:40] Upload von "uploads/c-eberle/MAX_HighNoon_43cm.zip" erfolgreich abgeschlossen
+[2012-09-06 12:37:40] Zugriffsrechte von "uploads/c-eberle/MAX_HighNoon_43cm.zip" geaendert (0755)
+[2012-09-06 12:37:40] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 12:37:40] Absender: Clarissa Eberle
+[2012-09-06 12:37:40] Empfaenger: c.eberle@otterbach.de
+[2012-09-06 12:37:41] E-Mail erfolgreich versandt
+[2012-09-06 12:38:03] *** Starte Upload der Datei ***
+[2012-09-06 12:38:03] Datei: uploads/c-eberle/MAX_Nervensaege_43cm.zip
+[2012-09-06 12:38:03] Groesse: 9068111 Bytes
+[2012-09-06 12:38:03] Upload von "uploads/c-eberle/MAX_Nervensaege_43cm.zip" erfolgreich abgeschlossen
+[2012-09-06 12:38:03] Zugriffsrechte von "uploads/c-eberle/MAX_Nervensaege_43cm.zip" geaendert (0755)
+[2012-09-06 12:38:03] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 12:38:03] Absender: Clarissa Eberle
+[2012-09-06 12:38:03] Empfaenger: c.eberle@otterbach.de
+[2012-09-06 12:38:04] E-Mail erfolgreich versandt
+[2012-09-06 12:38:27] *** Starte Upload der Datei ***
+[2012-09-06 12:38:27] Datei: uploads/c-eberle/MAX_Psychiater_43cm.zip
+[2012-09-06 12:38:27] Groesse: 11327979 Bytes
+[2012-09-06 12:38:27] Upload von "uploads/c-eberle/MAX_Psychiater_43cm.zip" erfolgreich abgeschlossen
+[2012-09-06 12:38:27] Zugriffsrechte von "uploads/c-eberle/MAX_Psychiater_43cm.zip" geaendert (0755)
+[2012-09-06 12:38:27] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 12:38:27] Absender: Clarissa Eberle
+[2012-09-06 12:38:27] Empfaenger: c.eberle@otterbach.de
+[2012-09-06 12:38:27] E-Mail erfolgreich versandt
+[2012-09-06 12:38:51] *** Starte Upload der Datei ***
+[2012-09-06 12:38:51] Datei: uploads/c-eberle/MAX_Seitensprung_43cm.zip
+[2012-09-06 12:38:51] Groesse: 7918991 Bytes
+[2012-09-06 12:38:51] Upload von "uploads/c-eberle/MAX_Seitensprung_43cm.zip" erfolgreich abgeschlossen
+[2012-09-06 12:38:51] Zugriffsrechte von "uploads/c-eberle/MAX_Seitensprung_43cm.zip" geaendert (0755)
+[2012-09-06 12:38:51] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 12:38:51] Absender: Clarissa Eberle
+[2012-09-06 12:38:51] Empfaenger: c.eberle@otterbach.de
+[2012-09-06 12:38:52] E-Mail erfolgreich versandt
+[2012-09-06 12:54:31] *** Starte Download der angeforderten Datei
+[2012-09-06 12:54:31] Benutzer "bitburger" gefunden
+[2012-09-06 12:54:31] Angeforderte Datei wurde nicht gefunden
+[2012-09-06 12:54:31] Download der Datei gescheitert
+[2012-09-06 02:01:09] *** Starte Upload der Datei ***
+[2012-09-06 02:01:09] Datei: uploads/a-bochannek/44005010_Reisefieber_Reisen.pdf
+[2012-09-06 02:01:09] Groesse: 40098784 Bytes
+[2012-09-06 02:01:09] Upload von "uploads/a-bochannek/44005010_Reisefieber_Reisen.pdf" erfolgreich abgeschlossen
+[2012-09-06 02:01:09] Zugriffsrechte von "uploads/a-bochannek/44005010_Reisefieber_Reisen.pdf" geaendert (0755)
+[2012-09-06 02:01:09] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 02:01:09] Absender: Axel Bochannek
+[2012-09-06 02:01:09] Empfaenger: a.bochannek@otterbach.de
+[2012-09-06 02:01:10] E-Mail erfolgreich versandt
+[2012-09-06 02:10:19] *** Starte Upload der Datei ***
+[2012-09-06 02:10:19] Datei: uploads/j-schulze/test.jpg
+[2012-09-06 02:10:19] Groesse: 354535 Bytes
+[2012-09-06 02:10:19] Upload von "uploads/j-schulze/test.jpg" erfolgreich abgeschlossen
+[2012-09-06 02:10:19] Zugriffsrechte von "uploads/j-schulze/test.jpg" geaendert (0755)
+[2012-09-06 02:10:19] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 02:10:19] Absender: Janis Schulze
+[2012-09-06 02:10:19] Empfaenger: j.schulze@otterbach.de
+[2012-09-06 02:10:19] E-Mail erfolgreich versandt
+[2012-09-06 02:10:33] *** Starte Download der angeforderten Datei
+[2012-09-06 02:10:33] Benutzer "j-schulze" gefunden
+[2012-09-06 02:10:33] Datei "test.jpg" gefunden
+[2012-09-06 02:10:33] Download von "test.jpg"
+[2012-09-06 02:10:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 02:10:33] Benutzer: j-schulze
+[2012-09-06 02:10:33] E-Mail: j.schulze@otterbach.de
+[2012-09-06 02:10:33] Datei: test.jpg
+[2012-09-06 02:10:33] E-Mail wurde versandt
+[2012-09-06 02:10:47] *** Starte Loeschen der angeforderten Datei
+[2012-09-06 02:10:47] Ermittle Benutzer und Datei
+[2012-09-06 02:10:47] Benutzer "j-schulze" gefunden
+[2012-09-06 02:10:47] Datei "test.jpg" gefunden
+[2012-09-06 02:10:47] Die Datei "test.jpg" wurde erfolgreich geloescht
+[2012-09-06 02:15:57] *** Starte Download der angeforderten Datei
+[2012-09-06 02:15:57] Benutzer "c-eberle" gefunden
+[2012-09-06 02:15:57] Datei "MAX_HighNoon_43cm.zip" gefunden
+[2012-09-06 02:15:57] Download von "MAX_HighNoon_43cm.zip"
+[2012-09-06 02:16:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 02:16:02] Benutzer: c-eberle
+[2012-09-06 02:16:02] E-Mail: c.eberle@otterbach.de
+[2012-09-06 02:16:02] Datei: MAX_HighNoon_43cm.zip
+[2012-09-06 02:16:02] E-Mail wurde versandt
+[2012-09-06 02:16:19] *** Starte Download der angeforderten Datei
+[2012-09-06 02:16:19] Benutzer "m-stahlberger" gefunden
+[2012-09-06 02:16:19] Angeforderte Datei wurde nicht gefunden
+[2012-09-06 02:16:19] Download der Datei gescheitert
+[2012-09-06 02:19:47] *** Starte Download der angeforderten Datei
+[2012-09-06 02:19:47] Benutzer "c-eberle" gefunden
+[2012-09-06 02:19:47] Datei "MAX_Nervensaege_43cm.zip" gefunden
+[2012-09-06 02:19:47] Download von "MAX_Nervensaege_43cm.zip"
+[2012-09-06 02:19:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 02:19:50] Benutzer: c-eberle
+[2012-09-06 02:19:50] E-Mail: c.eberle@otterbach.de
+[2012-09-06 02:19:50] Datei: MAX_Nervensaege_43cm.zip
+[2012-09-06 02:19:50] E-Mail wurde versandt
+[2012-09-06 02:19:54] *** Starte Upload der Datei ***
+[2012-09-06 02:19:54] Datei: uploads/j-schulze/test.jpg
+[2012-09-06 02:19:54] Groesse: 354535 Bytes
+[2012-09-06 02:19:54] Upload von "uploads/j-schulze/test.jpg" erfolgreich abgeschlossen
+[2012-09-06 02:19:54] Zugriffsrechte von "uploads/j-schulze/test.jpg" geaendert (0755)
+[2012-09-06 02:19:54] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 02:19:54] Absender: Janis Schulze
+[2012-09-06 02:19:54] Empfaenger: j.schulze@otterbach.de
+[2012-09-06 02:19:55] E-Mail erfolgreich versandt
+[2012-09-06 02:20:08] *** Starte Download der angeforderten Datei
+[2012-09-06 02:20:08] Benutzer "j-schulze" gefunden
+[2012-09-06 02:20:08] Datei "test.jpg" gefunden
+[2012-09-06 02:20:08] Download von "test.jpg"
+[2012-09-06 02:20:09] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 02:20:09] Benutzer: j-schulze
+[2012-09-06 02:20:09] E-Mail: j.schulze@otterbach.de
+[2012-09-06 02:20:09] Datei: test.jpg
+[2012-09-06 02:20:09] E-Mail wurde versandt
+[2012-09-06 02:20:56] *** Starte Loeschen der angeforderten Datei
+[2012-09-06 02:20:56] Ermittle Benutzer und Datei
+[2012-09-06 02:20:56] Benutzer "j-schulze" gefunden
+[2012-09-06 02:20:56] Datei "test.jpg" gefunden
+[2012-09-06 02:20:56] Die Datei "test.jpg" wurde erfolgreich geloescht
+[2012-09-06 02:21:00] *** Starte Loeschen der angeforderten Datei
+[2012-09-06 02:21:00] Ermittle Benutzer und Datei
+[2012-09-06 02:21:00] Benutzer "j-schulze" gefunden
+[2012-09-06 02:21:00] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-06 02:21:04] *** Starte Loeschen der angeforderten Datei
+[2012-09-06 02:21:04] Ermittle Benutzer und Datei
+[2012-09-06 02:21:04] Benutzer "j-schulze" gefunden
+[2012-09-06 02:21:04] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-06 02:22:46] *** Starte Download der angeforderten Datei
+[2012-09-06 02:22:46] Benutzer "c-eberle" gefunden
+[2012-09-06 02:22:46] Datei "MAX_Psychiater_43cm.zip" gefunden
+[2012-09-06 02:22:46] Download von "MAX_Psychiater_43cm.zip"
+[2012-09-06 02:22:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 02:22:50] Benutzer: c-eberle
+[2012-09-06 02:22:50] E-Mail: c.eberle@otterbach.de
+[2012-09-06 02:22:50] Datei: MAX_Psychiater_43cm.zip
+[2012-09-06 02:22:50] E-Mail wurde versandt
+[2012-09-06 02:24:37] *** Starte Download der angeforderten Datei
+[2012-09-06 02:24:37] Benutzer "c-eberle" gefunden
+[2012-09-06 02:24:37] Datei "MAX_Seitensprung_43cm.zip" gefunden
+[2012-09-06 02:24:37] Download von "MAX_Seitensprung_43cm.zip"
+[2012-09-06 02:24:40] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 02:24:40] Benutzer: c-eberle
+[2012-09-06 02:24:40] E-Mail: c.eberle@otterbach.de
+[2012-09-06 02:24:40] Datei: MAX_Seitensprung_43cm.zip
+[2012-09-06 02:24:40] E-Mail wurde versandt
+[2012-09-06 02:31:33] *** Starte Download der angeforderten Datei
+[2012-09-06 02:31:33] Benutzer "bitburger" gefunden
+[2012-09-06 02:31:33] Angeforderte Datei wurde nicht gefunden
+[2012-09-06 02:31:33] Download der Datei gescheitert
+[2012-09-06 02:45:08] *** Starte Download der angeforderten Datei
+[2012-09-06 02:45:08] Benutzer "a-bochannek" gefunden
+[2012-09-06 02:45:08] Datei "44005010_Reisefieber_Reisen.pdf" gefunden
+[2012-09-06 02:45:08] Download von "44005010_Reisefieber_Reisen.pdf"
+[2012-09-06 02:45:09] *** Starte Download der angeforderten Datei
+[2012-09-06 02:45:09] Benutzer "a-bochannek" gefunden
+[2012-09-06 02:45:09] Datei "44005010_Reisefieber_Reisen.pdf" gefunden
+[2012-09-06 02:45:09] Download von "44005010_Reisefieber_Reisen.pdf"
+[2012-09-06 02:46:57] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 02:46:57] Benutzer: a-bochannek
+[2012-09-06 02:46:57] E-Mail: a.bochannek@otterbach.de
+[2012-09-06 02:46:57] Datei: 44005010_Reisefieber_Reisen.pdf
+[2012-09-06 02:46:57] E-Mail wurde versandt
+[2012-09-06 02:47:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 02:47:00] Benutzer: a-bochannek
+[2012-09-06 02:47:00] E-Mail: a.bochannek@otterbach.de
+[2012-09-06 02:47:00] Datei: 44005010_Reisefieber_Reisen.pdf
+[2012-09-06 02:47:00] E-Mail wurde versandt
+[2012-09-06 02:54:39] *** Starte Download der angeforderten Datei
+[2012-09-06 02:54:39] Benutzer "a-bochannek" gefunden
+[2012-09-06 02:54:39] Datei "44005010_Reisefieber_Reisen.pdf" gefunden
+[2012-09-06 02:54:39] Download von "44005010_Reisefieber_Reisen.pdf"
+[2012-09-06 02:54:39] *** Starte Download der angeforderten Datei
+[2012-09-06 02:54:39] Benutzer "a-bochannek" gefunden
+[2012-09-06 02:54:39] Datei "44005010_Reisefieber_Reisen.pdf" gefunden
+[2012-09-06 02:54:39] Download von "44005010_Reisefieber_Reisen.pdf"
+[2012-09-06 03:10:24] *** Starte Download der angeforderten Datei
+[2012-09-06 03:10:24] Benutzer "a-bochannek" gefunden
+[2012-09-06 03:10:24] Datei "44005010_Reisefieber_Reisen.pdf" gefunden
+[2012-09-06 03:10:24] Download von "44005010_Reisefieber_Reisen.pdf"
+[2012-09-06 03:28:07] *** Starte Loeschen der angeforderten Datei
+[2012-09-06 03:28:07] Ermittle Benutzer und Datei
+[2012-09-06 03:28:07] Benutzer "a-bochannek" gefunden
+[2012-09-06 03:28:07] Datei "44005010_Reisefieber_Reisen.pdf" gefunden
+[2012-09-06 03:28:07] Die Datei "44005010_Reisefieber_Reisen.pdf" wurde erfolgreich geloescht
+[2012-09-06 03:34:00] *** Starte Download der angeforderten Datei
+[2012-09-06 03:34:00] Benutzer "j-schulze" gefunden
+[2012-09-06 03:34:00] Angeforderte Datei wurde nicht gefunden
+[2012-09-06 03:34:00] Download der Datei gescheitert
+[2012-09-06 04:04:49] *** Starte Upload der Datei ***
+[2012-09-06 04:04:49] Datei: uploads//test.jpg
+[2012-09-06 04:04:49] Groesse: 354535 Bytes
+[2012-09-06 04:04:49] Upload von "uploads//test.jpg" erfolgreich abgeschlossen
+[2012-09-06 04:04:49] Zugriffsrechte von "uploads//test.jpg" geaendert (0755)
+[2012-09-06 04:04:49] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 04:04:49] Absender: 
+[2012-09-06 04:04:49] Empfaenger: j.schulze@otterbach.de
+[2012-09-06 04:04:49] E-Mail erfolgreich versandt
+[2012-09-06 04:06:08] *** Starte Upload der Datei ***
+[2012-09-06 04:06:08] Datei: uploads/j-schulze/test.jpg
+[2012-09-06 04:06:08] Groesse: 354535 Bytes
+[2012-09-06 04:06:08] Upload von "uploads/j-schulze/test.jpg" erfolgreich abgeschlossen
+[2012-09-06 04:06:08] Zugriffsrechte von "uploads/j-schulze/test.jpg" geaendert (0755)
+[2012-09-06 04:06:08] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 04:06:08] Absender: Janis Schulze
+[2012-09-06 04:06:08] Empfaenger: j.schulze@otterbach.de
+[2012-09-06 04:06:08] E-Mail erfolgreich versandt
+[2012-09-06 04:06:38] *** Starte Upload der Datei ***
+[2012-09-06 04:06:38] Datei: uploads/j-schulze/test.jpg
+[2012-09-06 04:06:38] Groesse: 354535 Bytes
+[2012-09-06 04:06:38] Upload von "uploads/j-schulze/test.jpg" erfolgreich abgeschlossen
+[2012-09-06 04:06:38] Zugriffsrechte von "uploads/j-schulze/test.jpg" geaendert (0755)
+[2012-09-06 04:06:38] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 04:06:38] Absender: Janis Schulze
+[2012-09-06 04:06:38] Empfaenger: j.schulze@otterbach.de
+[2012-09-06 04:06:38] E-Mail erfolgreich versandt
+[2012-09-06 04:07:14] *** Starte Download der angeforderten Datei
+[2012-09-06 04:07:14] Angeforderte Datei wurde nicht gefunden
+[2012-09-06 04:07:14] Download der Datei gescheitert
+[2012-09-06 04:07:20] *** Starte Download der angeforderten Datei
+[2012-09-06 04:07:20] Benutzer "j-schulze" gefunden
+[2012-09-06 04:07:20] Datei "test.jpg" gefunden
+[2012-09-06 04:07:20] Download von "test.jpg"
+[2012-09-06 04:07:20] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 04:07:20] Benutzer: j-schulze
+[2012-09-06 04:07:20] E-Mail: j.schulze@otterbach.de
+[2012-09-06 04:07:20] Datei: test.jpg
+[2012-09-06 04:07:21] E-Mail wurde versandt
+[2012-09-06 04:07:28] *** Starte Download der angeforderten Datei
+[2012-09-06 04:07:28] Benutzer "j-schulze" gefunden
+[2012-09-06 04:07:28] Datei "test.jpg" gefunden
+[2012-09-06 04:07:28] Download von "test.jpg"
+[2012-09-06 04:07:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-06 04:07:28] Benutzer: j-schulze
+[2012-09-06 04:07:28] E-Mail: j.schulze@otterbach.de
+[2012-09-06 04:07:28] Datei: test.jpg
+[2012-09-06 04:07:28] E-Mail wurde versandt
+[2012-09-06 04:07:34] *** Starte Loeschen der angeforderten Datei
+[2012-09-06 04:07:34] Ermittle Benutzer und Datei
+[2012-09-06 04:07:34] Benutzer "j-schulze" gefunden
+[2012-09-06 04:07:34] Datei "test.jpg" gefunden
+[2012-09-06 04:07:34] Die Datei "test.jpg" wurde erfolgreich geloescht
+[2012-09-06 04:07:39] *** Starte Loeschen der angeforderten Datei
+[2012-09-06 04:07:39] Ermittle Benutzer und Datei
+[2012-09-06 04:07:39] Benutzer "j-schulze" gefunden
+[2012-09-06 04:07:39] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-06 04:25:20] *** Starte Upload der Datei ***
+[2012-09-06 04:25:20] Datei: uploads/j-schulze/test.jpg
+[2012-09-06 04:25:20] Groesse: 354535 Bytes
+[2012-09-06 04:25:20] Upload von "uploads/j-schulze/test.jpg" erfolgreich abgeschlossen
+[2012-09-06 04:25:20] Zugriffsrechte von "uploads/j-schulze/test.jpg" geaendert (0755)
+[2012-09-06 04:25:20] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-06 04:25:20] Absender: Janis Schulze
+[2012-09-06 04:25:20] Empfaenger: j.schulze@otterbach.de
+[2012-09-06 04:25:20] E-Mail erfolgreich versandt
+[2012-09-07 03:14:16] *** Starte Download der angeforderten Datei
+[2012-09-07 03:14:18] Benutzer "c-eberle" gefunden
+[2012-09-07 03:14:20] Datei "MAX_HighNoon_43cm.zip" gefunden
+[2012-09-07 03:14:20] Download von "MAX_HighNoon_43cm.zip"
+[2012-09-07 03:22:54] *** Starte Download der angeforderten Datei
+[2012-09-07 03:22:54] Benutzer "c-eberle" gefunden
+[2012-09-07 03:22:54] Datei "MAX_Psychiater_43cm.zip" gefunden
+[2012-09-07 03:22:54] Download von "MAX_Psychiater_43cm.zip"
+[2012-09-07 03:26:24] *** Starte Download der angeforderten Datei
+[2012-09-07 03:26:24] Benutzer "c-eberle" gefunden
+[2012-09-07 03:26:24] Datei "MAX_Nervensaege_43cm.zip" gefunden
+[2012-09-07 03:26:24] Download von "MAX_Nervensaege_43cm.zip"
+[2012-09-07 03:52:58] *** Starte Download der angeforderten Datei
+[2012-09-07 03:52:59] Benutzer "c-eberle" gefunden
+[2012-09-07 03:52:59] Datei "MAX_Seitensprung_43cm.zip" gefunden
+[2012-09-07 03:52:59] Download von "MAX_Seitensprung_43cm.zip"
+[2012-09-07 03:53:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-07 03:53:26] Benutzer: c-eberle
+[2012-09-07 03:53:26] E-Mail: c.eberle@otterbach.de
+[2012-09-07 03:53:26] Datei: MAX_Seitensprung_43cm.zip
+[2012-09-07 03:53:30] E-Mail wurde versandt
+[2012-09-07 10:50:32] *** Starte Download der angeforderten Datei
+[2012-09-07 10:50:32] Benutzer "c-eberle" gefunden
+[2012-09-07 10:50:32] Datei "MAX_HighNoon_43cm.zip" gefunden
+[2012-09-07 10:50:32] Download von "MAX_HighNoon_43cm.zip"
+[2012-09-07 01:37:32] *** Starte Upload der Datei ***
+[2012-09-07 01:37:32] Datei: uploads/bitburger/Bitb_BMoenchengladb_Mitgliedermag_Ausg02_210x297_PDFx3.pdf
+[2012-09-07 01:37:32] Groesse: 8362618 Bytes
+[2012-09-07 01:37:32] Upload von "uploads/bitburger/Bitb_BMoenchengladb_Mitgliedermag_Ausg02_210x297_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-07 01:37:32] Zugriffsrechte von "uploads/bitburger/Bitb_BMoenchengladb_Mitgliedermag_Ausg02_210x297_PDFx3.pdf" geaendert (0755)
+[2012-09-07 01:37:32] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-07 01:37:32] Absender: Otterbach Team
+[2012-09-07 01:37:32] Empfaenger: c.eberle@otterbach.de
+[2012-09-07 01:37:33] E-Mail erfolgreich versandt
+[2012-09-07 01:59:09] *** Starte Download der angeforderten Datei
+[2012-09-07 01:59:09] Benutzer "bitburger" gefunden
+[2012-09-07 01:59:09] Datei "Bitb_BMoenchengladb_Mitgliedermag_Ausg02_210x297_PDFx3.pdf" gefunden
+[2012-09-07 01:59:09] Download von "Bitb_BMoenchengladb_Mitgliedermag_Ausg02_210x297_PDFx3.pdf"
+[2012-09-07 01:59:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-07 01:59:11] Benutzer: bitburger
+[2012-09-07 01:59:11] E-Mail: bitburger@otterbach.de
+[2012-09-07 01:59:11] Datei: Bitb_BMoenchengladb_Mitgliedermag_Ausg02_210x297_PDFx3.pdf
+[2012-09-07 01:59:11] E-Mail wurde versandt
+[2012-09-07 02:46:05] *** Starte Upload der Datei ***
+[2012-09-07 02:46:05] Datei: uploads/j-schulze/test.jpg
+[2012-09-07 02:46:05] Groesse: 354535 Bytes
+[2012-09-07 02:46:05] Upload von "uploads/j-schulze/test.jpg" erfolgreich abgeschlossen
+[2012-09-07 02:46:05] Zugriffsrechte von "uploads/j-schulze/test.jpg" geaendert (0755)
+[2012-09-07 02:46:05] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-07 02:46:05] Absender: Janis Schulze
+[2012-09-07 02:46:05] Empfaenger: j.schutlze@otterbach.de
+[2012-09-07 02:46:05] E-Mail erfolgreich versandt
+[2012-09-07 06:13:28] *** Starte Upload der Datei ***
+[2012-09-07 06:13:28] Datei: uploads/c-eberle/MAX_Krachmusikanten_43cm.zip
+[2012-09-07 06:13:28] Groesse: 61039119 Bytes
+[2012-09-07 06:13:28] Upload von "uploads/c-eberle/MAX_Krachmusikanten_43cm.zip" erfolgreich abgeschlossen
+[2012-09-07 06:13:28] Zugriffsrechte von "uploads/c-eberle/MAX_Krachmusikanten_43cm.zip" geaendert (0755)
+[2012-09-07 06:13:28] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-07 06:13:28] Absender: Clarissa Eberle
+[2012-09-07 06:13:28] Empfaenger: max.maulwurf@deutschebahn.com, Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-09-07 06:13:29] E-Mail erfolgreich versandt
+[2012-09-10 09:49:12] *** Starte Upload der Datei ***
+[2012-09-10 09:49:14] Datei: uploads/bitburger/KP_neue_Motive_Bilddatenbank.zip
+[2012-09-10 09:49:14] Groesse: 288912200 Bytes
+[2012-09-10 09:49:14] Upload von "uploads/bitburger/KP_neue_Motive_Bilddatenbank.zip" erfolgreich abgeschlossen
+[2012-09-10 09:49:14] Zugriffsrechte von "uploads/bitburger/KP_neue_Motive_Bilddatenbank.zip" geaendert (0755)
+[2012-09-10 09:49:14] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-10 09:49:14] Absender: Otterbach Team
+[2012-09-10 09:49:14] Empfaenger: c.eberle@otterbach.de
+[2012-09-10 09:49:15] E-Mail erfolgreich versandt
+[2012-09-10 10:23:55] *** Starte Download der angeforderten Datei
+[2012-09-10 10:23:55] Benutzer "c-eberle" gefunden
+[2012-09-10 10:23:55] Datei "MAX_Krachmusikanten_43cm.zip" gefunden
+[2012-09-10 10:23:55] Download von "MAX_Krachmusikanten_43cm.zip"
+[2012-09-10 10:24:19] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 10:24:19] Benutzer: c-eberle
+[2012-09-10 10:24:19] E-Mail: c.eberle@otterbach.de
+[2012-09-10 10:24:19] Datei: MAX_Krachmusikanten_43cm.zip
+[2012-09-10 10:24:19] E-Mail wurde versandt
+[2012-09-10 11:29:08] *** Starte Download der angeforderten Datei
+[2012-09-10 11:29:08] Benutzer "bitburger" gefunden
+[2012-09-10 11:29:08] Datei "KP_neue_Motive_Bilddatenbank.zip" gefunden
+[2012-09-10 11:29:08] Download von "KP_neue_Motive_Bilddatenbank.zip"
+[2012-09-10 11:40:56] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 11:40:56] Benutzer: bitburger
+[2012-09-10 11:40:56] E-Mail: bitburger@otterbach.de
+[2012-09-10 11:40:56] Datei: KP_neue_Motive_Bilddatenbank.zip
+[2012-09-10 11:40:56] E-Mail wurde versandt
+[2012-09-10 12:46:38] *** Starte Upload der Datei ***
+[2012-09-10 12:46:38] Datei: uploads/j-schulze/test.jpg
+[2012-09-10 12:46:38] Groesse: 354535 Bytes
+[2012-09-10 12:46:38] Upload von "uploads/j-schulze/test.jpg" erfolgreich abgeschlossen
+[2012-09-10 12:46:38] Zugriffsrechte von "uploads/j-schulze/test.jpg" geaendert (0755)
+[2012-09-10 12:46:38] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-10 12:46:38] Absender: Janis Schulze
+[2012-09-10 12:46:38] Empfaenger: a.sagna@otterbach.de
+[2012-09-10 12:46:38] E-Mail erfolgreich versandt
+[2012-09-10 12:47:22] *** Starte Download der angeforderten Datei
+[2012-09-10 12:47:22] Benutzer "j-schulze" gefunden
+[2012-09-10 12:47:22] Datei "test.jpg" gefunden
+[2012-09-10 12:47:22] Download von "test.jpg"
+[2012-09-10 12:47:22] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:47:22] Benutzer: j-schulze
+[2012-09-10 12:47:22] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:47:22] Datei: test.jpg
+[2012-09-10 12:47:22] E-Mail wurde versandt
+[2012-09-10 12:47:56] *** Starte Download der angeforderten Datei
+[2012-09-10 12:47:56] Benutzer "j-schulze" gefunden
+[2012-09-10 12:47:56] Datei "test.jpg" gefunden
+[2012-09-10 12:47:56] Download von "test.jpg"
+[2012-09-10 12:47:57] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:47:57] Benutzer: j-schulze
+[2012-09-10 12:47:57] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:47:57] Datei: test.jpg
+[2012-09-10 12:47:57] E-Mail wurde versandt
+[2012-09-10 12:48:16] *** Starte Download der angeforderten Datei
+[2012-09-10 12:48:16] Benutzer "j-schulze" gefunden
+[2012-09-10 12:48:16] Datei "test.jpg" gefunden
+[2012-09-10 12:48:16] Download von "test.jpg"
+[2012-09-10 12:48:24] *** Starte Download der angeforderten Datei
+[2012-09-10 12:48:24] Benutzer "j-schulze" gefunden
+[2012-09-10 12:48:24] Datei "test.jpg" gefunden
+[2012-09-10 12:48:24] Download von "test.jpg"
+[2012-09-10 12:48:24] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:48:24] Benutzer: j-schulze
+[2012-09-10 12:48:24] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:48:24] Datei: test.jpg
+[2012-09-10 12:48:24] E-Mail wurde versandt
+[2012-09-10 12:48:58] *** Starte Download der angeforderten Datei
+[2012-09-10 12:48:58] Benutzer "j-schulze" gefunden
+[2012-09-10 12:48:58] Datei "test.jpg" gefunden
+[2012-09-10 12:48:58] Download von "test.jpg"
+[2012-09-10 12:48:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:48:58] Benutzer: j-schulze
+[2012-09-10 12:48:58] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:48:58] Datei: test.jpg
+[2012-09-10 12:48:58] E-Mail wurde versandt
+[2012-09-10 12:49:10] *** Starte Download der angeforderten Datei
+[2012-09-10 12:49:10] Benutzer "j-schulze" gefunden
+[2012-09-10 12:49:10] Datei "test.jpg" gefunden
+[2012-09-10 12:49:10] Download von "test.jpg"
+[2012-09-10 12:49:14] *** Starte Download der angeforderten Datei
+[2012-09-10 12:49:14] Benutzer "j-schulze" gefunden
+[2012-09-10 12:49:14] Datei "test.jpg" gefunden
+[2012-09-10 12:49:14] Download von "test.jpg"
+[2012-09-10 12:49:14] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:49:14] Benutzer: j-schulze
+[2012-09-10 12:49:14] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:49:14] Datei: test.jpg
+[2012-09-10 12:49:14] E-Mail wurde versandt
+[2012-09-10 12:49:53] *** Starte Download der angeforderten Datei
+[2012-09-10 12:49:53] Benutzer "j-schulze" gefunden
+[2012-09-10 12:49:53] Datei "test.jpg" gefunden
+[2012-09-10 12:49:53] Download von "test.jpg"
+[2012-09-10 12:49:53] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:49:53] Benutzer: j-schulze
+[2012-09-10 12:49:53] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:49:53] Datei: test.jpg
+[2012-09-10 12:49:53] E-Mail wurde versandt
+[2012-09-10 12:50:09] *** Starte Download der angeforderten Datei
+[2012-09-10 12:50:09] Benutzer "j-schulze" gefunden
+[2012-09-10 12:50:09] Datei "test.jpg" gefunden
+[2012-09-10 12:50:09] Download von "test.jpg"
+[2012-09-10 12:50:09] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:50:09] Benutzer: j-schulze
+[2012-09-10 12:50:09] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:50:09] Datei: test.jpg
+[2012-09-10 12:50:09] E-Mail wurde versandt
+[2012-09-10 12:50:35] *** Starte Download der angeforderten Datei
+[2012-09-10 12:50:35] Benutzer "j-schulze" gefunden
+[2012-09-10 12:50:35] Datei "test.jpg" gefunden
+[2012-09-10 12:50:35] Download von "test.jpg"
+[2012-09-10 12:50:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:50:35] Benutzer: j-schulze
+[2012-09-10 12:50:35] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:50:35] Datei: test.jpg
+[2012-09-10 12:50:35] E-Mail wurde versandt
+[2012-09-10 12:52:20] *** Starte Upload der Datei ***
+[2012-09-10 12:52:20] Datei: uploads/j-schulze/test.jpg
+[2012-09-10 12:52:20] Groesse: 354535 Bytes
+[2012-09-10 12:52:20] Upload von "uploads/j-schulze/test.jpg" erfolgreich abgeschlossen
+[2012-09-10 12:52:20] Zugriffsrechte von "uploads/j-schulze/test.jpg" geaendert (0755)
+[2012-09-10 12:52:20] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-10 12:52:20] Absender: Janis Schulze
+[2012-09-10 12:52:20] Empfaenger: a.sagna@otterbach.de
+[2012-09-10 12:52:20] E-Mail erfolgreich versandt
+[2012-09-10 12:52:59] *** Starte Download der angeforderten Datei
+[2012-09-10 12:52:59] Benutzer "j-schulze" gefunden
+[2012-09-10 12:52:59] Datei "test.jpg" gefunden
+[2012-09-10 12:52:59] Download von "test.jpg"
+[2012-09-10 12:52:59] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:52:59] Benutzer: j-schulze
+[2012-09-10 12:52:59] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:52:59] Datei: test.jpg
+[2012-09-10 12:52:59] E-Mail wurde versandt
+[2012-09-10 12:53:18] *** Starte Download der angeforderten Datei
+[2012-09-10 12:53:18] Benutzer "j-schulze" gefunden
+[2012-09-10 12:53:18] Datei "test.jpg" gefunden
+[2012-09-10 12:53:18] Download von "test.jpg"
+[2012-09-10 12:53:20] *** Starte Download der angeforderten Datei
+[2012-09-10 12:53:20] Benutzer "j-schulze" gefunden
+[2012-09-10 12:53:20] Datei "test.jpg" gefunden
+[2012-09-10 12:53:20] Download von "test.jpg"
+[2012-09-10 12:53:20] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:53:20] Benutzer: j-schulze
+[2012-09-10 12:53:20] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:53:20] Datei: test.jpg
+[2012-09-10 12:53:20] E-Mail wurde versandt
+[2012-09-10 12:53:36] *** Starte Download der angeforderten Datei
+[2012-09-10 12:53:36] Benutzer "j-schulze" gefunden
+[2012-09-10 12:53:36] Datei "test.jpg" gefunden
+[2012-09-10 12:53:36] Download von "test.jpg"
+[2012-09-10 12:53:36] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-10 12:53:36] Benutzer: j-schulze
+[2012-09-10 12:53:36] E-Mail: j.schulze@otterbach.de
+[2012-09-10 12:53:36] Datei: test.jpg
+[2012-09-10 12:53:36] E-Mail wurde versandt
+[2012-09-10 01:22:42] *** Starte Download der angeforderten Datei
+[2012-09-10 01:22:42] Benutzer "a-bochannek" gefunden
+[2012-09-10 01:22:42] Angeforderte Datei wurde nicht gefunden
+[2012-09-10 01:22:42] Download der Datei gescheitert
+[2012-09-10 01:22:50] *** Starte Download der angeforderten Datei
+[2012-09-10 01:22:50] Benutzer "a-bochannek" gefunden
+[2012-09-10 01:22:50] Angeforderte Datei wurde nicht gefunden
+[2012-09-10 01:22:50] Download der Datei gescheitert
+[2012-09-10 01:34:03] *** Starte Download der angeforderten Datei
+[2012-09-10 01:34:03] Benutzer "a-bochannek" gefunden
+[2012-09-10 01:34:03] Angeforderte Datei wurde nicht gefunden
+[2012-09-10 01:34:03] Download der Datei gescheitert
+[2012-09-10 01:34:13] *** Starte Download der angeforderten Datei
+[2012-09-10 01:34:13] Benutzer "a-bochannek" gefunden
+[2012-09-10 01:34:13] Angeforderte Datei wurde nicht gefunden
+[2012-09-10 01:34:13] Download der Datei gescheitert
+[2012-09-10 01:46:58] *** Starte Download der angeforderten Datei
+[2012-09-10 01:46:58] Benutzer "a-bochannek" gefunden
+[2012-09-10 01:46:58] Angeforderte Datei wurde nicht gefunden
+[2012-09-10 01:46:58] Download der Datei gescheitert
+[2012-09-10 02:05:43] *** Starte Download der angeforderten Datei
+[2012-09-10 02:05:43] Benutzer "a-bochannek" gefunden
+[2012-09-10 02:05:43] Angeforderte Datei wurde nicht gefunden
+[2012-09-10 02:05:43] Download der Datei gescheitert
+[2012-09-10 02:31:46] *** Starte Download der angeforderten Datei
+[2012-09-10 02:31:46] Benutzer "c-eberle" gefunden
+[2012-09-10 02:31:46] Datei "MAX_Krachmusikanten_43cm.zip" gefunden
+[2012-09-10 02:31:46] Download von "MAX_Krachmusikanten_43cm.zip"
+[2012-09-11 09:02:01] *** Starte Upload der Datei ***
+[2012-09-11 09:02:01] Datei: uploads/n-netzhammer/app.psd
+[2012-09-11 09:02:01] Groesse: 82959348 Bytes
+[2012-09-11 09:02:02] Upload von "uploads/n-netzhammer/app.psd" erfolgreich abgeschlossen
+[2012-09-11 09:02:02] Zugriffsrechte von "uploads/n-netzhammer/app.psd" geaendert (0755)
+[2012-09-11 09:02:02] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-11 09:02:02] Absender: Nicole Netzhammer
+[2012-09-11 09:02:02] Empfaenger: monika@pro-harmonika.de
+[2012-09-11 09:02:02] E-Mail erfolgreich versandt
+[2012-09-11 09:10:04] *** Starte Download der angeforderten Datei
+[2012-09-11 09:10:04] Benutzer "n-netzhammer" gefunden
+[2012-09-11 09:10:04] Datei "app.psd" gefunden
+[2012-09-11 09:10:04] Download von "app.psd"
+[2012-09-11 09:10:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-11 09:10:55] Benutzer: n-netzhammer
+[2012-09-11 09:10:55] E-Mail: info@antidot-design.de
+[2012-09-11 09:10:55] Datei: app.psd
+[2012-09-11 09:10:55] E-Mail wurde versandt
+[2012-09-11 10:18:17] *** Starte Upload der Datei ***
+[2012-09-11 10:18:17] Datei: uploads/a-bochannek/43036010_Stage_Entertainment.pdf
+[2012-09-11 10:18:17] Groesse: 3448090 Bytes
+[2012-09-11 10:18:17] Upload von "uploads/a-bochannek/43036010_Stage_Entertainment.pdf" erfolgreich abgeschlossen
+[2012-09-11 10:18:17] Zugriffsrechte von "uploads/a-bochannek/43036010_Stage_Entertainment.pdf" geaendert (0755)
+[2012-09-11 10:18:17] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-11 10:18:17] Absender: Axel Bochannek
+[2012-09-11 10:18:17] Empfaenger: a.bochannek@otterbach.de
+[2012-09-11 10:18:17] E-Mail erfolgreich versandt
+[2012-09-11 10:18:45] *** Starte Upload der Datei ***
+[2012-09-11 10:18:45] Datei: uploads/a-bochannek/43221010_Nikolaiviertel.pdf
+[2012-09-11 10:18:45] Groesse: 7371310 Bytes
+[2012-09-11 10:18:45] Upload von "uploads/a-bochannek/43221010_Nikolaiviertel.pdf" erfolgreich abgeschlossen
+[2012-09-11 10:18:45] Zugriffsrechte von "uploads/a-bochannek/43221010_Nikolaiviertel.pdf" geaendert (0755)
+[2012-09-11 10:18:45] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-11 10:18:45] Absender: Axel Bochannek
+[2012-09-11 10:18:45] Empfaenger: a.bochannek@otterbach.de
+[2012-09-11 10:18:45] E-Mail erfolgreich versandt
+[2012-09-11 10:21:27] *** Starte Download der angeforderten Datei
+[2012-09-11 10:21:27] Benutzer "a-bochannek" gefunden
+[2012-09-11 10:21:27] Datei "43036010_Stage_Entertainment.pdf" gefunden
+[2012-09-11 10:21:27] Download von "43036010_Stage_Entertainment.pdf"
+[2012-09-11 10:21:32] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-11 10:21:32] Benutzer: a-bochannek
+[2012-09-11 10:21:32] E-Mail: a.bochannek@otterbach.de
+[2012-09-11 10:21:32] Datei: 43036010_Stage_Entertainment.pdf
+[2012-09-11 10:21:32] E-Mail wurde versandt
+[2012-09-11 10:27:06] *** Starte Download der angeforderten Datei
+[2012-09-11 10:27:06] Benutzer "a-bochannek" gefunden
+[2012-09-11 10:27:06] Datei "43221010_Nikolaiviertel.pdf" gefunden
+[2012-09-11 10:27:06] Download von "43221010_Nikolaiviertel.pdf"
+[2012-09-11 10:27:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-11 10:27:11] Benutzer: a-bochannek
+[2012-09-11 10:27:11] E-Mail: a.bochannek@otterbach.de
+[2012-09-11 10:27:11] Datei: 43221010_Nikolaiviertel.pdf
+[2012-09-11 10:27:11] E-Mail wurde versandt
+[2012-09-11 12:05:55] *** Starte Download der angeforderten Datei
+[2012-09-11 12:05:55] Benutzer "bitburger" gefunden
+[2012-09-11 12:05:55] Datei "KP_Belohnungsmobil_237x350.zip" gefunden
+[2012-09-11 12:05:55] Download von "KP_Belohnungsmobil_237x350.zip"
+[2012-09-11 12:08:40] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-11 12:08:40] Benutzer: bitburger
+[2012-09-11 12:08:40] E-Mail: bitburger@otterbach.de
+[2012-09-11 12:08:40] Datei: KP_Belohnungsmobil_237x350.zip
+[2012-09-11 12:08:40] E-Mail wurde versandt
+[2012-09-11 01:21:49] *** Starte Upload der Datei ***
+[2012-09-11 01:21:49] Datei: uploads//43944010_Schwetzingen_Festspiele.pdf
+[2012-09-11 01:21:49] Groesse: 11504989 Bytes
+[2012-09-11 01:21:49] Upload von "uploads//43944010_Schwetzingen_Festspiele.pdf" erfolgreich abgeschlossen
+[2012-09-11 01:21:49] Zugriffsrechte von "uploads//43944010_Schwetzingen_Festspiele.pdf" geaendert (0755)
+[2012-09-11 01:21:49] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-11 01:21:49] Absender: 
+[2012-09-11 01:21:49] Empfaenger: a.bochannek@otterbach.de
+[2012-09-11 01:21:49] E-Mail erfolgreich versandt
+[2012-09-11 01:35:16] *** Starte Upload der Datei ***
+[2012-09-11 01:35:16] Datei: uploads/a-siegesmund/O_0010_126_UMA_014_FR_K20.jpg.zip
+[2012-09-11 01:35:16] Groesse: 12711964 Bytes
+[2012-09-11 01:35:16] Upload von "uploads/a-siegesmund/O_0010_126_UMA_014_FR_K20.jpg.zip" erfolgreich abgeschlossen
+[2012-09-11 01:35:16] Zugriffsrechte von "uploads/a-siegesmund/O_0010_126_UMA_014_FR_K20.jpg.zip" geaendert (0755)
+[2012-09-11 01:35:16] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-11 01:35:16] Absender: Alfred Siegesmund
+[2012-09-11 01:35:16] Empfaenger: nball@heine.de, pboth@heine.de, d.bischoff@otterbach.de
+[2012-09-11 01:35:17] E-Mail erfolgreich versandt
+[2012-09-11 01:49:16] *** Starte Download der angeforderten Datei
+[2012-09-11 01:49:16] Benutzer "a-siegesmund" gefunden
+[2012-09-11 01:49:16] Datei "O_0010_126_UMA_014_FR_K20.jpg.zip" gefunden
+[2012-09-11 01:49:16] Download von "O_0010_126_UMA_014_FR_K20.jpg.zip"
+[2012-09-11 01:49:44] *** Starte Download der angeforderten Datei
+[2012-09-11 01:49:44] Angeforderte Datei wurde nicht gefunden
+[2012-09-11 01:49:44] Download der Datei gescheitert
+[2012-09-11 01:50:08] *** Starte Download der angeforderten Datei
+[2012-09-11 01:50:08] Angeforderte Datei wurde nicht gefunden
+[2012-09-11 01:50:08] Download der Datei gescheitert
+[2012-09-11 01:51:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-11 01:51:00] Benutzer: a-siegesmund
+[2012-09-11 01:51:00] E-Mail: a.siegesmund@otterbach.de
+[2012-09-11 01:51:00] Datei: O_0010_126_UMA_014_FR_K20.jpg.zip
+[2012-09-11 01:51:00] E-Mail wurde versandt
+[2012-09-11 02:35:44] *** Starte Download der angeforderten Datei
+[2012-09-11 02:35:44] Benutzer "a-siegesmund" gefunden
+[2012-09-11 02:35:44] Datei "O_0010_126_UMA_014_FR_K20.jpg.zip" gefunden
+[2012-09-11 02:35:44] Download von "O_0010_126_UMA_014_FR_K20.jpg.zip"
+[2012-09-11 02:35:53] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-11 02:35:53] Benutzer: a-siegesmund
+[2012-09-11 02:35:53] E-Mail: a.siegesmund@otterbach.de
+[2012-09-11 02:35:53] Datei: O_0010_126_UMA_014_FR_K20.jpg.zip
+[2012-09-11 02:35:53] E-Mail wurde versandt
+[2012-09-11 03:50:02] *** Starte Download der angeforderten Datei
+[2012-09-11 03:50:02] Benutzer "bitburger" gefunden
+[2012-09-11 03:50:02] Datei "KP_neue_Motive_Bilddatenbank.zip" gefunden
+[2012-09-11 03:50:02] Download von "KP_neue_Motive_Bilddatenbank.zip"
+[2012-09-11 03:55:39] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-11 03:55:39] Benutzer: bitburger
+[2012-09-11 03:55:39] E-Mail: bitburger@otterbach.de
+[2012-09-11 03:55:39] Datei: KP_neue_Motive_Bilddatenbank.zip
+[2012-09-11 03:55:40] E-Mail wurde versandt
+[2012-09-12 08:18:00] *** Starte Loeschen der angeforderten Datei
+[2012-09-12 08:18:00] Ermittle Benutzer und Datei
+[2012-09-12 08:18:00] Benutzer "a-bochannek" gefunden
+[2012-09-12 08:18:00] Datei "43221010_Nikolaiviertel.pdf" gefunden
+[2012-09-12 08:18:00] Die Datei "43221010_Nikolaiviertel.pdf" wurde erfolgreich geloescht
+[2012-09-12 08:18:08] *** Starte Loeschen der angeforderten Datei
+[2012-09-12 08:18:08] Ermittle Benutzer und Datei
+[2012-09-12 08:18:08] Benutzer "a-bochannek" gefunden
+[2012-09-12 08:18:08] Datei "43036010_Stage_Entertainment.pdf" gefunden
+[2012-09-12 08:18:08] Die Datei "43036010_Stage_Entertainment.pdf" wurde erfolgreich geloescht
+[2012-09-12 10:10:47] *** Starte Upload der Datei ***
+[2012-09-12 10:10:47] Datei: uploads/bitburger/sportLicher_Isotonisch.zip
+[2012-09-12 10:10:47] Groesse: 115433384 Bytes
+[2012-09-12 10:10:47] Upload von "uploads/bitburger/sportLicher_Isotonisch.zip" erfolgreich abgeschlossen
+[2012-09-12 10:10:47] Zugriffsrechte von "uploads/bitburger/sportLicher_Isotonisch.zip" geaendert (0755)
+[2012-09-12 10:10:47] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-12 10:10:47] Absender: Otterbach Team
+[2012-09-12 10:10:47] Empfaenger: c.eberle@otterbach.de
+[2012-09-12 10:10:47] E-Mail erfolgreich versandt
+[2012-09-12 02:17:35] *** Starte Upload der Datei ***
+[2012-09-12 02:17:35] Datei: uploads/c-eberle/Max_rollendes_Bett_43cm.zip
+[2012-09-12 02:17:35] Groesse: 60993029 Bytes
+[2012-09-12 02:17:35] Upload von "uploads/c-eberle/Max_rollendes_Bett_43cm.zip" erfolgreich abgeschlossen
+[2012-09-12 02:17:35] Zugriffsrechte von "uploads/c-eberle/Max_rollendes_Bett_43cm.zip" geaendert (0755)
+[2012-09-12 02:17:35] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-12 02:17:35] Absender: Clarissa Eberle
+[2012-09-12 02:17:35] Empfaenger: max.maulwurf@deutschebahn.com, Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-09-12 02:17:35] E-Mail erfolgreich versandt
+[2012-09-12 03:35:23] *** Starte Upload der Datei ***
+[2012-09-12 03:35:23] Datei: uploads/a-bochannek/40262010_Stasi_Museum.pdf
+[2012-09-12 03:35:23] Groesse: 15559961 Bytes
+[2012-09-12 03:35:23] Upload von "uploads/a-bochannek/40262010_Stasi_Museum.pdf" erfolgreich abgeschlossen
+[2012-09-12 03:35:23] Zugriffsrechte von "uploads/a-bochannek/40262010_Stasi_Museum.pdf" geaendert (0755)
+[2012-09-12 03:35:23] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-12 03:35:23] Absender: Axel Bochannek
+[2012-09-12 03:35:23] Empfaenger: a.bochannek@otterbach.de
+[2012-09-12 03:35:23] E-Mail erfolgreich versandt
+[2012-09-12 03:45:36] *** Starte Download der angeforderten Datei
+[2012-09-12 03:45:36] Benutzer "c-eberle" gefunden
+[2012-09-12 03:45:36] Datei "Max_rollendes_Bett_43cm.zip" gefunden
+[2012-09-12 03:45:36] Download von "Max_rollendes_Bett_43cm.zip"
+[2012-09-12 03:45:59] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-12 03:45:59] Benutzer: c-eberle
+[2012-09-12 03:45:59] E-Mail: c.eberle@otterbach.de
+[2012-09-12 03:45:59] Datei: Max_rollendes_Bett_43cm.zip
+[2012-09-12 03:45:59] E-Mail wurde versandt
+[2012-09-12 10:20:45] *** Starte Download der angeforderten Datei
+[2012-09-12 10:20:45] Benutzer "a-bochannek" gefunden
+[2012-09-12 10:20:45] Datei "40262010_Stasi_Museum.pdf" gefunden
+[2012-09-12 10:20:45] Download von "40262010_Stasi_Museum.pdf"
+[2012-09-12 10:21:13] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-12 10:21:13] Benutzer: a-bochannek
+[2012-09-12 10:21:13] E-Mail: a.bochannek@otterbach.de
+[2012-09-12 10:21:13] Datei: 40262010_Stasi_Museum.pdf
+[2012-09-12 10:21:13] E-Mail wurde versandt
+[2012-09-13 09:08:06] *** Starte Upload der Datei ***
+[2012-09-13 09:08:06] Datei: uploads/j-karstens/EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf
+[2012-09-13 09:08:06] Groesse: 9309734 Bytes
+[2012-09-13 09:08:06] Upload von "uploads/j-karstens/EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf" erfolgreich abgeschlossen
+[2012-09-13 09:08:06] Zugriffsrechte von "uploads/j-karstens/EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf" geaendert (0755)
+[2012-09-13 09:08:06] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-13 09:08:06] Absender: Julika Karstens
+[2012-09-13 09:08:06] Empfaenger: renner@hirschen.de, j.karstens@otterbach.de
+[2012-09-13 09:08:06] E-Mail erfolgreich versandt
+[2012-09-13 09:21:57] *** Starte Download der angeforderten Datei
+[2012-09-13 09:21:57] Benutzer "bitburger" gefunden
+[2012-09-13 09:21:57] Datei "sportLicher_Isotonisch.zip" gefunden
+[2012-09-13 09:21:57] Download von "sportLicher_Isotonisch.zip"
+[2012-09-13 09:23:04] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 09:23:04] Benutzer: bitburger
+[2012-09-13 09:23:04] E-Mail: bitburger@otterbach.de
+[2012-09-13 09:23:04] Datei: sportLicher_Isotonisch.zip
+[2012-09-13 09:23:05] E-Mail wurde versandt
+[2012-09-13 10:16:03] *** Starte Download der angeforderten Datei
+[2012-09-13 10:16:03] Benutzer "j-karstens" gefunden
+[2012-09-13 10:16:03] Datei "EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf" gefunden
+[2012-09-13 10:16:03] Download von "EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf"
+[2012-09-13 10:16:07] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 10:16:07] Benutzer: j-karstens
+[2012-09-13 10:16:07] E-Mail: j.karstens@otterbach.de
+[2012-09-13 10:16:07] Datei: EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf
+[2012-09-13 10:16:07] E-Mail wurde versandt
+[2012-09-13 10:59:34] *** Starte Download der angeforderten Datei
+[2012-09-13 10:59:34] Benutzer "j-karstens" gefunden
+[2012-09-13 10:59:34] Datei "EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf" gefunden
+[2012-09-13 10:59:34] Download von "EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf"
+[2012-09-13 10:59:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 10:59:35] Benutzer: j-karstens
+[2012-09-13 10:59:35] E-Mail: j.karstens@otterbach.de
+[2012-09-13 10:59:35] Datei: EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf
+[2012-09-13 10:59:35] E-Mail wurde versandt
+[2012-09-13 11:04:56] *** Starte Upload der Datei ***
+[2012-09-13 11:04:56] Datei: uploads/u.kretzschmar/BMW_DrivExp_Korr_tiffs1.zip
+[2012-09-13 11:04:56] Groesse: 265841205 Bytes
+[2012-09-13 11:04:56] Upload von "uploads/u.kretzschmar/BMW_DrivExp_Korr_tiffs1.zip" erfolgreich abgeschlossen
+[2012-09-13 11:04:56] Zugriffsrechte von "uploads/u.kretzschmar/BMW_DrivExp_Korr_tiffs1.zip" geaendert (0755)
+[2012-09-13 11:04:56] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-13 11:04:56] Absender: Uwe Kretzschmar
+[2012-09-13 11:04:56] Empfaenger: m.hofmann@otterbach.de
+[2012-09-13 11:04:57] E-Mail erfolgreich versandt
+[2012-09-13 11:17:42] *** Starte Download der angeforderten Datei
+[2012-09-13 11:17:42] Benutzer "u.kretzschmar" gefunden
+[2012-09-13 11:17:42] Datei "BMW_DrivExp_Korr_tiffs1.zip" gefunden
+[2012-09-13 11:17:42] Download von "BMW_DrivExp_Korr_tiffs1.zip"
+[2012-09-13 11:23:46] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 11:23:46] Benutzer: u.kretzschmar
+[2012-09-13 11:23:46] E-Mail: u.kretzschmar@otterbach.de
+[2012-09-13 11:23:46] Datei: BMW_DrivExp_Korr_tiffs1.zip
+[2012-09-13 11:23:46] E-Mail wurde versandt
+[2012-09-13 11:30:55] *** Starte Upload der Datei ***
+[2012-09-13 11:30:55] Datei: uploads/j-karstens/EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf
+[2012-09-13 11:30:55] Groesse: 21366674 Bytes
+[2012-09-13 11:30:55] Upload von "uploads/j-karstens/EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf" erfolgreich abgeschlossen
+[2012-09-13 11:30:55] Zugriffsrechte von "uploads/j-karstens/EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf" geaendert (0755)
+[2012-09-13 11:30:55] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-13 11:30:55] Absender: Julika Karstens
+[2012-09-13 11:30:55] Empfaenger: j.karstens@otterbach.de, renner@hirschen.de
+[2012-09-13 11:30:56] E-Mail erfolgreich versandt
+[2012-09-13 11:32:14] *** Starte Upload der Datei ***
+[2012-09-13 11:32:14] Datei: uploads/j-karstens/EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BW_81x370_4c.pdf
+[2012-09-13 11:32:14] Groesse: 14994151 Bytes
+[2012-09-13 11:32:14] Upload von "uploads/j-karstens/EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BW_81x370_4c.pdf" erfolgreich abgeschlossen
+[2012-09-13 11:32:14] Zugriffsrechte von "uploads/j-karstens/EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BW_81x370_4c.pdf" geaendert (0755)
+[2012-09-13 11:32:14] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-13 11:32:14] Absender: Julika Karstens
+[2012-09-13 11:32:14] Empfaenger: renner@hirschen.de, j.karstens@otterbach.de
+[2012-09-13 11:32:15] E-Mail erfolgreich versandt
+[2012-09-13 11:37:54] *** Starte Upload der Datei ***
+[2012-09-13 11:37:54] Datei: uploads/j-karstens/Chor_S.eps
+[2012-09-13 11:37:54] Groesse: 333248 Bytes
+[2012-09-13 11:37:54] Upload von "uploads/j-karstens/Chor_S.eps" erfolgreich abgeschlossen
+[2012-09-13 11:37:54] Zugriffsrechte von "uploads/j-karstens/Chor_S.eps" geaendert (0755)
+[2012-09-13 11:37:54] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-13 11:37:54] Absender: Julika Karstens
+[2012-09-13 11:37:54] Empfaenger: h.aberhof@otterbach.de
+[2012-09-13 11:37:54] E-Mail erfolgreich versandt
+[2012-09-13 11:38:10] *** Starte Download der angeforderten Datei
+[2012-09-13 11:38:10] Benutzer "j-karstens" gefunden
+[2012-09-13 11:38:10] Datei "Chor_S.eps" gefunden
+[2012-09-13 11:38:10] Download von "Chor_S.eps"
+[2012-09-13 11:38:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 11:38:10] Benutzer: j-karstens
+[2012-09-13 11:38:10] E-Mail: j.karstens@otterbach.de
+[2012-09-13 11:38:10] Datei: Chor_S.eps
+[2012-09-13 11:38:10] E-Mail wurde versandt
+[2012-09-13 11:38:50] *** Starte Loeschen der angeforderten Datei
+[2012-09-13 11:38:50] Ermittle Benutzer und Datei
+[2012-09-13 11:38:50] Benutzer "j-karstens" gefunden
+[2012-09-13 11:38:50] Datei "Chor_S.eps" gefunden
+[2012-09-13 11:38:50] Die Datei "Chor_S.eps" wurde erfolgreich geloescht
+[2012-09-13 11:40:57] *** Starte Download der angeforderten Datei
+[2012-09-13 11:40:57] Benutzer "j-karstens" gefunden
+[2012-09-13 11:40:57] Datei "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf" gefunden
+[2012-09-13 11:40:57] Download von "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf"
+[2012-09-13 11:41:14] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 11:41:14] Benutzer: j-karstens
+[2012-09-13 11:41:14] E-Mail: j.karstens@otterbach.de
+[2012-09-13 11:41:14] Datei: EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf
+[2012-09-13 11:41:14] E-Mail wurde versandt
+[2012-09-13 11:42:24] *** Starte Download der angeforderten Datei
+[2012-09-13 11:42:24] Benutzer "j-karstens" gefunden
+[2012-09-13 11:42:24] Datei "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BW_81x370_4c.pdf" gefunden
+[2012-09-13 11:42:24] Download von "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BW_81x370_4c.pdf"
+[2012-09-13 11:42:32] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 11:42:32] Benutzer: j-karstens
+[2012-09-13 11:42:32] E-Mail: j.karstens@otterbach.de
+[2012-09-13 11:42:32] Datei: EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BW_81x370_4c.pdf
+[2012-09-13 11:42:32] E-Mail wurde versandt
+[2012-09-13 12:12:48] *** Starte Download der angeforderten Datei
+[2012-09-13 12:12:48] Benutzer "j-karstens" gefunden
+[2012-09-13 12:12:48] Datei "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf" gefunden
+[2012-09-13 12:12:48] Download von "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf"
+[2012-09-13 12:12:48] *** Starte Download der angeforderten Datei
+[2012-09-13 12:12:48] Benutzer "j-karstens" gefunden
+[2012-09-13 12:12:48] Datei "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf" gefunden
+[2012-09-13 12:12:48] Download von "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf"
+[2012-09-13 12:12:53] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 12:12:53] Benutzer: j-karstens
+[2012-09-13 12:12:53] E-Mail: j.karstens@otterbach.de
+[2012-09-13 12:12:53] Datei: EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf
+[2012-09-13 12:12:53] E-Mail wurde versandt
+[2012-09-13 12:27:05] *** Starte Download der angeforderten Datei
+[2012-09-13 12:27:05] Benutzer "j-karstens" gefunden
+[2012-09-13 12:27:05] Datei "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BW_81x370_4c.pdf" gefunden
+[2012-09-13 12:27:05] Download von "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BW_81x370_4c.pdf"
+[2012-09-13 12:27:09] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 12:27:09] Benutzer: j-karstens
+[2012-09-13 12:27:09] E-Mail: j.karstens@otterbach.de
+[2012-09-13 12:27:09] Datei: EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BW_81x370_4c.pdf
+[2012-09-13 12:27:09] E-Mail wurde versandt
+[2012-09-13 12:44:11] *** Starte Upload der Datei ***
+[2012-09-13 12:44:11] Datei: uploads/a-merkel/PlanControl 4.2.7.exe.zip
+[2012-09-13 12:44:11] Groesse: 17579513 Bytes
+[2012-09-13 12:44:11] Upload von "uploads/a-merkel/PlanControl 4.2.7.exe.zip" erfolgreich abgeschlossen
+[2012-09-13 12:44:11] Zugriffsrechte von "uploads/a-merkel/PlanControl 4.2.7.exe.zip" geaendert (0755)
+[2012-09-13 12:44:11] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-13 12:44:11] Absender: Andreas Merkel
+[2012-09-13 12:44:11] Empfaenger: a.merkel@otterbach.de
+[2012-09-13 12:44:11] E-Mail erfolgreich versandt
+[2012-09-13 12:47:32] *** Starte Download der angeforderten Datei
+[2012-09-13 12:47:32] Benutzer "a-merkel" gefunden
+[2012-09-13 12:47:32] Datei "PlanControl 4.2.7.exe.zip" gefunden
+[2012-09-13 12:47:32] Download von "PlanControl 4.2.7.exe.zip"
+[2012-09-13 12:47:47] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 12:47:47] Benutzer: a-merkel
+[2012-09-13 12:47:47] E-Mail: a.merkel@otterbach.de
+[2012-09-13 12:47:47] Datei: PlanControl 4.2.7.exe.zip
+[2012-09-13 12:47:47] E-Mail wurde versandt
+[2012-09-13 02:35:42] *** Starte Upload der Datei ***
+[2012-09-13 02:35:42] Datei: uploads/u.kretzschmar/BMW_DrivExp_Korr_tiffs2.zip
+[2012-09-13 02:35:42] Groesse: 209577167 Bytes
+[2012-09-13 02:35:42] Upload von "uploads/u.kretzschmar/BMW_DrivExp_Korr_tiffs2.zip" erfolgreich abgeschlossen
+[2012-09-13 02:35:42] Zugriffsrechte von "uploads/u.kretzschmar/BMW_DrivExp_Korr_tiffs2.zip" geaendert (0755)
+[2012-09-13 02:35:42] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-13 02:35:42] Absender: Uwe Kretzschmar
+[2012-09-13 02:35:42] Empfaenger: m.hofmann@otterbach.de
+[2012-09-13 02:35:47] E-Mail erfolgreich versandt
+[2012-09-13 03:01:54] *** Starte Download der angeforderten Datei
+[2012-09-13 03:01:55] Benutzer "u.kretzschmar" gefunden
+[2012-09-13 03:01:55] Datei "BMW_DrivExp_Korr_tiffs2.zip" gefunden
+[2012-09-13 03:01:55] Download von "BMW_DrivExp_Korr_tiffs2.zip"
+[2012-09-13 03:07:41] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 03:07:41] Benutzer: u.kretzschmar
+[2012-09-13 03:07:41] E-Mail: u.kretzschmar@otterbach.de
+[2012-09-13 03:07:41] Datei: BMW_DrivExp_Korr_tiffs2.zip
+[2012-09-13 03:07:42] E-Mail wurde versandt
+[2012-09-13 03:20:33] *** Starte Upload der Datei ***
+[2012-09-13 03:20:33] Datei: uploads/a-bochannek/36425030_Sparkassenverband.pdf
+[2012-09-13 03:20:33] Groesse: 33811315 Bytes
+[2012-09-13 03:20:33] Upload von "uploads/a-bochannek/36425030_Sparkassenverband.pdf" erfolgreich abgeschlossen
+[2012-09-13 03:20:33] Zugriffsrechte von "uploads/a-bochannek/36425030_Sparkassenverband.pdf" geaendert (0755)
+[2012-09-13 03:20:33] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-13 03:20:33] Absender: Axel Bochannek
+[2012-09-13 03:20:33] Empfaenger: a.bochannek@otterbach.de
+[2012-09-13 03:20:34] E-Mail erfolgreich versandt
+[2012-09-13 04:21:56] *** Starte Download der angeforderten Datei
+[2012-09-13 04:21:56] Benutzer "bitburger" gefunden
+[2012-09-13 04:21:56] Datei "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf" gefunden
+[2012-09-13 04:21:56] Download von "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf"
+[2012-09-13 04:21:56] *** Starte Download der angeforderten Datei
+[2012-09-13 04:21:56] Benutzer "bitburger" gefunden
+[2012-09-13 04:21:56] Datei "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf" gefunden
+[2012-09-13 04:21:56] Download von "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf"
+[2012-09-13 04:22:05] *** Starte Download der angeforderten Datei
+[2012-09-13 04:22:05] Benutzer "bitburger" gefunden
+[2012-09-13 04:22:05] Datei "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf" gefunden
+[2012-09-13 04:22:05] Download von "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf"
+[2012-09-13 04:22:33] *** Starte Download der angeforderten Datei
+[2012-09-13 04:22:33] Benutzer "bitburger" gefunden
+[2012-09-13 04:22:33] Datei "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf" gefunden
+[2012-09-13 04:22:33] Download von "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf"
+[2012-09-13 04:22:46] *** Starte Download der angeforderten Datei
+[2012-09-13 04:22:46] Benutzer "bitburger" gefunden
+[2012-09-13 04:22:46] Datei "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf" gefunden
+[2012-09-13 04:22:46] Download von "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf"
+[2012-09-13 04:22:50] *** Starte Download der angeforderten Datei
+[2012-09-13 04:22:50] Benutzer "bitburger" gefunden
+[2012-09-13 04:22:50] Datei "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf" gefunden
+[2012-09-13 04:22:50] Download von "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf"
+[2012-09-13 04:22:50] *** Starte Download der angeforderten Datei
+[2012-09-13 04:22:50] Benutzer "bitburger" gefunden
+[2012-09-13 04:22:50] Datei "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf" gefunden
+[2012-09-13 04:22:50] Download von "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf"
+[2012-09-13 04:22:52] *** Starte Download der angeforderten Datei
+[2012-09-13 04:22:52] Benutzer "bitburger" gefunden
+[2012-09-13 04:22:52] Datei "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf" gefunden
+[2012-09-13 04:22:52] Download von "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf"
+[2012-09-13 04:23:44] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 04:23:44] Benutzer: bitburger
+[2012-09-13 04:23:44] E-Mail: bitburger@otterbach.de
+[2012-09-13 04:23:44] Datei: KP_Concert_arena_Plakat_860x1490_PDFx3.pdf
+[2012-09-13 04:23:44] E-Mail wurde versandt
+[2012-09-13 04:24:04] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 04:24:04] Benutzer: bitburger
+[2012-09-13 04:24:04] E-Mail: bitburger@otterbach.de
+[2012-09-13 04:24:04] Datei: KP_Concert_arena_Plakat_860x1490_PDFx3.pdf
+[2012-09-13 04:24:04] E-Mail wurde versandt
+[2012-09-13 04:24:33] *** Starte Download der angeforderten Datei
+[2012-09-13 04:24:33] Benutzer "bitburger" gefunden
+[2012-09-13 04:24:33] Datei "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf" gefunden
+[2012-09-13 04:24:33] Download von "KP_Concert_arena_Plakat_860x1490_PDFx3.pdf"
+[2012-09-13 04:25:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 04:25:17] Benutzer: bitburger
+[2012-09-13 04:25:17] E-Mail: bitburger@otterbach.de
+[2012-09-13 04:25:17] Datei: KP_Concert_arena_Plakat_860x1490_PDFx3.pdf
+[2012-09-13 04:25:17] E-Mail wurde versandt
+[2012-09-13 06:12:09] *** Starte Upload der Datei ***
+[2012-09-13 06:12:09] Datei: uploads/c-eberle/RollUp_Zuschaufeln Gaeubahn_160x400_1zu5.pdf
+[2012-09-13 06:12:09] Groesse: 51276871 Bytes
+[2012-09-13 06:12:09] Upload von "uploads/c-eberle/RollUp_Zuschaufeln Gaeubahn_160x400_1zu5.pdf" erfolgreich abgeschlossen
+[2012-09-13 06:12:09] Zugriffsrechte von "uploads/c-eberle/RollUp_Zuschaufeln Gaeubahn_160x400_1zu5.pdf" geaendert (0755)
+[2012-09-13 06:12:09] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-13 06:12:09] Absender: Clarissa Eberle
+[2012-09-13 06:12:09] Empfaenger: max.maulwurf@deutschebahn.com, Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-09-13 06:12:10] E-Mail erfolgreich versandt
+[2012-09-13 06:15:47] *** Starte Download der angeforderten Datei
+[2012-09-13 06:15:47] Benutzer "c-eberle" gefunden
+[2012-09-13 06:15:47] Datei "RollUp_Zuschaufeln Gaeubahn_160x400_1zu5.pdf" gefunden
+[2012-09-13 06:15:47] Download von "RollUp_Zuschaufeln Gaeubahn_160x400_1zu5.pdf"
+[2012-09-13 06:16:06] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-13 06:16:06] Benutzer: c-eberle
+[2012-09-13 06:16:06] E-Mail: c.eberle@otterbach.de
+[2012-09-13 06:16:06] Datei: RollUp_Zuschaufeln Gaeubahn_160x400_1zu5.pdf
+[2012-09-13 06:16:06] E-Mail wurde versandt
+[2012-09-14 08:36:13] *** Starte Download der angeforderten Datei
+[2012-09-14 08:36:13] Benutzer "a-bochannek" gefunden
+[2012-09-14 08:36:13] Datei "36425030_Sparkassenverband.pdf" gefunden
+[2012-09-14 08:36:13] Download von "36425030_Sparkassenverband.pdf"
+[2012-09-14 08:36:14] *** Starte Download der angeforderten Datei
+[2012-09-14 08:36:14] Benutzer "a-bochannek" gefunden
+[2012-09-14 08:36:14] Datei "36425030_Sparkassenverband.pdf" gefunden
+[2012-09-14 08:36:14] Download von "36425030_Sparkassenverband.pdf"
+[2012-09-14 08:36:30] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-14 08:36:30] Benutzer: a-bochannek
+[2012-09-14 08:36:30] E-Mail: a.bochannek@otterbach.de
+[2012-09-14 08:36:30] Datei: 36425030_Sparkassenverband.pdf
+[2012-09-14 08:36:30] E-Mail wurde versandt
+[2012-09-14 08:49:30] *** Starte Loeschen der angeforderten Datei
+[2012-09-14 08:49:30] Ermittle Benutzer und Datei
+[2012-09-14 08:49:30] Benutzer "a-bochannek" gefunden
+[2012-09-14 08:49:30] Datei "40262010_Stasi_Museum.pdf" gefunden
+[2012-09-14 08:49:30] Die Datei "40262010_Stasi_Museum.pdf" wurde erfolgreich geloescht
+[2012-09-14 09:02:45] *** Starte Download der angeforderten Datei
+[2012-09-14 09:02:45] Benutzer "c-eberle" gefunden
+[2012-09-14 09:02:45] Datei "RollUp_Zuschaufeln Gaeubahn_160x400_1zu5.pdf" gefunden
+[2012-09-14 09:02:45] Download von "RollUp_Zuschaufeln Gaeubahn_160x400_1zu5.pdf"
+[2012-09-14 09:03:29] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-14 09:03:29] Benutzer: c-eberle
+[2012-09-14 09:03:29] E-Mail: c.eberle@otterbach.de
+[2012-09-14 09:03:29] Datei: RollUp_Zuschaufeln Gaeubahn_160x400_1zu5.pdf
+[2012-09-14 09:03:29] E-Mail wurde versandt
+[2012-09-14 02:18:46] *** Starte Upload der Datei ***
+[2012-09-14 02:18:46] Datei: uploads/j-karstens/Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-14 02:18:46] Groesse: 4489217 Bytes
+[2012-09-14 02:18:46] Upload von "uploads/j-karstens/Kids_Driving_School_182x250_K1_TZ_modi.pdf" erfolgreich abgeschlossen
+[2012-09-14 02:18:46] Zugriffsrechte von "uploads/j-karstens/Kids_Driving_School_182x250_K1_TZ_modi.pdf" geaendert (0755)
+[2012-09-14 02:18:46] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-14 02:18:46] Absender: Julika Karstens
+[2012-09-14 02:18:46] Empfaenger: j.karstens@otterbach.de
+[2012-09-14 02:18:47] E-Mail erfolgreich versandt
+[2012-09-14 02:31:41] *** Starte Loeschen der angeforderten Datei
+[2012-09-14 02:31:41] Ermittle Benutzer und Datei
+[2012-09-14 02:31:41] Benutzer "a-bochannek" gefunden
+[2012-09-14 02:31:41] Datei "36425030_Sparkassenverband.pdf" gefunden
+[2012-09-14 02:31:41] Die Datei "36425030_Sparkassenverband.pdf" wurde erfolgreich geloescht
+[2012-09-14 02:48:40] *** Starte Download der angeforderten Datei
+[2012-09-14 02:48:40] Benutzer "j-karstens" gefunden
+[2012-09-14 02:48:40] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-14 02:48:40] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-14 02:48:42] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-14 02:48:42] Benutzer: j-karstens
+[2012-09-14 02:48:42] E-Mail: j.karstens@otterbach.de
+[2012-09-14 02:48:42] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-14 02:48:42] E-Mail wurde versandt
+[2012-09-14 06:36:01] *** Starte Download der angeforderten Datei
+[2012-09-14 06:36:01] Benutzer "bitburger" gefunden
+[2012-09-14 06:36:01] Datei "Bitb_Radler_AF_NEU_LeBuffet_240x340_PSOLWCStand_PDFx3.pdf" gefunden
+[2012-09-14 06:36:01] Download von "Bitb_Radler_AF_NEU_LeBuffet_240x340_PSOLWCStand_PDFx3.pdf"
+[2012-09-14 06:36:06] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-14 06:36:06] Benutzer: bitburger
+[2012-09-14 06:36:06] E-Mail: bitburger@otterbach.de
+[2012-09-14 06:36:06] Datei: Bitb_Radler_AF_NEU_LeBuffet_240x340_PSOLWCStand_PDFx3.pdf
+[2012-09-14 06:36:07] E-Mail wurde versandt
+[2012-09-17 08:56:39] *** Starte Loeschen der angeforderten Datei
+[2012-09-17 08:56:40] Ermittle Benutzer und Datei
+[2012-09-17 08:56:40] Benutzer "j-schulze" gefunden
+[2012-09-17 08:56:40] Datei "test.jpg" gefunden
+[2012-09-17 08:56:40] Die Datei "test.jpg" wurde erfolgreich geloescht
+[2012-09-17 08:56:45] *** Starte Loeschen der angeforderten Datei
+[2012-09-17 08:56:45] Ermittle Benutzer und Datei
+[2012-09-17 08:56:45] Benutzer "j-schulze" gefunden
+[2012-09-17 08:56:45] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-17 08:56:50] *** Starte Loeschen der angeforderten Datei
+[2012-09-17 08:56:50] Ermittle Benutzer und Datei
+[2012-09-17 08:56:50] Benutzer "j-schulze" gefunden
+[2012-09-17 08:56:50] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-17 08:57:17] *** Starte Loeschen der angeforderten Datei
+[2012-09-17 08:57:17] Ermittle Benutzer und Datei
+[2012-09-17 08:57:17] Benutzer "j-schulze" gefunden
+[2012-09-17 08:57:17] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-17 09:15:53] *** Starte Loeschen der angeforderten Datei
+[2012-09-17 09:15:53] Ermittle Benutzer und Datei
+[2012-09-17 09:15:53] Benutzer "m-stahlberger" gefunden
+[2012-09-17 09:15:53] Datei "Daten_Buchtitel_HansWeber.zip" gefunden
+[2012-09-17 09:15:54] Die Datei "Daten_Buchtitel_HansWeber.zip" wurde erfolgreich geloescht
+[2012-09-17 09:25:42] *** Starte Download der angeforderten Datei
+[2012-09-17 09:25:42] Benutzer "j-karstens" gefunden
+[2012-09-17 09:25:42] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 09:25:42] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 09:25:45] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 09:25:45] Benutzer: j-karstens
+[2012-09-17 09:25:45] E-Mail: j.karstens@otterbach.de
+[2012-09-17 09:25:45] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 09:25:45] E-Mail wurde versandt
+[2012-09-17 09:25:54] *** Starte Download der angeforderten Datei
+[2012-09-17 09:25:54] Benutzer "j-karstens" gefunden
+[2012-09-17 09:25:54] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 09:25:54] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 09:25:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 09:25:55] Benutzer: j-karstens
+[2012-09-17 09:25:55] E-Mail: j.karstens@otterbach.de
+[2012-09-17 09:25:55] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 09:25:56] E-Mail wurde versandt
+[2012-09-17 09:26:32] *** Starte Download der angeforderten Datei
+[2012-09-17 09:26:32] Benutzer "j-karstens" gefunden
+[2012-09-17 09:26:32] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 09:26:32] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 09:26:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 09:26:33] Benutzer: j-karstens
+[2012-09-17 09:26:33] E-Mail: j.karstens@otterbach.de
+[2012-09-17 09:26:33] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 09:26:33] E-Mail wurde versandt
+[2012-09-17 09:36:17] *** Starte Download der angeforderten Datei
+[2012-09-17 09:36:17] Benutzer "j-karstens" gefunden
+[2012-09-17 09:36:17] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 09:36:17] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 09:36:18] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 09:36:18] Benutzer: j-karstens
+[2012-09-17 09:36:18] E-Mail: j.karstens@otterbach.de
+[2012-09-17 09:36:18] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 09:36:18] E-Mail wurde versandt
+[2012-09-17 09:55:16] *** Starte Download der angeforderten Datei
+[2012-09-17 09:55:16] Benutzer "j-karstens" gefunden
+[2012-09-17 09:55:16] Datei "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf" gefunden
+[2012-09-17 09:55:16] Download von "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf"
+[2012-09-17 09:55:16] *** Starte Download der angeforderten Datei
+[2012-09-17 09:55:16] Benutzer "j-karstens" gefunden
+[2012-09-17 09:55:16] Datei "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf" gefunden
+[2012-09-17 09:55:16] Download von "EAR-1-12-0095-15_AZ_BerlinFrohnau_TH_BAB_92x479_4c.pdf"
+[2012-09-17 09:56:32] *** Starte Download der angeforderten Datei
+[2012-09-17 09:56:32] Benutzer "u.kretzschmar" gefunden
+[2012-09-17 09:56:32] Datei "BMW_DrivExp_Korr_tiffs2.zip" gefunden
+[2012-09-17 09:56:32] Download von "BMW_DrivExp_Korr_tiffs2.zip"
+[2012-09-17 10:25:44] *** Starte Download der angeforderten Datei
+[2012-09-17 10:25:44] Benutzer "u.kretzschmar" gefunden
+[2012-09-17 10:25:44] Datei "BMW_DrivExp_Korr_tiffs2.zip" gefunden
+[2012-09-17 10:25:44] Download von "BMW_DrivExp_Korr_tiffs2.zip"
+[2012-09-17 10:31:16] *** Starte Download der angeforderten Datei
+[2012-09-17 10:31:16] Benutzer "j-karstens" gefunden
+[2012-09-17 10:31:16] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 10:31:16] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 10:31:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 10:31:17] Benutzer: j-karstens
+[2012-09-17 10:31:17] E-Mail: j.karstens@otterbach.de
+[2012-09-17 10:31:17] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 10:31:17] E-Mail wurde versandt
+[2012-09-17 10:31:27] *** Starte Download der angeforderten Datei
+[2012-09-17 10:31:27] Benutzer "j-karstens" gefunden
+[2012-09-17 10:31:27] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 10:31:27] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 10:31:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 10:31:28] Benutzer: j-karstens
+[2012-09-17 10:31:28] E-Mail: j.karstens@otterbach.de
+[2012-09-17 10:31:28] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 10:31:28] E-Mail wurde versandt
+[2012-09-17 11:51:06] *** Starte Download der angeforderten Datei
+[2012-09-17 11:51:06] Benutzer "j-karstens" gefunden
+[2012-09-17 11:51:06] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 11:51:06] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 11:51:08] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 11:51:08] Benutzer: j-karstens
+[2012-09-17 11:51:08] E-Mail: j.karstens@otterbach.de
+[2012-09-17 11:51:08] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 11:51:08] E-Mail wurde versandt
+[2012-09-17 11:51:12] *** Starte Download der angeforderten Datei
+[2012-09-17 11:51:12] Benutzer "j-karstens" gefunden
+[2012-09-17 11:51:12] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 11:51:12] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 11:51:13] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 11:51:13] Benutzer: j-karstens
+[2012-09-17 11:51:13] E-Mail: j.karstens@otterbach.de
+[2012-09-17 11:51:13] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 11:51:13] E-Mail wurde versandt
+[2012-09-17 12:12:43] *** Starte Download der angeforderten Datei
+[2012-09-17 12:12:43] Benutzer "j-karstens" gefunden
+[2012-09-17 12:12:43] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:12:43] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:12:45] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:12:45] Benutzer: j-karstens
+[2012-09-17 12:12:45] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:12:45] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:12:45] E-Mail wurde versandt
+[2012-09-17 12:14:04] *** Starte Download der angeforderten Datei
+[2012-09-17 12:14:04] Benutzer "j-karstens" gefunden
+[2012-09-17 12:14:04] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:14:04] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:14:05] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:14:05] Benutzer: j-karstens
+[2012-09-17 12:14:05] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:14:05] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:14:05] E-Mail wurde versandt
+[2012-09-17 12:15:32] *** Starte Download der angeforderten Datei
+[2012-09-17 12:15:32] Benutzer "j-karstens" gefunden
+[2012-09-17 12:15:32] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:15:32] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:15:34] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:15:34] Benutzer: j-karstens
+[2012-09-17 12:15:34] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:15:34] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:15:34] E-Mail wurde versandt
+[2012-09-17 12:15:35] *** Starte Download der angeforderten Datei
+[2012-09-17 12:15:35] Benutzer "j-karstens" gefunden
+[2012-09-17 12:15:35] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:15:35] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:15:37] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:15:37] Benutzer: j-karstens
+[2012-09-17 12:15:37] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:15:37] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:15:37] E-Mail wurde versandt
+[2012-09-17 12:15:45] *** Starte Download der angeforderten Datei
+[2012-09-17 12:15:45] Benutzer "j-karstens" gefunden
+[2012-09-17 12:15:45] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:15:45] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:15:47] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:15:47] Benutzer: j-karstens
+[2012-09-17 12:15:47] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:15:47] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:15:47] E-Mail wurde versandt
+[2012-09-17 12:19:03] *** Starte Download der angeforderten Datei
+[2012-09-17 12:19:03] Benutzer "j-karstens" gefunden
+[2012-09-17 12:19:03] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:19:03] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:19:04] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:19:04] Benutzer: j-karstens
+[2012-09-17 12:19:04] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:19:04] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:19:04] E-Mail wurde versandt
+[2012-09-17 12:20:05] *** Starte Download der angeforderten Datei
+[2012-09-17 12:20:05] Benutzer "j-karstens" gefunden
+[2012-09-17 12:20:05] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:20:05] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:20:07] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:20:07] Benutzer: j-karstens
+[2012-09-17 12:20:07] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:20:07] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:20:07] E-Mail wurde versandt
+[2012-09-17 12:20:12] *** Starte Download der angeforderten Datei
+[2012-09-17 12:20:12] Benutzer "j-karstens" gefunden
+[2012-09-17 12:20:12] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:20:12] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:20:13] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:20:13] Benutzer: j-karstens
+[2012-09-17 12:20:13] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:20:13] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:20:13] E-Mail wurde versandt
+[2012-09-17 12:20:18] *** Starte Download der angeforderten Datei
+[2012-09-17 12:20:18] Benutzer "j-karstens" gefunden
+[2012-09-17 12:20:18] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:20:18] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:20:20] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:20:20] Benutzer: j-karstens
+[2012-09-17 12:20:20] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:20:20] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:20:20] E-Mail wurde versandt
+[2012-09-17 12:20:57] *** Starte Download der angeforderten Datei
+[2012-09-17 12:20:57] Benutzer "j-karstens" gefunden
+[2012-09-17 12:20:57] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:20:57] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:20:59] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:20:59] Benutzer: j-karstens
+[2012-09-17 12:20:59] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:20:59] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:20:59] E-Mail wurde versandt
+[2012-09-17 12:22:09] *** Starte Download der angeforderten Datei
+[2012-09-17 12:22:09] Benutzer "j-karstens" gefunden
+[2012-09-17 12:22:09] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:22:09] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:22:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:22:11] Benutzer: j-karstens
+[2012-09-17 12:22:11] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:22:11] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:22:11] E-Mail wurde versandt
+[2012-09-17 12:22:33] *** Starte Download der angeforderten Datei
+[2012-09-17 12:22:33] Benutzer "j-karstens" gefunden
+[2012-09-17 12:22:33] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:22:33] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:22:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:22:35] Benutzer: j-karstens
+[2012-09-17 12:22:35] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:22:35] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:22:35] E-Mail wurde versandt
+[2012-09-17 12:22:58] *** Starte Download der angeforderten Datei
+[2012-09-17 12:22:58] Benutzer "j-karstens" gefunden
+[2012-09-17 12:22:58] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:22:58] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:23:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:23:00] Benutzer: j-karstens
+[2012-09-17 12:23:00] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:23:00] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:23:00] E-Mail wurde versandt
+[2012-09-17 12:23:44] *** Starte Download der angeforderten Datei
+[2012-09-17 12:23:44] Benutzer "j-karstens" gefunden
+[2012-09-17 12:23:44] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:23:44] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:23:45] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:23:45] Benutzer: j-karstens
+[2012-09-17 12:23:45] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:23:45] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:23:45] E-Mail wurde versandt
+[2012-09-17 12:24:02] *** Starte Download der angeforderten Datei
+[2012-09-17 12:24:02] Benutzer "j-karstens" gefunden
+[2012-09-17 12:24:02] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:24:02] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:24:03] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:24:03] Benutzer: j-karstens
+[2012-09-17 12:24:03] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:24:03] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:24:03] E-Mail wurde versandt
+[2012-09-17 12:24:05] *** Starte Download der angeforderten Datei
+[2012-09-17 12:24:05] Benutzer "j-karstens" gefunden
+[2012-09-17 12:24:05] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:24:05] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:24:07] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:24:07] Benutzer: j-karstens
+[2012-09-17 12:24:07] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:24:07] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:24:07] E-Mail wurde versandt
+[2012-09-17 12:25:16] *** Starte Download der angeforderten Datei
+[2012-09-17 12:25:16] Benutzer "j-karstens" gefunden
+[2012-09-17 12:25:16] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:25:16] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:25:18] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:25:18] Benutzer: j-karstens
+[2012-09-17 12:25:18] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:25:18] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:25:18] E-Mail wurde versandt
+[2012-09-17 12:25:26] *** Starte Download der angeforderten Datei
+[2012-09-17 12:25:26] Benutzer "j-karstens" gefunden
+[2012-09-17 12:25:26] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:25:26] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:25:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:25:28] Benutzer: j-karstens
+[2012-09-17 12:25:28] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:25:28] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:25:28] E-Mail wurde versandt
+[2012-09-17 12:25:48] *** Starte Download der angeforderten Datei
+[2012-09-17 12:25:48] Benutzer "j-karstens" gefunden
+[2012-09-17 12:25:48] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:25:48] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:25:49] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:25:49] Benutzer: j-karstens
+[2012-09-17 12:25:49] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:25:49] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:25:49] E-Mail wurde versandt
+[2012-09-17 12:26:01] *** Starte Download der angeforderten Datei
+[2012-09-17 12:26:01] Benutzer "j-karstens" gefunden
+[2012-09-17 12:26:01] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:26:01] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:26:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:26:02] Benutzer: j-karstens
+[2012-09-17 12:26:02] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:26:02] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:26:02] E-Mail wurde versandt
+[2012-09-17 12:26:17] *** Starte Download der angeforderten Datei
+[2012-09-17 12:26:17] Benutzer "j-karstens" gefunden
+[2012-09-17 12:26:17] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:26:17] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:26:18] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:26:18] Benutzer: j-karstens
+[2012-09-17 12:26:18] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:26:18] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:26:18] E-Mail wurde versandt
+[2012-09-17 12:26:30] *** Starte Download der angeforderten Datei
+[2012-09-17 12:26:30] Benutzer "j-karstens" gefunden
+[2012-09-17 12:26:30] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:26:30] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:26:32] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:26:32] Benutzer: j-karstens
+[2012-09-17 12:26:32] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:26:32] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:26:32] E-Mail wurde versandt
+[2012-09-17 12:26:35] *** Starte Download der angeforderten Datei
+[2012-09-17 12:26:35] Benutzer "j-karstens" gefunden
+[2012-09-17 12:26:35] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:26:35] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:26:36] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:26:36] Benutzer: j-karstens
+[2012-09-17 12:26:36] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:26:36] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:26:36] E-Mail wurde versandt
+[2012-09-17 12:26:47] *** Starte Download der angeforderten Datei
+[2012-09-17 12:26:47] Benutzer "j-karstens" gefunden
+[2012-09-17 12:26:47] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:26:47] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:26:49] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:26:49] Benutzer: j-karstens
+[2012-09-17 12:26:49] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:26:49] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:26:49] E-Mail wurde versandt
+[2012-09-17 12:27:04] *** Starte Download der angeforderten Datei
+[2012-09-17 12:27:04] Benutzer "j-karstens" gefunden
+[2012-09-17 12:27:04] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:27:04] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:27:05] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:27:05] Benutzer: j-karstens
+[2012-09-17 12:27:05] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:27:05] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:27:05] E-Mail wurde versandt
+[2012-09-17 12:27:30] *** Starte Download der angeforderten Datei
+[2012-09-17 12:27:30] Benutzer "j-karstens" gefunden
+[2012-09-17 12:27:30] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:27:30] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:27:32] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:27:32] Benutzer: j-karstens
+[2012-09-17 12:27:32] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:27:32] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:27:32] E-Mail wurde versandt
+[2012-09-17 12:27:49] *** Starte Download der angeforderten Datei
+[2012-09-17 12:27:49] Benutzer "j-karstens" gefunden
+[2012-09-17 12:27:49] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:27:49] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:27:51] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:27:51] Benutzer: j-karstens
+[2012-09-17 12:27:51] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:27:51] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:27:51] E-Mail wurde versandt
+[2012-09-17 12:28:31] *** Starte Download der angeforderten Datei
+[2012-09-17 12:28:31] Benutzer "j-karstens" gefunden
+[2012-09-17 12:28:31] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:28:31] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:28:33] *** Starte Download der angeforderten Datei
+[2012-09-17 12:28:33] Benutzer "j-karstens" gefunden
+[2012-09-17 12:28:33] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:28:33] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:28:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:28:35] Benutzer: j-karstens
+[2012-09-17 12:28:35] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:28:35] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:28:35] E-Mail wurde versandt
+[2012-09-17 12:28:50] *** Starte Download der angeforderten Datei
+[2012-09-17 12:28:50] Benutzer "j-karstens" gefunden
+[2012-09-17 12:28:50] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:28:50] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:28:51] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:28:51] Benutzer: j-karstens
+[2012-09-17 12:28:51] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:28:51] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:28:51] E-Mail wurde versandt
+[2012-09-17 12:29:45] *** Starte Download der angeforderten Datei
+[2012-09-17 12:29:45] Benutzer "j-karstens" gefunden
+[2012-09-17 12:29:45] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:29:45] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:29:47] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:29:47] Benutzer: j-karstens
+[2012-09-17 12:29:47] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:29:47] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:29:47] E-Mail wurde versandt
+[2012-09-17 12:29:59] *** Starte Download der angeforderten Datei
+[2012-09-17 12:29:59] Benutzer "j-karstens" gefunden
+[2012-09-17 12:29:59] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:29:59] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:30:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:30:00] Benutzer: j-karstens
+[2012-09-17 12:30:00] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:30:00] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:30:00] E-Mail wurde versandt
+[2012-09-17 12:31:12] *** Starte Download der angeforderten Datei
+[2012-09-17 12:31:12] Benutzer "j-karstens" gefunden
+[2012-09-17 12:31:12] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 12:31:12] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 12:31:14] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 12:31:14] Benutzer: j-karstens
+[2012-09-17 12:31:14] E-Mail: j.karstens@otterbach.de
+[2012-09-17 12:31:14] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 12:31:14] E-Mail wurde versandt
+[2012-09-17 01:55:51] *** Starte Download der angeforderten Datei
+[2012-09-17 01:55:51] Benutzer "j-karstens" gefunden
+[2012-09-17 01:55:51] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 01:55:51] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 01:55:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 01:55:54] Benutzer: j-karstens
+[2012-09-17 01:55:54] E-Mail: j.karstens@otterbach.de
+[2012-09-17 01:55:54] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 01:55:58] E-Mail wurde versandt
+[2012-09-17 01:56:24] *** Starte Download der angeforderten Datei
+[2012-09-17 01:56:24] Benutzer "j-karstens" gefunden
+[2012-09-17 01:56:24] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 01:56:24] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 01:56:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 01:56:26] Benutzer: j-karstens
+[2012-09-17 01:56:26] E-Mail: j.karstens@otterbach.de
+[2012-09-17 01:56:26] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 01:56:26] E-Mail wurde versandt
+[2012-09-17 01:56:35] *** Starte Download der angeforderten Datei
+[2012-09-17 01:56:35] Benutzer "j-karstens" gefunden
+[2012-09-17 01:56:35] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 01:56:35] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 01:56:36] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 01:56:36] Benutzer: j-karstens
+[2012-09-17 01:56:36] E-Mail: j.karstens@otterbach.de
+[2012-09-17 01:56:36] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 01:56:37] E-Mail wurde versandt
+[2012-09-17 01:56:52] *** Starte Download der angeforderten Datei
+[2012-09-17 01:56:52] Benutzer "j-karstens" gefunden
+[2012-09-17 01:56:52] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 01:56:52] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 01:56:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 01:56:54] Benutzer: j-karstens
+[2012-09-17 01:56:54] E-Mail: j.karstens@otterbach.de
+[2012-09-17 01:56:54] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 01:56:54] E-Mail wurde versandt
+[2012-09-17 01:57:31] *** Starte Download der angeforderten Datei
+[2012-09-17 01:57:31] Benutzer "j-karstens" gefunden
+[2012-09-17 01:57:31] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 01:57:31] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 01:57:31] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 01:57:31] Benutzer: j-karstens
+[2012-09-17 01:57:31] E-Mail: j.karstens@otterbach.de
+[2012-09-17 01:57:31] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 01:57:32] E-Mail wurde versandt
+[2012-09-17 02:07:50] *** Starte Download der angeforderten Datei
+[2012-09-17 02:07:50] Benutzer "j-karstens" gefunden
+[2012-09-17 02:07:50] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 02:07:50] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 02:07:51] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 02:07:51] Benutzer: j-karstens
+[2012-09-17 02:07:51] E-Mail: j.karstens@otterbach.de
+[2012-09-17 02:07:51] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 02:07:51] E-Mail wurde versandt
+[2012-09-17 02:07:57] *** Starte Download der angeforderten Datei
+[2012-09-17 02:07:57] Benutzer "j-karstens" gefunden
+[2012-09-17 02:07:57] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 02:07:57] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 02:07:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 02:07:58] Benutzer: j-karstens
+[2012-09-17 02:07:58] E-Mail: j.karstens@otterbach.de
+[2012-09-17 02:07:58] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 02:07:58] E-Mail wurde versandt
+[2012-09-17 02:08:11] *** Starte Download der angeforderten Datei
+[2012-09-17 02:08:11] Benutzer "j-karstens" gefunden
+[2012-09-17 02:08:11] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-17 02:08:11] Download von "Kids_Driving_School_182x250_K1_TZ_modi.pdf"
+[2012-09-17 02:08:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 02:08:11] Benutzer: j-karstens
+[2012-09-17 02:08:11] E-Mail: j.karstens@otterbach.de
+[2012-09-17 02:08:11] Datei: Kids_Driving_School_182x250_K1_TZ_modi.pdf
+[2012-09-17 02:08:11] E-Mail wurde versandt
+[2012-09-17 02:41:35] *** Starte Upload der Datei ***
+[2012-09-17 02:41:35] Datei: uploads/c-eberle/Max_rollendes_Bett_oBerg_43cm.zip
+[2012-09-17 02:41:35] Groesse: 59784124 Bytes
+[2012-09-17 02:41:35] Upload von "uploads/c-eberle/Max_rollendes_Bett_oBerg_43cm.zip" erfolgreich abgeschlossen
+[2012-09-17 02:41:35] Zugriffsrechte von "uploads/c-eberle/Max_rollendes_Bett_oBerg_43cm.zip" geaendert (0755)
+[2012-09-17 02:41:35] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-17 02:41:35] Absender: Clarissa Eberle
+[2012-09-17 02:41:35] Empfaenger: max.maulwurf@deutschebahn.com, Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-09-17 02:41:35] E-Mail erfolgreich versandt
+[2012-09-17 02:42:52] *** Starte Download der angeforderten Datei
+[2012-09-17 02:42:52] Benutzer "c-eberle" gefunden
+[2012-09-17 02:42:52] Datei "Max_rollendes_Bett_oBerg_43cm.zip" gefunden
+[2012-09-17 02:42:52] Download von "Max_rollendes_Bett_oBerg_43cm.zip"
+[2012-09-17 02:43:14] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 02:43:14] Benutzer: c-eberle
+[2012-09-17 02:43:14] E-Mail: c.eberle@otterbach.de
+[2012-09-17 02:43:14] Datei: Max_rollendes_Bett_oBerg_43cm.zip
+[2012-09-17 02:43:15] E-Mail wurde versandt
+[2012-09-17 03:01:04] *** Starte Upload der Datei ***
+[2012-09-17 03:01:04] Datei: uploads/j-karstens/EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf
+[2012-09-17 03:01:04] Groesse: 171138511 Bytes
+[2012-09-17 03:01:04] Upload von "uploads/j-karstens/EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf" erfolgreich abgeschlossen
+[2012-09-17 03:01:04] Zugriffsrechte von "uploads/j-karstens/EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf" geaendert (0755)
+[2012-09-17 03:01:04] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-17 03:01:04] Absender: Julika Karstens
+[2012-09-17 03:01:04] Empfaenger: h.aberhof@otterbach.de
+[2012-09-17 03:01:05] E-Mail erfolgreich versandt
+[2012-09-17 04:09:37] *** Starte Download der angeforderten Datei
+[2012-09-17 04:09:37] Benutzer "a-siegesmund" gefunden
+[2012-09-17 04:09:37] Datei "7006_126_BestBasics_OV.zip" gefunden
+[2012-09-17 04:09:37] Download von "7006_126_BestBasics_OV.zip"
+[2012-09-17 05:10:44] *** Starte Download der angeforderten Datei
+[2012-09-17 05:10:44] Benutzer "bitburger" gefunden
+[2012-09-17 05:10:44] Datei "sportLicher_Isotonisch.zip" gefunden
+[2012-09-17 05:10:44] Download von "sportLicher_Isotonisch.zip"
+[2012-09-17 05:10:50] *** Starte Download der angeforderten Datei
+[2012-09-17 05:10:50] Benutzer "bitburger" gefunden
+[2012-09-17 05:10:50] Datei "sportLicher_Isotonisch.zip" gefunden
+[2012-09-17 05:10:50] Download von "sportLicher_Isotonisch.zip"
+[2012-09-17 05:12:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 05:12:00] Benutzer: bitburger
+[2012-09-17 05:12:00] E-Mail: bitburger@otterbach.de
+[2012-09-17 05:12:00] Datei: sportLicher_Isotonisch.zip
+[2012-09-17 05:12:00] E-Mail wurde versandt
+[2012-09-17 05:15:14] *** Starte Download der angeforderten Datei
+[2012-09-17 05:15:14] Benutzer "bitburger" gefunden
+[2012-09-17 05:15:14] Datei "sportLicher_Isotonisch.zip" gefunden
+[2012-09-17 05:15:14] Download von "sportLicher_Isotonisch.zip"
+[2012-09-17 05:16:20] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-17 05:16:20] Benutzer: bitburger
+[2012-09-17 05:16:20] E-Mail: bitburger@otterbach.de
+[2012-09-17 05:16:20] Datei: sportLicher_Isotonisch.zip
+[2012-09-17 05:16:20] E-Mail wurde versandt
+[2012-09-18 02:04:02] *** Starte Upload der Datei ***
+[2012-09-18 02:04:02] Datei: uploads/bitburger/app_5_finalisierung_fin_04n.psd.zip
+[2012-09-18 02:04:02] Groesse: 24953562 Bytes
+[2012-09-18 02:04:02] Upload von "uploads/bitburger/app_5_finalisierung_fin_04n.psd.zip" erfolgreich abgeschlossen
+[2012-09-18 02:04:02] Zugriffsrechte von "uploads/bitburger/app_5_finalisierung_fin_04n.psd.zip" geaendert (0755)
+[2012-09-18 02:04:02] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-18 02:04:02] Absender: Otterbach Team
+[2012-09-18 02:04:02] Empfaenger: c.eberle@otterbach.de
+[2012-09-18 02:04:03] E-Mail erfolgreich versandt
+[2012-09-18 02:14:22] *** Starte Download der angeforderten Datei
+[2012-09-18 02:14:22] Benutzer "bitburger" gefunden
+[2012-09-18 02:14:22] Datei "app_5_finalisierung_fin_04n.psd.zip" gefunden
+[2012-09-18 02:14:22] Download von "app_5_finalisierung_fin_04n.psd.zip"
+[2012-09-18 02:14:52] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-18 02:14:52] Benutzer: bitburger
+[2012-09-18 02:14:52] E-Mail: bitburger@otterbach.de
+[2012-09-18 02:14:52] Datei: app_5_finalisierung_fin_04n.psd.zip
+[2012-09-18 02:14:52] E-Mail wurde versandt
+[2012-09-19 01:20:56] *** Starte Upload der Datei ***
+[2012-09-19 01:20:56] Datei: uploads/d-nold/Winterzeit_SV.zip
+[2012-09-19 01:20:56] Groesse: 171356163 Bytes
+[2012-09-19 01:20:56] Upload von "uploads/d-nold/Winterzeit_SV.zip" erfolgreich abgeschlossen
+[2012-09-19 01:20:56] Zugriffsrechte von "uploads/d-nold/Winterzeit_SV.zip" geaendert (0755)
+[2012-09-19 01:20:56] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-19 01:20:56] Absender: Dominique Nold
+[2012-09-19 01:20:56] Empfaenger: jens.titius@baur.de, d.nold@otterbach.de, a.siegesmund@otterbach.de, d.bischoff@otterbach.de
+[2012-09-19 01:20:57] E-Mail erfolgreich versandt
+[2012-09-19 01:22:54] *** Starte Download der angeforderten Datei
+[2012-09-19 01:22:54] Benutzer "d-nold" gefunden
+[2012-09-19 01:22:54] Datei "Winterzeit_SV.zip" gefunden
+[2012-09-19 01:22:54] Download von "Winterzeit_SV.zip"
+[2012-09-19 01:24:13] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-19 01:24:13] Benutzer: d-nold
+[2012-09-19 01:24:13] E-Mail: d.nold@otterbach.de
+[2012-09-19 01:24:13] Datei: Winterzeit_SV.zip
+[2012-09-19 01:24:13] E-Mail wurde versandt
+[2012-09-19 03:38:58] *** Starte Upload der Datei ***
+[2012-09-19 03:38:58] Datei: uploads/bitburger/natuerLicher_210x210_PDFx3.pdf
+[2012-09-19 03:38:58] Groesse: 7845908 Bytes
+[2012-09-19 03:38:58] Upload von "uploads/bitburger/natuerLicher_210x210_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-19 03:38:58] Zugriffsrechte von "uploads/bitburger/natuerLicher_210x210_PDFx3.pdf" geaendert (0755)
+[2012-09-19 03:38:58] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-19 03:38:58] Absender: Otterbach Team
+[2012-09-19 03:38:58] Empfaenger: c.eberle@otterbach.de
+[2012-09-19 03:38:59] E-Mail erfolgreich versandt
+[2012-09-19 03:40:31] *** Starte Download der angeforderten Datei
+[2012-09-19 03:40:31] Benutzer "bitburger" gefunden
+[2012-09-19 03:40:31] Datei "natuerLicher_210x210_PDFx3.pdf" gefunden
+[2012-09-19 03:40:31] Download von "natuerLicher_210x210_PDFx3.pdf"
+[2012-09-19 03:40:34] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-19 03:40:34] Benutzer: bitburger
+[2012-09-19 03:40:34] E-Mail: bitburger@otterbach.de
+[2012-09-19 03:40:34] Datei: natuerLicher_210x210_PDFx3.pdf
+[2012-09-19 03:40:34] E-Mail wurde versandt
+[2012-09-19 03:58:06] *** Starte Upload der Datei ***
+[2012-09-19 03:58:06] Datei: uploads/a-curreri/PK_KV_quer_NEU_Karte.tif.zip
+[2012-09-19 03:58:06] Groesse: 24626138 Bytes
+[2012-09-19 03:58:06] Upload von "uploads/a-curreri/PK_KV_quer_NEU_Karte.tif.zip" erfolgreich abgeschlossen
+[2012-09-19 03:58:06] Zugriffsrechte von "uploads/a-curreri/PK_KV_quer_NEU_Karte.tif.zip" geaendert (0755)
+[2012-09-19 03:58:06] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-19 03:58:06] Absender: Alfons Curreri
+[2012-09-19 03:58:06] Empfaenger: a.curreri@otterbach.de
+[2012-09-19 03:58:06] E-Mail erfolgreich versandt
+[2012-09-19 04:11:07] *** Starte Download der angeforderten Datei
+[2012-09-19 04:11:07] Benutzer "bitburger" gefunden
+[2012-09-19 04:11:07] Datei "natuerLicher_210x210_PDFx3.pdf" gefunden
+[2012-09-19 04:11:07] Download von "natuerLicher_210x210_PDFx3.pdf"
+[2012-09-19 04:11:18] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-19 04:11:18] Benutzer: bitburger
+[2012-09-19 04:11:18] E-Mail: bitburger@otterbach.de
+[2012-09-19 04:11:18] Datei: natuerLicher_210x210_PDFx3.pdf
+[2012-09-19 04:11:18] E-Mail wurde versandt
+[2012-09-19 04:29:54] *** Starte Download der angeforderten Datei
+[2012-09-19 04:29:54] Benutzer "bitburger" gefunden
+[2012-09-19 04:29:54] Datei "natuerLicher_210x210_PDFx3.pdf" gefunden
+[2012-09-19 04:29:54] Download von "natuerLicher_210x210_PDFx3.pdf"
+[2012-09-19 04:29:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-19 04:29:58] Benutzer: bitburger
+[2012-09-19 04:29:58] E-Mail: bitburger@otterbach.de
+[2012-09-19 04:29:58] Datei: natuerLicher_210x210_PDFx3.pdf
+[2012-09-19 04:29:58] E-Mail wurde versandt
+[2012-09-19 05:20:21] *** Starte Download der angeforderten Datei
+[2012-09-19 05:20:21] Benutzer "a-curreri" gefunden
+[2012-09-19 05:20:21] Datei "PK_KV_quer_NEU_Karte.tif.zip" gefunden
+[2012-09-19 05:20:21] Download von "PK_KV_quer_NEU_Karte.tif.zip"
+[2012-09-19 05:23:23] *** Starte Download der angeforderten Datei
+[2012-09-19 05:23:23] Benutzer "a-curreri" gefunden
+[2012-09-19 05:23:23] Datei "PK_KV_quer_NEU_Karte.tif.zip" gefunden
+[2012-09-19 05:23:23] Download von "PK_KV_quer_NEU_Karte.tif.zip"
+[2012-09-19 05:23:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-19 05:23:50] Benutzer: a-curreri
+[2012-09-19 05:23:50] E-Mail: a.curreri@otterbach.de
+[2012-09-19 05:23:50] Datei: PK_KV_quer_NEU_Karte.tif.zip
+[2012-09-19 05:23:50] E-Mail wurde versandt
+[2012-09-19 05:30:15] *** Starte Download der angeforderten Datei
+[2012-09-19 05:30:15] Benutzer "a-curreri" gefunden
+[2012-09-19 05:30:15] Datei "PK_KV_quer_NEU_Karte.tif.zip" gefunden
+[2012-09-19 05:30:15] Download von "PK_KV_quer_NEU_Karte.tif.zip"
+[2012-09-19 05:30:18] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-19 05:30:18] Benutzer: a-curreri
+[2012-09-19 05:30:18] E-Mail: a.curreri@otterbach.de
+[2012-09-19 05:30:18] Datei: PK_KV_quer_NEU_Karte.tif.zip
+[2012-09-19 05:30:19] E-Mail wurde versandt
+[2012-09-19 05:30:59] *** Starte Upload der Datei ***
+[2012-09-19 05:30:59] Datei: uploads/bitburger/sportLicher_SH_GiessenerZtg_232x308_ISOnews26v4_PDFx3.pdf
+[2012-09-19 05:30:59] Groesse: 14937270 Bytes
+[2012-09-19 05:30:59] Upload von "uploads/bitburger/sportLicher_SH_GiessenerZtg_232x308_ISOnews26v4_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-19 05:30:59] Zugriffsrechte von "uploads/bitburger/sportLicher_SH_GiessenerZtg_232x308_ISOnews26v4_PDFx3.pdf" geaendert (0755)
+[2012-09-19 05:30:59] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-19 05:30:59] Absender: Otterbach Team
+[2012-09-19 05:30:59] Empfaenger: c.eberle@otterbach.de
+[2012-09-19 05:30:59] E-Mail erfolgreich versandt
+[2012-09-19 06:36:45] *** Starte Download der angeforderten Datei
+[2012-09-19 06:36:45] Benutzer "a-curreri" gefunden
+[2012-09-19 06:36:45] Datei "PK_KV_quer_NEU_Karte.tif.zip" gefunden
+[2012-09-19 06:36:45] Download von "PK_KV_quer_NEU_Karte.tif.zip"
+[2012-09-19 06:37:19] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-19 06:37:19] Benutzer: a-curreri
+[2012-09-19 06:37:19] E-Mail: a.curreri@otterbach.de
+[2012-09-19 06:37:19] Datei: PK_KV_quer_NEU_Karte.tif.zip
+[2012-09-19 06:37:19] E-Mail wurde versandt
+[2012-09-20 09:22:38] *** Starte Download der angeforderten Datei
+[2012-09-20 09:22:38] Benutzer "bitburger" gefunden
+[2012-09-20 09:22:38] Datei "sportLicher_SH_GiessenerZtg_232x308_ISOnews26v4_PDFx3.pdf" gefunden
+[2012-09-20 09:22:38] Download von "sportLicher_SH_GiessenerZtg_232x308_ISOnews26v4_PDFx3.pdf"
+[2012-09-20 09:24:04] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 09:24:04] Benutzer: bitburger
+[2012-09-20 09:24:04] E-Mail: bitburger@otterbach.de
+[2012-09-20 09:24:04] Datei: sportLicher_SH_GiessenerZtg_232x308_ISOnews26v4_PDFx3.pdf
+[2012-09-20 09:24:04] E-Mail wurde versandt
+[2012-09-20 10:37:37] *** Starte Upload der Datei ***
+[2012-09-20 10:37:37] Datei: uploads/j-karstens/EAR-1-12-0095-16_AZLeipzig_TH_84x368_4c.pdf
+[2012-09-20 10:37:37] Groesse: 20967869 Bytes
+[2012-09-20 10:37:37] Upload von "uploads/j-karstens/EAR-1-12-0095-16_AZLeipzig_TH_84x368_4c.pdf" erfolgreich abgeschlossen
+[2012-09-20 10:37:37] Zugriffsrechte von "uploads/j-karstens/EAR-1-12-0095-16_AZLeipzig_TH_84x368_4c.pdf" geaendert (0755)
+[2012-09-20 10:37:37] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-20 10:37:37] Absender: Julika Karstens
+[2012-09-20 10:37:37] Empfaenger: h.aberhof@otterbach.de
+[2012-09-20 10:37:38] E-Mail erfolgreich versandt
+[2012-09-20 11:42:20] *** Starte Download der angeforderten Datei
+[2012-09-20 11:42:20] Benutzer "j-karstens" gefunden
+[2012-09-20 11:42:20] Angeforderte Datei wurde nicht gefunden
+[2012-09-20 11:42:20] Download der Datei gescheitert
+[2012-09-20 11:42:39] *** Starte Download der angeforderten Datei
+[2012-09-20 11:42:39] Benutzer "j-karstens" gefunden
+[2012-09-20 11:42:39] Angeforderte Datei wurde nicht gefunden
+[2012-09-20 11:42:39] Download der Datei gescheitert
+[2012-09-20 11:42:42] *** Starte Download der angeforderten Datei
+[2012-09-20 11:42:42] Benutzer "j-karstens" gefunden
+[2012-09-20 11:42:42] Angeforderte Datei wurde nicht gefunden
+[2012-09-20 11:42:42] Download der Datei gescheitert
+[2012-09-20 11:42:45] *** Starte Download der angeforderten Datei
+[2012-09-20 11:42:45] Benutzer "j-karstens" gefunden
+[2012-09-20 11:42:45] Angeforderte Datei wurde nicht gefunden
+[2012-09-20 11:42:45] Download der Datei gescheitert
+[2012-09-20 11:42:57] *** Starte Download der angeforderten Datei
+[2012-09-20 11:42:57] Benutzer "j-karstens" gefunden
+[2012-09-20 11:42:57] Angeforderte Datei wurde nicht gefunden
+[2012-09-20 11:42:57] Download der Datei gescheitert
+[2012-09-20 11:43:06] *** Starte Download der angeforderten Datei
+[2012-09-20 11:43:06] Benutzer "j-karstens" gefunden
+[2012-09-20 11:43:06] Angeforderte Datei wurde nicht gefunden
+[2012-09-20 11:43:06] Download der Datei gescheitert
+[2012-09-20 11:43:13] *** Starte Download der angeforderten Datei
+[2012-09-20 11:43:13] Benutzer "j-karstens" gefunden
+[2012-09-20 11:43:13] Angeforderte Datei wurde nicht gefunden
+[2012-09-20 11:43:13] Download der Datei gescheitert
+[2012-09-20 11:43:23] *** Starte Download der angeforderten Datei
+[2012-09-20 11:43:23] Benutzer "j-karstens" gefunden
+[2012-09-20 11:43:23] Angeforderte Datei wurde nicht gefunden
+[2012-09-20 11:43:23] Download der Datei gescheitert
+[2012-09-20 11:46:39] *** Starte Download der angeforderten Datei
+[2012-09-20 11:46:39] Benutzer "j-karstens" gefunden
+[2012-09-20 11:46:39] Angeforderte Datei wurde nicht gefunden
+[2012-09-20 11:46:39] Download der Datei gescheitert
+[2012-09-20 11:53:20] *** Starte Download der angeforderten Datei
+[2012-09-20 11:53:20] Benutzer "j-karstens" gefunden
+[2012-09-20 11:53:20] Datei "EAR-1-12-0095-16_AZLeipzig_TH_84x368_4c.pdf" gefunden
+[2012-09-20 11:53:20] Download von "EAR-1-12-0095-16_AZLeipzig_TH_84x368_4c.pdf"
+[2012-09-20 11:53:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 11:53:35] Benutzer: j-karstens
+[2012-09-20 11:53:35] E-Mail: j.karstens@otterbach.de
+[2012-09-20 11:53:35] Datei: EAR-1-12-0095-16_AZLeipzig_TH_84x368_4c.pdf
+[2012-09-20 11:53:36] E-Mail wurde versandt
+[2012-09-20 12:07:00] *** Starte Download der angeforderten Datei
+[2012-09-20 12:07:00] Benutzer "j-karstens" gefunden
+[2012-09-20 12:07:00] Datei "EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf" gefunden
+[2012-09-20 12:07:00] Download von "EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf"
+[2012-09-20 12:07:00] *** Starte Download der angeforderten Datei
+[2012-09-20 12:07:00] Benutzer "j-karstens" gefunden
+[2012-09-20 12:07:00] Datei "EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf" gefunden
+[2012-09-20 12:07:00] Download von "EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf"
+[2012-09-20 12:07:01] *** Starte Download der angeforderten Datei
+[2012-09-20 12:07:01] Benutzer "j-karstens" gefunden
+[2012-09-20 12:07:01] Datei "EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf" gefunden
+[2012-09-20 12:07:01] Download von "EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf"
+[2012-09-20 12:31:46] *** Starte Download der angeforderten Datei
+[2012-09-20 12:31:46] Benutzer "j-karstens" gefunden
+[2012-09-20 12:31:46] Datei "EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf" gefunden
+[2012-09-20 12:31:46] Download von "EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf"
+[2012-09-20 12:49:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 12:49:54] Benutzer: j-karstens
+[2012-09-20 12:49:54] E-Mail: j.karstens@otterbach.de
+[2012-09-20 12:49:54] Datei: EAR-1-12-0099_HoerschutzBrosch_242_65x210.pdf
+[2012-09-20 12:49:55] E-Mail wurde versandt
+[2012-09-20 01:59:45] *** Starte Upload der Datei ***
+[2012-09-20 01:59:45] Datei: uploads/bitburger/Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 01:59:45] Groesse: 8984323 Bytes
+[2012-09-20 01:59:45] Upload von "uploads/bitburger/Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-20 01:59:45] Zugriffsrechte von "uploads/bitburger/Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" geaendert (0755)
+[2012-09-20 01:59:45] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-20 01:59:45] Absender: Otterbach Team
+[2012-09-20 01:59:45] Empfaenger: c.eberle@otterbach.de
+[2012-09-20 01:59:45] E-Mail erfolgreich versandt
+[2012-09-20 02:29:12] *** Starte Download der angeforderten Datei
+[2012-09-20 02:29:12] Benutzer "bitburger" gefunden
+[2012-09-20 02:29:12] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-20 02:29:12] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-20 02:29:15] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 02:29:15] Benutzer: bitburger
+[2012-09-20 02:29:15] E-Mail: bitburger@otterbach.de
+[2012-09-20 02:29:15] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 02:29:15] E-Mail wurde versandt
+[2012-09-20 02:29:34] *** Starte Download der angeforderten Datei
+[2012-09-20 02:29:34] Benutzer "bitburger" gefunden
+[2012-09-20 02:29:34] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-20 02:29:34] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-20 02:29:37] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 02:29:37] Benutzer: bitburger
+[2012-09-20 02:29:37] E-Mail: bitburger@otterbach.de
+[2012-09-20 02:29:37] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 02:29:37] E-Mail wurde versandt
+[2012-09-20 02:30:01] *** Starte Download der angeforderten Datei
+[2012-09-20 02:30:01] Benutzer "bitburger" gefunden
+[2012-09-20 02:30:01] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-20 02:30:01] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-20 02:30:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 02:30:16] Benutzer: bitburger
+[2012-09-20 02:30:16] E-Mail: bitburger@otterbach.de
+[2012-09-20 02:30:16] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 02:30:16] E-Mail wurde versandt
+[2012-09-20 02:31:09] *** Starte Download der angeforderten Datei
+[2012-09-20 02:31:09] Benutzer "bitburger" gefunden
+[2012-09-20 02:31:09] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-20 02:31:09] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-20 02:31:13] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 02:31:13] Benutzer: bitburger
+[2012-09-20 02:31:13] E-Mail: bitburger@otterbach.de
+[2012-09-20 02:31:13] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 02:31:13] E-Mail wurde versandt
+[2012-09-20 02:31:25] *** Starte Download der angeforderten Datei
+[2012-09-20 02:31:25] Benutzer "bitburger" gefunden
+[2012-09-20 02:31:25] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-20 02:31:25] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-20 02:31:30] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 02:31:30] Benutzer: bitburger
+[2012-09-20 02:31:30] E-Mail: bitburger@otterbach.de
+[2012-09-20 02:31:30] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 02:31:30] E-Mail wurde versandt
+[2012-09-20 02:42:57] *** Starte Download der angeforderten Datei
+[2012-09-20 02:42:57] Benutzer "bitburger" gefunden
+[2012-09-20 02:42:57] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-20 02:42:57] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-20 02:43:01] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 02:43:01] Benutzer: bitburger
+[2012-09-20 02:43:01] E-Mail: bitburger@otterbach.de
+[2012-09-20 02:43:01] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 02:43:01] E-Mail wurde versandt
+[2012-09-20 02:43:01] *** Starte Download der angeforderten Datei
+[2012-09-20 02:43:01] Benutzer "bitburger" gefunden
+[2012-09-20 02:43:01] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-20 02:43:01] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-20 02:43:05] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 02:43:05] Benutzer: bitburger
+[2012-09-20 02:43:05] E-Mail: bitburger@otterbach.de
+[2012-09-20 02:43:05] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 02:43:05] E-Mail wurde versandt
+[2012-09-20 02:49:04] *** Starte Download der angeforderten Datei
+[2012-09-20 02:49:04] Benutzer "bitburger" gefunden
+[2012-09-20 02:49:04] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-20 02:49:04] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-20 02:49:09] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 02:49:09] Benutzer: bitburger
+[2012-09-20 02:49:09] E-Mail: bitburger@otterbach.de
+[2012-09-20 02:49:09] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 02:49:09] E-Mail wurde versandt
+[2012-09-20 02:49:50] *** Starte Download der angeforderten Datei
+[2012-09-20 02:49:50] Benutzer "bitburger" gefunden
+[2012-09-20 02:49:50] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-20 02:49:50] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-20 02:49:53] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 02:49:53] Benutzer: bitburger
+[2012-09-20 02:49:53] E-Mail: bitburger@otterbach.de
+[2012-09-20 02:49:53] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-20 02:49:53] E-Mail wurde versandt
+[2012-09-20 03:35:58] *** Starte Upload der Datei ***
+[2012-09-20 03:35:58] Datei: uploads/j-karstens/1231RPH_NJOY_Phil_Chill_V2.tif
+[2012-09-20 03:35:58] Groesse: 75887144 Bytes
+[2012-09-20 03:35:58] Upload von "uploads/j-karstens/1231RPH_NJOY_Phil_Chill_V2.tif" erfolgreich abgeschlossen
+[2012-09-20 03:35:58] Zugriffsrechte von "uploads/j-karstens/1231RPH_NJOY_Phil_Chill_V2.tif" geaendert (0755)
+[2012-09-20 03:35:58] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-20 03:35:58] Absender: Julika Karstens
+[2012-09-20 03:35:58] Empfaenger: h.aberhof@otterbach.de
+[2012-09-20 03:35:59] E-Mail erfolgreich versandt
+[2012-09-20 03:45:48] *** Starte Download der angeforderten Datei
+[2012-09-20 03:45:48] Benutzer "j-karstens" gefunden
+[2012-09-20 03:45:48] Datei "1231RPH_NJOY_Phil_Chill_V2.tif" gefunden
+[2012-09-20 03:45:48] Download von "1231RPH_NJOY_Phil_Chill_V2.tif"
+[2012-09-20 03:51:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-20 03:51:21] Benutzer: j-karstens
+[2012-09-20 03:51:21] E-Mail: j.karstens@otterbach.de
+[2012-09-20 03:51:21] Datei: 1231RPH_NJOY_Phil_Chill_V2.tif
+[2012-09-20 03:51:22] E-Mail wurde versandt
+[2012-09-21 12:47:48] *** Starte Download der angeforderten Datei
+[2012-09-21 12:47:48] Benutzer "bitburger" gefunden
+[2012-09-21 12:47:48] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-21 12:47:48] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-21 03:32:25] *** Starte Download der angeforderten Datei
+[2012-09-21 03:32:25] Benutzer "bitburger" gefunden
+[2012-09-21 03:32:25] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-21 03:32:25] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-21 09:08:23] *** Starte Loeschen der angeforderten Datei
+[2012-09-21 09:08:23] Ermittle Benutzer und Datei
+[2012-09-21 09:08:23] Benutzer "j-karstens" gefunden
+[2012-09-21 09:08:23] Datei "1231RPH_NJOY_Phil_Chill_V2.tif" gefunden
+[2012-09-21 09:08:24] Die Datei "1231RPH_NJOY_Phil_Chill_V2.tif" wurde erfolgreich geloescht
+[2012-09-21 10:53:45] *** Starte Download der angeforderten Datei
+[2012-09-21 10:53:45] Benutzer "bitburger" gefunden
+[2012-09-21 10:53:45] Datei "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf" gefunden
+[2012-09-21 10:53:45] Download von "Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf"
+[2012-09-21 10:54:03] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-21 10:54:03] Benutzer: bitburger
+[2012-09-21 10:54:03] E-Mail: bitburger@otterbach.de
+[2012-09-21 10:54:03] Datei: Brasserie_Momente_BierReport_210x297_PSOLWCImp_45L_PDFx3.pdf
+[2012-09-21 10:54:03] E-Mail wurde versandt
+[2012-09-21 12:33:10] *** Starte Upload der Datei ***
+[2012-09-21 12:33:10] Datei: uploads/u.kretzschmar/Endtiffs_Kaercher.zip
+[2012-09-21 12:33:10] Groesse: 415575248 Bytes
+[2012-09-21 12:33:10] Upload von "uploads/u.kretzschmar/Endtiffs_Kaercher.zip" erfolgreich abgeschlossen
+[2012-09-21 12:33:10] Zugriffsrechte von "uploads/u.kretzschmar/Endtiffs_Kaercher.zip" geaendert (0755)
+[2012-09-21 12:33:10] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-21 12:33:10] Absender: Uwe Kretzschmar
+[2012-09-21 12:33:10] Empfaenger: martin@martinbaitinger.net
+[2012-09-21 12:33:10] E-Mail erfolgreich versandt
+[2012-09-21 03:56:15] *** Starte Upload der Datei ***
+[2012-09-21 03:56:16] Datei: uploads/j-karstens/EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf
+[2012-09-21 03:56:16] Groesse: 8702912 Bytes
+[2012-09-21 03:56:16] Upload von "uploads/j-karstens/EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf" erfolgreich abgeschlossen
+[2012-09-21 03:56:16] Zugriffsrechte von "uploads/j-karstens/EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf" geaendert (0755)
+[2012-09-21 03:56:16] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-21 03:56:16] Absender: Julika Karstens
+[2012-09-21 03:56:16] Empfaenger: h.aberhof@otterbach.de
+[2012-09-21 03:56:16] E-Mail erfolgreich versandt
+[2012-09-21 04:06:26] *** Starte Download der angeforderten Datei
+[2012-09-21 04:06:26] Benutzer "j-karstens" gefunden
+[2012-09-21 04:06:26] Datei "EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf" gefunden
+[2012-09-21 04:06:26] Download von "EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf"
+[2012-09-21 04:06:31] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-21 04:06:31] Benutzer: j-karstens
+[2012-09-21 04:06:31] E-Mail: j.karstens@otterbach.de
+[2012-09-21 04:06:31] Datei: EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf
+[2012-09-21 04:06:32] E-Mail wurde versandt
+[2012-09-24 08:13:18] *** Starte Download der angeforderten Datei
+[2012-09-24 08:13:19] Benutzer "u.kretzschmar" gefunden
+[2012-09-24 08:13:19] Datei "Endtiffs_Kaercher.zip" gefunden
+[2012-09-24 08:13:19] Download von "Endtiffs_Kaercher.zip"
+[2012-09-24 08:17:23] *** Starte Upload der Datei ***
+[2012-09-24 08:17:23] Datei: uploads/m-stahlberger/Audi_Magazin.zip
+[2012-09-24 08:17:23] Groesse: 19112232 Bytes
+[2012-09-24 08:17:23] Upload von "uploads/m-stahlberger/Audi_Magazin.zip" erfolgreich abgeschlossen
+[2012-09-24 08:17:23] Zugriffsrechte von "uploads/m-stahlberger/Audi_Magazin.zip" geaendert (0755)
+[2012-09-24 08:17:23] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-24 08:17:23] Absender: Marina Stahlberger
+[2012-09-24 08:17:23] Empfaenger: Claudia.Stiehl@AUDI.DE, m.stahlberger@otterbach.de
+[2012-09-24 08:17:23] E-Mail erfolgreich versandt
+[2012-09-24 08:30:53] *** Starte Upload der Datei ***
+[2012-09-24 08:30:53] Datei: uploads/n.fiedler/MEWA_Fax_Beileger.zip
+[2012-09-24 08:30:53] Groesse: 20528316 Bytes
+[2012-09-24 08:30:53] Upload von "uploads/n.fiedler/MEWA_Fax_Beileger.zip" erfolgreich abgeschlossen
+[2012-09-24 08:30:53] Zugriffsrechte von "uploads/n.fiedler/MEWA_Fax_Beileger.zip" geaendert (0755)
+[2012-09-24 08:30:53] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-24 08:30:53] Absender: Nicole Fiedler
+[2012-09-24 08:30:53] Empfaenger: ingrid.kahles@change.de
+[2012-09-24 08:30:53] E-Mail erfolgreich versandt
+[2012-09-24 08:43:23] *** Starte Download der angeforderten Datei
+[2012-09-24 08:43:23] Benutzer "u.kretzschmar" gefunden
+[2012-09-24 08:43:23] Datei "Endtiffs_Kaercher.zip" gefunden
+[2012-09-24 08:43:23] Download von "Endtiffs_Kaercher.zip"
+[2012-09-24 08:45:45] *** Starte Download der angeforderten Datei
+[2012-09-24 08:45:45] Benutzer "j-karstens" gefunden
+[2012-09-24 08:45:45] Datei "EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf" gefunden
+[2012-09-24 08:45:45] Download von "EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf"
+[2012-09-24 08:46:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-24 08:46:00] Benutzer: j-karstens
+[2012-09-24 08:46:00] E-Mail: j.karstens@otterbach.de
+[2012-09-24 08:46:00] Datei: EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf
+[2012-09-24 08:46:04] E-Mail wurde versandt
+[2012-09-24 08:47:40] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-24 08:47:40] Benutzer: u.kretzschmar
+[2012-09-24 08:47:40] E-Mail: u.kretzschmar@otterbach.de
+[2012-09-24 08:47:40] Datei: Endtiffs_Kaercher.zip
+[2012-09-24 08:47:40] E-Mail wurde versandt
+[2012-09-24 09:20:05] *** Starte Loeschen der angeforderten Datei
+[2012-09-24 09:20:05] Ermittle Benutzer und Datei
+[2012-09-24 09:20:05] Benutzer "j-karstens" gefunden
+[2012-09-24 09:20:05] Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" gefunden
+[2012-09-24 09:20:05] Die Datei "Kids_Driving_School_182x250_K1_TZ_modi.pdf" wurde erfolgreich geloescht
+[2012-09-24 09:34:15] *** Starte Download der angeforderten Datei
+[2012-09-24 09:34:15] Benutzer "u.kretzschmar" gefunden
+[2012-09-24 09:34:15] Datei "BMW_DrivExp_Korr_tiffs1.zip" gefunden
+[2012-09-24 09:34:15] Download von "BMW_DrivExp_Korr_tiffs1.zip"
+[2012-09-24 10:12:13] *** Starte Upload der Datei ***
+[2012-09-24 10:12:13] Datei: uploads/c-eberle/Max_Bahnsteigverlaengerung_43cm.zip
+[2012-09-24 10:12:13] Groesse: 10011258 Bytes
+[2012-09-24 10:12:13] Upload von "uploads/c-eberle/Max_Bahnsteigverlaengerung_43cm.zip" erfolgreich abgeschlossen
+[2012-09-24 10:12:13] Zugriffsrechte von "uploads/c-eberle/Max_Bahnsteigverlaengerung_43cm.zip" geaendert (0755)
+[2012-09-24 10:12:13] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-24 10:12:13] Absender: Clarissa Eberle
+[2012-09-24 10:12:13] Empfaenger: max.maulwurf@deutschebahn.com, Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-09-24 10:12:13] E-Mail erfolgreich versandt
+[2012-09-24 10:13:01] *** Starte Download der angeforderten Datei
+[2012-09-24 10:13:01] Benutzer "c-eberle" gefunden
+[2012-09-24 10:13:01] Datei "Max_Bahnsteigverlaengerung_43cm.zip" gefunden
+[2012-09-24 10:13:01] Download von "Max_Bahnsteigverlaengerung_43cm.zip"
+[2012-09-24 10:13:05] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-24 10:13:05] Benutzer: c-eberle
+[2012-09-24 10:13:05] E-Mail: c.eberle@otterbach.de
+[2012-09-24 10:13:05] Datei: Max_Bahnsteigverlaengerung_43cm.zip
+[2012-09-24 10:13:05] E-Mail wurde versandt
+[2012-09-24 10:27:24] *** Starte Upload der Datei ***
+[2012-09-24 10:27:24] Datei: uploads/c-eberle/Max_Bahnsteigerhoehung_43cm.zip
+[2012-09-24 10:27:24] Groesse: 30371622 Bytes
+[2012-09-24 10:27:24] Upload von "uploads/c-eberle/Max_Bahnsteigerhoehung_43cm.zip" erfolgreich abgeschlossen
+[2012-09-24 10:27:24] Zugriffsrechte von "uploads/c-eberle/Max_Bahnsteigerhoehung_43cm.zip" geaendert (0755)
+[2012-09-24 10:27:24] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-24 10:27:24] Absender: Clarissa Eberle
+[2012-09-24 10:27:24] Empfaenger: max.maulwurf@deutschebahn.com, Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-09-24 10:27:24] E-Mail erfolgreich versandt
+[2012-09-24 10:28:54] *** Starte Download der angeforderten Datei
+[2012-09-24 10:28:54] Benutzer "c-eberle" gefunden
+[2012-09-24 10:28:54] Datei "Max_Bahnsteigerhoehung_43cm.zip" gefunden
+[2012-09-24 10:28:54] Download von "Max_Bahnsteigerhoehung_43cm.zip"
+[2012-09-24 10:29:06] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-24 10:29:06] Benutzer: c-eberle
+[2012-09-24 10:29:06] E-Mail: c.eberle@otterbach.de
+[2012-09-24 10:29:06] Datei: Max_Bahnsteigerhoehung_43cm.zip
+[2012-09-24 10:29:06] E-Mail wurde versandt
+[2012-09-24 10:43:35] *** Starte Upload der Datei ***
+[2012-09-24 10:43:35] Datei: uploads/c-eberle/Original_Zubehoer_CLS-Klasse_2012_3230_2023.indd.zip
+[2012-09-24 10:43:35] Groesse: 26748185 Bytes
+[2012-09-24 10:43:35] Upload von "uploads/c-eberle/Original_Zubehoer_CLS-Klasse_2012_3230_2023.indd.zip" erfolgreich abgeschlossen
+[2012-09-24 10:43:35] Zugriffsrechte von "uploads/c-eberle/Original_Zubehoer_CLS-Klasse_2012_3230_2023.indd.zip" geaendert (0755)
+[2012-09-24 10:43:35] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-24 10:43:35] Absender: Clarissa Eberle
+[2012-09-24 10:43:35] Empfaenger: c.eberle@otterbach.de
+[2012-09-24 10:43:35] E-Mail erfolgreich versandt
+[2012-09-24 10:48:40] *** Starte Download der angeforderten Datei
+[2012-09-24 10:48:40] Benutzer "j-karstens" gefunden
+[2012-09-24 10:48:40] Datei "EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf" gefunden
+[2012-09-24 10:48:40] Download von "EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf"
+[2012-09-24 10:48:41] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-24 10:48:41] Benutzer: j-karstens
+[2012-09-24 10:48:41] E-Mail: j.karstens@otterbach.de
+[2012-09-24 10:48:41] Datei: EAR-1-12-0095-14_Takt_focus_TH_Nulltarif_68x267.pdf
+[2012-09-24 10:48:41] E-Mail wurde versandt
+[2012-09-24 11:26:30] *** Starte Loeschen der angeforderten Datei
+[2012-09-24 11:26:30] Ermittle Benutzer und Datei
+[2012-09-24 11:26:30] Benutzer "j-karstens" gefunden
+[2012-09-24 11:26:30] Datei "EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf" gefunden
+[2012-09-24 11:26:31] Die Datei "EAR-1-12-0093-08-Image_AZ_Nulltarif_CH Migros_102x285_4c.pdf" wurde erfolgreich geloescht
+[2012-09-24 03:10:24] *** Starte Download der angeforderten Datei
+[2012-09-24 03:10:24] Benutzer "c-eberle" gefunden
+[2012-09-24 03:10:24] Angeforderte Datei wurde nicht gefunden
+[2012-09-24 03:10:24] Download der Datei gescheitert
+[2012-09-24 04:03:39] *** Starte Download der angeforderten Datei
+[2012-09-24 04:03:39] Benutzer "m-stahlberger" gefunden
+[2012-09-24 04:03:39] Angeforderte Datei wurde nicht gefunden
+[2012-09-24 04:03:39] Download der Datei gescheitert
+[2012-09-24 04:15:43] *** Starte Upload der Datei ***
+[2012-09-24 04:15:43] Datei: uploads/m-stahlberger/030_034_NightDrive.zip
+[2012-09-24 04:15:43] Groesse: 315633261 Bytes
+[2012-09-24 04:15:43] Upload von "uploads/m-stahlberger/030_034_NightDrive.zip" erfolgreich abgeschlossen
+[2012-09-24 04:15:43] Zugriffsrechte von "uploads/m-stahlberger/030_034_NightDrive.zip" geaendert (0755)
+[2012-09-24 04:15:43] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-24 04:15:43] Absender: Marina Stahlberger
+[2012-09-24 04:15:43] Empfaenger: kadri@zirofestival.com, m.stahlberger@otterbach.de
+[2012-09-24 04:15:44] E-Mail erfolgreich versandt
+[2012-09-24 08:26:46] *** Starte Download der angeforderten Datei
+[2012-09-24 08:26:46] Benutzer "bitburger" gefunden
+[2012-09-24 08:26:46] Datei "WG_Motive_A4_quer.zip" gefunden
+[2012-09-24 08:26:46] Download von "WG_Motive_A4_quer.zip"
+[2012-09-24 08:27:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-24 08:27:00] Benutzer: bitburger
+[2012-09-24 08:27:00] E-Mail: bitburger@otterbach.de
+[2012-09-24 08:27:00] Datei: WG_Motive_A4_quer.zip
+[2012-09-24 08:27:00] E-Mail wurde versandt
+[2012-09-25 09:35:32] *** Starte Download der angeforderten Datei
+[2012-09-25 09:35:32] Benutzer "n.fiedler" gefunden
+[2012-09-25 09:35:32] Datei "MEWA_Fax_Beileger.zip" gefunden
+[2012-09-25 09:35:32] Download von "MEWA_Fax_Beileger.zip"
+[2012-09-25 09:35:38] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-25 09:35:38] Benutzer: n.fiedler
+[2012-09-25 09:35:38] E-Mail: n.fiedler@otterbach.de
+[2012-09-25 09:35:38] Datei: MEWA_Fax_Beileger.zip
+[2012-09-25 09:35:38] E-Mail wurde versandt
+[2012-09-25 09:42:59] *** Starte Download der angeforderten Datei
+[2012-09-25 09:42:59] Angeforderte Datei wurde nicht gefunden
+[2012-09-25 09:42:59] Download der Datei gescheitert
+[2012-09-25 09:44:00] *** Starte Download der angeforderten Datei
+[2012-09-25 09:44:00] Benutzer "n.fiedler" gefunden
+[2012-09-25 09:44:00] Datei "MEWA_Fax_Beileger.zip" gefunden
+[2012-09-25 09:44:00] Download von "MEWA_Fax_Beileger.zip"
+[2012-09-25 09:44:03] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-25 09:44:03] Benutzer: n.fiedler
+[2012-09-25 09:44:03] E-Mail: n.fiedler@otterbach.de
+[2012-09-25 09:44:03] Datei: MEWA_Fax_Beileger.zip
+[2012-09-25 09:44:03] E-Mail wurde versandt
+[2012-09-25 10:39:46] *** Starte Upload der Datei ***
+[2012-09-25 10:39:46] Datei: uploads/a-bochannek/36300010_Natureum.pdf
+[2012-09-25 10:39:46] Groesse: 16362296 Bytes
+[2012-09-25 10:39:46] Upload von "uploads/a-bochannek/36300010_Natureum.pdf" erfolgreich abgeschlossen
+[2012-09-25 10:39:46] Zugriffsrechte von "uploads/a-bochannek/36300010_Natureum.pdf" geaendert (0755)
+[2012-09-25 10:39:46] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-25 10:39:46] Absender: Axel Bochannek
+[2012-09-25 10:39:46] Empfaenger: a.bochannek@otterbach.de
+[2012-09-25 10:39:47] E-Mail erfolgreich versandt
+[2012-09-25 11:32:50] *** Starte Upload der Datei ***
+[2012-09-25 11:32:50] Datei: uploads/a-siegesmund/startnummerBBL2012.jpg
+[2012-09-25 11:32:50] Groesse: 443062 Bytes
+[2012-09-25 11:32:50] Upload von "uploads/a-siegesmund/startnummerBBL2012.jpg" erfolgreich abgeschlossen
+[2012-09-25 11:32:50] Zugriffsrechte von "uploads/a-siegesmund/startnummerBBL2012.jpg" geaendert (0755)
+[2012-09-25 11:32:50] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-25 11:32:50] Absender: Alfred Siegesmund
+[2012-09-25 11:32:50] Empfaenger: info@wus-media.de
+[2012-09-25 11:32:50] E-Mail erfolgreich versandt
+[2012-09-25 01:29:33] *** Starte Loeschen der angeforderten Datei
+[2012-09-25 01:29:33] Ermittle Benutzer und Datei
+[2012-09-25 01:29:33] Benutzer "n.fiedler" gefunden
+[2012-09-25 01:29:33] Datei "MEWA_Fax_Beileger.zip" gefunden
+[2012-09-25 01:29:33] Die Datei "MEWA_Fax_Beileger.zip" wurde erfolgreich geloescht
+[2012-09-25 01:47:22] *** Starte Upload der Datei ***
+[2012-09-25 01:47:22] Datei: uploads/a-bochannek/42789010_Geyererhof.pdf
+[2012-09-25 01:47:22] Groesse: 69008228 Bytes
+[2012-09-25 01:47:22] Upload von "uploads/a-bochannek/42789010_Geyererhof.pdf" erfolgreich abgeschlossen
+[2012-09-25 01:47:22] Zugriffsrechte von "uploads/a-bochannek/42789010_Geyererhof.pdf" geaendert (0755)
+[2012-09-25 01:47:22] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-25 01:47:22] Absender: Axel Bochannek
+[2012-09-25 01:47:22] Empfaenger: a.bochannek@otterbach.de
+[2012-09-25 01:47:23] E-Mail erfolgreich versandt
+[2012-09-25 02:03:12] *** Starte Download der angeforderten Datei
+[2012-09-25 02:03:12] Benutzer "a-bochannek" gefunden
+[2012-09-25 02:03:12] Datei "42789010_Geyererhof.pdf" gefunden
+[2012-09-25 02:03:12] Download von "42789010_Geyererhof.pdf"
+[2012-09-25 02:22:44] *** Starte Upload der Datei ***
+[2012-09-25 02:22:44] Datei: uploads/a-bochannek/42636010_Hotel_Jagdhof_Patrizia.pdf
+[2012-09-25 02:22:44] Groesse: 30917501 Bytes
+[2012-09-25 02:22:44] Upload von "uploads/a-bochannek/42636010_Hotel_Jagdhof_Patrizia.pdf" erfolgreich abgeschlossen
+[2012-09-25 02:22:44] Zugriffsrechte von "uploads/a-bochannek/42636010_Hotel_Jagdhof_Patrizia.pdf" geaendert (0755)
+[2012-09-25 02:22:44] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-25 02:22:44] Absender: Axel Bochannek
+[2012-09-25 02:22:44] Empfaenger: a.bochannek@otterbach.de
+[2012-09-25 02:22:45] E-Mail erfolgreich versandt
+[2012-09-25 02:23:29] *** Starte Download der angeforderten Datei
+[2012-09-25 02:23:29] Benutzer "a-bochannek" gefunden
+[2012-09-25 02:23:29] Datei "42636010_Hotel_Jagdhof_Patrizia.pdf" gefunden
+[2012-09-25 02:23:29] Download von "42636010_Hotel_Jagdhof_Patrizia.pdf"
+[2012-09-25 02:23:32] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-25 02:23:32] Benutzer: a-bochannek
+[2012-09-25 02:23:32] E-Mail: a.bochannek@otterbach.de
+[2012-09-25 02:23:32] Datei: 42636010_Hotel_Jagdhof_Patrizia.pdf
+[2012-09-25 02:23:32] E-Mail wurde versandt
+[2012-09-25 02:24:54] *** Starte Download der angeforderten Datei
+[2012-09-25 02:24:54] Benutzer "a-siegesmund" gefunden
+[2012-09-25 02:24:54] Datei "startnummerBBL2012.jpg" gefunden
+[2012-09-25 02:24:54] Download von "startnummerBBL2012.jpg"
+[2012-09-25 02:24:57] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-25 02:24:57] Benutzer: a-siegesmund
+[2012-09-25 02:24:57] E-Mail: a.siegesmund@otterbach.de
+[2012-09-25 02:24:57] Datei: startnummerBBL2012.jpg
+[2012-09-25 02:24:58] E-Mail wurde versandt
+[2012-09-25 02:35:55] *** Starte Download der angeforderten Datei
+[2012-09-25 02:35:55] Benutzer "a-bochannek" gefunden
+[2012-09-25 02:35:55] Datei "42636010_Hotel_Jagdhof_Patrizia.pdf" gefunden
+[2012-09-25 02:35:55] Download von "42636010_Hotel_Jagdhof_Patrizia.pdf"
+[2012-09-25 03:01:51] *** Starte Upload der Datei ***
+[2012-09-25 03:01:51] Datei: uploads/c-eberle/RollUp_Betonmischer_Hochrheinbahn_160x400.pdf
+[2012-09-25 03:01:51] Groesse: 127992705 Bytes
+[2012-09-25 03:01:51] Upload von "uploads/c-eberle/RollUp_Betonmischer_Hochrheinbahn_160x400.pdf" erfolgreich abgeschlossen
+[2012-09-25 03:01:51] Zugriffsrechte von "uploads/c-eberle/RollUp_Betonmischer_Hochrheinbahn_160x400.pdf" geaendert (0755)
+[2012-09-25 03:01:51] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-25 03:01:51] Absender: Clarissa Eberle
+[2012-09-25 03:01:51] Empfaenger: max.maulwurf@deutschebahn.com, Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-09-25 03:01:51] E-Mail erfolgreich versandt
+[2012-09-25 03:22:10] *** Starte Download der angeforderten Datei
+[2012-09-25 03:22:10] Benutzer "c-eberle" gefunden
+[2012-09-25 03:22:10] Datei "RollUp_Betonmischer_Hochrheinbahn_160x400.pdf" gefunden
+[2012-09-25 03:22:10] Download von "RollUp_Betonmischer_Hochrheinbahn_160x400.pdf"
+[2012-09-25 03:23:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-25 03:23:00] Benutzer: c-eberle
+[2012-09-25 03:23:00] E-Mail: c.eberle@otterbach.de
+[2012-09-25 03:23:00] Datei: RollUp_Betonmischer_Hochrheinbahn_160x400.pdf
+[2012-09-25 03:23:00] E-Mail wurde versandt
+[2012-09-25 07:01:01] *** Starte Download der angeforderten Datei
+[2012-09-25 07:01:01] Benutzer "c-eberle" gefunden
+[2012-09-25 07:01:01] Datei "RollUp_Betonmischer_Hochrheinbahn_160x400.pdf" gefunden
+[2012-09-25 07:01:01] Download von "RollUp_Betonmischer_Hochrheinbahn_160x400.pdf"
+[2012-09-26 08:23:20] *** Starte Loeschen der angeforderten Datei
+[2012-09-26 08:23:20] Ermittle Benutzer und Datei
+[2012-09-26 08:23:20] Benutzer "n.fiedler" gefunden
+[2012-09-26 08:23:20] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-26 09:34:06] *** Starte Download der angeforderten Datei
+[2012-09-26 09:34:06] Benutzer "a-bochannek" gefunden
+[2012-09-26 09:34:06] Datei "42636010_Hotel_Jagdhof_Patrizia.pdf" gefunden
+[2012-09-26 09:34:06] Download von "42636010_Hotel_Jagdhof_Patrizia.pdf"
+[2012-09-26 11:45:02] *** Starte Upload der Datei ***
+[2012-09-26 11:45:02] Datei: uploads/bitburger/Koblenz_18-1_594x420_PDFx3.pdf
+[2012-09-26 11:45:02] Groesse: 137981566 Bytes
+[2012-09-26 11:45:02] Upload von "uploads/bitburger/Koblenz_18-1_594x420_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-26 11:45:02] Zugriffsrechte von "uploads/bitburger/Koblenz_18-1_594x420_PDFx3.pdf" geaendert (0755)
+[2012-09-26 11:45:02] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-26 11:45:02] Absender: Otterbach Team
+[2012-09-26 11:45:02] Empfaenger: c.eberle@otterbach.de
+[2012-09-26 11:45:02] E-Mail erfolgreich versandt
+[2012-09-26 11:51:11] *** Starte Upload der Datei ***
+[2012-09-26 11:51:11] Datei: uploads/bitburger/Koeln_18-1_594x420_PDFx3.pdf
+[2012-09-26 11:51:11] Groesse: 320319284 Bytes
+[2012-09-26 11:51:11] Upload von "uploads/bitburger/Koeln_18-1_594x420_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-26 11:51:11] Zugriffsrechte von "uploads/bitburger/Koeln_18-1_594x420_PDFx3.pdf" geaendert (0755)
+[2012-09-26 11:51:11] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-26 11:51:11] Absender: Otterbach Team
+[2012-09-26 11:51:11] Empfaenger: c.eberle@otterbach.de
+[2012-09-26 11:51:11] E-Mail erfolgreich versandt
+[2012-09-26 11:57:28] *** Starte Upload der Datei ***
+[2012-09-26 11:57:28] Datei: uploads/bitburger/Moenchengladbach_18-1_594x420_PDFx3.pdf
+[2012-09-26 11:57:28] Groesse: 321443241 Bytes
+[2012-09-26 11:57:28] Upload von "uploads/bitburger/Moenchengladbach_18-1_594x420_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-09-26 11:57:28] Zugriffsrechte von "uploads/bitburger/Moenchengladbach_18-1_594x420_PDFx3.pdf" geaendert (0755)
+[2012-09-26 11:57:28] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-26 11:57:28] Absender: Otterbach Team
+[2012-09-26 11:57:28] Empfaenger: c.eberle@otterbach.de
+[2012-09-26 11:57:29] E-Mail erfolgreich versandt
+[2012-09-26 01:37:23] *** Starte Upload der Datei ***
+[2012-09-26 01:37:23] Datei: uploads/m-stahlberger/Max_Mensch_aergere_dich_nicht.zip
+[2012-09-26 01:37:23] Groesse: 27734784 Bytes
+[2012-09-26 01:37:23] Upload von "uploads/m-stahlberger/Max_Mensch_aergere_dich_nicht.zip" erfolgreich abgeschlossen
+[2012-09-26 01:37:23] Zugriffsrechte von "uploads/m-stahlberger/Max_Mensch_aergere_dich_nicht.zip" geaendert (0755)
+[2012-09-26 01:37:23] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-26 01:37:23] Absender: Marina Stahlberger
+[2012-09-26 01:37:23] Empfaenger: max.maulwurf@deutschebahn.com, m.stahlberger@otterbach.de
+[2012-09-26 01:37:24] E-Mail erfolgreich versandt
+[2012-09-26 03:05:48] *** Starte Download der angeforderten Datei
+[2012-09-26 03:05:48] Benutzer "m-stahlberger" gefunden
+[2012-09-26 03:05:48] Datei "030_034_NightDrive.zip" gefunden
+[2012-09-26 03:05:48] Download von "030_034_NightDrive.zip"
+[2012-09-26 03:13:25] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-26 03:13:25] Benutzer: m-stahlberger
+[2012-09-26 03:13:25] E-Mail: m.stahlberger@otterbach.de
+[2012-09-26 03:13:25] Datei: 030_034_NightDrive.zip
+[2012-09-26 03:13:25] E-Mail wurde versandt
+[2012-09-26 04:49:58] *** Starte Download der angeforderten Datei
+[2012-09-26 04:49:58] Benutzer "bitburger" gefunden
+[2012-09-26 04:49:58] Datei "Koeln_18-1_594x420_PDFx3.pdf" gefunden
+[2012-09-26 04:49:58] Download von "Koeln_18-1_594x420_PDFx3.pdf"
+[2012-09-26 04:52:34] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-26 04:52:34] Benutzer: bitburger
+[2012-09-26 04:52:34] E-Mail: bitburger@otterbach.de
+[2012-09-26 04:52:34] Datei: Koeln_18-1_594x420_PDFx3.pdf
+[2012-09-26 04:52:34] E-Mail wurde versandt
+[2012-09-26 04:53:57] *** Starte Download der angeforderten Datei
+[2012-09-26 04:53:58] Benutzer "bitburger" gefunden
+[2012-09-26 04:53:58] Datei "Moenchengladbach_18-1_594x420_PDFx3.pdf" gefunden
+[2012-09-26 04:53:58] Download von "Moenchengladbach_18-1_594x420_PDFx3.pdf"
+[2012-09-26 04:56:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-26 04:56:33] Benutzer: bitburger
+[2012-09-26 04:56:33] E-Mail: bitburger@otterbach.de
+[2012-09-26 04:56:33] Datei: Moenchengladbach_18-1_594x420_PDFx3.pdf
+[2012-09-26 04:56:33] E-Mail wurde versandt
+[2012-09-26 04:57:34] *** Starte Download der angeforderten Datei
+[2012-09-26 04:57:34] Benutzer "bitburger" gefunden
+[2012-09-26 04:57:34] Datei "Koblenz_18-1_594x420_PDFx3.pdf" gefunden
+[2012-09-26 04:57:34] Download von "Koblenz_18-1_594x420_PDFx3.pdf"
+[2012-09-26 04:58:28] *** Starte Download der angeforderten Datei
+[2012-09-26 04:58:28] Benutzer "m-stahlberger" gefunden
+[2012-09-26 04:58:28] Datei "Max_Mensch_aergere_dich_nicht.zip" gefunden
+[2012-09-26 04:58:28] Download von "Max_Mensch_aergere_dich_nicht.zip"
+[2012-09-26 04:58:45] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-26 04:58:45] Benutzer: m-stahlberger
+[2012-09-26 04:58:45] E-Mail: m.stahlberger@otterbach.de
+[2012-09-26 04:58:45] Datei: Max_Mensch_aergere_dich_nicht.zip
+[2012-09-26 04:58:45] E-Mail wurde versandt
+[2012-09-26 04:58:49] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-26 04:58:49] Benutzer: bitburger
+[2012-09-26 04:58:49] E-Mail: bitburger@otterbach.de
+[2012-09-26 04:58:49] Datei: Koblenz_18-1_594x420_PDFx3.pdf
+[2012-09-26 04:58:49] E-Mail wurde versandt
+[2012-09-26 07:28:40] *** Starte Download der angeforderten Datei
+[2012-09-26 07:28:40] Benutzer "m-stahlberger" gefunden
+[2012-09-26 07:28:40] Datei "030_034_NightDrive.zip" gefunden
+[2012-09-26 07:28:40] Download von "030_034_NightDrive.zip"
+[2012-09-26 08:32:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-26 08:32:55] Benutzer: m-stahlberger
+[2012-09-26 08:32:55] E-Mail: m.stahlberger@otterbach.de
+[2012-09-26 08:32:55] Datei: 030_034_NightDrive.zip
+[2012-09-26 08:32:55] E-Mail wurde versandt
+[2012-09-26 11:16:02] *** Starte Download der angeforderten Datei
+[2012-09-26 11:16:02] Benutzer "bitburger" gefunden
+[2012-09-26 11:16:02] Datei "natuerLicher_210x210_PDFx3.pdf" gefunden
+[2012-09-26 11:16:02] Download von "natuerLicher_210x210_PDFx3.pdf"
+[2012-09-26 11:16:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-26 11:16:11] Benutzer: bitburger
+[2012-09-26 11:16:11] E-Mail: bitburger@otterbach.de
+[2012-09-26 11:16:11] Datei: natuerLicher_210x210_PDFx3.pdf
+[2012-09-26 11:16:12] E-Mail wurde versandt
+[2012-09-27 02:06:26] *** Starte Upload der Datei ***
+[2012-09-27 02:06:26] Datei: uploads/r-oeynhausen/GUI_361r037_Mac.zip
+[2012-09-27 02:06:26] Groesse: 0 Bytes
+[2012-09-27 02:06:26] Upload von "uploads/r-oeynhausen/GUI_361r037_Mac.zip" gescheitert
+[2012-09-27 02:08:30] *** Starte Upload der Datei ***
+[2012-09-27 02:08:30] Datei: uploads/r-oeynhausen/GUI_361r037_Mac.zip
+[2012-09-27 02:08:30] Groesse: 65539320 Bytes
+[2012-09-27 02:08:30] Upload von "uploads/r-oeynhausen/GUI_361r037_Mac.zip" erfolgreich abgeschlossen
+[2012-09-27 02:08:30] Zugriffsrechte von "uploads/r-oeynhausen/GUI_361r037_Mac.zip" geaendert (0755)
+[2012-09-27 02:08:30] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-27 02:08:30] Absender: Roland von Oeynhausen
+[2012-09-27 02:08:30] Empfaenger: r.oeynhausen@otterbach.de
+[2012-09-27 02:08:32] E-Mail erfolgreich versandt
+[2012-09-27 02:09:16] *** Starte Download der angeforderten Datei
+[2012-09-27 02:09:16] Benutzer "r-oeynhausen" gefunden
+[2012-09-27 02:09:16] Datei "GUI_361r037_Mac.zip" gefunden
+[2012-09-27 02:09:16] Download von "GUI_361r037_Mac.zip"
+[2012-09-27 02:09:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-27 02:09:17] Benutzer: r-oeynhausen
+[2012-09-27 02:09:17] E-Mail: r.oeynhausen@otterbach.de
+[2012-09-27 02:09:17] Datei: GUI_361r037_Mac.zip
+[2012-09-27 02:09:17] E-Mail wurde versandt
+[2012-09-27 02:09:24] *** Starte Download der angeforderten Datei
+[2012-09-27 02:09:24] Benutzer "r-oeynhausen" gefunden
+[2012-09-27 02:09:24] Datei "GUI_361r037_Mac.zip" gefunden
+[2012-09-27 02:09:24] Download von "GUI_361r037_Mac.zip"
+[2012-09-27 02:09:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-27 02:09:26] Benutzer: r-oeynhausen
+[2012-09-27 02:09:26] E-Mail: r.oeynhausen@otterbach.de
+[2012-09-27 02:09:26] Datei: GUI_361r037_Mac.zip
+[2012-09-27 02:09:26] E-Mail wurde versandt
+[2012-09-27 02:35:53] *** Starte Download der angeforderten Datei
+[2012-09-27 02:35:53] Benutzer "bitburger" gefunden
+[2012-09-27 02:35:53] Datei "KP_Plakatmotive.zip" gefunden
+[2012-09-27 02:35:53] Download von "KP_Plakatmotive.zip"
+[2012-09-27 02:37:30] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-27 02:37:30] Benutzer: bitburger
+[2012-09-27 02:37:30] E-Mail: bitburger@otterbach.de
+[2012-09-27 02:37:30] Datei: KP_Plakatmotive.zip
+[2012-09-27 02:37:31] E-Mail wurde versandt
+[2012-09-28 10:50:31] *** Starte Loeschen der angeforderten Datei
+[2012-09-28 10:50:31] Ermittle Benutzer und Datei
+[2012-09-28 10:50:31] Benutzer "n.fiedler" gefunden
+[2012-09-28 10:50:31] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-28 11:12:40] *** Starte Upload der Datei ***
+[2012-09-28 11:12:40] Datei: uploads/bitburger/Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip
+[2012-09-28 11:12:40] Groesse: 193146738 Bytes
+[2012-09-28 11:12:40] Upload von "uploads/bitburger/Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip" erfolgreich abgeschlossen
+[2012-09-28 11:12:40] Zugriffsrechte von "uploads/bitburger/Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip" geaendert (0755)
+[2012-09-28 11:12:40] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-28 11:12:40] Absender: Otterbach Team
+[2012-09-28 11:12:40] Empfaenger: c.eberle@otterbach.de
+[2012-09-28 11:12:40] E-Mail erfolgreich versandt
+[2012-09-28 11:24:36] *** Starte Download der angeforderten Datei
+[2012-09-28 11:24:36] Benutzer "bitburger" gefunden
+[2012-09-28 11:24:36] Datei "Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip" gefunden
+[2012-09-28 11:24:36] Download von "Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip"
+[2012-09-28 11:26:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-28 11:26:21] Benutzer: bitburger
+[2012-09-28 11:26:21] E-Mail: bitburger@otterbach.de
+[2012-09-28 11:26:21] Datei: Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip
+[2012-09-28 11:26:21] E-Mail wurde versandt
+[2012-09-28 11:26:58] *** Starte Download der angeforderten Datei
+[2012-09-28 11:26:58] Benutzer "bitburger" gefunden
+[2012-09-28 11:26:58] Datei "Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip" gefunden
+[2012-09-28 11:26:58] Download von "Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip"
+[2012-09-28 11:27:39] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-28 11:27:39] Benutzer: bitburger
+[2012-09-28 11:27:39] E-Mail: bitburger@otterbach.de
+[2012-09-28 11:27:39] Datei: Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip
+[2012-09-28 11:27:39] E-Mail wurde versandt
+[2012-09-28 11:57:46] *** Starte Download der angeforderten Datei
+[2012-09-28 11:57:46] Benutzer "bitburger" gefunden
+[2012-09-28 11:57:46] Datei "Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip" gefunden
+[2012-09-28 11:57:46] Download von "Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip"
+[2012-09-28 11:58:24] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-28 11:58:24] Benutzer: bitburger
+[2012-09-28 11:58:24] E-Mail: bitburger@otterbach.de
+[2012-09-28 11:58:24] Datei: Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip
+[2012-09-28 11:58:24] E-Mail wurde versandt
+[2012-09-28 01:18:08] *** Starte Loeschen der angeforderten Datei
+[2012-09-28 01:18:08] Ermittle Benutzer und Datei
+[2012-09-28 01:18:08] Benutzer "n.fiedler" gefunden
+[2012-09-28 01:18:08] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-28 01:32:46] *** Starte Upload der Datei ***
+[2012-09-28 01:32:46] Datei: uploads/a-siegesmund/DMBerglaufstrecke2012.jpg
+[2012-09-28 01:32:46] Groesse: 1617565 Bytes
+[2012-09-28 01:32:46] Upload von "uploads/a-siegesmund/DMBerglaufstrecke2012.jpg" erfolgreich abgeschlossen
+[2012-09-28 01:32:46] Zugriffsrechte von "uploads/a-siegesmund/DMBerglaufstrecke2012.jpg" geaendert (0755)
+[2012-09-28 01:32:46] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-28 01:32:46] Absender: Alfred Siegesmund
+[2012-09-28 01:32:46] Empfaenger: Boersig@zell.de
+[2012-09-28 01:32:46] E-Mail erfolgreich versandt
+[2012-09-28 01:44:02] *** Starte Download der angeforderten Datei
+[2012-09-28 01:44:02] Benutzer "a-siegesmund" gefunden
+[2012-09-28 01:44:02] Datei "DMBerglaufstrecke2012.jpg" gefunden
+[2012-09-28 01:44:02] Download von "DMBerglaufstrecke2012.jpg"
+[2012-09-28 01:44:15] *** Starte Download der angeforderten Datei
+[2012-09-28 01:44:15] Benutzer "a-siegesmund" gefunden
+[2012-09-28 01:44:15] Datei "DMBerglaufstrecke2012.jpg" gefunden
+[2012-09-28 01:44:15] Download von "DMBerglaufstrecke2012.jpg"
+[2012-09-28 01:44:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-28 01:44:21] Benutzer: a-siegesmund
+[2012-09-28 01:44:21] E-Mail: a.siegesmund@otterbach.de
+[2012-09-28 01:44:21] Datei: DMBerglaufstrecke2012.jpg
+[2012-09-28 01:44:22] E-Mail wurde versandt
+[2012-09-28 02:34:09] *** Starte Download der angeforderten Datei
+[2012-09-28 02:34:09] Benutzer "bitburger" gefunden
+[2012-09-28 02:34:09] Datei "Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip" gefunden
+[2012-09-28 02:34:09] Download von "Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip"
+[2012-09-28 02:35:05] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-28 02:35:06] Benutzer: bitburger
+[2012-09-28 02:35:06] E-Mail: bitburger@otterbach.de
+[2012-09-28 02:35:06] Datei: Bitb_AlAachen_Stadionztg_13_210x297 Ordner.zip
+[2012-09-28 02:35:06] E-Mail wurde versandt
+[2012-09-28 03:13:28] *** Starte Upload der Datei ***
+[2012-09-28 03:13:28] Datei: uploads/m-stahlberger/Max_Mensch_aergere_dich_nicht_Fahrgast_NEU.zip
+[2012-09-28 03:13:28] Groesse: 15420201 Bytes
+[2012-09-28 03:13:28] Upload von "uploads/m-stahlberger/Max_Mensch_aergere_dich_nicht_Fahrgast_NEU.zip" erfolgreich abgeschlossen
+[2012-09-28 03:13:28] Zugriffsrechte von "uploads/m-stahlberger/Max_Mensch_aergere_dich_nicht_Fahrgast_NEU.zip" geaendert (0755)
+[2012-09-28 03:13:28] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-28 03:13:28] Absender: Marina Stahlberger
+[2012-09-28 03:13:28] Empfaenger: max.maulwurf@deutschebahn.com, m.stahlberger@otterbach.de
+[2012-09-28 03:13:29] E-Mail erfolgreich versandt
+[2012-09-28 03:33:40] *** Starte Download der angeforderten Datei
+[2012-09-28 03:33:40] Benutzer "m-stahlberger" gefunden
+[2012-09-28 03:33:40] Datei "Max_Mensch_aergere_dich_nicht_Fahrgast_NEU.zip" gefunden
+[2012-09-28 03:33:40] Download von "Max_Mensch_aergere_dich_nicht_Fahrgast_NEU.zip"
+[2012-09-28 03:33:45] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-28 03:33:45] Benutzer: m-stahlberger
+[2012-09-28 03:33:45] E-Mail: m.stahlberger@otterbach.de
+[2012-09-28 03:33:45] Datei: Max_Mensch_aergere_dich_nicht_Fahrgast_NEU.zip
+[2012-09-28 03:33:45] E-Mail wurde versandt
+[2012-09-28 04:28:41] *** Starte Upload der Datei ***
+[2012-09-28 04:28:41] Datei: uploads/a-bochannek/44301010_Suedtiroler_Bauernhof.pdf
+[2012-09-28 04:28:41] Groesse: 42788256 Bytes
+[2012-09-28 04:28:41] Upload von "uploads/a-bochannek/44301010_Suedtiroler_Bauernhof.pdf" erfolgreich abgeschlossen
+[2012-09-28 04:28:41] Zugriffsrechte von "uploads/a-bochannek/44301010_Suedtiroler_Bauernhof.pdf" geaendert (0755)
+[2012-09-28 04:28:41] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-09-28 04:28:41] Absender: Axel Bochannek
+[2012-09-28 04:28:41] Empfaenger: a.bochannek@otterbach.de
+[2012-09-28 04:28:42] E-Mail erfolgreich versandt
+[2012-09-28 04:28:46] *** Starte Loeschen der angeforderten Datei
+[2012-09-28 04:28:46] Ermittle Benutzer und Datei
+[2012-09-28 04:28:46] Benutzer "n.fiedler" gefunden
+[2012-09-28 04:28:46] Die Datei "index.php" nicht mehr vorhanden
+[2012-09-28 04:32:22] *** Starte Download der angeforderten Datei
+[2012-09-28 04:32:22] Benutzer "a-bochannek" gefunden
+[2012-09-28 04:32:22] Datei "44301010_Suedtiroler_Bauernhof.pdf" gefunden
+[2012-09-28 04:32:22] Download von "44301010_Suedtiroler_Bauernhof.pdf"
+[2012-09-28 04:32:32] *** Starte Download der angeforderten Datei
+[2012-09-28 04:32:33] Benutzer "a-bochannek" gefunden
+[2012-09-28 04:32:33] Datei "44301010_Suedtiroler_Bauernhof.pdf" gefunden
+[2012-09-28 04:32:33] Download von "44301010_Suedtiroler_Bauernhof.pdf"
+[2012-09-28 04:33:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-28 04:33:16] Benutzer: a-bochannek
+[2012-09-28 04:33:16] E-Mail: a.bochannek@otterbach.de
+[2012-09-28 04:33:16] Datei: 44301010_Suedtiroler_Bauernhof.pdf
+[2012-09-28 04:33:18] E-Mail wurde versandt
+[2012-09-28 04:34:27] *** Starte Download der angeforderten Datei
+[2012-09-28 04:34:27] Benutzer "a-bochannek" gefunden
+[2012-09-28 04:34:27] Datei "44301010_Suedtiroler_Bauernhof.pdf" gefunden
+[2012-09-28 04:34:27] Download von "44301010_Suedtiroler_Bauernhof.pdf"
+[2012-09-28 04:34:27] *** Starte Download der angeforderten Datei
+[2012-09-28 04:34:27] Benutzer "a-bochannek" gefunden
+[2012-09-28 04:34:27] Datei "44301010_Suedtiroler_Bauernhof.pdf" gefunden
+[2012-09-28 04:34:27] Download von "44301010_Suedtiroler_Bauernhof.pdf"
+[2012-09-28 04:35:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-09-28 04:35:11] Benutzer: a-bochannek
+[2012-09-28 04:35:11] E-Mail: a.bochannek@otterbach.de
+[2012-09-28 04:35:11] Datei: 44301010_Suedtiroler_Bauernhof.pdf
+[2012-09-28 04:35:12] E-Mail wurde versandt
+[2012-09-29 08:02:38] *** Starte Loeschen der angeforderten Datei
+[2012-09-29 08:02:38] Ermittle Benutzer und Datei
+[2012-09-29 08:02:38] Benutzer "n.fiedler" gefunden
+[2012-09-29 08:02:38] Die Datei "index.php" nicht mehr vorhanden

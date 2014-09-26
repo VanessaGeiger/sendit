@@ -1,0 +1,467 @@
+[2013-12-02 10:30:30] *** Starte Download der angeforderten Datei
+[2013-12-02 10:30:30] Benutzer "bitburger" gefunden
+[2013-12-02 10:30:30] Datei "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf" gefunden
+[2013-12-02 10:30:30] Download von "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf"
+[2013-12-02 10:30:30] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 10:30:30] Benutzer: bitburger
+[2013-12-02 10:30:30] E-Mail: bitburger@otterbach.de
+[2013-12-02 10:30:30] Datei: Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf
+[2013-12-02 10:30:30] E-Mail wurde versandt
+[2013-12-02 10:31:21] *** Starte Download der angeforderten Datei
+[2013-12-02 10:31:21] Benutzer "k-wais" gefunden
+[2013-12-02 10:31:21] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 10:31:21] Download von "GH01_ES_Low.zip"
+[2013-12-02 10:31:23] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 10:31:23] Benutzer: k-wais
+[2013-12-02 10:31:23] E-Mail: k.wais@otterbach.de
+[2013-12-02 10:31:23] Datei: GH01_ES_Low.zip
+[2013-12-02 10:31:23] E-Mail wurde versandt
+[2013-12-02 10:31:42] *** Starte Download der angeforderten Datei
+[2013-12-02 10:31:42] Benutzer "k-wais" gefunden
+[2013-12-02 10:31:42] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 10:31:42] Download von "GH01_ES_Low.zip"
+[2013-12-02 10:31:42] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 10:31:42] Benutzer: k-wais
+[2013-12-02 10:31:42] E-Mail: k.wais@otterbach.de
+[2013-12-02 10:31:42] Datei: GH01_ES_Low.zip
+[2013-12-02 10:31:42] E-Mail wurde versandt
+[2013-12-02 10:32:06] *** Starte Download der angeforderten Datei
+[2013-12-02 10:32:06] Benutzer "bitburger" gefunden
+[2013-12-02 10:32:06] Datei "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf" gefunden
+[2013-12-02 10:32:06] Download von "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf"
+[2013-12-02 10:32:06] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 10:32:06] Benutzer: bitburger
+[2013-12-02 10:32:06] E-Mail: bitburger@otterbach.de
+[2013-12-02 10:32:06] Datei: Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf
+[2013-12-02 10:32:06] E-Mail wurde versandt
+[2013-12-02 10:32:27] *** Starte Download der angeforderten Datei
+[2013-12-02 10:32:27] Benutzer "k-wais" gefunden
+[2013-12-02 10:32:27] Datei "GH01_ES_Gesamt_High.pdf.zip" gefunden
+[2013-12-02 10:32:27] Download von "GH01_ES_Gesamt_High.pdf.zip"
+[2013-12-02 10:32:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 10:32:50] Benutzer: k-wais
+[2013-12-02 10:32:50] E-Mail: k.wais@otterbach.de
+[2013-12-02 10:32:50] Datei: GH01_ES_Gesamt_High.pdf.zip
+[2013-12-02 10:32:50] E-Mail wurde versandt
+[2013-12-02 11:09:14] *** Starte Download der angeforderten Datei
+[2013-12-02 11:09:14] Benutzer "sbr" gefunden
+[2013-12-02 11:09:14] Datei "Teaser.zip" gefunden
+[2013-12-02 11:09:14] Download von "Teaser.zip"
+[2013-12-02 11:09:15] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 11:09:15] Benutzer: sbr
+[2013-12-02 11:09:15] E-Mail: s.benz-reichel@otterbach.de
+[2013-12-02 11:09:15] Datei: Teaser.zip
+[2013-12-02 11:09:15] E-Mail wurde versandt
+[2013-12-02 11:40:16] *** Starte Download der angeforderten Datei
+[2013-12-02 11:40:16] Benutzer "bitburger" gefunden
+[2013-12-02 11:40:16] Datei "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf" gefunden
+[2013-12-02 11:40:16] Download von "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf"
+[2013-12-02 11:40:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 11:40:17] Benutzer: bitburger
+[2013-12-02 11:40:17] E-Mail: bitburger@otterbach.de
+[2013-12-02 11:40:17] Datei: Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf
+[2013-12-02 11:40:17] E-Mail wurde versandt
+[2013-12-02 11:42:20] *** Starte Download der angeforderten Datei
+[2013-12-02 11:42:20] Benutzer "bitburger" gefunden
+[2013-12-02 11:42:20] Datei "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf" gefunden
+[2013-12-02 11:42:20] Download von "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf"
+[2013-12-02 11:42:29] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 11:42:29] Benutzer: bitburger
+[2013-12-02 11:42:29] E-Mail: bitburger@otterbach.de
+[2013-12-02 11:42:29] Datei: Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf
+[2013-12-02 11:42:29] E-Mail wurde versandt
+[2013-12-02 11:42:55] *** Starte Download der angeforderten Datei
+[2013-12-02 11:42:55] Benutzer "bitburger" gefunden
+[2013-12-02 11:42:55] Datei "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf" gefunden
+[2013-12-02 11:42:55] Download von "Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf"
+[2013-12-02 11:43:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 11:43:16] Benutzer: bitburger
+[2013-12-02 11:43:16] E-Mail: bitburger@otterbach.de
+[2013-12-02 11:43:16] Datei: Bitb_0_0_N11_3er_CopytextKorr_SportInForm12_210x297+3_PDFx3.pdf
+[2013-12-02 11:43:16] E-Mail wurde versandt
+[2013-12-02 02:18:07] *** Starte Download der angeforderten Datei
+[2013-12-02 02:18:07] Benutzer "k-wais" gefunden
+[2013-12-02 02:18:07] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 02:18:07] Download von "GH01_ES_Low.zip"
+[2013-12-02 02:18:08] *** Starte Download der angeforderten Datei
+[2013-12-02 02:18:08] Benutzer "k-wais" gefunden
+[2013-12-02 02:18:08] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 02:18:08] Download von "GH01_ES_Low.zip"
+[2013-12-02 02:18:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:18:10] Benutzer: k-wais
+[2013-12-02 02:18:10] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:18:10] Datei: GH01_ES_Low.zip
+[2013-12-02 02:18:10] E-Mail wurde versandt
+[2013-12-02 02:18:16] *** Starte Download der angeforderten Datei
+[2013-12-02 02:18:16] Benutzer "k-wais" gefunden
+[2013-12-02 02:18:16] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 02:18:16] Download von "GH01_ES_Low.zip"
+[2013-12-02 02:18:19] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:18:19] Benutzer: k-wais
+[2013-12-02 02:18:19] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:18:19] Datei: GH01_ES_Low.zip
+[2013-12-02 02:18:19] E-Mail wurde versandt
+[2013-12-02 02:18:36] *** Starte Download der angeforderten Datei
+[2013-12-02 02:18:36] Benutzer "k-wais" gefunden
+[2013-12-02 02:18:36] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 02:18:36] Download von "GH01_ES_Low.zip"
+[2013-12-02 02:18:40] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:18:40] Benutzer: k-wais
+[2013-12-02 02:18:40] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:18:40] Datei: GH01_ES_Low.zip
+[2013-12-02 02:18:40] E-Mail wurde versandt
+[2013-12-02 02:18:51] *** Starte Download der angeforderten Datei
+[2013-12-02 02:18:51] Benutzer "k-wais" gefunden
+[2013-12-02 02:18:51] Datei "GH01_ES_Gesamt_Low.pdf" gefunden
+[2013-12-02 02:18:51] Download von "GH01_ES_Gesamt_Low.pdf"
+[2013-12-02 02:18:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:18:55] Benutzer: k-wais
+[2013-12-02 02:18:55] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:18:55] Datei: GH01_ES_Gesamt_Low.pdf
+[2013-12-02 02:18:55] E-Mail wurde versandt
+[2013-12-02 02:19:06] *** Starte Download der angeforderten Datei
+[2013-12-02 02:19:06] Benutzer "k-wais" gefunden
+[2013-12-02 02:19:06] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 02:19:06] Download von "GH01_ES_Low.zip"
+[2013-12-02 02:19:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:19:11] Benutzer: k-wais
+[2013-12-02 02:19:11] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:19:11] Datei: GH01_ES_Low.zip
+[2013-12-02 02:19:11] E-Mail wurde versandt
+[2013-12-02 02:23:23] *** Starte Loeschen der angeforderten Datei
+[2013-12-02 02:23:23] Ermittle Benutzer und Datei
+[2013-12-02 02:23:23] Benutzer "k-wais" gefunden
+[2013-12-02 02:23:23] Datei "GH01_ES_Gesamt_High.pdf.zip" gefunden
+[2013-12-02 02:23:23] Die Datei "GH01_ES_Gesamt_High.pdf.zip" wurde erfolgreich geloescht
+[2013-12-02 02:24:16] *** Starte Download der angeforderten Datei
+[2013-12-02 02:24:16] Benutzer "k-wais" gefunden
+[2013-12-02 02:24:16] Angeforderte Datei wurde nicht gefunden
+[2013-12-02 02:24:16] Download der Datei gescheitert
+[2013-12-02 02:24:26] *** Starte Download der angeforderten Datei
+[2013-12-02 02:24:26] Benutzer "k-wais" gefunden
+[2013-12-02 02:24:26] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 02:24:26] Download von "GH01_ES_Low.zip"
+[2013-12-02 02:24:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:24:26] Benutzer: k-wais
+[2013-12-02 02:24:26] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:24:26] Datei: GH01_ES_Low.zip
+[2013-12-02 02:24:26] E-Mail wurde versandt
+[2013-12-02 02:24:50] *** Starte Download der angeforderten Datei
+[2013-12-02 02:24:50] Benutzer "k-wais" gefunden
+[2013-12-02 02:24:50] Angeforderte Datei wurde nicht gefunden
+[2013-12-02 02:24:50] Download der Datei gescheitert
+[2013-12-02 02:24:58] *** Starte Download der angeforderten Datei
+[2013-12-02 02:24:58] Benutzer "k-wais" gefunden
+[2013-12-02 02:24:58] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 02:24:58] Download von "GH01_ES_Low.zip"
+[2013-12-02 02:24:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:24:58] Benutzer: k-wais
+[2013-12-02 02:24:58] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:24:58] Datei: GH01_ES_Low.zip
+[2013-12-02 02:24:58] E-Mail wurde versandt
+[2013-12-02 02:25:59] *** Starte Upload der Datei ***
+[2013-12-02 02:25:59] Datei: uploads/k-wais/GH01_ES_Low.zip
+[2013-12-02 02:25:59] Groesse: 13638632 Bytes
+[2013-12-02 02:25:59] Upload von "uploads/k-wais/GH01_ES_Low.zip" erfolgreich abgeschlossen
+[2013-12-02 02:25:59] Zugriffsrechte von "uploads/k-wais/GH01_ES_Low.zip" geaendert (0755)
+[2013-12-02 02:25:59] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-02 02:25:59] Absender: Karin Wais
+[2013-12-02 02:25:59] Empfaenger: k.wais@otterbach.de
+[2013-12-02 02:25:59] E-Mail erfolgreich versandt
+[2013-12-02 02:26:26] *** Starte Upload der Datei ***
+[2013-12-02 02:26:26] Datei: uploads/k-wais/GH01_ES_Gesamt_Low.pdf.zip
+[2013-12-02 02:26:26] Groesse: 16507716 Bytes
+[2013-12-02 02:26:26] Upload von "uploads/k-wais/GH01_ES_Gesamt_Low.pdf.zip" erfolgreich abgeschlossen
+[2013-12-02 02:26:26] Zugriffsrechte von "uploads/k-wais/GH01_ES_Gesamt_Low.pdf.zip" geaendert (0755)
+[2013-12-02 02:26:26] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-02 02:26:26] Absender: Karin Wais
+[2013-12-02 02:26:26] Empfaenger: k.wais@otterbach.de
+[2013-12-02 02:26:26] E-Mail erfolgreich versandt
+[2013-12-02 02:26:46] *** Starte Upload der Datei ***
+[2013-12-02 02:26:46] Datei: uploads/k-wais/GH01_ES_Gesamt_High.pdf.zip
+[2013-12-02 02:26:46] Groesse: 106027970 Bytes
+[2013-12-02 02:26:46] Upload von "uploads/k-wais/GH01_ES_Gesamt_High.pdf.zip" erfolgreich abgeschlossen
+[2013-12-02 02:26:46] Zugriffsrechte von "uploads/k-wais/GH01_ES_Gesamt_High.pdf.zip" geaendert (0755)
+[2013-12-02 02:26:46] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-02 02:26:46] Absender: Karin Wais
+[2013-12-02 02:26:46] Empfaenger: k.wais@otterbach.de
+[2013-12-02 02:26:48] E-Mail erfolgreich versandt
+[2013-12-02 02:27:26] *** Starte Upload der Datei ***
+[2013-12-02 02:27:26] Datei: uploads/k-wais/GH1_DS_Gesamt_Low.pdf.zip
+[2013-12-02 02:27:26] Groesse: 15876882 Bytes
+[2013-12-02 02:27:26] Upload von "uploads/k-wais/GH1_DS_Gesamt_Low.pdf.zip" erfolgreich abgeschlossen
+[2013-12-02 02:27:26] Zugriffsrechte von "uploads/k-wais/GH1_DS_Gesamt_Low.pdf.zip" geaendert (0755)
+[2013-12-02 02:27:26] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-02 02:27:26] Absender: Karin Wais
+[2013-12-02 02:27:26] Empfaenger: k.wais@otterbach.de
+[2013-12-02 02:27:26] E-Mail erfolgreich versandt
+[2013-12-02 02:27:42] *** Starte Upload der Datei ***
+[2013-12-02 02:27:42] Datei: uploads/c-eberle/Max_Balance-Akt_Bruecke_43cm.zip
+[2013-12-02 02:27:42] Groesse: 23627214 Bytes
+[2013-12-02 02:27:42] Upload von "uploads/c-eberle/Max_Balance-Akt_Bruecke_43cm.zip" erfolgreich abgeschlossen
+[2013-12-02 02:27:42] Zugriffsrechte von "uploads/c-eberle/Max_Balance-Akt_Bruecke_43cm.zip" geaendert (0755)
+[2013-12-02 02:27:42] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-02 02:27:42] Absender: Clarissa Eberle
+[2013-12-02 02:27:42] Empfaenger: Thorsten.Buehn@deutschebahn.com, max.maulwurf@deutschebahn.com, c.eberle@otterbach.de
+[2013-12-02 02:27:43] E-Mail erfolgreich versandt
+[2013-12-02 02:27:50] *** Starte Upload der Datei ***
+[2013-12-02 02:27:50] Datei: uploads/k-wais/GH1_DS_Gesamt_High.pdf.zip
+[2013-12-02 02:27:50] Groesse: 93004741 Bytes
+[2013-12-02 02:27:51] Upload von "uploads/k-wais/GH1_DS_Gesamt_High.pdf.zip" erfolgreich abgeschlossen
+[2013-12-02 02:27:51] Zugriffsrechte von "uploads/k-wais/GH1_DS_Gesamt_High.pdf.zip" geaendert (0755)
+[2013-12-02 02:27:51] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-02 02:27:51] Absender: Karin Wais
+[2013-12-02 02:27:51] Empfaenger: k.wais@otterbach.de
+[2013-12-02 02:27:52] E-Mail erfolgreich versandt
+[2013-12-02 02:28:08] *** Starte Download der angeforderten Datei
+[2013-12-02 02:28:08] Benutzer "k-wais" gefunden
+[2013-12-02 02:28:08] Datei "GH1_DS_Gesamt_High.pdf.zip" gefunden
+[2013-12-02 02:28:08] Download von "GH1_DS_Gesamt_High.pdf.zip"
+[2013-12-02 02:28:09] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:28:09] Benutzer: k-wais
+[2013-12-02 02:28:09] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:28:09] Datei: GH1_DS_Gesamt_High.pdf.zip
+[2013-12-02 02:28:09] E-Mail wurde versandt
+[2013-12-02 02:28:20] *** Starte Download der angeforderten Datei
+[2013-12-02 02:28:20] Benutzer "k-wais" gefunden
+[2013-12-02 02:28:20] Datei "GH1_DS_Gesamt_Low.pdf.zip" gefunden
+[2013-12-02 02:28:20] Download von "GH1_DS_Gesamt_Low.pdf.zip"
+[2013-12-02 02:28:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:28:21] Benutzer: k-wais
+[2013-12-02 02:28:21] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:28:21] Datei: GH1_DS_Gesamt_Low.pdf.zip
+[2013-12-02 02:28:21] E-Mail wurde versandt
+[2013-12-02 02:28:29] *** Starte Download der angeforderten Datei
+[2013-12-02 02:28:29] Benutzer "k-wais" gefunden
+[2013-12-02 02:28:29] Datei "GH01_ES_Gesamt_High.pdf.zip" gefunden
+[2013-12-02 02:28:29] Download von "GH01_ES_Gesamt_High.pdf.zip"
+[2013-12-02 02:28:30] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:28:30] Benutzer: k-wais
+[2013-12-02 02:28:30] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:28:30] Datei: GH01_ES_Gesamt_High.pdf.zip
+[2013-12-02 02:28:30] E-Mail wurde versandt
+[2013-12-02 02:28:36] *** Starte Download der angeforderten Datei
+[2013-12-02 02:28:36] Benutzer "k-wais" gefunden
+[2013-12-02 02:28:36] Datei "GH01_ES_Gesamt_Low.pdf.zip" gefunden
+[2013-12-02 02:28:36] Download von "GH01_ES_Gesamt_Low.pdf.zip"
+[2013-12-02 02:28:36] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:28:36] Benutzer: k-wais
+[2013-12-02 02:28:36] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:28:36] Datei: GH01_ES_Gesamt_Low.pdf.zip
+[2013-12-02 02:28:36] E-Mail wurde versandt
+[2013-12-02 02:28:44] *** Starte Download der angeforderten Datei
+[2013-12-02 02:28:44] Benutzer "k-wais" gefunden
+[2013-12-02 02:28:44] Datei "GH01_ES_Low.zip" gefunden
+[2013-12-02 02:28:44] Download von "GH01_ES_Low.zip"
+[2013-12-02 02:28:45] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:28:45] Benutzer: k-wais
+[2013-12-02 02:28:45] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:28:45] Datei: GH01_ES_Low.zip
+[2013-12-02 02:28:45] E-Mail wurde versandt
+[2013-12-02 02:28:48] *** Starte Download der angeforderten Datei
+[2013-12-02 02:28:48] Benutzer "k-wais" gefunden
+[2013-12-02 02:28:48] Datei "GH01_ES_Gesamt_High.pdf.zip" gefunden
+[2013-12-02 02:28:48] Download von "GH01_ES_Gesamt_High.pdf.zip"
+[2013-12-02 02:28:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:28:50] Benutzer: k-wais
+[2013-12-02 02:28:50] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:28:50] Datei: GH01_ES_Gesamt_High.pdf.zip
+[2013-12-02 02:28:50] E-Mail wurde versandt
+[2013-12-02 02:31:19] *** Starte Download der angeforderten Datei
+[2013-12-02 02:31:19] Benutzer "k-wais" gefunden
+[2013-12-02 02:31:19] Datei "GH01_ES_Gesamt_High.pdf.zip" gefunden
+[2013-12-02 02:31:19] Download von "GH01_ES_Gesamt_High.pdf.zip"
+[2013-12-02 02:31:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 02:31:21] Benutzer: k-wais
+[2013-12-02 02:31:21] E-Mail: k.wais@otterbach.de
+[2013-12-02 02:31:21] Datei: GH01_ES_Gesamt_High.pdf.zip
+[2013-12-02 02:31:21] E-Mail wurde versandt
+[2013-12-02 03:01:48] *** Starte Download der angeforderten Datei
+[2013-12-02 03:01:48] Benutzer "k-wais" gefunden
+[2013-12-02 03:01:48] Datei "GH1_DS_Gesamt_Low.pdf.zip" gefunden
+[2013-12-02 03:01:48] Download von "GH1_DS_Gesamt_Low.pdf.zip"
+[2013-12-02 03:01:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 03:01:50] Benutzer: k-wais
+[2013-12-02 03:01:50] E-Mail: k.wais@otterbach.de
+[2013-12-02 03:01:50] Datei: GH1_DS_Gesamt_Low.pdf.zip
+[2013-12-02 03:01:50] E-Mail wurde versandt
+[2013-12-02 03:01:58] *** Starte Download der angeforderten Datei
+[2013-12-02 03:01:58] Benutzer "k-wais" gefunden
+[2013-12-02 03:01:58] Datei "GH01_ES_Gesamt_Low.pdf.zip" gefunden
+[2013-12-02 03:01:58] Download von "GH01_ES_Gesamt_Low.pdf.zip"
+[2013-12-02 03:01:58] *** Starte Download der angeforderten Datei
+[2013-12-02 03:01:58] Benutzer "k-wais" gefunden
+[2013-12-02 03:01:58] Datei "GH01_ES_Gesamt_Low.pdf.zip" gefunden
+[2013-12-02 03:01:58] Download von "GH01_ES_Gesamt_Low.pdf.zip"
+[2013-12-02 03:02:01] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 03:02:01] Benutzer: k-wais
+[2013-12-02 03:02:01] E-Mail: k.wais@otterbach.de
+[2013-12-02 03:02:01] Datei: GH01_ES_Gesamt_Low.pdf.zip
+[2013-12-02 03:02:01] E-Mail wurde versandt
+[2013-12-02 03:02:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 03:02:02] Benutzer: k-wais
+[2013-12-02 03:02:02] E-Mail: k.wais@otterbach.de
+[2013-12-02 03:02:02] Datei: GH01_ES_Gesamt_Low.pdf.zip
+[2013-12-02 03:02:02] E-Mail wurde versandt
+[2013-12-02 03:02:12] *** Starte Download der angeforderten Datei
+[2013-12-02 03:02:12] Benutzer "k-wais" gefunden
+[2013-12-02 03:02:12] Datei "GH01_ES_Gesamt_High.pdf.zip" gefunden
+[2013-12-02 03:02:12] Download von "GH01_ES_Gesamt_High.pdf.zip"
+[2013-12-02 03:02:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 03:02:26] Benutzer: k-wais
+[2013-12-02 03:02:26] E-Mail: k.wais@otterbach.de
+[2013-12-02 03:02:26] Datei: GH01_ES_Gesamt_High.pdf.zip
+[2013-12-02 03:02:26] E-Mail wurde versandt
+[2013-12-02 03:17:00] *** Starte Download der angeforderten Datei
+[2013-12-02 03:17:00] Benutzer "k-wais" gefunden
+[2013-12-02 03:17:00] Datei "GH1_DS_Gesamt_Low.pdf.zip" gefunden
+[2013-12-02 03:17:00] Download von "GH1_DS_Gesamt_Low.pdf.zip"
+[2013-12-02 03:17:00] *** Starte Download der angeforderten Datei
+[2013-12-02 03:17:00] Benutzer "k-wais" gefunden
+[2013-12-02 03:17:00] Datei "GH1_DS_Gesamt_Low.pdf.zip" gefunden
+[2013-12-02 03:17:00] Download von "GH1_DS_Gesamt_Low.pdf.zip"
+[2013-12-02 03:17:03] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 03:17:03] Benutzer: k-wais
+[2013-12-02 03:17:03] E-Mail: k.wais@otterbach.de
+[2013-12-02 03:17:03] Datei: GH1_DS_Gesamt_Low.pdf.zip
+[2013-12-02 03:17:03] E-Mail wurde versandt
+[2013-12-02 03:36:36] *** Starte Download der angeforderten Datei
+[2013-12-02 03:36:36] Benutzer "concept" gefunden
+[2013-12-02 03:36:36] Angeforderte Datei wurde nicht gefunden
+[2013-12-02 03:36:36] Download der Datei gescheitert
+[2013-12-02 04:02:50] *** Starte Download der angeforderten Datei
+[2013-12-02 04:02:50] Benutzer "c-eberle" gefunden
+[2013-12-02 04:02:50] Datei "Max_Balance-Akt_Bruecke_43cm.zip" gefunden
+[2013-12-02 04:02:50] Download von "Max_Balance-Akt_Bruecke_43cm.zip"
+[2013-12-02 04:03:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 04:03:00] Benutzer: c-eberle
+[2013-12-02 04:03:00] E-Mail: c.eberle@otterbach.de
+[2013-12-02 04:03:00] Datei: Max_Balance-Akt_Bruecke_43cm.zip
+[2013-12-02 04:03:00] E-Mail wurde versandt
+[2013-12-02 05:07:07] *** Starte Upload der Datei ***
+[2013-12-02 05:07:07] Datei: uploads/concept/mail_gewinnbenachrichtigung_advent2013_2.zip
+[2013-12-02 05:07:07] Groesse: 52979873 Bytes
+[2013-12-02 05:07:07] Upload von "uploads/concept/mail_gewinnbenachrichtigung_advent2013_2.zip" erfolgreich abgeschlossen
+[2013-12-02 05:07:07] Zugriffsrechte von "uploads/concept/mail_gewinnbenachrichtigung_advent2013_2.zip" geaendert (0755)
+[2013-12-02 05:07:07] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-02 05:07:07] Absender: Otterbach Concept
+[2013-12-02 05:07:07] Empfaenger: e.kul@otterbach.de
+[2013-12-02 05:07:08] E-Mail erfolgreich versandt
+[2013-12-02 05:07:18] *** Starte Download der angeforderten Datei
+[2013-12-02 05:07:18] Benutzer "concept" gefunden
+[2013-12-02 05:07:18] Datei "mail_gewinnbenachrichtigung_advent2013_2.zip" gefunden
+[2013-12-02 05:07:18] Download von "mail_gewinnbenachrichtigung_advent2013_2.zip"
+[2013-12-02 05:07:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-02 05:07:33] Benutzer: concept
+[2013-12-02 05:07:33] E-Mail: jetzt@gas-gebbe.de
+[2013-12-02 05:07:33] Datei: mail_gewinnbenachrichtigung_advent2013_2.zip
+[2013-12-02 05:07:33] E-Mail wurde versandt
+[2013-12-03 09:04:12] *** Starte Download der angeforderten Datei
+[2013-12-03 09:04:12] Benutzer "j-maske" gefunden
+[2013-12-03 09:04:12] Datei "netproject.20131127.tar.bz2" gefunden
+[2013-12-03 09:04:12] Download von "netproject.20131127.tar.bz2"
+[2013-12-03 09:04:14] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-03 09:04:14] Benutzer: j-maske
+[2013-12-03 09:04:14] E-Mail: j.maske@otterbach.de
+[2013-12-03 09:04:14] Datei: netproject.20131127.tar.bz2
+[2013-12-03 09:04:14] E-Mail wurde versandt
+[2013-12-03 09:32:50] *** Starte Download der angeforderten Datei
+[2013-12-03 09:32:50] Benutzer "j-maske" gefunden
+[2013-12-03 09:32:50] Datei "np_medien.20131127.sql.bz2" gefunden
+[2013-12-03 09:32:50] Download von "np_medien.20131127.sql.bz2"
+[2013-12-03 09:32:52] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-03 09:32:52] Benutzer: j-maske
+[2013-12-03 09:32:52] E-Mail: j.maske@otterbach.de
+[2013-12-03 09:32:52] Datei: np_medien.20131127.sql.bz2
+[2013-12-03 09:32:52] E-Mail wurde versandt
+[2013-12-03 09:34:34] *** Starte Loeschen der angeforderten Datei
+[2013-12-03 09:34:34] Ermittle Benutzer und Datei
+[2013-12-03 09:34:34] Benutzer "a-curreri" gefunden
+[2013-12-03 09:34:34] Datei "Flaschen_Draufsicht_an_RTT.zip" gefunden
+[2013-12-03 09:34:34] Die Datei "Flaschen_Draufsicht_an_RTT.zip" wurde erfolgreich geloescht
+[2013-12-03 10:18:06] *** Starte Upload der Datei ***
+[2013-12-03 10:18:06] Datei: uploads/concept/inneov-Wissenstest_Korrekturen.pdf.zip
+[2013-12-03 10:18:06] Groesse: 4507969 Bytes
+[2013-12-03 10:18:06] Upload von "uploads/concept/inneov-Wissenstest_Korrekturen.pdf.zip" erfolgreich abgeschlossen
+[2013-12-03 10:18:06] Zugriffsrechte von "uploads/concept/inneov-Wissenstest_Korrekturen.pdf.zip" geaendert (0755)
+[2013-12-03 10:18:06] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-03 10:18:06] Absender: Otterbach Concept
+[2013-12-03 10:18:06] Empfaenger: c.schmidt@otterbach.de
+[2013-12-03 10:18:06] E-Mail erfolgreich versandt
+[2013-12-03 10:20:50] *** Starte Upload der Datei ***
+[2013-12-03 10:20:50] Datei: uploads/bitburger/Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf
+[2013-12-03 10:20:50] Groesse: 7480686 Bytes
+[2013-12-03 10:20:50] Upload von "uploads/bitburger/Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-12-03 10:20:50] Zugriffsrechte von "uploads/bitburger/Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf" geaendert (0755)
+[2013-12-03 10:20:50] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-03 10:20:50] Absender: Otterbach Team
+[2013-12-03 10:20:50] Empfaenger: c.eberle@otterbach.de
+[2013-12-03 10:20:50] E-Mail erfolgreich versandt
+[2013-12-03 10:55:06] *** Starte Upload der Datei ***
+[2013-12-03 10:55:06] Datei: uploads/a-curreri/VWN_CGI_Motiv3_Spiegelung.psd.zip
+[2013-12-03 10:55:06] Groesse: 226715555 Bytes
+[2013-12-03 10:55:06] Upload von "uploads/a-curreri/VWN_CGI_Motiv3_Spiegelung.psd.zip" erfolgreich abgeschlossen
+[2013-12-03 10:55:06] Zugriffsrechte von "uploads/a-curreri/VWN_CGI_Motiv3_Spiegelung.psd.zip" geaendert (0755)
+[2013-12-03 10:55:06] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-12-03 10:55:06] Absender: Alfons Curreri
+[2013-12-03 10:55:06] Empfaenger: a.curreri@otterbach.de
+[2013-12-03 10:55:06] E-Mail erfolgreich versandt
+[2013-12-03 10:58:32] *** Starte Download der angeforderten Datei
+[2013-12-03 10:58:32] Benutzer "a-curreri" gefunden
+[2013-12-03 10:58:32] Datei "VWN_CGI_Motiv3_Spiegelung.psd.zip" gefunden
+[2013-12-03 10:58:32] Download von "VWN_CGI_Motiv3_Spiegelung.psd.zip"
+[2013-12-03 10:58:33] *** Starte Download der angeforderten Datei
+[2013-12-03 10:58:33] Benutzer "a-curreri" gefunden
+[2013-12-03 10:58:33] Datei "VWN_CGI_Motiv3_Spiegelung.psd.zip" gefunden
+[2013-12-03 10:58:33] Download von "VWN_CGI_Motiv3_Spiegelung.psd.zip"
+[2013-12-03 11:02:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-03 11:02:11] Benutzer: a-curreri
+[2013-12-03 11:02:11] E-Mail: a.curreri@otterbach.de
+[2013-12-03 11:02:11] Datei: VWN_CGI_Motiv3_Spiegelung.psd.zip
+[2013-12-03 11:02:12] E-Mail wurde versandt
+[2013-12-03 11:02:23] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-03 11:02:23] Benutzer: a-curreri
+[2013-12-03 11:02:23] E-Mail: a.curreri@otterbach.de
+[2013-12-03 11:02:23] Datei: VWN_CGI_Motiv3_Spiegelung.psd.zip
+[2013-12-03 11:02:23] E-Mail wurde versandt
+[2013-12-03 11:12:25] *** Starte Loeschen der angeforderten Datei
+[2013-12-03 11:12:25] Ermittle Benutzer und Datei
+[2013-12-03 11:12:25] Benutzer "a-curreri" gefunden
+[2013-12-03 11:12:25] Datei "VWN_CGI_Motiv3_Spiegelung.psd.zip" gefunden
+[2013-12-03 11:12:25] Die Datei "VWN_CGI_Motiv3_Spiegelung.psd.zip" wurde erfolgreich geloescht
+[2013-12-03 11:44:48] *** Starte Download der angeforderten Datei
+[2013-12-03 11:44:48] Benutzer "bitburger" gefunden
+[2013-12-03 11:44:48] Datei "Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf" gefunden
+[2013-12-03 11:44:48] Download von "Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf"
+[2013-12-03 11:44:57] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-03 11:44:57] Benutzer: bitburger
+[2013-12-03 11:44:57] E-Mail: bitburger@otterbach.de
+[2013-12-03 11:44:57] Datei: Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf
+[2013-12-03 11:44:58] E-Mail wurde versandt
+[2013-12-03 01:20:40] *** Starte Download der angeforderten Datei
+[2013-12-03 01:20:40] Benutzer "bitburger" gefunden
+[2013-12-03 01:20:40] Datei "Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf" gefunden
+[2013-12-03 01:20:40] Download von "Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf"
+[2013-12-03 01:20:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-03 01:20:50] Benutzer: bitburger
+[2013-12-03 01:20:50] E-Mail: bitburger@otterbach.de
+[2013-12-03 01:20:50] Datei: Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf
+[2013-12-03 01:20:50] E-Mail wurde versandt
+[2013-12-03 01:41:10] *** Starte Download der angeforderten Datei
+[2013-12-03 01:41:10] Benutzer "bitburger" gefunden
+[2013-12-03 01:41:10] Datei "Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf" gefunden
+[2013-12-03 01:41:10] Download von "Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf"
+[2013-12-03 01:41:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-03 01:41:28] Benutzer: bitburger
+[2013-12-03 01:41:28] E-Mail: bitburger@otterbach.de
+[2013-12-03 01:41:28] Datei: Bitb_Gastro_AZ_Bierkarte_Fizzz_234x332_ISOv2_300_PDFx3.pdf
+[2013-12-03 01:41:28] E-Mail wurde versandt
+[2013-12-03 02:25:18] *** Starte Download der angeforderten Datei
+[2013-12-03 02:25:18] Benutzer "bitburger" gefunden
+[2013-12-03 02:25:18] Datei "Bitb_0_0_N11_3er_CopytextKorr_VerbandmagSWFV_210x297+3_PDFx3.pdf" gefunden
+[2013-12-03 02:25:18] Download von "Bitb_0_0_N11_3er_CopytextKorr_VerbandmagSWFV_210x297+3_PDFx3.pdf"
+[2013-12-03 02:25:32] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-12-03 02:25:32] Benutzer: bitburger
+[2013-12-03 02:25:32] E-Mail: bitburger@otterbach.de
+[2013-12-03 02:25:32] Datei: Bitb_0_0_N11_3er_CopytextKorr_VerbandmagSWFV_210x297+3_PDFx3.pdf
+[2013-12-03 02:25:32] E-Mail wurde versandt

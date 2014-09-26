@@ -1,0 +1,39 @@
+[2011-12-23 09:03:20] *** Starte Upload der Datei ***
+[2011-12-23 09:03:20] Datei: uploads/c-neubauer/test.txt
+[2011-12-23 09:03:20] Groesse: 4 Bytes
+[2011-12-23 09:03:20] Upload von "uploads/c-neubauer/test.txt" erfolgreich abgeschlossen
+[2011-12-23 09:03:20] Zugriffsrechte von "uploads/c-neubauer/test.txt" geaendert (0755)
+[2011-12-23 09:03:20] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2011-12-23 09:03:20] Absender: Christian Neubauer
+[2011-12-23 09:03:20] Empfaenger: c.neubauer@otterbach.de
+[2011-12-23 09:03:20] E-Mail erfolgreich versandt
+[2011-12-23 10:04:25] *** Starte Upload der Datei ***
+[2011-12-23 10:04:25] Datei: uploads/c-neubauer/06_07_Styleshow.zip
+[2011-12-23 10:04:25] Groesse: 307213594 Bytes
+[2011-12-23 10:04:25] Upload von "uploads/c-neubauer/06_07_Styleshow.zip" erfolgreich abgeschlossen
+[2011-12-23 10:04:25] Zugriffsrechte von "uploads/c-neubauer/06_07_Styleshow.zip" geaendert (0755)
+[2011-12-23 10:04:25] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2011-12-23 10:04:25] Absender: Christian Neubauer
+[2011-12-23 10:04:25] Empfaenger: c.neubauer@otterbach.de
+[2011-12-23 10:04:26] E-Mail erfolgreich versandt
+[2011-12-23 11:07:08] *** Starte Upload der Datei ***
+[2011-12-23 11:07:08] Datei: uploads/c-neubauer/sendit_script.js
+[2011-12-23 11:07:08] Groesse: 3950 Bytes
+[2011-12-23 11:07:08] Upload von "uploads/c-neubauer/sendit_script.js" erfolgreich abgeschlossen
+[2011-12-23 11:07:08] Zugriffsrechte von "uploads/c-neubauer/sendit_script.js" geaendert (0755)
+[2011-12-23 11:07:08] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2011-12-23 11:07:08] Absender: Christian Neubauer
+[2011-12-23 11:07:08] Empfaenger: c.neubauer@otterbach.de
+[2011-12-23 11:07:08] E-Mail erfolgreich versandt
+[2011-12-23 05:40:35] *** Starte Upload der Datei ***
+[2011-12-23 05:40:35] Datei: uploads/m-masse/IMG_0566.MOV
+[2011-12-23 05:40:35] Groesse: 681870295 Bytes
+[2011-12-23 05:40:35] Upload von "uploads/m-masse/IMG_0566.MOV" erfolgreich abgeschlossen
+[2011-12-23 05:40:35] Zugriffsrechte von "uploads/m-masse/IMG_0566.MOV" geaendert (0755)
+[2011-12-23 05:40:35] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2011-12-23 05:40:35] Absender: Martin Massé
+[2011-12-23 05:40:35] Empfaenger: it@otterbach.de
+[2011-12-23 05:40:37] E-Mail erfolgreich versandt
+[2011-12-23 05:42:20] *** Starte Download der angeforderten Datei
+[2011-12-23 05:42:20] Benutzer "m-masse" gefunden
+[2011-12-23 05:42:20] Datei "IMG_0566.MOV" gefunden

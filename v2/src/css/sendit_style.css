@@ -1,0 +1,130 @@
+#hg {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+}
+
+#topbar {
+	z-index: 99;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	
+	width: 100%;
+	height: 39px;
+
+	border-bottom: 1px solid #000000;
+	-moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, .25);
+	-webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, .25);
+	-o-box-shadow: 0px 1px 2px rgba(0, 0, 0, .25);
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, .25);
+	
+	background-color: #333333;
+	
+	color: #bfbfbf;
+}
+
+#ui-icon-user-dark {
+	position: relative;
+	top: -5px;
+	left: -3px;
+	margin-right: 3px;
+}
+
+#topbar_user {
+	float: left;
+	
+	padding-top: 13px;
+}
+
+#topbar_user span {
+	color: #e5e5e5;
+	font-size: 11px;
+}
+
+#topbar_user span#topbar_mail {
+	color: #808080;
+	font-style: italic;
+}
+
+#logout {
+	position: relative;
+	
+	width: 400px;
+	margin: 0px auto;
+}
+
+#abmelden {
+	float: right;
+	
+	margin-top: 6px;
+}
+
+#ui-icon-user-dark {
+	float: left;
+}
+
+#wrapper {
+	position: relative;
+	
+	width: 400px;
+	margin: 0px auto;
+	padding-top: 40px;
+	margin-top: 40px;
+}
+
+#header {
+	display: block;
+	float: right;
+	position: relative;
+	
+	margin-bottom: 35px;
+}
+
+#logo {
+	display: block;
+	position: relative;
+	top: -9px;
+	right: -30px;
+}
+
+#titel {
+	display: block;
+	float: right;
+	font-size: 14px;
+}
+
+.empfaenger {
+	margin-top: 3px;
+}
+
+.empfaenger .ui-input {
+	float: left;
+}
+
+.empfaenger .ui-icon {
+	float: left;
+	display: inline;
+
+	margin-left: 2px;
+}
+
+.empfaenger .ui-icon-plus {
+	margin-left: 7px;
+}
+
+.empfaenger .ui-icon-minus {
+	display: none;
+}
+
+.nachricht {
+	margin-top: 4px;
+}
+
+#senden {
+	float: right;
+}
+
+#dateiuploadbar {
+	display: none;
+}

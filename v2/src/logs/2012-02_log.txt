@@ -1,0 +1,1705 @@
+[2012-02-01 09:16:18] *** Starte Download der angeforderten Datei
+[2012-02-01 09:16:18] Benutzer "h-speth" gefunden
+[2012-02-01 09:16:18] Datei "images.zip" gefunden
+[2012-02-01 09:18:14] Download von "images.zip"
+[2012-02-01 09:18:14] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 09:18:14] Benutzer: h-speth
+[2012-02-01 09:18:14] E-Mail: h.speth@otterbach.de
+[2012-02-01 09:18:14] Datei: images.zip
+[2012-02-01 09:18:14] E-Mail wurde versandt
+[2012-02-01 09:19:06] *** Starte Download der angeforderten Datei
+[2012-02-01 09:19:06] Benutzer "h-speth" gefunden
+[2012-02-01 09:19:06] Datei "scene_2.zip" gefunden
+[2012-02-01 09:23:06] Download von "scene_2.zip"
+[2012-02-01 09:23:06] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 09:23:06] Benutzer: h-speth
+[2012-02-01 09:23:06] E-Mail: h.speth@otterbach.de
+[2012-02-01 09:23:06] Datei: scene_2.zip
+[2012-02-01 09:23:06] E-Mail wurde versandt
+[2012-02-01 09:24:00] *** Starte Download der angeforderten Datei
+[2012-02-01 09:24:00] Benutzer "h-speth" gefunden
+[2012-02-01 09:24:00] Datei "scene_3.zip" gefunden
+[2012-02-01 09:28:16] Download von "scene_3.zip"
+[2012-02-01 09:28:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 09:28:16] Benutzer: h-speth
+[2012-02-01 09:28:16] E-Mail: h.speth@otterbach.de
+[2012-02-01 09:28:16] Datei: scene_3.zip
+[2012-02-01 09:28:16] E-Mail wurde versandt
+[2012-02-01 09:28:42] *** Starte Download der angeforderten Datei
+[2012-02-01 09:28:42] Benutzer "h-speth" gefunden
+[2012-02-01 09:28:42] Datei "scene_4.zip" gefunden
+[2012-02-01 09:31:51] Download von "scene_4.zip"
+[2012-02-01 09:31:51] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 09:31:51] Benutzer: h-speth
+[2012-02-01 09:31:51] E-Mail: h.speth@otterbach.de
+[2012-02-01 09:31:51] Datei: scene_4.zip
+[2012-02-01 09:31:51] E-Mail wurde versandt
+[2012-02-01 09:33:41] *** Starte Download der angeforderten Datei
+[2012-02-01 09:33:41] Benutzer "h-speth" gefunden
+[2012-02-01 09:33:41] Datei "scene_2.zip" gefunden
+[2012-02-01 09:37:06] Download von "scene_2.zip"
+[2012-02-01 09:37:06] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 09:37:06] Benutzer: h-speth
+[2012-02-01 09:37:06] E-Mail: h.speth@otterbach.de
+[2012-02-01 09:37:06] Datei: scene_2.zip
+[2012-02-01 09:37:06] E-Mail wurde versandt
+[2012-02-01 09:40:06] *** Starte Download der angeforderten Datei
+[2012-02-01 09:40:06] Benutzer "h-speth" gefunden
+[2012-02-01 09:40:06] Datei "scene_3.zip" gefunden
+[2012-02-01 09:44:15] Download von "scene_3.zip"
+[2012-02-01 09:44:15] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 09:44:15] Benutzer: h-speth
+[2012-02-01 09:44:15] E-Mail: h.speth@otterbach.de
+[2012-02-01 09:44:15] Datei: scene_3.zip
+[2012-02-01 09:44:16] E-Mail wurde versandt
+[2012-02-01 09:47:25] *** Starte Download der angeforderten Datei
+[2012-02-01 09:47:25] Benutzer "h-speth" gefunden
+[2012-02-01 09:47:25] Datei "scene_4.zip" gefunden
+[2012-02-01 09:50:29] Download von "scene_4.zip"
+[2012-02-01 09:50:29] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 09:50:29] Benutzer: h-speth
+[2012-02-01 09:50:29] E-Mail: h.speth@otterbach.de
+[2012-02-01 09:50:29] Datei: scene_4.zip
+[2012-02-01 09:50:29] E-Mail wurde versandt
+[2012-02-01 09:53:50] *** Starte Download der angeforderten Datei
+[2012-02-01 09:53:50] Benutzer "h-speth" gefunden
+[2012-02-01 09:53:50] Datei "scene_5.zip" gefunden
+[2012-02-01 09:57:34] Download von "scene_5.zip"
+[2012-02-01 09:57:34] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 09:57:34] Benutzer: h-speth
+[2012-02-01 09:57:34] E-Mail: h.speth@otterbach.de
+[2012-02-01 09:57:35] Datei: scene_5.zip
+[2012-02-01 09:57:35] E-Mail wurde versandt
+[2012-02-01 10:02:14] *** Starte Download der angeforderten Datei
+[2012-02-01 10:02:14] Benutzer "h-speth" gefunden
+[2012-02-01 10:02:14] Datei "sourceimages.zip" gefunden
+[2012-02-01 10:02:20] Download von "sourceimages.zip"
+[2012-02-01 10:02:20] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 10:02:20] Benutzer: h-speth
+[2012-02-01 10:02:20] E-Mail: h.speth@otterbach.de
+[2012-02-01 10:02:20] Datei: sourceimages.zip
+[2012-02-01 10:02:20] E-Mail wurde versandt
+[2012-02-01 10:03:11] *** Starte Download der angeforderten Datei
+[2012-02-01 10:03:11] Benutzer "h-speth" gefunden
+[2012-02-01 10:03:11] Datei "images.zip" gefunden
+[2012-02-01 10:03:24] *** Starte Download der angeforderten Datei
+[2012-02-01 10:03:24] Benutzer "h-speth" gefunden
+[2012-02-01 10:03:24] Datei "images.zip" gefunden
+[2012-02-01 10:04:23] Download von "images.zip"
+[2012-02-01 10:04:23] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 10:04:23] Benutzer: h-speth
+[2012-02-01 10:04:23] E-Mail: h.speth@otterbach.de
+[2012-02-01 10:04:23] Datei: images.zip
+[2012-02-01 10:04:23] E-Mail wurde versandt
+[2012-02-01 10:22:56] *** Starte Upload der Datei ***
+[2012-02-01 10:22:56] Datei: uploads/m-stahlberger/CityLife.zip
+[2012-02-01 10:22:56] Groesse: 117382186 Bytes
+[2012-02-01 10:22:56] Upload von "uploads/m-stahlberger/CityLife.zip" erfolgreich abgeschlossen
+[2012-02-01 10:22:56] Zugriffsrechte von "uploads/m-stahlberger/CityLife.zip" geaendert (0755)
+[2012-02-01 10:22:56] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-01 10:22:56] Absender: Marina Stahlberger
+[2012-02-01 10:22:56] Empfaenger: mmeyer@kd-medienverlag.de, m.stahlberger@otterbach.de
+[2012-02-01 10:22:57] E-Mail erfolgreich versandt
+[2012-02-01 10:27:02] *** Starte Download der angeforderten Datei
+[2012-02-01 10:27:02] Benutzer "m-stahlberger" gefunden
+[2012-02-01 10:27:02] Datei "CityLife.zip" gefunden
+[2012-02-01 10:27:07] Download von "CityLife.zip"
+[2012-02-01 10:27:07] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 10:27:07] Benutzer: m-stahlberger
+[2012-02-01 10:27:07] E-Mail: m.stahlberger@otterbach.de
+[2012-02-01 10:27:07] Datei: CityLife.zip
+[2012-02-01 10:27:07] E-Mail wurde versandt
+[2012-02-01 10:35:25] *** Starte Download der angeforderten Datei
+[2012-02-01 10:35:25] Benutzer "m-stahlberger" gefunden
+[2012-02-01 10:35:25] Datei "CityLife.zip" gefunden
+[2012-02-01 10:39:43] Download von "CityLife.zip"
+[2012-02-01 10:39:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 10:39:43] Benutzer: m-stahlberger
+[2012-02-01 10:39:43] E-Mail: m.stahlberger@otterbach.de
+[2012-02-01 10:39:43] Datei: CityLife.zip
+[2012-02-01 10:39:43] E-Mail wurde versandt
+[2012-02-01 11:59:12] *** Starte Upload der Datei ***
+[2012-02-01 11:59:12] Datei: uploads/c-eberle/43cm_Max_Bautaktik.zip
+[2012-02-01 11:59:12] Groesse: 8516840 Bytes
+[2012-02-01 11:59:12] Upload von "uploads/c-eberle/43cm_Max_Bautaktik.zip" erfolgreich abgeschlossen
+[2012-02-01 11:59:12] Zugriffsrechte von "uploads/c-eberle/43cm_Max_Bautaktik.zip" geaendert (0755)
+[2012-02-01 11:59:12] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-01 11:59:12] Absender: Clarissa Eberle
+[2012-02-01 11:59:12] Empfaenger: max.maulwurf@deutschebahn.com, c.eberle@otterbach.de
+[2012-02-01 11:59:12] E-Mail erfolgreich versandt
+[2012-02-01 12:00:29] *** Starte Upload der Datei ***
+[2012-02-01 12:00:29] Datei: uploads/c-eberle/43cm_Max_2_Gleisig_Rollschuhe.zip
+[2012-02-01 12:00:29] Groesse: 8398433 Bytes
+[2012-02-01 12:00:29] Upload von "uploads/c-eberle/43cm_Max_2_Gleisig_Rollschuhe.zip" erfolgreich abgeschlossen
+[2012-02-01 12:00:29] Zugriffsrechte von "uploads/c-eberle/43cm_Max_2_Gleisig_Rollschuhe.zip" geaendert (0755)
+[2012-02-01 12:00:29] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-01 12:00:29] Absender: Clarissa Eberle
+[2012-02-01 12:00:29] Empfaenger: max.maulwurf@deutschebahn.com, c.eberle@otterbach.de
+[2012-02-01 12:00:29] E-Mail erfolgreich versandt
+[2012-02-01 04:39:41] *** Starte Loeschen der angeforderten Datei
+[2012-02-01 04:39:41] Ermittle Benutzer und Datei
+[2012-02-01 04:39:41] Benutzer "h-speth" gefunden
+[2012-02-01 04:39:41] Datei "scene_2.zip" gefunden
+[2012-02-01 04:39:45] Die Datei "scene_2.zip" wurde erfolgreich geloescht
+[2012-02-01 04:42:42] *** Starte Loeschen der angeforderten Datei
+[2012-02-01 04:42:42] Ermittle Benutzer und Datei
+[2012-02-01 04:42:42] Benutzer "h-speth" gefunden
+[2012-02-01 04:42:42] Datei "scene_3.zip" gefunden
+[2012-02-01 04:42:44] Die Datei "scene_3.zip" wurde erfolgreich geloescht
+[2012-02-01 04:42:48] *** Starte Loeschen der angeforderten Datei
+[2012-02-01 04:42:48] Ermittle Benutzer und Datei
+[2012-02-01 04:42:48] Benutzer "h-speth" gefunden
+[2012-02-01 04:42:48] Datei "scene_4.zip" gefunden
+[2012-02-01 04:42:49] Die Datei "scene_4.zip" wurde erfolgreich geloescht
+[2012-02-01 04:42:54] *** Starte Loeschen der angeforderten Datei
+[2012-02-01 04:42:54] Ermittle Benutzer und Datei
+[2012-02-01 04:42:54] Benutzer "h-speth" gefunden
+[2012-02-01 04:42:54] Die Datei "sourceimages.zip" nicht mehr vorhanden
+[2012-02-01 04:42:59] *** Starte Loeschen der angeforderten Datei
+[2012-02-01 04:42:59] Ermittle Benutzer und Datei
+[2012-02-01 04:42:59] Benutzer "h-speth" gefunden
+[2012-02-01 04:42:59] Die Datei "sourceimages.zip" nicht mehr vorhanden
+[2012-02-01 04:43:04] *** Starte Loeschen der angeforderten Datei
+[2012-02-01 04:43:04] Ermittle Benutzer und Datei
+[2012-02-01 04:43:04] Benutzer "h-speth" gefunden
+[2012-02-01 04:43:04] Die Datei "sourceimages.zip" nicht mehr vorhanden
+[2012-02-01 04:43:08] *** Starte Loeschen der angeforderten Datei
+[2012-02-01 04:43:08] Ermittle Benutzer und Datei
+[2012-02-01 04:43:08] Benutzer "h-speth" gefunden
+[2012-02-01 04:43:08] Datei "scene_5.zip" gefunden
+[2012-02-01 04:43:08] Die Datei "scene_5.zip" wurde erfolgreich geloescht
+[2012-02-01 04:43:12] *** Starte Loeschen der angeforderten Datei
+[2012-02-01 04:43:13] Ermittle Benutzer und Datei
+[2012-02-01 04:43:13] Benutzer "h-speth" gefunden
+[2012-02-01 04:43:13] Datei "sourceimages.zip" gefunden
+[2012-02-01 04:43:13] Die Datei "sourceimages.zip" wurde erfolgreich geloescht
+[2012-02-01 04:43:17] *** Starte Loeschen der angeforderten Datei
+[2012-02-01 04:43:17] Ermittle Benutzer und Datei
+[2012-02-01 04:43:17] Benutzer "h-speth" gefunden
+[2012-02-01 04:43:17] Datei "images.zip" gefunden
+[2012-02-01 04:43:17] Die Datei "images.zip" wurde erfolgreich geloescht
+[2012-02-01 05:03:06] *** Starte Upload der Datei ***
+[2012-02-01 05:03:06] Datei: uploads/a-merkel/PlanJob.zip
+[2012-02-01 05:03:06] Groesse: 17594615 Bytes
+[2012-02-01 05:03:06] Upload von "uploads/a-merkel/PlanJob.zip" erfolgreich abgeschlossen
+[2012-02-01 05:03:06] Zugriffsrechte von "uploads/a-merkel/PlanJob.zip" geaendert (0755)
+[2012-02-01 05:03:06] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-01 05:03:06] Absender: Andreas Merkel
+[2012-02-01 05:03:06] Empfaenger: martin.pulfer@kabelmail.de
+[2012-02-01 05:03:07] E-Mail erfolgreich versandt
+[2012-02-01 09:15:23] *** Starte Download der angeforderten Datei
+[2012-02-01 09:15:23] Benutzer "a-merkel" gefunden
+[2012-02-01 09:15:23] Datei "PlanJob.zip" gefunden
+[2012-02-01 09:15:46] Download von "PlanJob.zip"
+[2012-02-01 09:15:46] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-01 09:15:46] Benutzer: a-merkel
+[2012-02-01 09:15:46] E-Mail: a.merkel@otterbach.de
+[2012-02-01 09:15:46] Datei: PlanJob.zip
+[2012-02-01 09:15:46] E-Mail wurde versandt
+[2012-02-02 10:59:11] *** Starte Upload der Datei ***
+[2012-02-02 10:59:11] Datei: uploads/a-siegesmund/6304_125.zip
+[2012-02-02 10:59:11] Groesse: 43271594 Bytes
+[2012-02-02 10:59:11] Upload von "uploads/a-siegesmund/6304_125.zip" erfolgreich abgeschlossen
+[2012-02-02 10:59:11] Zugriffsrechte von "uploads/a-siegesmund/6304_125.zip" geaendert (0755)
+[2012-02-02 10:59:11] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-02 10:59:11] Absender: Alfred Siegesmund
+[2012-02-02 10:59:11] Empfaenger: shartmann@heine.de
+[2012-02-02 10:59:12] E-Mail erfolgreich versandt
+[2012-02-02 12:21:58] *** Starte Download der angeforderten Datei
+[2012-02-02 12:21:58] Benutzer "a-siegesmund" gefunden
+[2012-02-02 12:21:58] Datei "6304_125.zip" gefunden
+[2012-02-02 12:22:03] *** Starte Download der angeforderten Datei
+[2012-02-02 12:22:03] Benutzer "a-siegesmund" gefunden
+[2012-02-02 12:22:03] Datei "6304_125.zip" gefunden
+[2012-02-02 12:22:29] Download von "6304_125.zip"
+[2012-02-02 12:22:29] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-02 12:22:29] Benutzer: a-siegesmund
+[2012-02-02 12:22:29] E-Mail: a.siegesmund@otterbach.de
+[2012-02-02 12:22:29] Datei: 6304_125.zip
+[2012-02-02 12:22:29] E-Mail wurde versandt
+[2012-02-02 12:22:36] Download von "6304_125.zip"
+[2012-02-02 12:22:36] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-02 12:22:36] Benutzer: a-siegesmund
+[2012-02-02 12:22:36] E-Mail: a.siegesmund@otterbach.de
+[2012-02-02 12:22:36] Datei: 6304_125.zip
+[2012-02-02 12:22:36] E-Mail wurde versandt
+[2012-02-02 01:22:25] *** Starte Download der angeforderten Datei
+[2012-02-02 01:22:25] Benutzer "c-eberle" gefunden
+[2012-02-02 01:22:25] Datei "43cm_Bauburger.zip" gefunden
+[2012-02-02 01:22:30] Download von "43cm_Bauburger.zip"
+[2012-02-02 01:22:30] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-02 01:22:30] Benutzer: c-eberle
+[2012-02-02 01:22:30] E-Mail: c.eberle@otterbach.de
+[2012-02-02 01:22:30] Datei: 43cm_Bauburger.zip
+[2012-02-02 01:22:30] E-Mail wurde versandt
+[2012-02-02 01:40:07] *** Starte Download der angeforderten Datei
+[2012-02-02 01:40:07] Benutzer "a-siegesmund" gefunden
+[2012-02-02 01:40:07] Datei "6304_125.zip" gefunden
+[2012-02-02 01:40:11] *** Starte Download der angeforderten Datei
+[2012-02-02 01:40:11] Benutzer "a-siegesmund" gefunden
+[2012-02-02 01:40:11] Datei "6304_125.zip" gefunden
+[2012-02-02 01:40:46] Download von "6304_125.zip"
+[2012-02-02 01:40:46] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-02 01:40:46] Benutzer: a-siegesmund
+[2012-02-02 01:40:46] E-Mail: a.siegesmund@otterbach.de
+[2012-02-02 01:40:46] Datei: 6304_125.zip
+[2012-02-02 01:40:47] E-Mail wurde versandt
+[2012-02-02 01:40:54] Download von "6304_125.zip"
+[2012-02-02 01:40:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-02 01:40:54] Benutzer: a-siegesmund
+[2012-02-02 01:40:54] E-Mail: a.siegesmund@otterbach.de
+[2012-02-02 01:40:54] Datei: 6304_125.zip
+[2012-02-02 01:40:54] E-Mail wurde versandt
+[2012-02-02 01:41:18] *** Starte Download der angeforderten Datei
+[2012-02-02 01:41:18] Benutzer "a-siegesmund" gefunden
+[2012-02-02 01:41:18] Datei "6304_125.zip" gefunden
+[2012-02-02 01:41:43] Download von "6304_125.zip"
+[2012-02-02 01:41:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-02 01:41:43] Benutzer: a-siegesmund
+[2012-02-02 01:41:43] E-Mail: a.siegesmund@otterbach.de
+[2012-02-02 01:41:43] Datei: 6304_125.zip
+[2012-02-02 01:41:43] E-Mail wurde versandt
+[2012-02-02 02:17:15] *** Starte Download der angeforderten Datei
+[2012-02-02 02:17:15] Benutzer "c-eberle" gefunden
+[2012-02-02 02:17:15] Datei "43cm_Max_Bautaktik.zip" gefunden
+[2012-02-02 02:17:23] Download von "43cm_Max_Bautaktik.zip"
+[2012-02-02 02:17:23] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-02 02:17:23] Benutzer: c-eberle
+[2012-02-02 02:17:23] E-Mail: c.eberle@otterbach.de
+[2012-02-02 02:17:23] Datei: 43cm_Max_Bautaktik.zip
+[2012-02-02 02:17:23] E-Mail wurde versandt
+[2012-02-02 02:34:56] *** Starte Download der angeforderten Datei
+[2012-02-02 02:34:57] Benutzer "c-eberle" gefunden
+[2012-02-02 02:34:57] Datei "43cm_Max_2_Gleisig_Rollschuhe.zip" gefunden
+[2012-02-02 02:35:03] Download von "43cm_Max_2_Gleisig_Rollschuhe.zip"
+[2012-02-02 02:35:03] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-02 02:35:03] Benutzer: c-eberle
+[2012-02-02 02:35:03] E-Mail: c.eberle@otterbach.de
+[2012-02-02 02:35:03] Datei: 43cm_Max_2_Gleisig_Rollschuhe.zip
+[2012-02-02 02:35:03] E-Mail wurde versandt
+[2012-02-02 02:46:11] *** Starte Upload der Datei ***
+[2012-02-02 02:46:11] Datei: uploads/a-merkel/PlanSystem.zip
+[2012-02-02 02:46:11] Groesse: 13514859 Bytes
+[2012-02-02 02:46:11] Upload von "uploads/a-merkel/PlanSystem.zip" erfolgreich abgeschlossen
+[2012-02-02 02:46:11] Zugriffsrechte von "uploads/a-merkel/PlanSystem.zip" geaendert (0755)
+[2012-02-02 02:46:11] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-02 02:46:11] Absender: Andreas Merkel
+[2012-02-02 02:46:11] Empfaenger: a.merkel@otterbach.de
+[2012-02-02 02:46:12] E-Mail erfolgreich versandt
+[2012-02-02 04:38:24] *** Starte Upload der Datei ***
+[2012-02-02 04:38:24] Datei: uploads/a-merkel/Appgate.zip
+[2012-02-02 04:38:24] Groesse: 2256093 Bytes
+[2012-02-02 04:38:24] Upload von "uploads/a-merkel/Appgate.zip" erfolgreich abgeschlossen
+[2012-02-02 04:38:24] Zugriffsrechte von "uploads/a-merkel/Appgate.zip" geaendert (0755)
+[2012-02-02 04:38:24] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-02 04:38:24] Absender: Andreas Merkel
+[2012-02-02 04:38:24] Empfaenger: martin.pulfer@kabelmail.de
+[2012-02-02 04:38:24] E-Mail erfolgreich versandt
+[2012-02-02 05:54:32] *** Starte Download der angeforderten Datei
+[2012-02-02 05:54:32] Benutzer "a-merkel" gefunden
+[2012-02-02 05:54:32] Datei "Appgate.zip" gefunden
+[2012-02-02 05:54:33] Download von "Appgate.zip"
+[2012-02-02 05:54:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-02 05:54:33] Benutzer: a-merkel
+[2012-02-02 05:54:33] E-Mail: a.merkel@otterbach.de
+[2012-02-02 05:54:33] Datei: Appgate.zip
+[2012-02-02 05:54:34] E-Mail wurde versandt
+[2012-02-03 08:35:00] *** Starte Upload der Datei ***
+[2012-02-03 08:35:00] Datei: uploads/c-eberle/DB_Schild_Weichenheizung.pdf
+[2012-02-03 08:35:00] Groesse: 15862320 Bytes
+[2012-02-03 08:35:00] Upload von "uploads/c-eberle/DB_Schild_Weichenheizung.pdf" erfolgreich abgeschlossen
+[2012-02-03 08:35:00] Zugriffsrechte von "uploads/c-eberle/DB_Schild_Weichenheizung.pdf" geaendert (0755)
+[2012-02-03 08:35:00] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 08:35:00] Absender: Clarissa Eberle
+[2012-02-03 08:35:00] Empfaenger: max.maulwurf@deutschebahn.com, c.eberle@otterbach.de
+[2012-02-03 08:35:00] E-Mail erfolgreich versandt
+[2012-02-03 09:32:43] *** Starte Loeschen der angeforderten Datei
+[2012-02-03 09:32:43] Ermittle Benutzer und Datei
+[2012-02-03 09:32:43] Benutzer "m-stahlberger" gefunden
+[2012-02-03 09:32:43] Datei "CityLife.zip" gefunden
+[2012-02-03 09:32:44] Die Datei "CityLife.zip" wurde erfolgreich geloescht
+[2012-02-03 09:56:23] *** Starte Upload der Datei ***
+[2012-02-03 09:56:23] Datei: uploads/a-siegesmund/5102125.zip
+[2012-02-03 09:56:23] Groesse: 567972289 Bytes
+[2012-02-03 09:56:23] Upload von "uploads/a-siegesmund/5102125.zip" erfolgreich abgeschlossen
+[2012-02-03 09:56:23] Zugriffsrechte von "uploads/a-siegesmund/5102125.zip" geaendert (0755)
+[2012-02-03 09:56:23] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 09:56:23] Absender: Alfred Siegesmund
+[2012-02-03 09:56:23] Empfaenger: hgweber@heine.de
+[2012-02-03 09:56:23] E-Mail erfolgreich versandt
+[2012-02-03 10:25:34] *** Starte Download der angeforderten Datei
+[2012-02-03 10:25:34] Benutzer "a-siegesmund" gefunden
+[2012-02-03 10:25:34] Datei "5102125.zip" gefunden
+[2012-02-03 10:34:11] Download von "5102125.zip"
+[2012-02-03 10:34:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-03 10:34:11] Benutzer: a-siegesmund
+[2012-02-03 10:34:11] E-Mail: a.siegesmund@otterbach.de
+[2012-02-03 10:34:11] Datei: 5102125.zip
+[2012-02-03 10:34:11] E-Mail wurde versandt
+[2012-02-03 10:35:55] *** Starte Download der angeforderten Datei
+[2012-02-03 10:35:55] Benutzer "a-siegesmund" gefunden
+[2012-02-03 10:35:55] Datei "5102125.zip" gefunden
+[2012-02-03 10:49:01] Download von "5102125.zip"
+[2012-02-03 10:49:01] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-03 10:49:01] Benutzer: a-siegesmund
+[2012-02-03 10:49:01] E-Mail: a.siegesmund@otterbach.de
+[2012-02-03 10:49:01] Datei: 5102125.zip
+[2012-02-03 10:49:02] E-Mail wurde versandt
+[2012-02-03 11:02:48] *** Starte Upload der Datei ***
+[2012-02-03 11:02:48] Datei: uploads/c-neubauer/scriptui-1-8.pdf
+[2012-02-03 11:02:48] Groesse: 1425069 Bytes
+[2012-02-03 11:02:48] Upload von "uploads/c-neubauer/scriptui-1-8.pdf" erfolgreich abgeschlossen
+[2012-02-03 11:02:48] Zugriffsrechte von "uploads/c-neubauer/scriptui-1-8.pdf" geaendert (0755)
+[2012-02-03 11:02:48] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:02:48] Absender: Christian Neubauer
+[2012-02-03 11:02:48] Empfaenger: c.neubauer@otterbach.de
+[2012-02-03 11:02:48] E-Mail erfolgreich versandt
+[2012-02-03 11:02:56] *** Starte Download der angeforderten Datei
+[2012-02-03 11:02:56] Benutzer "c-neubauer" gefunden
+[2012-02-03 11:02:56] Datei "scriptui-1-8.pdf" gefunden
+[2012-02-03 11:02:56] Download von "scriptui-1-8.pdf"
+[2012-02-03 11:02:56] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-03 11:02:56] Benutzer: c-neubauer
+[2012-02-03 11:02:56] E-Mail: c.neubauer@otterbach.de
+[2012-02-03 11:02:56] Datei: scriptui-1-8.pdf
+[2012-02-03 11:02:56] E-Mail wurde versandt
+[2012-02-03 11:21:24] *** Starte Upload der Datei ***
+[2012-02-03 11:21:24] Datei: uploads/c-neubauer/scriptui-1-8.pdf
+[2012-02-03 11:21:24] Groesse: 1425069 Bytes
+[2012-02-03 11:21:24] Upload von "uploads/c-neubauer/scriptui-1-8.pdf" erfolgreich abgeschlossen
+[2012-02-03 11:21:24] Zugriffsrechte von "uploads/c-neubauer/scriptui-1-8.pdf" geaendert (0755)
+[2012-02-03 11:21:25] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:21:25] Absender: Christian Neubauer
+[2012-02-03 11:21:25] Empfaenger: me@christianneubauer.de
+[2012-02-03 11:21:25] E-Mail erfolgreich versandt
+[2012-02-03 11:22:08] *** Starte Upload der Datei ***
+[2012-02-03 11:22:08] Datei: uploads/c-neubauer/scriptui-1-8.pdf
+[2012-02-03 11:22:08] Groesse: 1425069 Bytes
+[2012-02-03 11:22:08] Upload von "uploads/c-neubauer/scriptui-1-8.pdf" erfolgreich abgeschlossen
+[2012-02-03 11:22:08] Zugriffsrechte von "uploads/c-neubauer/scriptui-1-8.pdf" geaendert (0755)
+[2012-02-03 11:22:08] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:22:08] Absender: Christian Neubauer
+[2012-02-03 11:22:08] Empfaenger: me@christianneubauer.de
+[2012-02-03 11:22:08] E-Mail erfolgreich versandt
+[2012-02-03 11:23:58] *** Starte Upload der Datei ***
+[2012-02-03 11:23:58] Datei: uploads/c-neubauer/scriptui-1-8.pdf
+[2012-02-03 11:23:58] Groesse: 1425069 Bytes
+[2012-02-03 11:23:58] Upload von "uploads/c-neubauer/scriptui-1-8.pdf" erfolgreich abgeschlossen
+[2012-02-03 11:23:58] Zugriffsrechte von "uploads/c-neubauer/scriptui-1-8.pdf" geaendert (0755)
+[2012-02-03 11:23:58] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:23:58] Absender: Christian Neubauer
+[2012-02-03 11:23:58] Empfaenger: me@christianneubauer.de
+[2012-02-03 11:23:58] E-Mail erfolgreich versandt
+[2012-02-03 11:25:24] *** Starte Upload der Datei ***
+[2012-02-03 11:25:24] Datei: uploads/c-neubauer/vlc-1.1.12.dmg
+[2012-02-03 11:25:24] Groesse: 34918732 Bytes
+[2012-02-03 11:25:24] Upload von "uploads/c-neubauer/vlc-1.1.12.dmg" erfolgreich abgeschlossen
+[2012-02-03 11:25:24] Zugriffsrechte von "uploads/c-neubauer/vlc-1.1.12.dmg" geaendert (0755)
+[2012-02-03 11:25:24] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:25:24] Absender: Christian Neubauer
+[2012-02-03 11:25:24] Empfaenger: m.masse@otterbach.de
+[2012-02-03 11:25:24] E-Mail erfolgreich versandt
+[2012-02-03 11:26:04] *** Starte Upload der Datei ***
+[2012-02-03 11:26:04] Datei: uploads/c-neubauer/TeamViewer.dmg
+[2012-02-03 11:26:04] Groesse: 19235403 Bytes
+[2012-02-03 11:26:04] Upload von "uploads/c-neubauer/TeamViewer.dmg" erfolgreich abgeschlossen
+[2012-02-03 11:26:04] Zugriffsrechte von "uploads/c-neubauer/TeamViewer.dmg" geaendert (0755)
+[2012-02-03 11:26:04] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:26:04] Absender: Christian Neubauer
+[2012-02-03 11:26:04] Empfaenger: me@christianneubauer.de
+[2012-02-03 11:26:05] E-Mail erfolgreich versandt
+[2012-02-03 11:26:22] *** Starte Upload der Datei ***
+[2012-02-03 11:26:22] Datei: uploads/c-neubauer/scriptui-1-8.pdf
+[2012-02-03 11:26:22] Groesse: 1425069 Bytes
+[2012-02-03 11:26:22] Upload von "uploads/c-neubauer/scriptui-1-8.pdf" erfolgreich abgeschlossen
+[2012-02-03 11:26:22] Zugriffsrechte von "uploads/c-neubauer/scriptui-1-8.pdf" geaendert (0755)
+[2012-02-03 11:26:22] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:26:22] Absender: Christian Neubauer
+[2012-02-03 11:26:22] Empfaenger: c.neubauer@otterbach.de
+[2012-02-03 11:26:22] E-Mail erfolgreich versandt
+[2012-02-03 11:26:44] *** Starte Download der angeforderten Datei
+[2012-02-03 11:26:44] Angeforderte Datei wurde nicht gefunden
+[2012-02-03 11:26:44] Download der Datei gescheitert
+[2012-02-03 11:27:21] *** Starte Download der angeforderten Datei
+[2012-02-03 11:27:21] Angeforderte Datei wurde nicht gefunden
+[2012-02-03 11:27:21] Download der Datei gescheitert
+[2012-02-03 11:28:59] *** Starte Upload der Datei ***
+[2012-02-03 11:28:59] Datei: uploads/c-neubauer/vlc-1.1.12.dmg
+[2012-02-03 11:28:59] Groesse: 34918732 Bytes
+[2012-02-03 11:28:59] Upload von "uploads/c-neubauer/vlc-1.1.12.dmg" erfolgreich abgeschlossen
+[2012-02-03 11:28:59] Zugriffsrechte von "uploads/c-neubauer/vlc-1.1.12.dmg" geaendert (0755)
+[2012-02-03 11:28:59] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:28:59] Absender: Christian Neubauer
+[2012-02-03 11:28:59] Empfaenger: m.masse@otterbach.de
+[2012-02-03 11:28:59] E-Mail erfolgreich versandt
+[2012-02-03 11:29:45] *** Starte Download der angeforderten Datei
+[2012-02-03 11:29:45] Benutzer "c-neubauer" gefunden
+[2012-02-03 11:29:45] Datei "vlc-1.1.12.dmg" gefunden
+[2012-02-03 11:29:54] Download von "vlc-1.1.12.dmg"
+[2012-02-03 11:29:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-03 11:29:54] Benutzer: c-neubauer
+[2012-02-03 11:29:54] E-Mail: c.neubauer@otterbach.de
+[2012-02-03 11:29:54] Datei: vlc-1.1.12.dmg
+[2012-02-03 11:29:54] E-Mail wurde versandt
+[2012-02-03 11:48:13] *** Starte Upload der Datei ***
+[2012-02-03 11:48:13] Datei: uploads/c-neubauer/scriptui-1-8.pdf
+[2012-02-03 11:48:13] Groesse: 1425069 Bytes
+[2012-02-03 11:48:13] Upload von "uploads/c-neubauer/scriptui-1-8.pdf" erfolgreich abgeschlossen
+[2012-02-03 11:48:13] Zugriffsrechte von "uploads/c-neubauer/scriptui-1-8.pdf" geaendert (0755)
+[2012-02-03 11:48:13] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:48:13] Absender: Christian Neubauer
+[2012-02-03 11:48:13] Empfaenger: me@christianneubauer.de
+[2012-02-03 11:48:13] E-Mail erfolgreich versandt
+[2012-02-03 11:49:16] *** Starte Upload der Datei ***
+[2012-02-03 11:49:16] Datei: uploads/c-neubauer/scriptui-1-8.pdf
+[2012-02-03 11:49:16] Groesse: 1425069 Bytes
+[2012-02-03 11:49:16] Upload von "uploads/c-neubauer/scriptui-1-8.pdf" erfolgreich abgeschlossen
+[2012-02-03 11:49:16] Zugriffsrechte von "uploads/c-neubauer/scriptui-1-8.pdf" geaendert (0755)
+[2012-02-03 11:49:16] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:49:16] Absender: Christian Neubauer
+[2012-02-03 11:49:16] Empfaenger: me@christianneubauer.de
+[2012-02-03 11:49:16] E-Mail erfolgreich versandt
+[2012-02-03 11:50:19] *** Starte Upload der Datei ***
+[2012-02-03 11:50:19] Datei: uploads/c-neubauer/scriptui-1-8.pdf
+[2012-02-03 11:50:19] Groesse: 1425069 Bytes
+[2012-02-03 11:50:19] Upload von "uploads/c-neubauer/scriptui-1-8.pdf" erfolgreich abgeschlossen
+[2012-02-03 11:50:19] Zugriffsrechte von "uploads/c-neubauer/scriptui-1-8.pdf" geaendert (0755)
+[2012-02-03 11:50:19] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:50:19] Absender: Christian Neubauer
+[2012-02-03 11:50:19] Empfaenger: me@christianneubauer.de
+[2012-02-03 11:50:38] *** Starte Upload der Datei ***
+[2012-02-03 11:50:38] Datei: uploads/c-neubauer/scriptui-1-8.pdf
+[2012-02-03 11:50:38] Groesse: 1425069 Bytes
+[2012-02-03 11:50:38] Upload von "uploads/c-neubauer/scriptui-1-8.pdf" erfolgreich abgeschlossen
+[2012-02-03 11:50:38] Zugriffsrechte von "uploads/c-neubauer/scriptui-1-8.pdf" geaendert (0755)
+[2012-02-03 11:50:38] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 11:50:38] Absender: Christian Neubauer
+[2012-02-03 11:50:38] Empfaenger: me@christianneubauer.de
+[2012-02-03 11:50:38] E-Mail erfolgreich versandt
+[2012-02-03 12:10:24] *** Starte Download der angeforderten Datei
+[2012-02-03 12:10:24] Benutzer "c-neubauer" gefunden
+[2012-02-03 12:10:24] Datei "scriptui-1-8.pdf" gefunden
+[2012-02-03 12:10:24] Download von "scriptui-1-8.pdf"
+[2012-02-03 12:10:24] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-03 12:10:24] Benutzer: c-neubauer
+[2012-02-03 12:10:24] E-Mail: c.neubauer@otterbach.de
+[2012-02-03 12:10:24] Datei: scriptui-1-8.pdf
+[2012-02-03 12:10:24] E-Mail wurde versandt
+[2012-02-03 12:14:39] *** Starte Download der angeforderten Datei
+[2012-02-03 12:14:39] Angeforderte Datei wurde nicht gefunden
+[2012-02-03 12:14:39] Download der Datei gescheitert
+[2012-02-03 12:20:16] *** Starte Download der angeforderten Datei
+[2012-02-03 12:20:16] Angeforderte Datei wurde nicht gefunden
+[2012-02-03 12:20:16] Download der Datei gescheitert
+[2012-02-03 06:42:12] *** Starte Upload der Datei ***
+[2012-02-03 06:42:12] Datei: uploads/a-siegesmund/DM2012BLJournal_Layout 1.pdf
+[2012-02-03 06:42:12] Groesse: 28233909 Bytes
+[2012-02-03 06:42:12] Upload von "uploads/a-siegesmund/DM2012BLJournal_Layout 1.pdf" erfolgreich abgeschlossen
+[2012-02-03 06:42:12] Zugriffsrechte von "uploads/a-siegesmund/DM2012BLJournal_Layout 1.pdf" geaendert (0755)
+[2012-02-03 06:42:12] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-03 06:42:12] Absender: Alfred Siegesmund
+[2012-02-03 06:42:12] Empfaenger: siegesmund-zell@t-online.de
+[2012-02-03 06:42:12] E-Mail erfolgreich versandt
+[2012-02-04 09:24:48] *** Starte Download der angeforderten Datei
+[2012-02-04 09:24:48] Benutzer "a-siegesmund" gefunden
+[2012-02-04 09:24:48] Datei "DM2012BLJournal_Layout 1.pdf" gefunden
+[2012-02-04 09:26:55] Download von "DM2012BLJournal_Layout 1.pdf"
+[2012-02-04 09:26:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-04 09:26:55] Benutzer: a-siegesmund
+[2012-02-04 09:26:55] E-Mail: a.siegesmund@otterbach.de
+[2012-02-04 09:26:55] Datei: DM2012BLJournal_Layout 1.pdf
+[2012-02-04 09:26:55] E-Mail wurde versandt
+[2012-02-06 04:45:19] *** Starte Upload der Datei ***
+[2012-02-06 04:45:19] Datei: uploads/h-speth/Images_neu.zip
+[2012-02-06 04:45:19] Groesse: 194398072 Bytes
+[2012-02-06 04:45:19] Upload von "uploads/h-speth/Images_neu.zip" erfolgreich abgeschlossen
+[2012-02-06 04:45:19] Zugriffsrechte von "uploads/h-speth/Images_neu.zip" geaendert (0755)
+[2012-02-06 04:45:19] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-06 04:45:19] Absender: Holger Speth
+[2012-02-06 04:45:19] Empfaenger: jmaricalva@phoenixcontact.com
+[2012-02-06 04:45:20] E-Mail erfolgreich versandt
+[2012-02-06 04:50:16] *** Starte Upload der Datei ***
+[2012-02-06 04:50:16] Datei: uploads/h-speth/Clipline_1_Scenes_neu.zip
+[2012-02-06 04:50:16] Groesse: 337235469 Bytes
+[2012-02-06 04:50:16] Upload von "uploads/h-speth/Clipline_1_Scenes_neu.zip" erfolgreich abgeschlossen
+[2012-02-06 04:50:16] Zugriffsrechte von "uploads/h-speth/Clipline_1_Scenes_neu.zip" geaendert (0755)
+[2012-02-06 04:50:16] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-06 04:50:16] Absender: Holger Speth
+[2012-02-06 04:50:16] Empfaenger: jmaricalva@phoenixcontact.com
+[2012-02-06 04:50:17] E-Mail erfolgreich versandt
+[2012-02-06 04:51:11] *** Starte Upload der Datei ***
+[2012-02-06 04:51:11] Datei: uploads/h-speth/Clipline_1_sourceimages_neu.zip
+[2012-02-06 04:51:11] Groesse: 31261189 Bytes
+[2012-02-06 04:51:11] Upload von "uploads/h-speth/Clipline_1_sourceimages_neu.zip" erfolgreich abgeschlossen
+[2012-02-06 04:51:11] Zugriffsrechte von "uploads/h-speth/Clipline_1_sourceimages_neu.zip" geaendert (0755)
+[2012-02-06 04:51:11] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-06 04:51:11] Absender: Holger Speth
+[2012-02-06 04:51:11] Empfaenger: jmaricalva@phoenixcontact.com
+[2012-02-06 04:51:11] E-Mail erfolgreich versandt
+[2012-02-06 04:56:36] *** Starte Upload der Datei ***
+[2012-02-06 04:56:36] Datei: uploads/h-speth/Clipline_2_Scenes_neu.zip
+[2012-02-06 04:56:36] Groesse: 491861592 Bytes
+[2012-02-06 04:56:36] Upload von "uploads/h-speth/Clipline_2_Scenes_neu.zip" erfolgreich abgeschlossen
+[2012-02-06 04:56:36] Zugriffsrechte von "uploads/h-speth/Clipline_2_Scenes_neu.zip" geaendert (0755)
+[2012-02-06 04:56:36] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-06 04:56:36] Absender: Holger Speth
+[2012-02-06 04:56:36] Empfaenger: jmaricalva@phoenixcontact.com
+[2012-02-06 04:56:36] E-Mail erfolgreich versandt
+[2012-02-06 05:02:29] *** Starte Upload der Datei ***
+[2012-02-06 05:02:29] Datei: uploads/h-speth/Clipline_3_Scenes_neu.zip
+[2012-02-06 05:02:29] Groesse: 484970681 Bytes
+[2012-02-06 05:02:29] Upload von "uploads/h-speth/Clipline_3_Scenes_neu.zip" erfolgreich abgeschlossen
+[2012-02-06 05:02:29] Zugriffsrechte von "uploads/h-speth/Clipline_3_Scenes_neu.zip" geaendert (0755)
+[2012-02-06 05:02:29] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-06 05:02:29] Absender: Holger Speth
+[2012-02-06 05:02:29] Empfaenger: jmaricalva@phoenixcontact.com
+[2012-02-06 05:02:29] E-Mail erfolgreich versandt
+[2012-02-06 05:06:48] *** Starte Upload der Datei ***
+[2012-02-06 05:06:48] Datei: uploads/h-speth/Clipline_4Scenes_neu.zip
+[2012-02-06 05:06:48] Groesse: 506580466 Bytes
+[2012-02-06 05:06:48] Upload von "uploads/h-speth/Clipline_4Scenes_neu.zip" erfolgreich abgeschlossen
+[2012-02-06 05:06:48] Zugriffsrechte von "uploads/h-speth/Clipline_4Scenes_neu.zip" geaendert (0755)
+[2012-02-06 05:06:48] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-06 05:06:48] Absender: Holger Speth
+[2012-02-06 05:06:48] Empfaenger: jmaricalva@phoenixcontact.com
+[2012-02-06 05:06:48] E-Mail erfolgreich versandt
+[2012-02-06 05:14:32] *** Starte Upload der Datei ***
+[2012-02-06 05:14:32] Datei: uploads/h-speth/Clipline_5_Scenes_neu.zip
+[2012-02-06 05:14:32] Groesse: 355246379 Bytes
+[2012-02-06 05:14:32] Upload von "uploads/h-speth/Clipline_5_Scenes_neu.zip" erfolgreich abgeschlossen
+[2012-02-06 05:14:32] Zugriffsrechte von "uploads/h-speth/Clipline_5_Scenes_neu.zip" geaendert (0755)
+[2012-02-06 05:14:32] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-06 05:14:32] Absender: Holger Speth
+[2012-02-06 05:14:32] Empfaenger: jmaricalva@phoenixcontact.com
+[2012-02-06 05:14:32] E-Mail erfolgreich versandt
+[2012-02-06 05:30:12] *** Starte Download der angeforderten Datei
+[2012-02-06 05:30:12] Benutzer "a-siegesmund" gefunden
+[2012-02-06 05:30:12] Datei "5102125.zip" gefunden
+[2012-02-06 05:30:12] *** Starte Download der angeforderten Datei
+[2012-02-06 05:30:12] Benutzer "a-siegesmund" gefunden
+[2012-02-06 05:30:12] Datei "5102125.zip" gefunden
+[2012-02-06 05:34:13] Download von "5102125.zip"
+[2012-02-06 05:34:13] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-06 05:34:13] Benutzer: a-siegesmund
+[2012-02-06 05:34:13] E-Mail: a.siegesmund@otterbach.de
+[2012-02-06 05:34:13] Datei: 5102125.zip
+[2012-02-06 05:34:13] E-Mail wurde versandt
+[2012-02-07 08:14:21] *** Starte Download der angeforderten Datei
+[2012-02-07 08:14:21] Benutzer "h-speth" gefunden
+[2012-02-07 08:14:21] Datei "Images_neu.zip" gefunden
+[2012-02-07 08:15:43] Download von "Images_neu.zip"
+[2012-02-07 08:15:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 08:15:43] Benutzer: h-speth
+[2012-02-07 08:15:43] E-Mail: h.speth@otterbach.de
+[2012-02-07 08:15:43] Datei: Images_neu.zip
+[2012-02-07 08:15:43] E-Mail wurde versandt
+[2012-02-07 08:17:33] *** Starte Download der angeforderten Datei
+[2012-02-07 08:17:33] Benutzer "h-speth" gefunden
+[2012-02-07 08:17:33] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 08:19:57] Download von "Clipline_1_Scenes_neu.zip"
+[2012-02-07 08:19:57] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 08:19:57] Benutzer: h-speth
+[2012-02-07 08:19:57] E-Mail: h.speth@otterbach.de
+[2012-02-07 08:19:57] Datei: Clipline_1_Scenes_neu.zip
+[2012-02-07 08:19:58] E-Mail wurde versandt
+[2012-02-07 08:24:06] *** Starte Download der angeforderten Datei
+[2012-02-07 08:24:06] Benutzer "h-speth" gefunden
+[2012-02-07 08:24:06] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:24:28] *** Starte Download der angeforderten Datei
+[2012-02-07 08:24:28] Benutzer "h-speth" gefunden
+[2012-02-07 08:24:28] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:24:35] *** Starte Download der angeforderten Datei
+[2012-02-07 08:24:35] Benutzer "h-speth" gefunden
+[2012-02-07 08:24:35] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:24:49] *** Starte Download der angeforderten Datei
+[2012-02-07 08:24:49] Benutzer "h-speth" gefunden
+[2012-02-07 08:24:49] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:24:59] *** Starte Download der angeforderten Datei
+[2012-02-07 08:24:59] Benutzer "h-speth" gefunden
+[2012-02-07 08:24:59] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:25:14] *** Starte Download der angeforderten Datei
+[2012-02-07 08:25:14] Benutzer "h-speth" gefunden
+[2012-02-07 08:25:14] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:25:19] *** Starte Download der angeforderten Datei
+[2012-02-07 08:25:19] Benutzer "h-speth" gefunden
+[2012-02-07 08:25:19] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:25:25] *** Starte Download der angeforderten Datei
+[2012-02-07 08:25:25] Benutzer "h-speth" gefunden
+[2012-02-07 08:25:25] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:25:35] *** Starte Download der angeforderten Datei
+[2012-02-07 08:25:35] Benutzer "h-speth" gefunden
+[2012-02-07 08:25:35] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:25:43] *** Starte Download der angeforderten Datei
+[2012-02-07 08:25:43] Benutzer "h-speth" gefunden
+[2012-02-07 08:25:43] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:25:59] *** Starte Download der angeforderten Datei
+[2012-02-07 08:25:59] Benutzer "h-speth" gefunden
+[2012-02-07 08:25:59] Datei "Clipline_1_sourceimages_neu.zip" gefunden
+[2012-02-07 08:26:08] *** Starte Download der angeforderten Datei
+[2012-02-07 08:26:08] Benutzer "h-speth" gefunden
+[2012-02-07 08:26:08] Datei "Clipline_5_Scenes_neu.zip" gefunden
+[2012-02-07 08:26:16] Download von "Clipline_1_sourceimages_neu.zip"
+[2012-02-07 08:26:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 08:26:16] Benutzer: h-speth
+[2012-02-07 08:26:16] E-Mail: h.speth@otterbach.de
+[2012-02-07 08:26:16] Datei: Clipline_1_sourceimages_neu.zip
+[2012-02-07 08:26:17] E-Mail wurde versandt
+[2012-02-07 08:27:28] *** Starte Download der angeforderten Datei
+[2012-02-07 08:27:28] Benutzer "h-speth" gefunden
+[2012-02-07 08:27:28] Datei "Clipline_2_Scenes_neu.zip" gefunden
+[2012-02-07 08:27:38] *** Starte Download der angeforderten Datei
+[2012-02-07 08:27:38] Benutzer "h-speth" gefunden
+[2012-02-07 08:27:38] Datei "Clipline_1_sourceimages_neu.zip" gefunden
+[2012-02-07 08:33:16] *** Starte Download der angeforderten Datei
+[2012-02-07 08:33:16] Benutzer "h-speth" gefunden
+[2012-02-07 08:33:16] Datei "Clipline_2_Scenes_neu.zip" gefunden
+[2012-02-07 08:33:18] *** Starte Download der angeforderten Datei
+[2012-02-07 08:33:18] Benutzer "h-speth" gefunden
+[2012-02-07 08:33:18] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 08:35:35] Download von "Clipline_1_Scenes_neu.zip"
+[2012-02-07 08:35:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 08:35:35] Benutzer: h-speth
+[2012-02-07 08:35:35] E-Mail: h.speth@otterbach.de
+[2012-02-07 08:35:35] Datei: Clipline_1_Scenes_neu.zip
+[2012-02-07 08:35:35] E-Mail wurde versandt
+[2012-02-07 08:52:54] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 08:52:54] Ermittle Benutzer und Datei
+[2012-02-07 08:52:54] Benutzer "h-speth" gefunden
+[2012-02-07 08:52:54] Datei "Images_neu.zip" gefunden
+[2012-02-07 08:52:54] Die Datei "Images_neu.zip" wurde erfolgreich geloescht
+[2012-02-07 08:53:05] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 08:53:05] Ermittle Benutzer und Datei
+[2012-02-07 08:53:05] Benutzer "h-speth" gefunden
+[2012-02-07 08:53:05] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 08:53:05] Die Datei "Clipline_1_Scenes_neu.zip" wurde erfolgreich geloescht
+[2012-02-07 08:53:14] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 08:53:14] Ermittle Benutzer und Datei
+[2012-02-07 08:53:14] Benutzer "h-speth" gefunden
+[2012-02-07 08:53:14] Datei "Clipline_1_sourceimages_neu.zip" gefunden
+[2012-02-07 08:53:14] Die Datei "Clipline_1_sourceimages_neu.zip" wurde erfolgreich geloescht
+[2012-02-07 08:53:25] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 08:53:25] Ermittle Benutzer und Datei
+[2012-02-07 08:53:25] Benutzer "h-speth" gefunden
+[2012-02-07 08:53:25] Die Datei "index.php" nicht mehr vorhanden
+[2012-02-07 08:53:33] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 08:53:33] Ermittle Benutzer und Datei
+[2012-02-07 08:53:33] Benutzer "h-speth" gefunden
+[2012-02-07 08:53:33] Die Datei "index.php" nicht mehr vorhanden
+[2012-02-07 08:59:14] *** Starte Download der angeforderten Datei
+[2012-02-07 08:59:14] Benutzer "h-speth" gefunden
+[2012-02-07 08:59:14] Angeforderte Datei wurde nicht gefunden
+[2012-02-07 08:59:14] Download der Datei gescheitert
+[2012-02-07 09:52:17] *** Starte Download der angeforderten Datei
+[2012-02-07 09:52:17] Benutzer "a-siegesmund" gefunden
+[2012-02-07 09:52:17] Datei "5102125.zip" gefunden
+[2012-02-07 09:53:05] *** Starte Download der angeforderten Datei
+[2012-02-07 09:53:05] Benutzer "a-siegesmund" gefunden
+[2012-02-07 09:53:05] Datei "5102125.zip" gefunden
+[2012-02-07 09:59:02] *** Starte Download der angeforderten Datei
+[2012-02-07 09:59:02] Benutzer "a-siegesmund" gefunden
+[2012-02-07 09:59:02] Datei "5102125.zip" gefunden
+[2012-02-07 10:44:52] *** Starte Upload der Datei ***
+[2012-02-07 10:44:52] Datei: uploads/h-speth/Clipline_1_Scenes_neu.zip
+[2012-02-07 10:44:52] Groesse: 399736019 Bytes
+[2012-02-07 10:44:52] Upload von "uploads/h-speth/Clipline_1_Scenes_neu.zip" erfolgreich abgeschlossen
+[2012-02-07 10:44:52] Zugriffsrechte von "uploads/h-speth/Clipline_1_Scenes_neu.zip" geaendert (0755)
+[2012-02-07 10:44:52] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-07 10:44:52] Absender: Holger Speth
+[2012-02-07 10:44:52] Empfaenger: jmaricalva@phoenixcontact.com
+[2012-02-07 10:44:52] E-Mail erfolgreich versandt
+[2012-02-07 11:19:27] *** Starte Download der angeforderten Datei
+[2012-02-07 11:19:27] Benutzer "a-siegesmund" gefunden
+[2012-02-07 11:19:27] Datei "5102125.zip" gefunden
+[2012-02-07 11:22:35] *** Starte Download der angeforderten Datei
+[2012-02-07 11:22:35] Benutzer "h-speth" gefunden
+[2012-02-07 11:22:35] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 11:26:08] *** Starte Upload der Datei ***
+[2012-02-07 11:26:08] Datei: uploads/m-stahlberger/BlancaStyle951_CH_V2.zip
+[2012-02-07 11:26:08] Groesse: 33594281 Bytes
+[2012-02-07 11:26:08] Upload von "uploads/m-stahlberger/BlancaStyle951_CH_V2.zip" erfolgreich abgeschlossen
+[2012-02-07 11:26:08] Zugriffsrechte von "uploads/m-stahlberger/BlancaStyle951_CH_V2.zip" geaendert (0755)
+[2012-02-07 11:26:08] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-07 11:26:08] Absender: Marina Stahlberger
+[2012-02-07 11:26:08] Empfaenger: j.maske@otterbach.de
+[2012-02-07 11:26:09] E-Mail erfolgreich versandt
+[2012-02-07 11:26:36] *** Starte Download der angeforderten Datei
+[2012-02-07 11:26:36] Benutzer "m-stahlberger" gefunden
+[2012-02-07 11:26:36] Datei "BlancaStyle951_CH_V2.zip" gefunden
+[2012-02-07 11:27:21] Download von "BlancaStyle951_CH_V2.zip"
+[2012-02-07 11:27:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 11:27:21] Benutzer: m-stahlberger
+[2012-02-07 11:27:21] E-Mail: m.stahlberger@otterbach.de
+[2012-02-07 11:27:21] Datei: BlancaStyle951_CH_V2.zip
+[2012-02-07 11:27:21] E-Mail wurde versandt
+[2012-02-07 11:32:22] Download von "Clipline_1_Scenes_neu.zip"
+[2012-02-07 11:32:22] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 11:32:22] Benutzer: h-speth
+[2012-02-07 11:32:22] E-Mail: h.speth@otterbach.de
+[2012-02-07 11:32:22] Datei: Clipline_1_Scenes_neu.zip
+[2012-02-07 11:32:22] E-Mail wurde versandt
+[2012-02-07 11:36:54] *** Starte Download der angeforderten Datei
+[2012-02-07 11:36:54] Benutzer "h-speth" gefunden
+[2012-02-07 11:36:54] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 11:37:03] *** Starte Download der angeforderten Datei
+[2012-02-07 11:37:03] Benutzer "h-speth" gefunden
+[2012-02-07 11:37:03] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 11:40:22] Download von "5102125.zip"
+[2012-02-07 11:40:22] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 11:40:22] Benutzer: a-siegesmund
+[2012-02-07 11:40:22] E-Mail: a.siegesmund@otterbach.de
+[2012-02-07 11:40:22] Datei: 5102125.zip
+[2012-02-07 11:40:22] E-Mail wurde versandt
+[2012-02-07 11:40:51] Download von "Clipline_1_Scenes_neu.zip"
+[2012-02-07 11:40:51] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 11:40:51] Benutzer: h-speth
+[2012-02-07 11:40:51] E-Mail: h.speth@otterbach.de
+[2012-02-07 11:40:51] Datei: Clipline_1_Scenes_neu.zip
+[2012-02-07 11:40:51] E-Mail wurde versandt
+[2012-02-07 11:58:31] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 11:58:31] Ermittle Benutzer und Datei
+[2012-02-07 11:58:31] Benutzer "h-speth" gefunden
+[2012-02-07 11:58:31] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 11:58:31] Die Datei "Clipline_1_Scenes_neu.zip" wurde erfolgreich geloescht
+[2012-02-07 11:58:46] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 11:58:46] Ermittle Benutzer und Datei
+[2012-02-07 11:58:46] Benutzer "h-speth" gefunden
+[2012-02-07 11:58:46] Die Datei "index.php" nicht mehr vorhanden
+[2012-02-07 12:01:56] *** Starte Upload der Datei ***
+[2012-02-07 12:01:56] Datei: uploads/h-speth/Clipline_1_Scenes_neu.zip
+[2012-02-07 12:01:56] Groesse: 399736019 Bytes
+[2012-02-07 12:01:56] Upload von "uploads/h-speth/Clipline_1_Scenes_neu.zip" erfolgreich abgeschlossen
+[2012-02-07 12:01:56] Zugriffsrechte von "uploads/h-speth/Clipline_1_Scenes_neu.zip" geaendert (0755)
+[2012-02-07 12:01:56] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-07 12:01:56] Absender: Holger Speth
+[2012-02-07 12:01:56] Empfaenger: h.regueiro-lopez@otterbach.de
+[2012-02-07 12:01:56] E-Mail erfolgreich versandt
+[2012-02-07 12:17:29] *** Starte Download der angeforderten Datei
+[2012-02-07 12:17:29] Benutzer "h-speth" gefunden
+[2012-02-07 12:17:29] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 12:20:35] Download von "Clipline_1_Scenes_neu.zip"
+[2012-02-07 12:20:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 12:20:35] Benutzer: h-speth
+[2012-02-07 12:20:35] E-Mail: h.speth@otterbach.de
+[2012-02-07 12:20:35] Datei: Clipline_1_Scenes_neu.zip
+[2012-02-07 12:20:35] E-Mail wurde versandt
+[2012-02-07 12:21:18] *** Starte Upload der Datei ***
+[2012-02-07 12:21:18] Datei: uploads/m-stahlberger/37494010_37748010_IBA_IGS.pdf
+[2012-02-07 12:21:18] Groesse: 7525357 Bytes
+[2012-02-07 12:21:18] Upload von "uploads/m-stahlberger/37494010_37748010_IBA_IGS.pdf" erfolgreich abgeschlossen
+[2012-02-07 12:21:18] Zugriffsrechte von "uploads/m-stahlberger/37494010_37748010_IBA_IGS.pdf" geaendert (0755)
+[2012-02-07 12:21:18] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-07 12:21:18] Absender: Marina Stahlberger
+[2012-02-07 12:21:18] Empfaenger: info@myfication.de
+[2012-02-07 12:21:18] E-Mail erfolgreich versandt
+[2012-02-07 12:21:55] *** Starte Download der angeforderten Datei
+[2012-02-07 12:21:55] Benutzer "h-speth" gefunden
+[2012-02-07 12:21:55] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 12:24:33] Download von "Clipline_1_Scenes_neu.zip"
+[2012-02-07 12:24:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 12:24:33] Benutzer: h-speth
+[2012-02-07 12:24:33] E-Mail: h.speth@otterbach.de
+[2012-02-07 12:24:33] Datei: Clipline_1_Scenes_neu.zip
+[2012-02-07 12:24:33] E-Mail wurde versandt
+[2012-02-07 12:26:09] *** Starte Download der angeforderten Datei
+[2012-02-07 12:26:09] Benutzer "m-stahlberger" gefunden
+[2012-02-07 12:26:09] Datei "37494010_37748010_IBA_IGS.pdf" gefunden
+[2012-02-07 12:26:15] Download von "37494010_37748010_IBA_IGS.pdf"
+[2012-02-07 12:26:15] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-07 12:26:15] Benutzer: m-stahlberger
+[2012-02-07 12:26:15] E-Mail: m.stahlberger@otterbach.de
+[2012-02-07 12:26:15] Datei: 37494010_37748010_IBA_IGS.pdf
+[2012-02-07 12:26:15] E-Mail wurde versandt
+[2012-02-07 12:29:26] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 12:29:26] Ermittle Benutzer und Datei
+[2012-02-07 12:29:26] Benutzer "h-speth" gefunden
+[2012-02-07 12:29:26] Datei "Clipline_1_Scenes_neu.zip" gefunden
+[2012-02-07 12:29:26] Die Datei "Clipline_1_Scenes_neu.zip" wurde erfolgreich geloescht
+[2012-02-07 02:22:54] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 02:22:55] Ermittle Benutzer und Datei
+[2012-02-07 02:22:55] Benutzer "h-speth" gefunden
+[2012-02-07 02:22:55] Die Datei "index.php" nicht mehr vorhanden
+[2012-02-07 02:59:08] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 02:59:08] Ermittle Benutzer und Datei
+[2012-02-07 02:59:08] Benutzer "m-stahlberger" gefunden
+[2012-02-07 02:59:08] Datei "37494010_37748010_IBA_IGS.pdf" gefunden
+[2012-02-07 02:59:08] Die Datei "37494010_37748010_IBA_IGS.pdf" wurde erfolgreich geloescht
+[2012-02-07 02:59:08] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 02:59:08] Ermittle Benutzer und Datei
+[2012-02-07 02:59:08] Benutzer "m-stahlberger" gefunden
+[2012-02-07 02:59:08] Die Datei "index.php" nicht mehr vorhanden
+[2012-02-07 02:59:19] *** Starte Loeschen der angeforderten Datei
+[2012-02-07 02:59:19] Ermittle Benutzer und Datei
+[2012-02-07 02:59:19] Benutzer "m-stahlberger" gefunden
+[2012-02-07 02:59:19] Datei "BlancaStyle951_CH_V2.zip" gefunden
+[2012-02-07 02:59:19] Die Datei "BlancaStyle951_CH_V2.zip" wurde erfolgreich geloescht
+[2012-02-09 10:24:35] *** Starte Upload der Datei ***
+[2012-02-09 10:24:35] Datei: uploads/c-neubauer/Tron OST.zip
+[2012-02-09 10:24:35] Groesse: 9615493 Bytes
+[2012-02-09 10:24:35] Upload von "uploads/c-neubauer/Tron OST.zip" erfolgreich abgeschlossen
+[2012-02-09 10:24:35] Zugriffsrechte von "uploads/c-neubauer/Tron OST.zip" geaendert (0755)
+[2012-02-09 10:24:35] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-09 10:24:35] Absender: Christian Neubauer
+[2012-02-09 10:24:35] Empfaenger: me@christianneubauer.de
+[2012-02-09 10:24:36] E-Mail erfolgreich versandt
+[2012-02-09 02:41:44] *** Starte Upload der Datei ***
+[2012-02-09 02:41:44] Datei: uploads/a-siegesmund/5209_125My_size.zip
+[2012-02-09 02:41:44] Groesse: 214017362 Bytes
+[2012-02-09 02:41:44] Upload von "uploads/a-siegesmund/5209_125My_size.zip" erfolgreich abgeschlossen
+[2012-02-09 02:41:44] Zugriffsrechte von "uploads/a-siegesmund/5209_125My_size.zip" geaendert (0755)
+[2012-02-09 02:41:44] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-09 02:41:44] Absender: Alfred Siegesmund
+[2012-02-09 02:41:44] Empfaenger: sbuehler@heine.de, shartmann@heine.de
+[2012-02-09 02:41:44] E-Mail erfolgreich versandt
+[2012-02-09 02:55:43] *** Starte Upload der Datei ***
+[2012-02-09 02:55:43] Datei: uploads/a-siegesmund/5401_125.zip
+[2012-02-09 02:55:43] Groesse: 123445867 Bytes
+[2012-02-09 02:55:43] Upload von "uploads/a-siegesmund/5401_125.zip" erfolgreich abgeschlossen
+[2012-02-09 02:55:43] Zugriffsrechte von "uploads/a-siegesmund/5401_125.zip" geaendert (0755)
+[2012-02-09 02:55:43] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-09 02:55:43] Absender: Alfred Siegesmund
+[2012-02-09 02:55:43] Empfaenger: sbuehler@heine.de
+[2012-02-09 02:55:43] E-Mail erfolgreich versandt
+[2012-02-09 03:00:26] *** Starte Upload der Datei ***
+[2012-02-09 03:00:27] Datei: uploads/a-merkel/PlanControl.zip
+[2012-02-09 03:00:27] Groesse: 17521311 Bytes
+[2012-02-09 03:00:27] Upload von "uploads/a-merkel/PlanControl.zip" erfolgreich abgeschlossen
+[2012-02-09 03:00:27] Zugriffsrechte von "uploads/a-merkel/PlanControl.zip" geaendert (0755)
+[2012-02-09 03:00:27] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-09 03:00:27] Absender: Andreas Merkel
+[2012-02-09 03:00:27] Empfaenger: j.maske@otterbach.de
+[2012-02-09 03:00:28] E-Mail erfolgreich versandt
+[2012-02-09 03:00:34] *** Starte Download der angeforderten Datei
+[2012-02-09 03:00:34] Benutzer "a-merkel" gefunden
+[2012-02-09 03:00:34] Datei "PlanControl.zip" gefunden
+[2012-02-09 03:00:46] Download von "PlanControl.zip"
+[2012-02-09 03:00:46] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-09 03:00:46] Benutzer: a-merkel
+[2012-02-09 03:00:46] E-Mail: a.merkel@otterbach.de
+[2012-02-09 03:00:46] Datei: PlanControl.zip
+[2012-02-09 03:00:46] E-Mail wurde versandt
+[2012-02-09 03:25:14] *** Starte Upload der Datei ***
+[2012-02-09 03:25:15] Datei: uploads/a-siegesmund/5102_125.zip
+[2012-02-09 03:25:15] Groesse: 312480531 Bytes
+[2012-02-09 03:25:15] Upload von "uploads/a-siegesmund/5102_125.zip" erfolgreich abgeschlossen
+[2012-02-09 03:25:15] Zugriffsrechte von "uploads/a-siegesmund/5102_125.zip" geaendert (0755)
+[2012-02-09 03:25:15] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-09 03:25:15] Absender: Alfred Siegesmund
+[2012-02-09 03:25:15] Empfaenger: mstuchl@heine.de
+[2012-02-09 03:25:18] E-Mail erfolgreich versandt
+[2012-02-09 04:07:35] *** Starte Upload der Datei ***
+[2012-02-09 04:07:35] Datei: uploads/a-merkel/PlanSystem_Clients.zip
+[2012-02-09 04:07:35] Groesse: 13536163 Bytes
+[2012-02-09 04:07:35] Upload von "uploads/a-merkel/PlanSystem_Clients.zip" erfolgreich abgeschlossen
+[2012-02-09 04:07:35] Zugriffsrechte von "uploads/a-merkel/PlanSystem_Clients.zip" geaendert (0755)
+[2012-02-09 04:07:35] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-09 04:07:35] Absender: Andreas Merkel
+[2012-02-09 04:07:35] Empfaenger: renate.reckziegel@t-online.de
+[2012-02-09 04:07:36] E-Mail erfolgreich versandt
+[2012-02-09 04:18:00] *** Starte Download der angeforderten Datei
+[2012-02-09 04:18:00] Benutzer "a-merkel" gefunden
+[2012-02-09 04:18:00] Datei "PlanSystem_Clients.zip" gefunden
+[2012-02-09 04:18:10] Download von "PlanSystem_Clients.zip"
+[2012-02-09 04:18:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-09 04:18:10] Benutzer: a-merkel
+[2012-02-09 04:18:10] E-Mail: a.merkel@otterbach.de
+[2012-02-09 04:18:10] Datei: PlanSystem_Clients.zip
+[2012-02-09 04:18:10] E-Mail wurde versandt
+[2012-02-09 04:20:26] *** Starte Loeschen der angeforderten Datei
+[2012-02-09 04:20:26] Ermittle Benutzer und Datei
+[2012-02-09 04:20:26] Benutzer "a-merkel" gefunden
+[2012-02-09 04:20:26] Datei "PlanSystem_Clients.zip" gefunden
+[2012-02-09 04:20:26] Die Datei "PlanSystem_Clients.zip" wurde erfolgreich geloescht
+[2012-02-10 09:14:56] *** Starte Upload der Datei ***
+[2012-02-10 09:14:56] Datei: uploads/a-siegesmund/5102_125_TRT.zip
+[2012-02-10 09:14:56] Groesse: 247562448 Bytes
+[2012-02-10 09:14:56] Upload von "uploads/a-siegesmund/5102_125_TRT.zip" erfolgreich abgeschlossen
+[2012-02-10 09:14:56] Zugriffsrechte von "uploads/a-siegesmund/5102_125_TRT.zip" geaendert (0755)
+[2012-02-10 09:14:56] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-10 09:14:56] Absender: Alfred Siegesmund
+[2012-02-10 09:14:56] Empfaenger: mstuchl@heine.de
+[2012-02-10 09:14:56] E-Mail erfolgreich versandt
+[2012-02-10 09:53:30] *** Starte Download der angeforderten Datei
+[2012-02-10 09:53:30] Benutzer "c-eberle" gefunden
+[2012-02-10 09:53:30] Datei "DB_Schild_Weichenheizung.pdf" gefunden
+[2012-02-10 09:53:42] Download von "DB_Schild_Weichenheizung.pdf"
+[2012-02-10 09:53:42] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-10 09:53:42] Benutzer: c-eberle
+[2012-02-10 09:53:42] E-Mail: c.eberle@otterbach.de
+[2012-02-10 09:53:42] Datei: DB_Schild_Weichenheizung.pdf
+[2012-02-10 09:53:43] E-Mail wurde versandt
+[2012-02-10 10:42:49] *** Starte Upload der Datei ***
+[2012-02-10 10:42:49] Datei: uploads/a-siegesmund/5120STF.zip
+[2012-02-10 10:42:49] Groesse: 16906012 Bytes
+[2012-02-10 10:42:49] Upload von "uploads/a-siegesmund/5120STF.zip" erfolgreich abgeschlossen
+[2012-02-10 10:42:49] Zugriffsrechte von "uploads/a-siegesmund/5120STF.zip" geaendert (0755)
+[2012-02-10 10:42:49] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-10 10:42:49] Absender: Alfred Siegesmund
+[2012-02-10 10:42:49] Empfaenger: pboth@heine.de
+[2012-02-10 10:42:50] E-Mail erfolgreich versandt
+[2012-02-10 10:48:17] *** Starte Download der angeforderten Datei
+[2012-02-10 10:48:17] Benutzer "a-siegesmund" gefunden
+[2012-02-10 10:48:17] Datei "5120STF.zip" gefunden
+[2012-02-10 10:48:26] Download von "5120STF.zip"
+[2012-02-10 10:48:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-10 10:48:26] Benutzer: a-siegesmund
+[2012-02-10 10:48:26] E-Mail: a.siegesmund@otterbach.de
+[2012-02-10 10:48:26] Datei: 5120STF.zip
+[2012-02-10 10:48:26] E-Mail wurde versandt
+[2012-02-10 11:00:41] *** Starte Download der angeforderten Datei
+[2012-02-10 11:00:41] Benutzer "a-siegesmund" gefunden
+[2012-02-10 11:00:41] Datei "5209_125My_size.zip" gefunden
+[2012-02-10 11:01:14] *** Starte Download der angeforderten Datei
+[2012-02-10 11:01:14] Benutzer "a-siegesmund" gefunden
+[2012-02-10 11:01:14] Datei "5209_125My_size.zip" gefunden
+[2012-02-10 11:01:35] *** Starte Download der angeforderten Datei
+[2012-02-10 11:01:35] Benutzer "a-siegesmund" gefunden
+[2012-02-10 11:01:35] Datei "5401_125.zip" gefunden
+[2012-02-10 11:05:22] Download von "5401_125.zip"
+[2012-02-10 11:05:22] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-10 11:05:22] Benutzer: a-siegesmund
+[2012-02-10 11:05:22] E-Mail: a.siegesmund@otterbach.de
+[2012-02-10 11:05:22] Datei: 5401_125.zip
+[2012-02-10 11:05:22] E-Mail wurde versandt
+[2012-02-10 11:06:34] Download von "5209_125My_size.zip"
+[2012-02-10 11:06:34] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-10 11:06:34] Benutzer: a-siegesmund
+[2012-02-10 11:06:34] E-Mail: a.siegesmund@otterbach.de
+[2012-02-10 11:06:34] Datei: 5209_125My_size.zip
+[2012-02-10 11:06:35] E-Mail wurde versandt
+[2012-02-10 11:18:52] *** Starte Download der angeforderten Datei
+[2012-02-10 11:18:52] Benutzer "a-siegesmund" gefunden
+[2012-02-10 11:18:52] Datei "5120STF.zip" gefunden
+[2012-02-10 11:19:02] Download von "5120STF.zip"
+[2012-02-10 11:19:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-10 11:19:02] Benutzer: a-siegesmund
+[2012-02-10 11:19:02] E-Mail: a.siegesmund@otterbach.de
+[2012-02-10 11:19:02] Datei: 5120STF.zip
+[2012-02-10 11:19:02] E-Mail wurde versandt
+[2012-02-10 12:44:04] *** Starte Upload der Datei ***
+[2012-02-10 12:44:04] Datei: uploads/m-stahlberger/Montage_2.tif
+[2012-02-10 12:44:04] Groesse: 100916184 Bytes
+[2012-02-10 12:44:04] Upload von "uploads/m-stahlberger/Montage_2.tif" erfolgreich abgeschlossen
+[2012-02-10 12:44:04] Zugriffsrechte von "uploads/m-stahlberger/Montage_2.tif" geaendert (0755)
+[2012-02-10 12:44:04] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-10 12:44:04] Absender: Marina Stahlberger
+[2012-02-10 12:44:04] Empfaenger: viega-satz@star-cooperation.com
+[2012-02-10 12:44:05] E-Mail erfolgreich versandt
+[2012-02-10 02:06:02] *** Starte Download der angeforderten Datei
+[2012-02-10 02:06:02] Benutzer "c-neubauer" gefunden
+[2012-02-10 02:06:02] Datei "Tron OST.zip" gefunden
+[2012-02-10 02:07:50] Download von "Tron OST.zip"
+[2012-02-10 02:07:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-10 02:07:50] Benutzer: c-neubauer
+[2012-02-10 02:07:50] E-Mail: c.neubauer@otterbach.de
+[2012-02-10 02:07:50] Datei: Tron OST.zip
+[2012-02-10 02:07:51] E-Mail wurde versandt
+[2012-02-10 02:10:19] *** Starte Download der angeforderten Datei
+[2012-02-10 02:10:19] Benutzer "c-neubauer" gefunden
+[2012-02-10 02:10:19] Datei "Tron OST.zip" gefunden
+[2012-02-10 02:12:01] Download von "Tron OST.zip"
+[2012-02-10 02:12:01] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-10 02:12:01] Benutzer: c-neubauer
+[2012-02-10 02:12:01] E-Mail: c.neubauer@otterbach.de
+[2012-02-10 02:12:01] Datei: Tron OST.zip
+[2012-02-10 02:12:02] E-Mail wurde versandt
+[2012-02-10 02:20:35] *** Starte Loeschen der angeforderten Datei
+[2012-02-10 02:20:35] Ermittle Benutzer und Datei
+[2012-02-10 02:20:35] Benutzer "m-stahlberger" gefunden
+[2012-02-10 02:20:35] Die Datei "index.php" nicht mehr vorhanden
+[2012-02-10 06:34:17] *** Starte Download der angeforderten Datei
+[2012-02-10 06:34:19] Benutzer "a-siegesmund" gefunden
+[2012-02-10 06:34:20] Datei "5102_125.zip" gefunden
+[2012-02-10 06:34:31] *** Starte Download der angeforderten Datei
+[2012-02-10 06:34:31] Benutzer "a-siegesmund" gefunden
+[2012-02-10 06:34:31] Datei "5102_125.zip" gefunden
+[2012-02-10 06:35:10] *** Starte Download der angeforderten Datei
+[2012-02-10 06:35:10] Benutzer "a-siegesmund" gefunden
+[2012-02-10 06:35:10] Datei "5102_125.zip" gefunden
+[2012-02-10 06:38:20] Download von "5102_125.zip"
+[2012-02-10 06:38:20] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-10 06:38:20] Benutzer: a-siegesmund
+[2012-02-10 06:38:20] E-Mail: a.siegesmund@otterbach.de
+[2012-02-10 06:38:20] Datei: 5102_125.zip
+[2012-02-10 06:38:20] E-Mail wurde versandt
+[2012-02-10 07:03:38] *** Starte Download der angeforderten Datei
+[2012-02-10 07:03:38] Benutzer "m-stahlberger" gefunden
+[2012-02-10 07:03:38] Datei "Montage_2.tif" gefunden
+[2012-02-10 07:05:26] Download von "Montage_2.tif"
+[2012-02-10 07:05:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-10 07:05:26] Benutzer: m-stahlberger
+[2012-02-10 07:05:26] E-Mail: m.stahlberger@otterbach.de
+[2012-02-10 07:05:26] Datei: Montage_2.tif
+[2012-02-10 07:05:26] E-Mail wurde versandt
+[2012-02-13 08:31:15] *** Starte Upload der Datei ***
+[2012-02-13 08:31:16] Datei: uploads/m-stahlberger/Hygiene+_Korr2.zip
+[2012-02-13 08:31:16] Groesse: 193022929 Bytes
+[2012-02-13 08:31:16] Upload von "uploads/m-stahlberger/Hygiene+_Korr2.zip" erfolgreich abgeschlossen
+[2012-02-13 08:31:16] Zugriffsrechte von "uploads/m-stahlberger/Hygiene+_Korr2.zip" geaendert (0755)
+[2012-02-13 08:31:16] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-13 08:31:16] Absender: Marina Stahlberger
+[2012-02-13 08:31:16] Empfaenger: viega-satz@star-cooperation.com
+[2012-02-13 08:31:16] E-Mail erfolgreich versandt
+[2012-02-13 08:36:01] *** Starte Upload der Datei ***
+[2012-02-13 08:36:01] Datei: uploads/m-stahlberger/Prospekt_Viptool.zip
+[2012-02-13 08:36:01] Groesse: 48439651 Bytes
+[2012-02-13 08:36:01] Upload von "uploads/m-stahlberger/Prospekt_Viptool.zip" erfolgreich abgeschlossen
+[2012-02-13 08:36:01] Zugriffsrechte von "uploads/m-stahlberger/Prospekt_Viptool.zip" geaendert (0755)
+[2012-02-13 08:36:01] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-13 08:36:01] Absender: Marina Stahlberger
+[2012-02-13 08:36:01] Empfaenger: viega-satz@star-cooperation.com
+[2012-02-13 08:36:01] E-Mail erfolgreich versandt
+[2012-02-13 09:39:02] *** Starte Download der angeforderten Datei
+[2012-02-13 09:39:02] Benutzer "m-stahlberger" gefunden
+[2012-02-13 09:39:02] Datei "Hygiene+_Korr2.zip" gefunden
+[2012-02-13 09:40:20] *** Starte Upload der Datei ***
+[2012-02-13 09:40:20] Datei: uploads/c-eberle/Licher_Loewen_245x185_TZ_x3.pdf
+[2012-02-13 09:40:20] Groesse: 33055649 Bytes
+[2012-02-13 09:40:20] Upload von "uploads/c-eberle/Licher_Loewen_245x185_TZ_x3.pdf" erfolgreich abgeschlossen
+[2012-02-13 09:40:20] Zugriffsrechte von "uploads/c-eberle/Licher_Loewen_245x185_TZ_x3.pdf" geaendert (0755)
+[2012-02-13 09:40:20] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-13 09:40:20] Absender: Clarissa Eberle
+[2012-02-13 09:40:20] Empfaenger: c.eberle@otterbach.de
+[2012-02-13 09:40:21] E-Mail erfolgreich versandt
+[2012-02-13 09:42:09] Download von "Hygiene+_Korr2.zip"
+[2012-02-13 09:42:09] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-13 09:42:09] Benutzer: m-stahlberger
+[2012-02-13 09:42:09] E-Mail: m.stahlberger@otterbach.de
+[2012-02-13 09:42:09] Datei: Hygiene+_Korr2.zip
+[2012-02-13 09:42:09] E-Mail wurde versandt
+[2012-02-13 10:19:56] *** Starte Download der angeforderten Datei
+[2012-02-13 10:19:56] Benutzer "m-stahlberger" gefunden
+[2012-02-13 10:19:56] Datei "Prospekt_Viptool.zip" gefunden
+[2012-02-13 10:20:39] Download von "Prospekt_Viptool.zip"
+[2012-02-13 10:20:39] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-13 10:20:39] Benutzer: m-stahlberger
+[2012-02-13 10:20:39] E-Mail: m.stahlberger@otterbach.de
+[2012-02-13 10:20:39] Datei: Prospekt_Viptool.zip
+[2012-02-13 10:20:39] E-Mail wurde versandt
+[2012-02-13 12:01:29] *** Starte Download der angeforderten Datei
+[2012-02-13 12:01:29] Benutzer "c-eberle" gefunden
+[2012-02-13 12:01:29] Datei "Licher_Loewen_245x185_TZ_x3.pdf" gefunden
+[2012-02-13 12:03:07] Download von "Licher_Loewen_245x185_TZ_x3.pdf"
+[2012-02-13 12:03:07] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-13 12:03:07] Benutzer: c-eberle
+[2012-02-13 12:03:07] E-Mail: c.eberle@otterbach.de
+[2012-02-13 12:03:07] Datei: Licher_Loewen_245x185_TZ_x3.pdf
+[2012-02-13 12:03:07] E-Mail wurde versandt
+[2012-02-13 03:09:37] *** Starte Download der angeforderten Datei
+[2012-02-13 03:09:37] Benutzer "c-eberle" gefunden
+[2012-02-13 03:09:37] Datei "Licher_Loewen_245x185_TZ_x3.pdf" gefunden
+[2012-02-13 03:09:55] Download von "Licher_Loewen_245x185_TZ_x3.pdf"
+[2012-02-13 03:09:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-13 03:09:55] Benutzer: c-eberle
+[2012-02-13 03:09:55] E-Mail: c.eberle@otterbach.de
+[2012-02-13 03:09:55] Datei: Licher_Loewen_245x185_TZ_x3.pdf
+[2012-02-13 03:09:55] E-Mail wurde versandt
+[2012-02-13 09:09:40] *** Starte Download der angeforderten Datei
+[2012-02-13 09:09:40] Benutzer "c-eberle" gefunden
+[2012-02-13 09:09:40] Datei "Licher_Loewen_245x185_TZ_x3.pdf" gefunden
+[2012-02-13 09:10:33] Download von "Licher_Loewen_245x185_TZ_x3.pdf"
+[2012-02-13 09:10:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-13 09:10:33] Benutzer: c-eberle
+[2012-02-13 09:10:33] E-Mail: c.eberle@otterbach.de
+[2012-02-13 09:10:33] Datei: Licher_Loewen_245x185_TZ_x3.pdf
+[2012-02-13 09:10:33] E-Mail wurde versandt
+[2012-02-14 09:04:19] *** Starte Upload der Datei ***
+[2012-02-14 09:04:19] Datei: uploads/a-bochannek/41241010_SmyrilLine.pdf
+[2012-02-14 09:04:19] Groesse: 6834234 Bytes
+[2012-02-14 09:04:19] Upload von "uploads/a-bochannek/41241010_SmyrilLine.pdf" erfolgreich abgeschlossen
+[2012-02-14 09:04:19] Zugriffsrechte von "uploads/a-bochannek/41241010_SmyrilLine.pdf" geaendert (0755)
+[2012-02-14 09:04:19] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-14 09:04:19] Absender: Axel Bochannek
+[2012-02-14 09:04:19] Empfaenger: a.bochannek@otterbach.de
+[2012-02-14 09:04:19] E-Mail erfolgreich versandt
+[2012-02-14 01:17:31] *** Starte Upload der Datei ***
+[2012-02-14 01:17:31] Datei: uploads/a-bochannek/41235010_IslandProtravel.pdf
+[2012-02-14 01:17:31] Groesse: 6317809 Bytes
+[2012-02-14 01:17:31] Upload von "uploads/a-bochannek/41235010_IslandProtravel.pdf" erfolgreich abgeschlossen
+[2012-02-14 01:17:31] Zugriffsrechte von "uploads/a-bochannek/41235010_IslandProtravel.pdf" geaendert (0755)
+[2012-02-14 01:17:31] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-14 01:17:31] Absender: Axel Bochannek
+[2012-02-14 01:17:31] Empfaenger: a.bochannek@otterbach.de
+[2012-02-14 01:17:32] E-Mail erfolgreich versandt
+[2012-02-14 05:14:03] *** Starte Upload der Datei ***
+[2012-02-14 05:14:03] Datei: uploads/j-maske/BlancaStyle-Blaetterkatalog-CH.zip
+[2012-02-14 05:14:03] Groesse: 34263355 Bytes
+[2012-02-14 05:14:04] Upload von "uploads/j-maske/BlancaStyle-Blaetterkatalog-CH.zip" erfolgreich abgeschlossen
+[2012-02-14 05:14:04] Zugriffsrechte von "uploads/j-maske/BlancaStyle-Blaetterkatalog-CH.zip" geaendert (0755)
+[2012-02-14 05:14:04] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-14 05:14:04] Absender: Jörn Maske
+[2012-02-14 05:14:04] Empfaenger: m.stahlberger@otterbach.de, l.weinelt@otterbach.de
+[2012-02-14 05:14:04] E-Mail erfolgreich versandt
+[2012-02-14 05:40:42] *** Starte Download der angeforderten Datei
+[2012-02-14 05:40:42] Benutzer "j-maske" gefunden
+[2012-02-14 05:40:42] Datei "BlancaStyle-Blaetterkatalog-CH.zip" gefunden
+[2012-02-14 05:40:43] Download von "BlancaStyle-Blaetterkatalog-CH.zip"
+[2012-02-14 05:40:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-14 05:40:43] Benutzer: j-maske
+[2012-02-14 05:40:43] E-Mail: j.maske@otterbach.de
+[2012-02-14 05:40:43] Datei: BlancaStyle-Blaetterkatalog-CH.zip
+[2012-02-14 05:40:43] E-Mail wurde versandt
+[2012-02-15 07:57:07] *** Starte Upload der Datei ***
+[2012-02-15 07:57:07] Datei: uploads/m-stahlberger/BlancaStyle-Blaetterkatalog-CH.zip
+[2012-02-15 07:57:07] Groesse: 36643000 Bytes
+[2012-02-15 07:57:07] Upload von "uploads/m-stahlberger/BlancaStyle-Blaetterkatalog-CH.zip" erfolgreich abgeschlossen
+[2012-02-15 07:57:07] Zugriffsrechte von "uploads/m-stahlberger/BlancaStyle-Blaetterkatalog-CH.zip" geaendert (0755)
+[2012-02-15 07:57:07] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-15 07:57:07] Absender: Marina Stahlberger
+[2012-02-15 07:57:07] Empfaenger: a.renk@aritso.de, b.nikolay@blanca-style.de, l.weinelt@otterbach.de, m.stahlberger@otterbach.de
+[2012-02-15 07:57:08] E-Mail erfolgreich versandt
+[2012-02-15 07:57:51] *** Starte Download der angeforderten Datei
+[2012-02-15 07:57:51] Benutzer "m-stahlberger" gefunden
+[2012-02-15 07:57:51] Datei "BlancaStyle-Blaetterkatalog-CH.zip" gefunden
+[2012-02-15 07:57:53] Download von "BlancaStyle-Blaetterkatalog-CH.zip"
+[2012-02-15 07:57:53] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-15 07:57:53] Benutzer: m-stahlberger
+[2012-02-15 07:57:53] E-Mail: m.stahlberger@otterbach.de
+[2012-02-15 07:57:53] Datei: BlancaStyle-Blaetterkatalog-CH.zip
+[2012-02-15 07:57:53] E-Mail wurde versandt
+[2012-02-15 10:55:18] *** Starte Upload der Datei ***
+[2012-02-15 10:55:18] Datei: uploads/a-siegesmund/5107_125.zip
+[2012-02-15 10:55:18] Groesse: 0 Bytes
+[2012-02-15 10:55:18] Upload von "uploads/a-siegesmund/5107_125.zip" gescheitert
+[2012-02-15 11:41:56] *** Starte Upload der Datei ***
+[2012-02-15 11:41:56] Datei: uploads/a-siegesmund/5107_125.zip
+[2012-02-15 11:41:56] Groesse: 280698438 Bytes
+[2012-02-15 11:41:56] Upload von "uploads/a-siegesmund/5107_125.zip" erfolgreich abgeschlossen
+[2012-02-15 11:41:56] Zugriffsrechte von "uploads/a-siegesmund/5107_125.zip" geaendert (0755)
+[2012-02-15 11:41:56] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-15 11:41:56] Absender: Alfred Siegesmund
+[2012-02-15 11:41:56] Empfaenger: shartmann@heine.de
+[2012-02-15 11:41:57] E-Mail erfolgreich versandt
+[2012-02-15 01:16:34] *** Starte Download der angeforderten Datei
+[2012-02-15 01:16:34] Benutzer "a-siegesmund" gefunden
+[2012-02-15 01:16:34] Datei "5107_125.zip" gefunden
+[2012-02-15 01:20:43] Download von "5107_125.zip"
+[2012-02-15 01:20:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-15 01:20:43] Benutzer: a-siegesmund
+[2012-02-15 01:20:43] E-Mail: a.siegesmund@otterbach.de
+[2012-02-15 01:20:43] Datei: 5107_125.zip
+[2012-02-15 01:20:43] E-Mail wurde versandt
+[2012-02-15 01:49:38] *** Starte Download der angeforderten Datei
+[2012-02-15 01:49:38] Angeforderte Datei wurde nicht gefunden
+[2012-02-15 01:49:38] Download der Datei gescheitert
+[2012-02-15 03:25:32] *** Starte Download der angeforderten Datei
+[2012-02-15 03:25:32] Benutzer "m-stahlberger" gefunden
+[2012-02-15 03:25:32] Datei "BlancaStyle-Blaetterkatalog-CH.zip" gefunden
+[2012-02-15 03:26:43] Download von "BlancaStyle-Blaetterkatalog-CH.zip"
+[2012-02-15 03:26:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-15 03:26:43] Benutzer: m-stahlberger
+[2012-02-15 03:26:43] E-Mail: m.stahlberger@otterbach.de
+[2012-02-15 03:26:43] Datei: BlancaStyle-Blaetterkatalog-CH.zip
+[2012-02-15 03:26:43] E-Mail wurde versandt
+[2012-02-16 10:55:20] *** Starte Loeschen der angeforderten Datei
+[2012-02-16 10:55:20] Ermittle Benutzer und Datei
+[2012-02-16 10:55:20] Benutzer "m-stahlberger" gefunden
+[2012-02-16 10:55:20] Datei "BlancaStyle-Blaetterkatalog-CH.zip" gefunden
+[2012-02-16 10:55:20] Die Datei "BlancaStyle-Blaetterkatalog-CH.zip" wurde erfolgreich geloescht
+[2012-02-16 10:55:34] *** Starte Loeschen der angeforderten Datei
+[2012-02-16 10:55:34] Ermittle Benutzer und Datei
+[2012-02-16 10:55:34] Benutzer "m-stahlberger" gefunden
+[2012-02-16 10:55:34] Datei "Prospekt_Viptool.zip" gefunden
+[2012-02-16 10:55:34] Die Datei "Prospekt_Viptool.zip" wurde erfolgreich geloescht
+[2012-02-16 10:55:44] *** Starte Loeschen der angeforderten Datei
+[2012-02-16 10:55:44] Ermittle Benutzer und Datei
+[2012-02-16 10:55:44] Benutzer "m-stahlberger" gefunden
+[2012-02-16 10:55:44] Datei "Hygiene+_Korr2.zip" gefunden
+[2012-02-16 10:55:45] Die Datei "Hygiene+_Korr2.zip" wurde erfolgreich geloescht
+[2012-02-16 11:47:03] *** Starte Download der angeforderten Datei
+[2012-02-16 11:47:03] Benutzer "a-siegesmund" gefunden
+[2012-02-16 11:47:03] Datei "5107_125.zip" gefunden
+[2012-02-16 11:50:24] Download von "5107_125.zip"
+[2012-02-16 11:50:24] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-16 11:50:24] Benutzer: a-siegesmund
+[2012-02-16 11:50:24] E-Mail: a.siegesmund@otterbach.de
+[2012-02-16 11:50:24] Datei: 5107_125.zip
+[2012-02-16 11:50:24] E-Mail wurde versandt
+[2012-02-16 01:37:01] *** Starte Upload der Datei ***
+[2012-02-16 01:37:01] Datei: uploads/m-stahlberger/WeberHaus_CH_Anzeigen.zip
+[2012-02-16 01:37:01] Groesse: 41301819 Bytes
+[2012-02-16 01:37:01] Upload von "uploads/m-stahlberger/WeberHaus_CH_Anzeigen.zip" erfolgreich abgeschlossen
+[2012-02-16 01:37:01] Zugriffsrechte von "uploads/m-stahlberger/WeberHaus_CH_Anzeigen.zip" geaendert (0755)
+[2012-02-16 01:37:01] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-16 01:37:01] Absender: Marina Stahlberger
+[2012-02-16 01:37:01] Empfaenger: umeier@medienverlag.ch, Sven.Bilz@WeberHaus.de
+[2012-02-16 01:37:02] E-Mail erfolgreich versandt
+[2012-02-16 04:51:48] *** Starte Download der angeforderten Datei
+[2012-02-16 04:51:48] Benutzer "a-siegesmund" gefunden
+[2012-02-16 04:51:48] Datei "5107_125.zip" gefunden
+[2012-02-16 04:53:53] Download von "5107_125.zip"
+[2012-02-16 04:53:53] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-16 04:53:53] Benutzer: a-siegesmund
+[2012-02-16 04:53:53] E-Mail: a.siegesmund@otterbach.de
+[2012-02-16 04:53:53] Datei: 5107_125.zip
+[2012-02-16 04:53:53] E-Mail wurde versandt
+[2012-02-16 05:00:15] *** Starte Download der angeforderten Datei
+[2012-02-16 05:00:15] Benutzer "m-stahlberger" gefunden
+[2012-02-16 05:00:15] Angeforderte Datei wurde nicht gefunden
+[2012-02-16 05:00:15] Download der Datei gescheitert
+[2012-02-16 07:13:40] *** Starte Download der angeforderten Datei
+[2012-02-16 07:13:40] Benutzer "m-stahlberger" gefunden
+[2012-02-16 07:13:40] Angeforderte Datei wurde nicht gefunden
+[2012-02-16 07:13:40] Download der Datei gescheitert
+[2012-02-16 07:14:11] *** Starte Download der angeforderten Datei
+[2012-02-16 07:14:11] Benutzer "m-stahlberger" gefunden
+[2012-02-16 07:14:11] Datei "WeberHaus_CH_Anzeigen.zip" gefunden
+[2012-02-16 07:15:19] Download von "WeberHaus_CH_Anzeigen.zip"
+[2012-02-16 07:15:19] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-16 07:15:19] Benutzer: m-stahlberger
+[2012-02-16 07:15:19] E-Mail: m.stahlberger@otterbach.de
+[2012-02-16 07:15:19] Datei: WeberHaus_CH_Anzeigen.zip
+[2012-02-16 07:15:19] E-Mail wurde versandt
+[2012-02-17 03:22:32] *** Starte Upload der Datei ***
+[2012-02-17 03:22:32] Datei: uploads/j-maske/BlancaStyle-Blaetterkatalog-CH.zip
+[2012-02-17 03:22:32] Groesse: 34263371 Bytes
+[2012-02-17 03:22:32] Upload von "uploads/j-maske/BlancaStyle-Blaetterkatalog-CH.zip" erfolgreich abgeschlossen
+[2012-02-17 03:22:32] Zugriffsrechte von "uploads/j-maske/BlancaStyle-Blaetterkatalog-CH.zip" geaendert (0755)
+[2012-02-17 03:22:32] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-17 03:22:32] Absender: Jörn Maske
+[2012-02-17 03:22:32] Empfaenger: l.weinelt@otterbach.de, m.stahlberger@otterbach.de
+[2012-02-17 03:22:32] E-Mail erfolgreich versandt
+[2012-02-17 03:33:27] *** Starte Upload der Datei ***
+[2012-02-17 03:33:27] Datei: uploads/a-bochannek/37878010_Radon_Revitalbad.pdf
+[2012-02-17 03:33:27] Groesse: 4350554 Bytes
+[2012-02-17 03:33:27] Upload von "uploads/a-bochannek/37878010_Radon_Revitalbad.pdf" erfolgreich abgeschlossen
+[2012-02-17 03:33:27] Zugriffsrechte von "uploads/a-bochannek/37878010_Radon_Revitalbad.pdf" geaendert (0755)
+[2012-02-17 03:33:27] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-17 03:33:27] Absender: Axel Bochannek
+[2012-02-17 03:33:27] Empfaenger: a.bochannek@otterbach.de
+[2012-02-17 03:33:27] E-Mail erfolgreich versandt
+[2012-02-17 03:54:06] *** Starte Download der angeforderten Datei
+[2012-02-17 03:54:06] Benutzer "j-maske" gefunden
+[2012-02-17 03:54:06] Datei "BlancaStyle-Blaetterkatalog-CH.zip" gefunden
+[2012-02-17 03:54:26] Download von "BlancaStyle-Blaetterkatalog-CH.zip"
+[2012-02-17 03:54:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-17 03:54:26] Benutzer: j-maske
+[2012-02-17 03:54:26] E-Mail: j.maske@otterbach.de
+[2012-02-17 03:54:26] Datei: BlancaStyle-Blaetterkatalog-CH.zip
+[2012-02-17 03:54:26] E-Mail wurde versandt
+[2012-02-20 09:17:23] *** Starte Upload der Datei ***
+[2012-02-20 09:17:23] Datei: uploads/c-eberle/Licher_TVG_Handball_210x297_PDFx3.pdf
+[2012-02-20 09:17:23] Groesse: 4808397 Bytes
+[2012-02-20 09:17:23] Upload von "uploads/c-eberle/Licher_TVG_Handball_210x297_PDFx3.pdf" erfolgreich abgeschlossen
+[2012-02-20 09:17:23] Zugriffsrechte von "uploads/c-eberle/Licher_TVG_Handball_210x297_PDFx3.pdf" geaendert (0755)
+[2012-02-20 09:17:23] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-20 09:17:23] Absender: Clarissa Eberle
+[2012-02-20 09:17:23] Empfaenger: c.eberle@otterbach.de
+[2012-02-20 09:17:24] E-Mail erfolgreich versandt
+[2012-02-20 10:56:27] *** Starte Download der angeforderten Datei
+[2012-02-20 10:56:27] Benutzer "c-eberle" gefunden
+[2012-02-20 10:56:27] Datei "Licher_TVG_Handball_210x297_PDFx3.pdf" gefunden
+[2012-02-20 10:57:54] Download von "Licher_TVG_Handball_210x297_PDFx3.pdf"
+[2012-02-20 10:57:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-20 10:57:54] Benutzer: c-eberle
+[2012-02-20 10:57:54] E-Mail: c.eberle@otterbach.de
+[2012-02-20 10:57:54] Datei: Licher_TVG_Handball_210x297_PDFx3.pdf
+[2012-02-20 10:57:54] E-Mail wurde versandt
+[2012-02-20 11:21:32] *** Starte Download der angeforderten Datei
+[2012-02-20 11:21:32] Benutzer "a-bochannek" gefunden
+[2012-02-20 11:21:32] Datei "37878010_Radon_Revitalbad.pdf" gefunden
+[2012-02-20 11:23:02] Download von "37878010_Radon_Revitalbad.pdf"
+[2012-02-20 11:23:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-20 11:23:02] Benutzer: a-bochannek
+[2012-02-20 11:23:02] E-Mail: a.bochannek@otterbach.de
+[2012-02-20 11:23:02] Datei: 37878010_Radon_Revitalbad.pdf
+[2012-02-20 11:23:02] E-Mail wurde versandt
+[2012-02-20 11:25:10] *** Starte Download der angeforderten Datei
+[2012-02-20 11:25:10] Benutzer "a-bochannek" gefunden
+[2012-02-20 11:25:10] Datei "37878010_Radon_Revitalbad.pdf" gefunden
+[2012-02-20 12:19:18] *** Starte Upload der Datei ***
+[2012-02-20 12:19:18] Datei: uploads/a-bochannek/37654110_VW.pdf
+[2012-02-20 12:19:18] Groesse: 18696147 Bytes
+[2012-02-20 12:19:18] Upload von "uploads/a-bochannek/37654110_VW.pdf" erfolgreich abgeschlossen
+[2012-02-20 12:19:18] Zugriffsrechte von "uploads/a-bochannek/37654110_VW.pdf" geaendert (0755)
+[2012-02-20 12:19:18] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-20 12:19:18] Absender: Axel Bochannek
+[2012-02-20 12:19:18] Empfaenger: a.bochannek@otterbach.de
+[2012-02-20 12:19:18] E-Mail erfolgreich versandt
+[2012-02-20 02:19:15] *** Starte Download der angeforderten Datei
+[2012-02-20 02:19:15] Benutzer "a-bochannek" gefunden
+[2012-02-20 02:19:15] Datei "37654110_VW.pdf" gefunden
+[2012-02-20 02:19:28] Download von "37654110_VW.pdf"
+[2012-02-20 02:19:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-20 02:19:28] Benutzer: a-bochannek
+[2012-02-20 02:19:28] E-Mail: a.bochannek@otterbach.de
+[2012-02-20 02:19:28] Datei: 37654110_VW.pdf
+[2012-02-20 02:19:28] E-Mail wurde versandt
+[2012-02-20 02:30:02] *** Starte Download der angeforderten Datei
+[2012-02-20 02:30:02] Benutzer "a-bochannek" gefunden
+[2012-02-20 02:30:02] Datei "37654110_VW.pdf" gefunden
+[2012-02-20 02:30:14] Download von "37654110_VW.pdf"
+[2012-02-20 02:30:14] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-20 02:30:14] Benutzer: a-bochannek
+[2012-02-20 02:30:14] E-Mail: a.bochannek@otterbach.de
+[2012-02-20 02:30:14] Datei: 37654110_VW.pdf
+[2012-02-20 02:30:14] E-Mail wurde versandt
+[2012-02-20 04:13:45] *** Starte Loeschen der angeforderten Datei
+[2012-02-20 04:13:46] Ermittle Benutzer und Datei
+[2012-02-20 04:13:46] Benutzer "a-bochannek" gefunden
+[2012-02-20 04:13:46] Datei "37654110_VW.pdf" gefunden
+[2012-02-20 04:13:46] Die Datei "37654110_VW.pdf" wurde erfolgreich geloescht
+[2012-02-20 05:36:44] *** Starte Upload der Datei ***
+[2012-02-20 05:36:44] Datei: uploads/m-stahlberger/Max_Plakat_HrBuehn.jpg
+[2012-02-20 05:36:44] Groesse: 2530617 Bytes
+[2012-02-20 05:36:44] Upload von "uploads/m-stahlberger/Max_Plakat_HrBuehn.jpg" erfolgreich abgeschlossen
+[2012-02-20 05:36:44] Zugriffsrechte von "uploads/m-stahlberger/Max_Plakat_HrBuehn.jpg" geaendert (0755)
+[2012-02-20 05:36:44] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-20 05:36:44] Absender: Marina Stahlberger
+[2012-02-20 05:36:44] Empfaenger: Thorsten Bühn <Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-02-20 05:36:44] Senden der E-Mail gescheitert
+[2012-02-21 11:42:30] *** Starte Upload der Datei ***
+[2012-02-21 11:42:30] Datei: uploads/m-stahlberger/WeberHaus_Katalog2011_12.pdf.zip
+[2012-02-21 11:42:30] Groesse: 25243029 Bytes
+[2012-02-21 11:42:30] Upload von "uploads/m-stahlberger/WeberHaus_Katalog2011_12.pdf.zip" erfolgreich abgeschlossen
+[2012-02-21 11:42:30] Zugriffsrechte von "uploads/m-stahlberger/WeberHaus_Katalog2011_12.pdf.zip" geaendert (0755)
+[2012-02-21 11:42:30] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-21 11:42:30] Absender: Marina Stahlberger
+[2012-02-21 11:42:30] Empfaenger: mj@btverlag.de
+[2012-02-21 11:42:31] E-Mail erfolgreich versandt
+[2012-02-21 11:53:05] *** Starte Loeschen der angeforderten Datei
+[2012-02-21 11:53:05] Ermittle Benutzer und Datei
+[2012-02-21 11:53:05] Benutzer "a-bochannek" gefunden
+[2012-02-21 11:53:05] Datei "37878010_Radon_Revitalbad.pdf" gefunden
+[2012-02-21 11:53:05] Die Datei "37878010_Radon_Revitalbad.pdf" wurde erfolgreich geloescht
+[2012-02-21 01:25:13] *** Starte Download der angeforderten Datei
+[2012-02-21 01:25:13] Benutzer "m-stahlberger" gefunden
+[2012-02-21 01:25:13] Datei "WeberHaus_Katalog2011_12.pdf.zip" gefunden
+[2012-02-21 01:25:45] Download von "WeberHaus_Katalog2011_12.pdf.zip"
+[2012-02-21 01:25:45] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-21 01:25:45] Benutzer: m-stahlberger
+[2012-02-21 01:25:45] E-Mail: m.stahlberger@otterbach.de
+[2012-02-21 01:25:45] Datei: WeberHaus_Katalog2011_12.pdf.zip
+[2012-02-21 01:25:45] E-Mail wurde versandt
+[2012-02-21 01:48:25] *** Starte Download der angeforderten Datei
+[2012-02-21 01:48:25] Angeforderte Datei wurde nicht gefunden
+[2012-02-21 01:48:25] Download der Datei gescheitert
+[2012-02-21 01:48:46] *** Starte Download der angeforderten Datei
+[2012-02-21 01:48:46] Angeforderte Datei wurde nicht gefunden
+[2012-02-21 01:48:46] Download der Datei gescheitert
+[2012-02-21 01:49:34] *** Starte Download der angeforderten Datei
+[2012-02-21 01:49:34] Angeforderte Datei wurde nicht gefunden
+[2012-02-21 01:49:34] Download der Datei gescheitert
+[2012-02-21 01:49:46] *** Starte Download der angeforderten Datei
+[2012-02-21 01:49:46] Benutzer "m-stahlberger" gefunden
+[2012-02-21 01:49:46] Datei "WeberHaus_Katalog2011_12.pdf.zip" gefunden
+[2012-02-21 01:50:03] *** Starte Download der angeforderten Datei
+[2012-02-21 01:50:03] Angeforderte Datei wurde nicht gefunden
+[2012-02-21 01:50:03] Download der Datei gescheitert
+[2012-02-21 01:50:10] Download von "WeberHaus_Katalog2011_12.pdf.zip"
+[2012-02-21 01:50:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-21 01:50:10] Benutzer: m-stahlberger
+[2012-02-21 01:50:10] E-Mail: m.stahlberger@otterbach.de
+[2012-02-21 01:50:10] Datei: WeberHaus_Katalog2011_12.pdf.zip
+[2012-02-21 01:50:11] E-Mail wurde versandt
+[2012-02-21 01:50:48] *** Starte Download der angeforderten Datei
+[2012-02-21 01:50:48] Angeforderte Datei wurde nicht gefunden
+[2012-02-21 01:50:48] Download der Datei gescheitert
+[2012-02-21 02:40:38] *** Starte Upload der Datei ***
+[2012-02-21 02:40:38] Datei: uploads/m-stahlberger/Max_Plakat_HrBuehn.jpg.zip
+[2012-02-21 02:40:38] Groesse: 2551867 Bytes
+[2012-02-21 02:40:38] Upload von "uploads/m-stahlberger/Max_Plakat_HrBuehn.jpg.zip" erfolgreich abgeschlossen
+[2012-02-21 02:40:38] Zugriffsrechte von "uploads/m-stahlberger/Max_Plakat_HrBuehn.jpg.zip" geaendert (0755)
+[2012-02-21 02:40:38] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-21 02:40:38] Absender: Marina Stahlberger
+[2012-02-21 02:40:38] Empfaenger: Thorsten Bühn <Thorsten.Buehn@deutschebahn.com, c.eberle@otterbach.de
+[2012-02-21 02:40:38] Senden der E-Mail gescheitert
+[2012-02-22 01:15:50] *** Starte Upload der Datei ***
+[2012-02-22 01:15:50] Datei: uploads/a-bochannek/40555030_Lufthansa.pdf
+[2012-02-22 01:15:50] Groesse: 6064091 Bytes
+[2012-02-22 01:15:50] Upload von "uploads/a-bochannek/40555030_Lufthansa.pdf" erfolgreich abgeschlossen
+[2012-02-22 01:15:50] Zugriffsrechte von "uploads/a-bochannek/40555030_Lufthansa.pdf" geaendert (0755)
+[2012-02-22 01:15:50] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-22 01:15:50] Absender: Axel Bochannek
+[2012-02-22 01:15:50] Empfaenger: a.bochannek@otterbach.de
+[2012-02-22 01:15:50] E-Mail erfolgreich versandt
+[2012-02-22 02:32:05] *** Starte Download der angeforderten Datei
+[2012-02-22 02:32:05] Benutzer "a-bochannek" gefunden
+[2012-02-22 02:32:05] Datei "40555030_Lufthansa.pdf" gefunden
+[2012-02-22 02:32:21] Download von "40555030_Lufthansa.pdf"
+[2012-02-22 02:32:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-22 02:32:21] Benutzer: a-bochannek
+[2012-02-22 02:32:21] E-Mail: a.bochannek@otterbach.de
+[2012-02-22 02:32:21] Datei: 40555030_Lufthansa.pdf
+[2012-02-22 02:32:21] E-Mail wurde versandt
+[2012-02-22 03:07:57] *** Starte Loeschen der angeforderten Datei
+[2012-02-22 03:07:57] Ermittle Benutzer und Datei
+[2012-02-22 03:07:57] Benutzer "a-bochannek" gefunden
+[2012-02-22 03:07:57] Datei "40555030_Lufthansa.pdf" gefunden
+[2012-02-22 03:07:57] Die Datei "40555030_Lufthansa.pdf" wurde erfolgreich geloescht
+[2012-02-23 11:05:49] *** Starte Upload der Datei ***
+[2012-02-23 11:05:49] Datei: uploads/a-siegesmund/7012_125.zip
+[2012-02-23 11:05:49] Groesse: 82349005 Bytes
+[2012-02-23 11:05:49] Upload von "uploads/a-siegesmund/7012_125.zip" erfolgreich abgeschlossen
+[2012-02-23 11:05:49] Zugriffsrechte von "uploads/a-siegesmund/7012_125.zip" geaendert (0755)
+[2012-02-23 11:05:49] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-23 11:05:49] Absender: Alfred Siegesmund
+[2012-02-23 11:05:49] Empfaenger: jens.titius@baur.de
+[2012-02-23 11:05:49] E-Mail erfolgreich versandt
+[2012-02-23 11:06:10] *** Starte Download der angeforderten Datei
+[2012-02-23 11:06:10] Benutzer "a-siegesmund" gefunden
+[2012-02-23 11:06:10] Datei "7012_125.zip" gefunden
+[2012-02-23 11:06:35] *** Starte Download der angeforderten Datei
+[2012-02-23 11:06:35] Benutzer "a-siegesmund" gefunden
+[2012-02-23 11:06:35] Datei "7012_125.zip" gefunden
+[2012-02-23 11:07:27] Download von "7012_125.zip"
+[2012-02-23 11:07:27] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-23 11:07:27] Benutzer: a-siegesmund
+[2012-02-23 11:07:27] E-Mail: a.siegesmund@otterbach.de
+[2012-02-23 11:07:27] Datei: 7012_125.zip
+[2012-02-23 11:07:27] E-Mail wurde versandt
+[2012-02-24 12:20:41] *** Starte Upload der Datei ***
+[2012-02-24 12:20:41] Datei: uploads/a-siegesmund/Archiv.zip
+[2012-02-24 12:20:41] Groesse: 408131039 Bytes
+[2012-02-24 12:20:41] Upload von "uploads/a-siegesmund/Archiv.zip" erfolgreich abgeschlossen
+[2012-02-24 12:20:41] Zugriffsrechte von "uploads/a-siegesmund/Archiv.zip" geaendert (0755)
+[2012-02-24 12:20:41] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-24 12:20:41] Absender: Alfred Siegesmund
+[2012-02-24 12:20:41] Empfaenger: sbuehler@heine.de, shartmann@heine.de
+[2012-02-24 12:20:42] E-Mail erfolgreich versandt
+[2012-02-24 03:27:48] *** Starte Loeschen der angeforderten Datei
+[2012-02-24 03:27:48] Ermittle Benutzer und Datei
+[2012-02-24 03:27:48] Benutzer "m-stahlberger" gefunden
+[2012-02-24 03:27:48] Datei "WeberHaus_CH_Anzeigen.zip" gefunden
+[2012-02-24 03:27:48] Die Datei "WeberHaus_CH_Anzeigen.zip" wurde erfolgreich geloescht
+[2012-02-24 03:27:59] *** Starte Loeschen der angeforderten Datei
+[2012-02-24 03:27:59] Ermittle Benutzer und Datei
+[2012-02-24 03:27:59] Benutzer "m-stahlberger" gefunden
+[2012-02-24 03:27:59] Datei "WeberHaus_Katalog2011_12.pdf.zip" gefunden
+[2012-02-24 03:27:59] Die Datei "WeberHaus_Katalog2011_12.pdf.zip" wurde erfolgreich geloescht
+[2012-02-27 09:42:31] *** Starte Download der angeforderten Datei
+[2012-02-27 09:42:31] Benutzer "a-siegesmund" gefunden
+[2012-02-27 09:42:31] Datei "Archiv.zip" gefunden
+[2012-02-27 09:44:42] *** Starte Download der angeforderten Datei
+[2012-02-27 09:44:42] Benutzer "c-eberle" gefunden
+[2012-02-27 09:44:42] Datei "Licher_TVG_Handball_210x297_PDFx3.pdf" gefunden
+[2012-02-27 09:49:12] Download von "Archiv.zip"
+[2012-02-27 09:49:12] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-27 09:49:12] Benutzer: a-siegesmund
+[2012-02-27 09:49:12] E-Mail: a.siegesmund@otterbach.de
+[2012-02-27 09:49:12] Datei: Archiv.zip
+[2012-02-27 09:49:12] E-Mail wurde versandt
+[2012-02-27 12:08:29] *** Starte Upload der Datei ***
+[2012-02-27 12:08:29] Datei: uploads/m-stahlberger/Max_neue_Motive.zip
+[2012-02-27 12:08:29] Groesse: 14514957 Bytes
+[2012-02-27 12:08:29] Upload von "uploads/m-stahlberger/Max_neue_Motive.zip" erfolgreich abgeschlossen
+[2012-02-27 12:08:29] Zugriffsrechte von "uploads/m-stahlberger/Max_neue_Motive.zip" geaendert (0755)
+[2012-02-27 12:08:29] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-27 12:08:29] Absender: Marina Stahlberger
+[2012-02-27 12:08:29] Empfaenger: fritz@fritzreuter.net, m.stahlberger@otterbach.de
+[2012-02-27 12:08:30] E-Mail erfolgreich versandt
+[2012-02-27 12:09:29] *** Starte Download der angeforderten Datei
+[2012-02-27 12:09:29] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:09:29] Download der Datei gescheitert
+[2012-02-27 12:09:39] *** Starte Download der angeforderten Datei
+[2012-02-27 12:09:39] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:09:39] Download der Datei gescheitert
+[2012-02-27 12:09:48] *** Starte Download der angeforderten Datei
+[2012-02-27 12:09:48] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:09:48] Download der Datei gescheitert
+[2012-02-27 12:10:33] *** Starte Download der angeforderten Datei
+[2012-02-27 12:10:33] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:10:33] Download der Datei gescheitert
+[2012-02-27 12:11:52] *** Starte Download der angeforderten Datei
+[2012-02-27 12:11:52] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:11:52] Download der Datei gescheitert
+[2012-02-27 12:12:04] *** Starte Download der angeforderten Datei
+[2012-02-27 12:12:04] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:12:04] Download der Datei gescheitert
+[2012-02-27 12:12:16] *** Starte Download der angeforderten Datei
+[2012-02-27 12:12:16] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:12:16] Download der Datei gescheitert
+[2012-02-27 12:12:20] *** Starte Download der angeforderten Datei
+[2012-02-27 12:12:20] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:12:20] Download der Datei gescheitert
+[2012-02-27 12:12:41] *** Starte Download der angeforderten Datei
+[2012-02-27 12:12:41] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:12:41] Download der Datei gescheitert
+[2012-02-27 12:12:47] *** Starte Download der angeforderten Datei
+[2012-02-27 12:12:47] Angeforderte Datei wurde nicht gefunden
+[2012-02-27 12:12:47] Download der Datei gescheitert
+[2012-02-27 12:15:29] *** Starte Download der angeforderten Datei
+[2012-02-27 12:15:29] Benutzer "m-stahlberger" gefunden
+[2012-02-27 12:15:29] Datei "Max_neue_Motive.zip" gefunden
+[2012-02-27 12:16:28] Download von "Max_neue_Motive.zip"
+[2012-02-27 12:16:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-27 12:16:28] Benutzer: m-stahlberger
+[2012-02-27 12:16:28] E-Mail: m.stahlberger@otterbach.de
+[2012-02-27 12:16:28] Datei: Max_neue_Motive.zip
+[2012-02-27 12:16:28] E-Mail wurde versandt
+[2012-02-27 12:16:42] *** Starte Download der angeforderten Datei
+[2012-02-27 12:16:42] Benutzer "m-stahlberger" gefunden
+[2012-02-27 12:16:42] Datei "Max_neue_Motive.zip" gefunden
+[2012-02-27 12:16:42] Download von "Max_neue_Motive.zip"
+[2012-02-27 12:16:42] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-27 12:16:42] Benutzer: m-stahlberger
+[2012-02-27 12:16:42] E-Mail: m.stahlberger@otterbach.de
+[2012-02-27 12:16:42] Datei: Max_neue_Motive.zip
+[2012-02-27 12:16:42] E-Mail wurde versandt
+[2012-02-27 01:10:06] *** Starte Loeschen der angeforderten Datei
+[2012-02-27 01:10:06] Ermittle Benutzer und Datei
+[2012-02-27 01:10:06] Benutzer "m-stahlberger" gefunden
+[2012-02-27 01:10:06] Datei "Max_neue_Motive.zip" gefunden
+[2012-02-27 01:10:06] Die Datei "Max_neue_Motive.zip" wurde erfolgreich geloescht
+[2012-02-27 02:43:41] *** Starte Download der angeforderten Datei
+[2012-02-27 02:43:41] Benutzer "a-siegesmund" gefunden
+[2012-02-27 02:43:41] Datei "7012_125.zip" gefunden
+[2012-02-27 02:45:43] Download von "7012_125.zip"
+[2012-02-27 02:45:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-27 02:45:43] Benutzer: a-siegesmund
+[2012-02-27 02:45:43] E-Mail: a.siegesmund@otterbach.de
+[2012-02-27 02:45:43] Datei: 7012_125.zip
+[2012-02-27 02:45:43] E-Mail wurde versandt
+[2012-02-28 10:51:41] *** Starte Upload der Datei ***
+[2012-02-28 10:51:41] Datei: uploads/a-siegesmund/Archiv.zip
+[2012-02-28 10:51:41] Groesse: 149315751 Bytes
+[2012-02-28 10:51:41] Upload von "uploads/a-siegesmund/Archiv.zip" erfolgreich abgeschlossen
+[2012-02-28 10:51:41] Zugriffsrechte von "uploads/a-siegesmund/Archiv.zip" geaendert (0755)
+[2012-02-28 10:51:41] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-28 10:51:41] Absender: Alfred Siegesmund
+[2012-02-28 10:51:41] Empfaenger: skantz-eichmann@heine.de
+[2012-02-28 10:51:41] E-Mail erfolgreich versandt
+[2012-02-28 11:08:00] *** Starte Download der angeforderten Datei
+[2012-02-28 11:08:00] Benutzer "a-siegesmund" gefunden
+[2012-02-28 11:08:00] Datei "Archiv.zip" gefunden
+[2012-02-28 11:09:31] Download von "Archiv.zip"
+[2012-02-28 11:09:31] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-28 11:09:31] Benutzer: a-siegesmund
+[2012-02-28 11:09:31] E-Mail: a.siegesmund@otterbach.de
+[2012-02-28 11:09:31] Datei: Archiv.zip
+[2012-02-28 11:09:31] E-Mail wurde versandt
+[2012-02-28 11:24:26] *** Starte Download der angeforderten Datei
+[2012-02-28 11:24:26] Benutzer "a-siegesmund" gefunden
+[2012-02-28 11:24:26] Datei "Archiv.zip" gefunden
+[2012-02-28 11:25:54] Download von "Archiv.zip"
+[2012-02-28 11:25:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-28 11:25:54] Benutzer: a-siegesmund
+[2012-02-28 11:25:54] E-Mail: a.siegesmund@otterbach.de
+[2012-02-28 11:25:54] Datei: Archiv.zip
+[2012-02-28 11:25:54] E-Mail wurde versandt
+[2012-02-28 03:15:46] *** Starte Upload der Datei ***
+[2012-02-28 03:15:46] Datei: uploads/c-eberle/Bit_FH_AZ_DFB_EM_Shirt_280x440_Korr_PDFx3_PSOLWCImp_45L.pdf
+[2012-02-28 03:15:46] Groesse: 29095734 Bytes
+[2012-02-28 03:15:46] Upload von "uploads/c-eberle/Bit_FH_AZ_DFB_EM_Shirt_280x440_Korr_PDFx3_PSOLWCImp_45L.pdf" erfolgreich abgeschlossen
+[2012-02-28 03:15:46] Zugriffsrechte von "uploads/c-eberle/Bit_FH_AZ_DFB_EM_Shirt_280x440_Korr_PDFx3_PSOLWCImp_45L.pdf" geaendert (0755)
+[2012-02-28 03:15:46] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-28 03:15:46] Absender: Clarissa Eberle
+[2012-02-28 03:15:46] Empfaenger: c.eberle@otterbach.de
+[2012-02-28 03:15:47] E-Mail erfolgreich versandt
+[2012-02-28 04:06:36] *** Starte Download der angeforderten Datei
+[2012-02-28 04:06:36] Benutzer "c-eberle" gefunden
+[2012-02-28 04:06:36] Datei "Bit_FH_AZ_DFB_EM_Shirt_280x440_Korr_PDFx3_PSOLWCImp_45L.pdf" gefunden
+[2012-02-28 04:06:46] Download von "Bit_FH_AZ_DFB_EM_Shirt_280x440_Korr_PDFx3_PSOLWCImp_45L.pdf"
+[2012-02-28 04:06:46] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-28 04:06:46] Benutzer: c-eberle
+[2012-02-28 04:06:46] E-Mail: c.eberle@otterbach.de
+[2012-02-28 04:06:46] Datei: Bit_FH_AZ_DFB_EM_Shirt_280x440_Korr_PDFx3_PSOLWCImp_45L.pdf
+[2012-02-28 04:06:46] E-Mail wurde versandt
+[2012-02-28 05:14:33] *** Starte Upload der Datei ***
+[2012-02-28 05:14:34] Datei: uploads/a-bochannek/41759010_Stadtmuseum.pdf
+[2012-02-28 05:14:34] Groesse: 7182161 Bytes
+[2012-02-28 05:14:34] Upload von "uploads/a-bochannek/41759010_Stadtmuseum.pdf" erfolgreich abgeschlossen
+[2012-02-28 05:14:34] Zugriffsrechte von "uploads/a-bochannek/41759010_Stadtmuseum.pdf" geaendert (0755)
+[2012-02-28 05:14:34] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-28 05:14:34] Absender: Axel Bochannek
+[2012-02-28 05:14:34] Empfaenger: a.bochannek@otterbach.de
+[2012-02-28 05:14:34] E-Mail erfolgreich versandt
+[2012-02-28 05:40:47] *** Starte Download der angeforderten Datei
+[2012-02-28 05:40:47] Benutzer "a-bochannek" gefunden
+[2012-02-28 05:40:47] Datei "41759010_Stadtmuseum.pdf" gefunden
+[2012-02-28 05:40:55] Download von "41759010_Stadtmuseum.pdf"
+[2012-02-28 05:40:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-28 05:40:55] Benutzer: a-bochannek
+[2012-02-28 05:40:55] E-Mail: a.bochannek@otterbach.de
+[2012-02-28 05:40:55] Datei: 41759010_Stadtmuseum.pdf
+[2012-02-28 05:40:55] E-Mail wurde versandt
+[2012-02-29 09:28:00] *** Starte Upload der Datei ***
+[2012-02-29 09:28:00] Datei: uploads/m-stahlberger/Max_Ostern_Grosse_Spruenge.zip
+[2012-02-29 09:28:00] Groesse: 8929580 Bytes
+[2012-02-29 09:28:00] Upload von "uploads/m-stahlberger/Max_Ostern_Grosse_Spruenge.zip" erfolgreich abgeschlossen
+[2012-02-29 09:28:00] Zugriffsrechte von "uploads/m-stahlberger/Max_Ostern_Grosse_Spruenge.zip" geaendert (0755)
+[2012-02-29 09:28:00] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-29 09:28:00] Absender: Marina Stahlberger
+[2012-02-29 09:28:00] Empfaenger: max.maulwurf@deutschebahn.com
+[2012-02-29 09:28:02] E-Mail erfolgreich versandt
+[2012-02-29 11:30:12] *** Starte Upload der Datei ***
+[2012-02-29 11:30:13] Datei: uploads/a-siegesmund/5125125.zip
+[2012-02-29 11:30:13] Groesse: 184201521 Bytes
+[2012-02-29 11:30:13] Upload von "uploads/a-siegesmund/5125125.zip" erfolgreich abgeschlossen
+[2012-02-29 11:30:13] Zugriffsrechte von "uploads/a-siegesmund/5125125.zip" geaendert (0755)
+[2012-02-29 11:30:13] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-29 11:30:13] Absender: Alfred Siegesmund
+[2012-02-29 11:30:13] Empfaenger: shartmann@heine.de
+[2012-02-29 11:30:13] E-Mail erfolgreich versandt
+[2012-02-29 11:46:02] *** Starte Download der angeforderten Datei
+[2012-02-29 11:46:02] Benutzer "a-siegesmund" gefunden
+[2012-02-29 11:46:02] Datei "5125125.zip" gefunden
+[2012-02-29 11:46:34] *** Starte Download der angeforderten Datei
+[2012-02-29 11:46:34] Benutzer "a-siegesmund" gefunden
+[2012-02-29 11:46:34] Datei "5125125.zip" gefunden
+[2012-02-29 11:51:48] Download von "5125125.zip"
+[2012-02-29 11:51:48] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-29 11:51:48] Benutzer: a-siegesmund
+[2012-02-29 11:51:48] E-Mail: a.siegesmund@otterbach.de
+[2012-02-29 11:51:48] Datei: 5125125.zip
+[2012-02-29 11:51:48] E-Mail wurde versandt
+[2012-02-29 11:52:16] Download von "5125125.zip"
+[2012-02-29 11:52:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-29 11:52:16] Benutzer: a-siegesmund
+[2012-02-29 11:52:16] E-Mail: a.siegesmund@otterbach.de
+[2012-02-29 11:52:16] Datei: 5125125.zip
+[2012-02-29 11:52:16] E-Mail wurde versandt
+[2012-02-29 12:12:34] *** Starte Upload der Datei ***
+[2012-02-29 12:12:34] Datei: uploads/a-siegesmund/7007_125.zip
+[2012-02-29 12:12:34] Groesse: 407003654 Bytes
+[2012-02-29 12:12:34] Upload von "uploads/a-siegesmund/7007_125.zip" erfolgreich abgeschlossen
+[2012-02-29 12:12:34] Zugriffsrechte von "uploads/a-siegesmund/7007_125.zip" geaendert (0755)
+[2012-02-29 12:12:34] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2012-02-29 12:12:34] Absender: Alfred Siegesmund
+[2012-02-29 12:12:34] Empfaenger: skantz-eichmann@heine.de
+[2012-02-29 12:12:34] E-Mail erfolgreich versandt
+[2012-02-29 12:19:59] *** Starte Download der angeforderten Datei
+[2012-02-29 12:19:59] Benutzer "m-stahlberger" gefunden
+[2012-02-29 12:19:59] Datei "Max_Ostern_Grosse_Spruenge.zip" gefunden
+[2012-02-29 12:20:08] Download von "Max_Ostern_Grosse_Spruenge.zip"
+[2012-02-29 12:20:08] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-29 12:20:08] Benutzer: m-stahlberger
+[2012-02-29 12:20:08] E-Mail: m.stahlberger@otterbach.de
+[2012-02-29 12:20:08] Datei: Max_Ostern_Grosse_Spruenge.zip
+[2012-02-29 12:20:09] E-Mail wurde versandt
+[2012-02-29 12:37:37] *** Starte Download der angeforderten Datei
+[2012-02-29 12:37:38] Benutzer "a-siegesmund" gefunden
+[2012-02-29 12:37:38] Datei "7007_125.zip" gefunden
+[2012-02-29 12:41:29] *** Starte Download der angeforderten Datei
+[2012-02-29 12:41:29] Benutzer "a-siegesmund" gefunden
+[2012-02-29 12:41:29] Datei "7007_125.zip" gefunden
+[2012-02-29 12:41:44] Download von "7007_125.zip"
+[2012-02-29 12:41:44] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-29 12:41:44] Benutzer: a-siegesmund
+[2012-02-29 12:41:44] E-Mail: a.siegesmund@otterbach.de
+[2012-02-29 12:41:44] Datei: 7007_125.zip
+[2012-02-29 12:41:44] E-Mail wurde versandt
+[2012-02-29 12:45:13] Download von "7007_125.zip"
+[2012-02-29 12:45:13] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-29 12:45:13] Benutzer: a-siegesmund
+[2012-02-29 12:45:13] E-Mail: a.siegesmund@otterbach.de
+[2012-02-29 12:45:13] Datei: 7007_125.zip
+[2012-02-29 12:45:13] E-Mail wurde versandt
+[2012-02-29 02:21:17] *** Starte Download der angeforderten Datei
+[2012-02-29 02:21:17] Benutzer "a-siegesmund" gefunden
+[2012-02-29 02:21:17] Datei "7007_125.zip" gefunden
+[2012-02-29 02:27:44] Download von "7007_125.zip"
+[2012-02-29 02:27:44] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2012-02-29 02:27:44] Benutzer: a-siegesmund
+[2012-02-29 02:27:44] E-Mail: a.siegesmund@otterbach.de
+[2012-02-29 02:27:44] Datei: 7007_125.zip
+[2012-02-29 02:27:44] E-Mail wurde versandt
+[2012-02-29 02:49:32] *** Starte Loeschen der angeforderten Datei
+[2012-02-29 02:49:32] Ermittle Benutzer und Datei
+[2012-02-29 02:49:32] Benutzer "a-bochannek" gefunden
+[2012-02-29 02:49:32] Datei "41759010_Stadtmuseum.pdf" gefunden
+[2012-02-29 02:49:32] Die Datei "41759010_Stadtmuseum.pdf" wurde erfolgreich geloescht
+[2012-02-29 04:20:13] *** Starte Loeschen der angeforderten Datei
+[2012-02-29 04:20:13] Ermittle Benutzer und Datei
+[2012-02-29 04:20:13] Benutzer "m-stahlberger" gefunden
+[2012-02-29 04:20:13] Datei "Max_Ostern_Grosse_Spruenge.zip" gefunden
+[2012-02-29 04:20:13] Die Datei "Max_Ostern_Grosse_Spruenge.zip" wurde erfolgreich geloescht

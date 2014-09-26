@@ -1,0 +1,2841 @@
+[2013-10-01 09:57:34] *** Starte Upload der Datei ***
+[2013-10-01 09:57:34] Datei: uploads/concept/VICHY-Markenshops.zip
+[2013-10-01 09:57:34] Groesse: 8595531 Bytes
+[2013-10-01 09:57:34] Upload von "uploads/concept/VICHY-Markenshops.zip" erfolgreich abgeschlossen
+[2013-10-01 09:57:34] Zugriffsrechte von "uploads/concept/VICHY-Markenshops.zip" geaendert (0755)
+[2013-10-01 09:57:34] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-01 09:57:34] Absender: Otterbach Concept
+[2013-10-01 09:57:34] Empfaenger: c.schmidt@otterbach.de
+[2013-10-01 09:57:34] E-Mail erfolgreich versandt
+[2013-10-01 09:59:18] *** Starte Download der angeforderten Datei
+[2013-10-01 09:59:18] Benutzer "concept" gefunden
+[2013-10-01 09:59:18] Datei "VICHY-Markenshops.zip" gefunden
+[2013-10-01 09:59:18] Download von "VICHY-Markenshops.zip"
+[2013-10-01 09:59:18] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-01 09:59:18] Benutzer: concept
+[2013-10-01 09:59:18] E-Mail: jetzt@gas-gebbe.de
+[2013-10-01 09:59:18] Datei: VICHY-Markenshops.zip
+[2013-10-01 09:59:18] E-Mail wurde versandt
+[2013-10-01 12:54:23] *** Starte Upload der Datei ***
+[2013-10-01 12:54:23] Datei: uploads/concept/Daten_MEDICALVISION.zip
+[2013-10-01 12:54:23] Groesse: 56176922 Bytes
+[2013-10-01 12:54:23] Upload von "uploads/concept/Daten_MEDICALVISION.zip" erfolgreich abgeschlossen
+[2013-10-01 12:54:23] Zugriffsrechte von "uploads/concept/Daten_MEDICALVISION.zip" geaendert (0755)
+[2013-10-01 12:54:23] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-01 12:54:23] Absender: Otterbach Concept
+[2013-10-01 12:54:23] Empfaenger: c.weissenrieder@otterbach.de
+[2013-10-01 12:54:24] E-Mail erfolgreich versandt
+[2013-10-01 01:07:15] *** Starte Download der angeforderten Datei
+[2013-10-01 01:07:15] Benutzer "concept" gefunden
+[2013-10-01 01:07:15] Datei "Daten_MEDICALVISION.zip" gefunden
+[2013-10-01 01:07:15] Download von "Daten_MEDICALVISION.zip"
+[2013-10-01 01:07:59] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-01 01:07:59] Benutzer: concept
+[2013-10-01 01:07:59] E-Mail: jetzt@gas-gebbe.de
+[2013-10-01 01:07:59] Datei: Daten_MEDICALVISION.zip
+[2013-10-01 01:07:59] E-Mail wurde versandt
+[2013-10-01 05:40:42] *** Starte Upload der Datei ***
+[2013-10-01 05:40:42] Datei: uploads/concept/_VOT-UPDATE.zip
+[2013-10-01 05:40:42] Groesse: 67343191 Bytes
+[2013-10-01 05:40:42] Upload von "uploads/concept/_VOT-UPDATE.zip" erfolgreich abgeschlossen
+[2013-10-01 05:40:42] Zugriffsrechte von "uploads/concept/_VOT-UPDATE.zip" geaendert (0755)
+[2013-10-01 05:40:42] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-01 05:40:42] Absender: Otterbach Concept
+[2013-10-01 05:40:42] Empfaenger: c.schmidt@otterbach.de
+[2013-10-01 05:40:43] E-Mail erfolgreich versandt
+[2013-10-01 07:14:13] *** Starte Upload der Datei ***
+[2013-10-01 07:14:13] Datei: uploads/concept/Markenshops-Datenlieferung.zip
+[2013-10-01 07:14:13] Groesse: 8320658 Bytes
+[2013-10-01 07:14:13] Upload von "uploads/concept/Markenshops-Datenlieferung.zip" erfolgreich abgeschlossen
+[2013-10-01 07:14:13] Zugriffsrechte von "uploads/concept/Markenshops-Datenlieferung.zip" geaendert (0755)
+[2013-10-01 07:14:13] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-01 07:14:13] Absender: Otterbach Concept
+[2013-10-01 07:14:13] Empfaenger: c.schmidt@otterbach.de
+[2013-10-01 07:14:13] E-Mail erfolgreich versandt
+[2013-10-02 09:51:46] *** Starte Download der angeforderten Datei
+[2013-10-02 09:51:46] Benutzer "concept" gefunden
+[2013-10-02 09:51:46] Datei "Markenshops-Datenlieferung.zip" gefunden
+[2013-10-02 09:51:46] Download von "Markenshops-Datenlieferung.zip"
+[2013-10-02 09:51:51] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 09:51:51] Benutzer: concept
+[2013-10-02 09:51:51] E-Mail: jetzt@gas-gebbe.de
+[2013-10-02 09:51:51] Datei: Markenshops-Datenlieferung.zip
+[2013-10-02 09:51:51] E-Mail wurde versandt
+[2013-10-02 09:58:10] *** Starte Upload der Datei ***
+[2013-10-02 09:58:10] Datei: uploads/a-merkel/PlanSystem4.zip
+[2013-10-02 09:58:10] Groesse: 29944888 Bytes
+[2013-10-02 09:58:10] Upload von "uploads/a-merkel/PlanSystem4.zip" erfolgreich abgeschlossen
+[2013-10-02 09:58:10] Zugriffsrechte von "uploads/a-merkel/PlanSystem4.zip" geaendert (0755)
+[2013-10-02 09:58:10] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-02 09:58:10] Absender: Andreas Merkel
+[2013-10-02 09:58:10] Empfaenger: a.merkel@otterbach.de
+[2013-10-02 09:58:10] E-Mail erfolgreich versandt
+[2013-10-02 10:03:53] *** Starte Download der angeforderten Datei
+[2013-10-02 10:03:53] Benutzer "concept" gefunden
+[2013-10-02 10:03:53] Datei "Markenshops-Datenlieferung.zip" gefunden
+[2013-10-02 10:03:53] Download von "Markenshops-Datenlieferung.zip"
+[2013-10-02 10:03:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 10:03:54] Benutzer: concept
+[2013-10-02 10:03:54] E-Mail: jetzt@gas-gebbe.de
+[2013-10-02 10:03:54] Datei: Markenshops-Datenlieferung.zip
+[2013-10-02 10:03:54] E-Mail wurde versandt
+[2013-10-02 10:08:28] *** Starte Download der angeforderten Datei
+[2013-10-02 10:08:28] Benutzer "a-merkel" gefunden
+[2013-10-02 10:08:28] Datei "PlanSystem4.zip" gefunden
+[2013-10-02 10:08:28] Download von "PlanSystem4.zip"
+[2013-10-02 10:08:41] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 10:08:41] Benutzer: a-merkel
+[2013-10-02 10:08:41] E-Mail: a.merkel@otterbach.de
+[2013-10-02 10:08:41] Datei: PlanSystem4.zip
+[2013-10-02 10:08:41] E-Mail wurde versandt
+[2013-10-02 10:17:40] *** Starte Loeschen der angeforderten Datei
+[2013-10-02 10:17:40] Ermittle Benutzer und Datei
+[2013-10-02 10:17:40] Benutzer "a-merkel" gefunden
+[2013-10-02 10:17:40] Datei "PlanSystem4.zip" gefunden
+[2013-10-02 10:17:40] Die Datei "PlanSystem4.zip" wurde erfolgreich geloescht
+[2013-10-02 10:37:12] *** Starte Download der angeforderten Datei
+[2013-10-02 10:37:12] Benutzer "concept" gefunden
+[2013-10-02 10:37:12] Datei "_VOT-UPDATE.zip" gefunden
+[2013-10-02 10:37:12] Download von "_VOT-UPDATE.zip"
+[2013-10-02 10:37:37] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 10:37:37] Benutzer: concept
+[2013-10-02 10:37:37] E-Mail: jetzt@gas-gebbe.de
+[2013-10-02 10:37:37] Datei: _VOT-UPDATE.zip
+[2013-10-02 10:37:37] E-Mail wurde versandt
+[2013-10-02 10:39:11] *** Starte Upload der Datei ***
+[2013-10-02 10:39:11] Datei: uploads/j-maske/2013-09 - Vichy on Tour.zip
+[2013-10-02 10:39:11] Groesse: 5167865 Bytes
+[2013-10-02 10:39:11] Upload von "uploads/j-maske/2013-09 - Vichy on Tour.zip" erfolgreich abgeschlossen
+[2013-10-02 10:39:11] Zugriffsrechte von "uploads/j-maske/2013-09 - Vichy on Tour.zip" geaendert (0755)
+[2013-10-02 10:39:11] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-02 10:39:11] Absender: Jörn Maske
+[2013-10-02 10:39:11] Empfaenger: e.kul@otterbach.de
+[2013-10-02 10:39:11] E-Mail erfolgreich versandt
+[2013-10-02 10:40:07] *** Starte Download der angeforderten Datei
+[2013-10-02 10:40:07] Benutzer "j-maske" gefunden
+[2013-10-02 10:40:07] Datei "2013-09 - Vichy on Tour.zip" gefunden
+[2013-10-02 10:40:07] Download von "2013-09 - Vichy on Tour.zip"
+[2013-10-02 10:40:08] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 10:40:08] Benutzer: j-maske
+[2013-10-02 10:40:08] E-Mail: j.maske@otterbach.de
+[2013-10-02 10:40:08] Datei: 2013-09 - Vichy on Tour.zip
+[2013-10-02 10:40:08] E-Mail wurde versandt
+[2013-10-02 12:32:21] *** Starte Upload der Datei ***
+[2013-10-02 12:32:21] Datei: uploads/h-schwentker/QA8_L_D_10116_2.zip
+[2013-10-02 12:32:21] Groesse: 35257712 Bytes
+[2013-10-02 12:32:21] Upload von "uploads/h-schwentker/QA8_L_D_10116_2.zip" erfolgreich abgeschlossen
+[2013-10-02 12:32:21] Zugriffsrechte von "uploads/h-schwentker/QA8_L_D_10116_2.zip" geaendert (0755)
+[2013-10-02 12:32:21] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-02 12:32:21] Absender: Henrik Schwentker
+[2013-10-02 12:32:21] Empfaenger: h.schwentker@otterbach.de
+[2013-10-02 12:32:22] E-Mail erfolgreich versandt
+[2013-10-02 02:25:31] *** Starte Upload der Datei ***
+[2013-10-02 02:25:31] Datei: uploads/sbr/FCB_2013_10_02_AppleStore.zip
+[2013-10-02 02:25:31] Groesse: 22985180 Bytes
+[2013-10-02 02:25:31] Upload von "uploads/sbr/FCB_2013_10_02_AppleStore.zip" erfolgreich abgeschlossen
+[2013-10-02 02:25:31] Zugriffsrechte von "uploads/sbr/FCB_2013_10_02_AppleStore.zip" geaendert (0755)
+[2013-10-02 02:25:31] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-02 02:25:31] Absender: Sabine Benz-Reichel
+[2013-10-02 02:25:31] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-02 02:25:31] E-Mail erfolgreich versandt
+[2013-10-02 03:03:14] *** Starte Download der angeforderten Datei
+[2013-10-02 03:03:14] Benutzer "h-schwentker" gefunden
+[2013-10-02 03:03:14] Datei "QA8_L_D_10116_2.zip" gefunden
+[2013-10-02 03:03:14] Download von "QA8_L_D_10116_2.zip"
+[2013-10-02 03:03:15] *** Starte Download der angeforderten Datei
+[2013-10-02 03:03:15] Benutzer "h-schwentker" gefunden
+[2013-10-02 03:03:15] Datei "QA8_L_D_10116_2.zip" gefunden
+[2013-10-02 03:03:15] Download von "QA8_L_D_10116_2.zip"
+[2013-10-02 03:04:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 03:04:50] Benutzer: h-schwentker
+[2013-10-02 03:04:50] E-Mail: h.schwentker@otterbach.de
+[2013-10-02 03:04:50] Datei: QA8_L_D_10116_2.zip
+[2013-10-02 03:04:50] E-Mail wurde versandt
+[2013-10-02 03:13:16] *** Starte Download der angeforderten Datei
+[2013-10-02 03:13:16] Benutzer "sbr" gefunden
+[2013-10-02 03:13:16] Datei "FCB_2013_10_02_AppleStore.zip" gefunden
+[2013-10-02 03:13:16] Download von "FCB_2013_10_02_AppleStore.zip"
+[2013-10-02 03:16:45] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 03:16:45] Benutzer: sbr
+[2013-10-02 03:16:45] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-02 03:16:45] Datei: FCB_2013_10_02_AppleStore.zip
+[2013-10-02 03:16:45] E-Mail wurde versandt
+[2013-10-02 03:29:30] *** Starte Upload der Datei ***
+[2013-10-02 03:29:30] Datei: uploads/sbr/AudiAdrenalin_2013_09_30_ADC.zip
+[2013-10-02 03:29:30] Groesse: 16291927 Bytes
+[2013-10-02 03:29:30] Upload von "uploads/sbr/AudiAdrenalin_2013_09_30_ADC.zip" erfolgreich abgeschlossen
+[2013-10-02 03:29:30] Zugriffsrechte von "uploads/sbr/AudiAdrenalin_2013_09_30_ADC.zip" geaendert (0755)
+[2013-10-02 03:29:30] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-02 03:29:30] Absender: Sabine Benz-Reichel
+[2013-10-02 03:29:30] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-02 03:29:30] E-Mail erfolgreich versandt
+[2013-10-02 03:53:03] *** Starte Download der angeforderten Datei
+[2013-10-02 03:53:03] Benutzer "sbr" gefunden
+[2013-10-02 03:53:03] Datei "Audimagazine_ADC.zip" gefunden
+[2013-10-02 03:53:03] Download von "Audimagazine_ADC.zip"
+[2013-10-02 03:53:25] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 03:53:25] Benutzer: sbr
+[2013-10-02 03:53:25] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-02 03:53:25] Datei: Audimagazine_ADC.zip
+[2013-10-02 03:53:25] E-Mail wurde versandt
+[2013-10-02 04:10:42] *** Starte Upload der Datei ***
+[2013-10-02 04:10:42] Datei: uploads/sbr/AudiMagazine_2013_09_27_ADC.zip
+[2013-10-02 04:10:42] Groesse: 46168182 Bytes
+[2013-10-02 04:10:42] Upload von "uploads/sbr/AudiMagazine_2013_09_27_ADC.zip" erfolgreich abgeschlossen
+[2013-10-02 04:10:42] Zugriffsrechte von "uploads/sbr/AudiMagazine_2013_09_27_ADC.zip" geaendert (0755)
+[2013-10-02 04:10:42] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-02 04:10:42] Absender: Sabine Benz-Reichel
+[2013-10-02 04:10:42] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-02 04:10:43] E-Mail erfolgreich versandt
+[2013-10-02 04:17:42] *** Starte Download der angeforderten Datei
+[2013-10-02 04:17:42] Benutzer "sbr" gefunden
+[2013-10-02 04:17:42] Datei "AudiMagazine_2013_09_27_ADC.zip" gefunden
+[2013-10-02 04:17:42] Download von "AudiMagazine_2013_09_27_ADC.zip"
+[2013-10-02 04:17:59] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 04:17:59] Benutzer: sbr
+[2013-10-02 04:17:59] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-02 04:17:59] Datei: AudiMagazine_2013_09_27_ADC.zip
+[2013-10-02 04:17:59] E-Mail wurde versandt
+[2013-10-02 04:21:47] *** Starte Download der angeforderten Datei
+[2013-10-02 04:21:47] Benutzer "sbr" gefunden
+[2013-10-02 04:21:47] Datei "AudiMagazine_2013_09_27_ADC.zip" gefunden
+[2013-10-02 04:21:47] Download von "AudiMagazine_2013_09_27_ADC.zip"
+[2013-10-02 04:23:09] *** Starte Download der angeforderten Datei
+[2013-10-02 04:23:09] Benutzer "sbr" gefunden
+[2013-10-02 04:23:09] Datei "AudiMagazine_2013_09_27_ADC.zip" gefunden
+[2013-10-02 04:23:09] Download von "AudiMagazine_2013_09_27_ADC.zip"
+[2013-10-02 04:23:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 04:23:26] Benutzer: sbr
+[2013-10-02 04:23:26] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-02 04:23:26] Datei: AudiMagazine_2013_09_27_ADC.zip
+[2013-10-02 04:23:27] E-Mail wurde versandt
+[2013-10-02 04:24:34] *** Starte Download der angeforderten Datei
+[2013-10-02 04:24:34] Benutzer "sbr" gefunden
+[2013-10-02 04:24:34] Datei "AudiMagazine_2013_09_27_ADC.zip" gefunden
+[2013-10-02 04:24:34] Download von "AudiMagazine_2013_09_27_ADC.zip"
+[2013-10-02 04:25:31] *** Starte Download der angeforderten Datei
+[2013-10-02 04:25:31] Benutzer "sbr" gefunden
+[2013-10-02 04:25:31] Datei "AudiMagazine_2013_09_27_ADC.zip" gefunden
+[2013-10-02 04:25:31] Download von "AudiMagazine_2013_09_27_ADC.zip"
+[2013-10-02 05:34:43] *** Starte Upload der Datei ***
+[2013-10-02 05:34:43] Datei: uploads/a-merkel/Highress.zip
+[2013-10-02 05:34:43] Groesse: 12072133 Bytes
+[2013-10-02 05:34:43] Upload von "uploads/a-merkel/Highress.zip" erfolgreich abgeschlossen
+[2013-10-02 05:34:43] Zugriffsrechte von "uploads/a-merkel/Highress.zip" geaendert (0755)
+[2013-10-02 05:34:43] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-02 05:34:43] Absender: Andreas Merkel
+[2013-10-02 05:34:43] Empfaenger: mr@headline-online.de
+[2013-10-02 05:34:44] E-Mail erfolgreich versandt
+[2013-10-02 05:42:53] *** Starte Download der angeforderten Datei
+[2013-10-02 05:42:53] Benutzer "a-merkel" gefunden
+[2013-10-02 05:42:53] Datei "Highress.zip" gefunden
+[2013-10-02 05:42:53] Download von "Highress.zip"
+[2013-10-02 05:42:56] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-02 05:42:56] Benutzer: a-merkel
+[2013-10-02 05:42:56] E-Mail: a.merkel@otterbach.de
+[2013-10-02 05:42:56] Datei: Highress.zip
+[2013-10-02 05:42:56] E-Mail wurde versandt
+[2013-10-02 06:19:25] *** Starte Loeschen der angeforderten Datei
+[2013-10-02 06:19:25] Ermittle Benutzer und Datei
+[2013-10-02 06:19:25] Benutzer "a-merkel" gefunden
+[2013-10-02 06:19:25] Datei "Highress.zip" gefunden
+[2013-10-02 06:19:25] Die Datei "Highress.zip" wurde erfolgreich geloescht
+[2013-10-02 07:27:16] *** Starte Upload der Datei ***
+[2013-10-02 07:27:16] Datei: uploads/sbr/Screenshots.zip
+[2013-10-02 07:27:16] Groesse: 12875185 Bytes
+[2013-10-02 07:27:16] Upload von "uploads/sbr/Screenshots.zip" erfolgreich abgeschlossen
+[2013-10-02 07:27:16] Zugriffsrechte von "uploads/sbr/Screenshots.zip" geaendert (0755)
+[2013-10-02 07:27:16] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-02 07:27:16] Absender: Sabine Benz-Reichel
+[2013-10-02 07:27:16] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-02 07:27:16] E-Mail erfolgreich versandt
+[2013-10-04 10:16:44] *** Starte Upload der Datei ***
+[2013-10-04 10:16:45] Datei: uploads/sbr/Thorsten.zip
+[2013-10-04 10:16:45] Groesse: 3485238 Bytes
+[2013-10-04 10:16:45] Upload von "uploads/sbr/Thorsten.zip" erfolgreich abgeschlossen
+[2013-10-04 10:16:45] Zugriffsrechte von "uploads/sbr/Thorsten.zip" geaendert (0755)
+[2013-10-04 10:16:45] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-04 10:16:45] Absender: Sabine Benz-Reichel
+[2013-10-04 10:16:45] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-04 10:16:45] E-Mail erfolgreich versandt
+[2013-10-04 10:17:47] *** Starte Download der angeforderten Datei
+[2013-10-04 10:17:47] Benutzer "sbr" gefunden
+[2013-10-04 10:17:47] Datei "Thorsten.zip" gefunden
+[2013-10-04 10:17:47] Download von "Thorsten.zip"
+[2013-10-04 10:17:48] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-04 10:17:48] Benutzer: sbr
+[2013-10-04 10:17:48] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-04 10:17:48] Datei: Thorsten.zip
+[2013-10-04 10:17:48] E-Mail wurde versandt
+[2013-10-04 10:23:51] *** Starte Loeschen der angeforderten Datei
+[2013-10-04 10:23:51] Ermittle Benutzer und Datei
+[2013-10-04 10:23:51] Benutzer "sbr" gefunden
+[2013-10-04 10:23:51] Datei "Thorsten.zip" gefunden
+[2013-10-04 10:23:51] Die Datei "Thorsten.zip" wurde erfolgreich geloescht
+[2013-10-04 01:37:45] *** Starte Upload der Datei ***
+[2013-10-04 01:37:45] Datei: uploads/sbr/FCB_2013_10_04_AppStore.zip
+[2013-10-04 01:37:45] Groesse: 20837529 Bytes
+[2013-10-04 01:37:45] Upload von "uploads/sbr/FCB_2013_10_04_AppStore.zip" erfolgreich abgeschlossen
+[2013-10-04 01:37:45] Zugriffsrechte von "uploads/sbr/FCB_2013_10_04_AppStore.zip" geaendert (0755)
+[2013-10-04 01:37:45] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-04 01:37:45] Absender: Sabine Benz-Reichel
+[2013-10-04 01:37:45] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-04 01:37:45] E-Mail erfolgreich versandt
+[2013-10-04 02:00:55] *** Starte Download der angeforderten Datei
+[2013-10-04 02:00:55] Benutzer "sbr" gefunden
+[2013-10-04 02:00:55] Datei "FCB_2013_10_04_AppStore.zip" gefunden
+[2013-10-04 02:00:55] Download von "FCB_2013_10_04_AppStore.zip"
+[2013-10-04 02:04:01] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-04 02:04:01] Benutzer: sbr
+[2013-10-04 02:04:01] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-04 02:04:01] Datei: FCB_2013_10_04_AppStore.zip
+[2013-10-04 02:04:01] E-Mail wurde versandt
+[2013-10-04 02:18:45] *** Starte Download der angeforderten Datei
+[2013-10-04 02:18:45] Benutzer "concept" gefunden
+[2013-10-04 02:18:45] Datei "_VOT-UPDATE.zip" gefunden
+[2013-10-04 02:18:45] Download von "_VOT-UPDATE.zip"
+[2013-10-04 02:18:56] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-04 02:18:56] Benutzer: concept
+[2013-10-04 02:18:56] E-Mail: jetzt@gas-gebbe.de
+[2013-10-04 02:18:56] Datei: _VOT-UPDATE.zip
+[2013-10-04 02:18:56] E-Mail wurde versandt
+[2013-10-07 08:22:48] *** Starte Download der angeforderten Datei
+[2013-10-07 08:22:48] Benutzer "sbr" gefunden
+[2013-10-07 08:22:48] Datei "Screenshots.zip" gefunden
+[2013-10-07 08:22:48] Download von "Screenshots.zip"
+[2013-10-07 08:22:51] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-07 08:22:51] Benutzer: sbr
+[2013-10-07 08:22:51] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-07 08:22:51] Datei: Screenshots.zip
+[2013-10-07 08:22:51] E-Mail wurde versandt
+[2013-10-07 08:23:11] *** Starte Download der angeforderten Datei
+[2013-10-07 08:23:11] Benutzer "sbr" gefunden
+[2013-10-07 08:23:11] Datei "Screenshots.zip" gefunden
+[2013-10-07 08:23:11] Download von "Screenshots.zip"
+[2013-10-07 08:23:14] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-07 08:23:14] Benutzer: sbr
+[2013-10-07 08:23:14] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-07 08:23:14] Datei: Screenshots.zip
+[2013-10-07 08:23:14] E-Mail wurde versandt
+[2013-10-07 10:01:55] *** Starte Upload der Datei ***
+[2013-10-07 10:01:55] Datei: uploads/l.schoenherr/Atlas-Verlag_LuB_06_13_Druck-PDFs_Anzeigen.zip
+[2013-10-07 10:01:55] Groesse: 47648891 Bytes
+[2013-10-07 10:01:55] Upload von "uploads/l.schoenherr/Atlas-Verlag_LuB_06_13_Druck-PDFs_Anzeigen.zip" erfolgreich abgeschlossen
+[2013-10-07 10:01:55] Zugriffsrechte von "uploads/l.schoenherr/Atlas-Verlag_LuB_06_13_Druck-PDFs_Anzeigen.zip" geaendert (0755)
+[2013-10-07 10:01:55] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-07 10:01:55] Absender: Lisa SchÃ¶nherr
+[2013-10-07 10:01:55] Empfaenger: l.schoenherr@otterbach.de
+[2013-10-07 10:01:56] E-Mail erfolgreich versandt
+[2013-10-07 11:40:56] *** Starte Download der angeforderten Datei
+[2013-10-07 11:40:56] Benutzer "concept" gefunden
+[2013-10-07 11:40:56] Datei "_VOT-UPDATE.zip" gefunden
+[2013-10-07 11:40:56] Download von "_VOT-UPDATE.zip"
+[2013-10-07 11:41:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-07 11:41:11] Benutzer: concept
+[2013-10-07 11:41:11] E-Mail: jetzt@gas-gebbe.de
+[2013-10-07 11:41:11] Datei: _VOT-UPDATE.zip
+[2013-10-07 11:41:11] E-Mail wurde versandt
+[2013-10-07 03:22:06] *** Starte Download der angeforderten Datei
+[2013-10-07 03:22:06] Benutzer "bitburger" gefunden
+[2013-10-07 03:22:06] Datei "Bitb_Brasserie_ohneURL_594x420_PDFx3.pdf" gefunden
+[2013-10-07 03:22:06] Download von "Bitb_Brasserie_ohneURL_594x420_PDFx3.pdf"
+[2013-10-07 03:24:07] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-07 03:24:07] Benutzer: bitburger
+[2013-10-07 03:24:07] E-Mail: bitburger@otterbach.de
+[2013-10-07 03:24:07] Datei: Bitb_Brasserie_ohneURL_594x420_PDFx3.pdf
+[2013-10-07 03:24:08] E-Mail wurde versandt
+[2013-10-07 03:24:23] *** Starte Download der angeforderten Datei
+[2013-10-07 03:24:23] Benutzer "bitburger" gefunden
+[2013-10-07 03:24:23] Datei "Bitb_Brasserie_ohneURL_594x420_PDFx3.pdf" gefunden
+[2013-10-07 03:24:23] Download von "Bitb_Brasserie_ohneURL_594x420_PDFx3.pdf"
+[2013-10-07 03:26:19] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-07 03:26:19] Benutzer: bitburger
+[2013-10-07 03:26:19] E-Mail: bitburger@otterbach.de
+[2013-10-07 03:26:19] Datei: Bitb_Brasserie_ohneURL_594x420_PDFx3.pdf
+[2013-10-07 03:26:19] E-Mail wurde versandt
+[2013-10-07 04:40:22] *** Starte Upload der Datei ***
+[2013-10-07 04:40:22] Datei: uploads/bitburger/KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf
+[2013-10-07 04:40:22] Groesse: 9950508 Bytes
+[2013-10-07 04:40:22] Upload von "uploads/bitburger/KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" erfolgreich abgeschlossen
+[2013-10-07 04:40:22] Zugriffsrechte von "uploads/bitburger/KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" geaendert (0755)
+[2013-10-07 04:40:22] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-07 04:40:22] Absender: Otterbach Team
+[2013-10-07 04:40:22] Empfaenger: c.eberle@otterbach.de
+[2013-10-07 04:40:22] E-Mail erfolgreich versandt
+[2013-10-07 04:50:58] *** Starte Download der angeforderten Datei
+[2013-10-07 04:50:58] Benutzer "bitburger" gefunden
+[2013-10-07 04:50:58] Datei "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" gefunden
+[2013-10-07 04:50:58] Download von "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf"
+[2013-10-07 04:51:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-07 04:51:02] Benutzer: bitburger
+[2013-10-07 04:51:02] E-Mail: bitburger@otterbach.de
+[2013-10-07 04:51:02] Datei: KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf
+[2013-10-07 04:51:02] E-Mail wurde versandt
+[2013-10-07 04:51:21] *** Starte Download der angeforderten Datei
+[2013-10-07 04:51:21] Benutzer "bitburger" gefunden
+[2013-10-07 04:51:21] Datei "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" gefunden
+[2013-10-07 04:51:21] Download von "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf"
+[2013-10-07 04:51:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-07 04:51:26] Benutzer: bitburger
+[2013-10-07 04:51:26] E-Mail: bitburger@otterbach.de
+[2013-10-07 04:51:26] Datei: KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf
+[2013-10-07 04:51:26] E-Mail wurde versandt
+[2013-10-08 07:11:14] *** Starte Download der angeforderten Datei
+[2013-10-08 07:11:14] Benutzer "l.schoenherr" gefunden
+[2013-10-08 07:11:14] Datei "Atlas-Verlag_LuB_06_13_Druck-PDFs_Anzeigen.zip" gefunden
+[2013-10-08 07:11:14] Download von "Atlas-Verlag_LuB_06_13_Druck-PDFs_Anzeigen.zip"
+[2013-10-08 07:14:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-08 07:14:55] Benutzer: l.schoenherr
+[2013-10-08 07:14:55] E-Mail: l.schoenherr@otterbach.de
+[2013-10-08 07:14:55] Datei: Atlas-Verlag_LuB_06_13_Druck-PDFs_Anzeigen.zip
+[2013-10-08 07:14:55] E-Mail wurde versandt
+[2013-10-08 07:52:39] *** Starte Loeschen der angeforderten Datei
+[2013-10-08 07:52:39] Ermittle Benutzer und Datei
+[2013-10-08 07:52:39] Benutzer "l.schoenherr" gefunden
+[2013-10-08 07:52:39] Datei "Atlas-Verlag_LuB_06_13_Druck-PDFs_Anzeigen.zip" gefunden
+[2013-10-08 07:52:39] Die Datei "Atlas-Verlag_LuB_06_13_Druck-PDFs_Anzeigen.zip" wurde erfolgreich geloescht
+[2013-10-08 08:30:20] *** Starte Download der angeforderten Datei
+[2013-10-08 08:30:20] Benutzer "l.schoenherr" gefunden
+[2013-10-08 08:30:20] Angeforderte Datei wurde nicht gefunden
+[2013-10-08 08:30:20] Download der Datei gescheitert
+[2013-10-08 09:28:19] *** Starte Download der angeforderten Datei
+[2013-10-08 09:28:19] Benutzer "bitburger" gefunden
+[2013-10-08 09:28:19] Angeforderte Datei wurde nicht gefunden
+[2013-10-08 09:28:19] Download der Datei gescheitert
+[2013-10-08 09:28:47] *** Starte Download der angeforderten Datei
+[2013-10-08 09:28:47] Angeforderte Datei wurde nicht gefunden
+[2013-10-08 09:28:47] Download der Datei gescheitert
+[2013-10-08 09:29:16] *** Starte Download der angeforderten Datei
+[2013-10-08 09:29:16] Angeforderte Datei wurde nicht gefunden
+[2013-10-08 09:29:16] Download der Datei gescheitert
+[2013-10-08 09:29:22] *** Starte Download der angeforderten Datei
+[2013-10-08 09:29:22] Angeforderte Datei wurde nicht gefunden
+[2013-10-08 09:29:22] Download der Datei gescheitert
+[2013-10-08 10:32:53] *** Starte Upload der Datei ***
+[2013-10-08 10:32:53] Datei: uploads/bitburger/Porsche_Klassik_02_KoenigPilsener_Oldtimer_Porsche_230x280_PDFx3.pdf
+[2013-10-08 10:32:53] Groesse: 12564894 Bytes
+[2013-10-08 10:32:53] Upload von "uploads/bitburger/Porsche_Klassik_02_KoenigPilsener_Oldtimer_Porsche_230x280_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-10-08 10:32:53] Zugriffsrechte von "uploads/bitburger/Porsche_Klassik_02_KoenigPilsener_Oldtimer_Porsche_230x280_PDFx3.pdf" geaendert (0755)
+[2013-10-08 10:32:53] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-08 10:32:53] Absender: Otterbach Team
+[2013-10-08 10:32:53] Empfaenger: c.eberle@otterbach.de
+[2013-10-08 10:32:53] E-Mail erfolgreich versandt
+[2013-10-08 10:41:43] *** Starte Download der angeforderten Datei
+[2013-10-08 10:41:43] Benutzer "bitburger" gefunden
+[2013-10-08 10:41:43] Datei "Porsche_Klassik_02_KoenigPilsener_Oldtimer_Porsche_230x280_PDFx3.pdf" gefunden
+[2013-10-08 10:41:43] Download von "Porsche_Klassik_02_KoenigPilsener_Oldtimer_Porsche_230x280_PDFx3.pdf"
+[2013-10-08 10:41:51] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-08 10:41:51] Benutzer: bitburger
+[2013-10-08 10:41:51] E-Mail: bitburger@otterbach.de
+[2013-10-08 10:41:51] Datei: Porsche_Klassik_02_KoenigPilsener_Oldtimer_Porsche_230x280_PDFx3.pdf
+[2013-10-08 10:41:51] E-Mail wurde versandt
+[2013-10-08 11:59:28] *** Starte Download der angeforderten Datei
+[2013-10-08 11:59:28] Benutzer "bitburger" gefunden
+[2013-10-08 11:59:28] Datei "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" gefunden
+[2013-10-08 11:59:28] Download von "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf"
+[2013-10-08 11:59:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-08 11:59:33] Benutzer: bitburger
+[2013-10-08 11:59:33] E-Mail: bitburger@otterbach.de
+[2013-10-08 11:59:33] Datei: KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf
+[2013-10-08 11:59:33] E-Mail wurde versandt
+[2013-10-08 11:59:47] *** Starte Download der angeforderten Datei
+[2013-10-08 11:59:47] Benutzer "bitburger" gefunden
+[2013-10-08 11:59:47] Datei "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" gefunden
+[2013-10-08 11:59:47] Download von "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf"
+[2013-10-08 11:59:52] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-08 11:59:52] Benutzer: bitburger
+[2013-10-08 11:59:52] E-Mail: bitburger@otterbach.de
+[2013-10-08 11:59:52] Datei: KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf
+[2013-10-08 11:59:52] E-Mail wurde versandt
+[2013-10-08 12:00:39] *** Starte Download der angeforderten Datei
+[2013-10-08 12:00:39] Benutzer "bitburger" gefunden
+[2013-10-08 12:00:39] Datei "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" gefunden
+[2013-10-08 12:00:39] Download von "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf"
+[2013-10-08 02:23:01] *** Starte Upload der Datei ***
+[2013-10-08 02:23:01] Datei: uploads/u.kretzschmar/wichtig2.zip
+[2013-10-08 02:23:01] Groesse: 489763845 Bytes
+[2013-10-08 02:23:01] Upload von "uploads/u.kretzschmar/wichtig2.zip" erfolgreich abgeschlossen
+[2013-10-08 02:23:01] Zugriffsrechte von "uploads/u.kretzschmar/wichtig2.zip" geaendert (0755)
+[2013-10-08 02:23:01] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-08 02:23:01] Absender: Uwe Kretzschmar
+[2013-10-08 02:23:01] Empfaenger: u.kretzschmar@otterbach.de
+[2013-10-08 02:23:01] E-Mail erfolgreich versandt
+[2013-10-08 02:27:53] *** Starte Download der angeforderten Datei
+[2013-10-08 02:27:53] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 02:27:53] Datei "wichtig2.zip" gefunden
+[2013-10-08 02:27:53] Download von "wichtig2.zip"
+[2013-10-08 02:27:54] *** Starte Download der angeforderten Datei
+[2013-10-08 02:27:54] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 02:27:54] Datei "wichtig2.zip" gefunden
+[2013-10-08 02:27:54] Download von "wichtig2.zip"
+[2013-10-08 02:27:58] *** Starte Download der angeforderten Datei
+[2013-10-08 02:27:58] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 02:27:58] Datei "wichtig2.zip" gefunden
+[2013-10-08 02:27:58] Download von "wichtig2.zip"
+[2013-10-08 02:28:05] *** Starte Download der angeforderten Datei
+[2013-10-08 02:28:05] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 02:28:05] Datei "wichtig2.zip" gefunden
+[2013-10-08 02:28:05] Download von "wichtig2.zip"
+[2013-10-08 02:28:13] *** Starte Download der angeforderten Datei
+[2013-10-08 02:28:13] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 02:28:13] Datei "wichtig2.zip" gefunden
+[2013-10-08 02:28:13] Download von "wichtig2.zip"
+[2013-10-08 02:28:20] *** Starte Download der angeforderten Datei
+[2013-10-08 02:28:20] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 02:28:20] Datei "wichtig2.zip" gefunden
+[2013-10-08 02:28:20] Download von "wichtig2.zip"
+[2013-10-08 02:28:42] *** Starte Download der angeforderten Datei
+[2013-10-08 02:28:42] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 02:28:42] Datei "wichtig2.zip" gefunden
+[2013-10-08 02:28:42] Download von "wichtig2.zip"
+[2013-10-08 02:29:18] *** Starte Download der angeforderten Datei
+[2013-10-08 02:29:18] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 02:29:18] Datei "wichtig2.zip" gefunden
+[2013-10-08 02:29:18] Download von "wichtig2.zip"
+[2013-10-08 02:29:26] *** Starte Download der angeforderten Datei
+[2013-10-08 02:29:26] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 02:29:26] Datei "wichtig2.zip" gefunden
+[2013-10-08 02:29:26] Download von "wichtig2.zip"
+[2013-10-08 04:03:31] *** Starte Download der angeforderten Datei
+[2013-10-08 04:03:31] Benutzer "u.kretzschmar" gefunden
+[2013-10-08 04:03:31] Datei "wichtig2.zip" gefunden
+[2013-10-08 04:03:31] Download von "wichtig2.zip"
+[2013-10-08 04:13:23] *** Starte Upload der Datei ***
+[2013-10-08 04:13:23] Datei: uploads/bitburger/FRAPORT_SKYLINERS_Licher_NEU.tif.zip
+[2013-10-08 04:13:23] Groesse: 14958098 Bytes
+[2013-10-08 04:13:23] Upload von "uploads/bitburger/FRAPORT_SKYLINERS_Licher_NEU.tif.zip" erfolgreich abgeschlossen
+[2013-10-08 04:13:23] Zugriffsrechte von "uploads/bitburger/FRAPORT_SKYLINERS_Licher_NEU.tif.zip" geaendert (0755)
+[2013-10-08 04:13:23] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-08 04:13:23] Absender: Otterbach Team
+[2013-10-08 04:13:23] Empfaenger: c.eberle@otterbach.de
+[2013-10-08 04:13:23] E-Mail erfolgreich versandt
+[2013-10-08 04:38:28] *** Starte Download der angeforderten Datei
+[2013-10-08 04:38:28] Benutzer "bitburger" gefunden
+[2013-10-08 04:38:28] Datei "FRAPORT_SKYLINERS_Licher_NEU.tif.zip" gefunden
+[2013-10-08 04:38:28] Download von "FRAPORT_SKYLINERS_Licher_NEU.tif.zip"
+[2013-10-08 04:38:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-08 04:38:35] Benutzer: bitburger
+[2013-10-08 04:38:35] E-Mail: bitburger@otterbach.de
+[2013-10-08 04:38:35] Datei: FRAPORT_SKYLINERS_Licher_NEU.tif.zip
+[2013-10-08 04:38:35] E-Mail wurde versandt
+[2013-10-09 08:30:39] *** Starte Upload der Datei ***
+[2013-10-09 08:30:39] Datei: uploads/n.fiedler/4413_Gutscheinkarte_VS_RS.zip
+[2013-10-09 08:30:39] Groesse: 0 Bytes
+[2013-10-09 08:30:39] Upload von "uploads/n.fiedler/4413_Gutscheinkarte_VS_RS.zip" gescheitert
+[2013-10-09 08:30:40] *** Starte Upload der Datei ***
+[2013-10-09 08:30:40] Datei: uploads/n.fiedler/4413_Gutscheinkarte_VS_RS.zip
+[2013-10-09 08:30:40] Groesse: 17570207 Bytes
+[2013-10-09 08:30:40] Upload von "uploads/n.fiedler/4413_Gutscheinkarte_VS_RS.zip" erfolgreich abgeschlossen
+[2013-10-09 08:30:40] Zugriffsrechte von "uploads/n.fiedler/4413_Gutscheinkarte_VS_RS.zip" geaendert (0755)
+[2013-10-09 08:30:40] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-09 08:30:40] Absender: Nicole Fiedler
+[2013-10-09 08:30:40] Empfaenger: guido.hautvast@leufgens.de
+[2013-10-09 08:30:41] E-Mail erfolgreich versandt
+[2013-10-09 08:44:59] *** Starte Download der angeforderten Datei
+[2013-10-09 08:44:59] Benutzer "n.fiedler" gefunden
+[2013-10-09 08:44:59] Datei "4413_Gutscheinkarte_VS_RS.zip" gefunden
+[2013-10-09 08:44:59] Download von "4413_Gutscheinkarte_VS_RS.zip"
+[2013-10-09 08:45:27] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-09 08:45:27] Benutzer: n.fiedler
+[2013-10-09 08:45:27] E-Mail: n.fiedler@otterbach.de
+[2013-10-09 08:45:27] Datei: 4413_Gutscheinkarte_VS_RS.zip
+[2013-10-09 08:45:27] E-Mail wurde versandt
+[2013-10-09 10:28:27] *** Starte Upload der Datei ***
+[2013-10-09 10:28:27] Datei: uploads/a-siegesmund/6317_128_Mode_Chic_Alba.zip
+[2013-10-09 10:28:27] Groesse: 119388974 Bytes
+[2013-10-09 10:28:27] Upload von "uploads/a-siegesmund/6317_128_Mode_Chic_Alba.zip" erfolgreich abgeschlossen
+[2013-10-09 10:28:27] Zugriffsrechte von "uploads/a-siegesmund/6317_128_Mode_Chic_Alba.zip" geaendert (0755)
+[2013-10-09 10:28:27] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-09 10:28:27] Absender: Alfred Siegesmund
+[2013-10-09 10:28:27] Empfaenger: shartmann@heine.de
+[2013-10-09 10:28:28] E-Mail erfolgreich versandt
+[2013-10-09 11:17:10] *** Starte Download der angeforderten Datei
+[2013-10-09 11:17:10] Benutzer "a-siegesmund" gefunden
+[2013-10-09 11:17:10] Datei "6317_128_Mode_Chic_Alba.zip" gefunden
+[2013-10-09 11:17:10] Download von "6317_128_Mode_Chic_Alba.zip"
+[2013-10-09 11:17:38] *** Starte Download der angeforderten Datei
+[2013-10-09 11:17:38] Benutzer "a-siegesmund" gefunden
+[2013-10-09 11:17:38] Datei "6317_128_Mode_Chic_Alba.zip" gefunden
+[2013-10-09 11:17:38] Download von "6317_128_Mode_Chic_Alba.zip"
+[2013-10-09 11:17:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-09 11:17:43] Benutzer: a-siegesmund
+[2013-10-09 11:17:43] E-Mail: a.siegesmund@otterbach.de
+[2013-10-09 11:17:43] Datei: 6317_128_Mode_Chic_Alba.zip
+[2013-10-09 11:17:44] E-Mail wurde versandt
+[2013-10-09 11:18:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-09 11:18:10] Benutzer: a-siegesmund
+[2013-10-09 11:18:10] E-Mail: a.siegesmund@otterbach.de
+[2013-10-09 11:18:10] Datei: 6317_128_Mode_Chic_Alba.zip
+[2013-10-09 11:18:10] E-Mail wurde versandt
+[2013-10-09 11:21:49] *** Starte Download der angeforderten Datei
+[2013-10-09 11:21:49] Benutzer "a-siegesmund" gefunden
+[2013-10-09 11:21:49] Datei "6317_128_Mode_Chic_Alba.zip" gefunden
+[2013-10-09 11:21:49] Download von "6317_128_Mode_Chic_Alba.zip"
+[2013-10-09 11:22:23] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-09 11:22:23] Benutzer: a-siegesmund
+[2013-10-09 11:22:23] E-Mail: a.siegesmund@otterbach.de
+[2013-10-09 11:22:23] Datei: 6317_128_Mode_Chic_Alba.zip
+[2013-10-09 11:22:23] E-Mail wurde versandt
+[2013-10-09 02:22:33] *** Starte Upload der Datei ***
+[2013-10-09 02:22:33] Datei: uploads/k-wais/GH06_DS_High_Gesamt.pdf
+[2013-10-09 02:22:33] Groesse: 94594106 Bytes
+[2013-10-09 02:22:33] Upload von "uploads/k-wais/GH06_DS_High_Gesamt.pdf" erfolgreich abgeschlossen
+[2013-10-09 02:22:33] Zugriffsrechte von "uploads/k-wais/GH06_DS_High_Gesamt.pdf" geaendert (0755)
+[2013-10-09 02:22:33] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-09 02:22:33] Absender: Karin Wais
+[2013-10-09 02:22:33] Empfaenger: k.wais@otterbach.de
+[2013-10-09 02:22:34] E-Mail erfolgreich versandt
+[2013-10-09 02:22:57] *** Starte Upload der Datei ***
+[2013-10-09 02:22:57] Datei: uploads/k-wais/GH06_ES_High_Gesamt.pdf
+[2013-10-09 02:22:57] Groesse: 117533019 Bytes
+[2013-10-09 02:22:57] Upload von "uploads/k-wais/GH06_ES_High_Gesamt.pdf" erfolgreich abgeschlossen
+[2013-10-09 02:22:57] Zugriffsrechte von "uploads/k-wais/GH06_ES_High_Gesamt.pdf" geaendert (0755)
+[2013-10-09 02:22:57] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-09 02:22:57] Absender: Karin Wais
+[2013-10-09 02:22:57] Empfaenger: k.wais@otterbach.de
+[2013-10-09 02:22:58] E-Mail erfolgreich versandt
+[2013-10-09 02:39:43] *** Starte Download der angeforderten Datei
+[2013-10-09 02:39:43] Benutzer "k-wais" gefunden
+[2013-10-09 02:39:43] Datei "GH06_DS_High_Gesamt.pdf" gefunden
+[2013-10-09 02:39:43] Download von "GH06_DS_High_Gesamt.pdf"
+[2013-10-09 02:39:54] *** Starte Download der angeforderten Datei
+[2013-10-09 02:39:54] Benutzer "k-wais" gefunden
+[2013-10-09 02:39:54] Datei "GH06_ES_High_Gesamt.pdf" gefunden
+[2013-10-09 02:39:54] Download von "GH06_ES_High_Gesamt.pdf"
+[2013-10-09 04:47:06] *** Starte Upload der Datei ***
+[2013-10-09 04:47:06] Datei: uploads/sbr/Audi Adrenalin.zip
+[2013-10-09 04:47:06] Groesse: 20038105 Bytes
+[2013-10-09 04:47:06] Upload von "uploads/sbr/Audi Adrenalin.zip" erfolgreich abgeschlossen
+[2013-10-09 04:47:06] Zugriffsrechte von "uploads/sbr/Audi Adrenalin.zip" geaendert (0755)
+[2013-10-09 04:47:06] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-09 04:47:06] Absender: Sabine Benz-Reichel
+[2013-10-09 04:47:06] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-09 04:47:06] E-Mail erfolgreich versandt
+[2013-10-10 09:36:42] *** Starte Upload der Datei ***
+[2013-10-10 09:36:42] Datei: uploads/bitburger/Bitb_00_Surfbrett_Plakat_A1_Trier_841x594_PDFx3.pdf
+[2013-10-10 09:36:42] Groesse: 26951186 Bytes
+[2013-10-10 09:36:42] Upload von "uploads/bitburger/Bitb_00_Surfbrett_Plakat_A1_Trier_841x594_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-10-10 09:36:42] Zugriffsrechte von "uploads/bitburger/Bitb_00_Surfbrett_Plakat_A1_Trier_841x594_PDFx3.pdf" geaendert (0755)
+[2013-10-10 09:36:42] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-10 09:36:42] Absender: Otterbach Team
+[2013-10-10 09:36:42] Empfaenger: c.eberle@otterbach.de
+[2013-10-10 09:36:43] E-Mail erfolgreich versandt
+[2013-10-10 09:37:07] *** Starte Upload der Datei ***
+[2013-10-10 09:37:07] Datei: uploads/bitburger/Bitb_Fassbrause_KopfBauchLecker_A1-Plakat_841x594_PDFx3.pdf
+[2013-10-10 09:37:07] Groesse: 31300148 Bytes
+[2013-10-10 09:37:07] Upload von "uploads/bitburger/Bitb_Fassbrause_KopfBauchLecker_A1-Plakat_841x594_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-10-10 09:37:07] Zugriffsrechte von "uploads/bitburger/Bitb_Fassbrause_KopfBauchLecker_A1-Plakat_841x594_PDFx3.pdf" geaendert (0755)
+[2013-10-10 09:37:07] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-10 09:37:07] Absender: Otterbach Team
+[2013-10-10 09:37:07] Empfaenger: c.eberle@otterbach.de
+[2013-10-10 09:37:07] E-Mail erfolgreich versandt
+[2013-10-10 09:37:29] *** Starte Upload der Datei ***
+[2013-10-10 09:37:29] Datei: uploads/bitburger/Bitb_Maedels_Plakat_A1_841x594_PDFx3.pdf
+[2013-10-10 09:37:29] Groesse: 24920330 Bytes
+[2013-10-10 09:37:29] Upload von "uploads/bitburger/Bitb_Maedels_Plakat_A1_841x594_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-10-10 09:37:29] Zugriffsrechte von "uploads/bitburger/Bitb_Maedels_Plakat_A1_841x594_PDFx3.pdf" geaendert (0755)
+[2013-10-10 09:37:29] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-10 09:37:29] Absender: Otterbach Team
+[2013-10-10 09:37:29] Empfaenger: c.eberle@otterbach.de
+[2013-10-10 09:37:30] E-Mail erfolgreich versandt
+[2013-10-10 10:03:13] *** Starte Download der angeforderten Datei
+[2013-10-10 10:03:13] Benutzer "bitburger" gefunden
+[2013-10-10 10:03:13] Datei "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" gefunden
+[2013-10-10 10:03:13] Download von "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf"
+[2013-10-10 10:03:14] *** Starte Download der angeforderten Datei
+[2013-10-10 10:03:14] Benutzer "bitburger" gefunden
+[2013-10-10 10:03:14] Datei "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" gefunden
+[2013-10-10 10:03:14] Download von "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf"
+[2013-10-10 10:03:48] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 10:03:48] Benutzer: bitburger
+[2013-10-10 10:03:48] E-Mail: bitburger@otterbach.de
+[2013-10-10 10:03:48] Datei: KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf
+[2013-10-10 10:03:48] E-Mail wurde versandt
+[2013-10-10 10:03:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 10:03:58] Benutzer: bitburger
+[2013-10-10 10:03:58] E-Mail: bitburger@otterbach.de
+[2013-10-10 10:03:58] Datei: KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf
+[2013-10-10 10:03:58] E-Mail wurde versandt
+[2013-10-10 12:09:28] *** Starte Download der angeforderten Datei
+[2013-10-10 12:09:28] Benutzer "sbr" gefunden
+[2013-10-10 12:09:28] Datei "Audi Adrenalin.zip" gefunden
+[2013-10-10 12:09:28] Download von "Audi Adrenalin.zip"
+[2013-10-10 12:09:36] *** Starte Download der angeforderten Datei
+[2013-10-10 12:09:36] Benutzer "sbr" gefunden
+[2013-10-10 12:09:36] Datei "Audi Adrenalin.zip" gefunden
+[2013-10-10 12:09:36] Download von "Audi Adrenalin.zip"
+[2013-10-10 12:09:41] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 12:09:41] Benutzer: sbr
+[2013-10-10 12:09:41] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-10 12:09:41] Datei: Audi Adrenalin.zip
+[2013-10-10 12:09:41] E-Mail wurde versandt
+[2013-10-10 12:40:50] *** Starte Upload der Datei ***
+[2013-10-10 12:40:50] Datei: uploads/c-eberle/Max_Schlangenbeschwoerer_43cm.zip
+[2013-10-10 12:40:50] Groesse: 10880213 Bytes
+[2013-10-10 12:40:50] Upload von "uploads/c-eberle/Max_Schlangenbeschwoerer_43cm.zip" erfolgreich abgeschlossen
+[2013-10-10 12:40:50] Zugriffsrechte von "uploads/c-eberle/Max_Schlangenbeschwoerer_43cm.zip" geaendert (0755)
+[2013-10-10 12:40:50] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-10 12:40:50] Absender: Clarissa Eberle
+[2013-10-10 12:40:50] Empfaenger: Manuela.Helm@deutschebahn.com, max.maulwurf@deutschebahn.com, c.eberle@otterbach.de
+[2013-10-10 12:40:50] E-Mail erfolgreich versandt
+[2013-10-10 12:44:35] *** Starte Download der angeforderten Datei
+[2013-10-10 12:44:35] Benutzer "bitburger" gefunden
+[2013-10-10 12:44:35] Datei "Bitb_00_Surfbrett_Plakat_A1_Trier_841x594_PDFx3.pdf" gefunden
+[2013-10-10 12:44:35] Download von "Bitb_00_Surfbrett_Plakat_A1_Trier_841x594_PDFx3.pdf"
+[2013-10-10 12:45:52] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 12:45:52] Benutzer: bitburger
+[2013-10-10 12:45:52] E-Mail: bitburger@otterbach.de
+[2013-10-10 12:45:52] Datei: Bitb_00_Surfbrett_Plakat_A1_Trier_841x594_PDFx3.pdf
+[2013-10-10 12:45:52] E-Mail wurde versandt
+[2013-10-10 12:46:33] *** Starte Download der angeforderten Datei
+[2013-10-10 12:46:33] Benutzer "bitburger" gefunden
+[2013-10-10 12:46:33] Datei "Bitb_Fassbrause_KopfBauchLecker_A1-Plakat_841x594_PDFx3.pdf" gefunden
+[2013-10-10 12:46:33] Download von "Bitb_Fassbrause_KopfBauchLecker_A1-Plakat_841x594_PDFx3.pdf"
+[2013-10-10 12:46:41] *** Starte Download der angeforderten Datei
+[2013-10-10 12:46:41] Benutzer "bitburger" gefunden
+[2013-10-10 12:46:41] Datei "Bitb_Fassbrause_KopfBauchLecker_A1-Plakat_841x594_PDFx3.pdf" gefunden
+[2013-10-10 12:46:41] Download von "Bitb_Fassbrause_KopfBauchLecker_A1-Plakat_841x594_PDFx3.pdf"
+[2013-10-10 12:47:09] *** Starte Download der angeforderten Datei
+[2013-10-10 12:47:09] Benutzer "bitburger" gefunden
+[2013-10-10 12:47:09] Datei "Bitb_Maedels_Plakat_A1_841x594_PDFx3.pdf" gefunden
+[2013-10-10 12:47:09] Download von "Bitb_Maedels_Plakat_A1_841x594_PDFx3.pdf"
+[2013-10-10 12:49:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 12:49:02] Benutzer: bitburger
+[2013-10-10 12:49:02] E-Mail: bitburger@otterbach.de
+[2013-10-10 12:49:02] Datei: Bitb_Fassbrause_KopfBauchLecker_A1-Plakat_841x594_PDFx3.pdf
+[2013-10-10 12:49:03] E-Mail wurde versandt
+[2013-10-10 12:49:15] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 12:49:15] Benutzer: bitburger
+[2013-10-10 12:49:15] E-Mail: bitburger@otterbach.de
+[2013-10-10 12:49:15] Datei: Bitb_Maedels_Plakat_A1_841x594_PDFx3.pdf
+[2013-10-10 12:49:15] E-Mail wurde versandt
+[2013-10-10 01:13:46] *** Starte Upload der Datei ***
+[2013-10-10 01:13:46] Datei: uploads/a-merkel/PlanControl DE.pst.zip
+[2013-10-10 01:13:46] Groesse: 6341 Bytes
+[2013-10-10 01:13:46] Upload von "uploads/a-merkel/PlanControl DE.pst.zip" erfolgreich abgeschlossen
+[2013-10-10 01:13:46] Zugriffsrechte von "uploads/a-merkel/PlanControl DE.pst.zip" geaendert (0755)
+[2013-10-10 01:13:46] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-10 01:13:46] Absender: Andreas Merkel
+[2013-10-10 01:13:46] Empfaenger: a.merkel@otterbach.de
+[2013-10-10 01:13:46] E-Mail erfolgreich versandt
+[2013-10-10 01:23:56] *** Starte Download der angeforderten Datei
+[2013-10-10 01:23:56] Benutzer "sbr" gefunden
+[2013-10-10 01:23:56] Datei "Audi Adrenalin.zip" gefunden
+[2013-10-10 01:23:56] Download von "Audi Adrenalin.zip"
+[2013-10-10 01:24:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 01:24:21] Benutzer: sbr
+[2013-10-10 01:24:21] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-10 01:24:21] Datei: Audi Adrenalin.zip
+[2013-10-10 01:24:21] E-Mail wurde versandt
+[2013-10-10 01:43:58] *** Starte Download der angeforderten Datei
+[2013-10-10 01:43:58] Benutzer "a-merkel" gefunden
+[2013-10-10 01:43:58] Datei "PlanControl DE.pst.zip" gefunden
+[2013-10-10 01:43:58] Download von "PlanControl DE.pst.zip"
+[2013-10-10 01:43:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 01:43:58] Benutzer: a-merkel
+[2013-10-10 01:43:58] E-Mail: a.merkel@otterbach.de
+[2013-10-10 01:43:58] Datei: PlanControl DE.pst.zip
+[2013-10-10 01:43:58] E-Mail wurde versandt
+[2013-10-10 02:08:57] *** Starte Loeschen der angeforderten Datei
+[2013-10-10 02:08:57] Ermittle Benutzer und Datei
+[2013-10-10 02:08:57] Benutzer "a-merkel" gefunden
+[2013-10-10 02:08:57] Datei "PlanControl DE.pst.zip" gefunden
+[2013-10-10 02:08:57] Die Datei "PlanControl DE.pst.zip" wurde erfolgreich geloescht
+[2013-10-10 02:22:26] *** Starte Upload der Datei ***
+[2013-10-10 02:22:26] Datei: uploads/bitburger/Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf
+[2013-10-10 02:22:26] Groesse: 12930740 Bytes
+[2013-10-10 02:22:26] Upload von "uploads/bitburger/Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-10-10 02:22:26] Zugriffsrechte von "uploads/bitburger/Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf" geaendert (0755)
+[2013-10-10 02:22:26] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-10 02:22:26] Absender: Otterbach Team
+[2013-10-10 02:22:26] Empfaenger: c.eberle@otterbach.de
+[2013-10-10 02:22:26] E-Mail erfolgreich versandt
+[2013-10-10 03:03:47] *** Starte Download der angeforderten Datei
+[2013-10-10 03:03:47] Benutzer "bitburger" gefunden
+[2013-10-10 03:03:47] Datei "Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf" gefunden
+[2013-10-10 03:03:47] Download von "Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf"
+[2013-10-10 03:05:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 03:05:28] Benutzer: bitburger
+[2013-10-10 03:05:28] E-Mail: bitburger@otterbach.de
+[2013-10-10 03:05:28] Datei: Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf
+[2013-10-10 03:05:28] E-Mail wurde versandt
+[2013-10-10 04:16:45] *** Starte Download der angeforderten Datei
+[2013-10-10 04:16:45] Benutzer "sbr" gefunden
+[2013-10-10 04:16:45] Datei "Screenshots.zip" gefunden
+[2013-10-10 04:16:45] Download von "Screenshots.zip"
+[2013-10-10 04:16:51] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-10 04:16:51] Benutzer: sbr
+[2013-10-10 04:16:51] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-10 04:16:51] Datei: Screenshots.zip
+[2013-10-10 04:16:51] E-Mail wurde versandt
+[2013-10-10 08:14:51] *** Starte Upload der Datei ***
+[2013-10-10 08:14:51] Datei: uploads/n.fiedler/4413_CZ_Magazin_PDF.zip
+[2013-10-10 08:14:51] Groesse: 232575345 Bytes
+[2013-10-10 08:14:51] Upload von "uploads/n.fiedler/4413_CZ_Magazin_PDF.zip" erfolgreich abgeschlossen
+[2013-10-10 08:14:51] Zugriffsrechte von "uploads/n.fiedler/4413_CZ_Magazin_PDF.zip" geaendert (0755)
+[2013-10-10 08:14:51] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-10 08:14:51] Absender: Nicole Fiedler
+[2013-10-10 08:14:51] Empfaenger: tomas@fottom.cz, stepan@fottom.cz
+[2013-10-10 08:14:51] E-Mail erfolgreich versandt
+[2013-10-10 08:16:08] *** Starte Upload der Datei ***
+[2013-10-10 08:16:08] Datei: uploads/n.fiedler/4413_SK_Magazin_PDF.zip
+[2013-10-10 08:16:08] Groesse: 231788373 Bytes
+[2013-10-10 08:16:08] Upload von "uploads/n.fiedler/4413_SK_Magazin_PDF.zip" erfolgreich abgeschlossen
+[2013-10-10 08:16:08] Zugriffsrechte von "uploads/n.fiedler/4413_SK_Magazin_PDF.zip" geaendert (0755)
+[2013-10-10 08:16:08] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-10 08:16:08] Absender: Nicole Fiedler
+[2013-10-10 08:16:08] Empfaenger: stepan@fottom.cz, tomas@fottom.cz
+[2013-10-10 08:16:08] E-Mail erfolgreich versandt
+[2013-10-11 08:44:32] *** Starte Download der angeforderten Datei
+[2013-10-11 08:44:32] Benutzer "n.fiedler" gefunden
+[2013-10-11 08:44:32] Datei "4413_SK_Magazin_PDF.zip" gefunden
+[2013-10-11 08:44:32] Download von "4413_SK_Magazin_PDF.zip"
+[2013-10-11 08:49:07] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 08:49:07] Benutzer: n.fiedler
+[2013-10-11 08:49:07] E-Mail: n.fiedler@otterbach.de
+[2013-10-11 08:49:07] Datei: 4413_SK_Magazin_PDF.zip
+[2013-10-11 08:49:07] E-Mail wurde versandt
+[2013-10-11 08:49:18] *** Starte Download der angeforderten Datei
+[2013-10-11 08:49:18] Benutzer "n.fiedler" gefunden
+[2013-10-11 08:49:18] Datei "4413_SK_Magazin_PDF.zip" gefunden
+[2013-10-11 08:49:18] Download von "4413_SK_Magazin_PDF.zip"
+[2013-10-11 08:51:42] *** Starte Download der angeforderten Datei
+[2013-10-11 08:51:42] Benutzer "n.fiedler" gefunden
+[2013-10-11 08:51:42] Datei "4413_SK_Magazin_PDF.zip" gefunden
+[2013-10-11 08:51:42] Download von "4413_SK_Magazin_PDF.zip"
+[2013-10-11 08:53:45] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 08:53:45] Benutzer: n.fiedler
+[2013-10-11 08:53:45] E-Mail: n.fiedler@otterbach.de
+[2013-10-11 08:53:45] Datei: 4413_SK_Magazin_PDF.zip
+[2013-10-11 08:53:45] E-Mail wurde versandt
+[2013-10-11 08:54:47] *** Starte Download der angeforderten Datei
+[2013-10-11 08:54:47] Benutzer "n.fiedler" gefunden
+[2013-10-11 08:54:47] Datei "4413_CZ_Magazin_PDF.zip" gefunden
+[2013-10-11 08:54:47] Download von "4413_CZ_Magazin_PDF.zip"
+[2013-10-11 08:55:12] *** Starte Download der angeforderten Datei
+[2013-10-11 08:55:12] Benutzer "n.fiedler" gefunden
+[2013-10-11 08:55:12] Datei "4413_CZ_Magazin_PDF.zip" gefunden
+[2013-10-11 08:55:12] Download von "4413_CZ_Magazin_PDF.zip"
+[2013-10-11 08:59:36] *** Starte Upload der Datei ***
+[2013-10-11 08:59:36] Datei: uploads/j-maske/marfos_de.zip
+[2013-10-11 08:59:36] Groesse: 117587376 Bytes
+[2013-10-11 08:59:36] Upload von "uploads/j-maske/marfos_de.zip" erfolgreich abgeschlossen
+[2013-10-11 08:59:36] Zugriffsrechte von "uploads/j-maske/marfos_de.zip" geaendert (0755)
+[2013-10-11 08:59:36] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-11 08:59:36] Absender: Jörn Maske
+[2013-10-11 08:59:36] Empfaenger: e.kul@otterbach.de
+[2013-10-11 08:59:37] E-Mail erfolgreich versandt
+[2013-10-11 08:59:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 08:59:43] Benutzer: n.fiedler
+[2013-10-11 08:59:43] E-Mail: n.fiedler@otterbach.de
+[2013-10-11 08:59:43] Datei: 4413_CZ_Magazin_PDF.zip
+[2013-10-11 08:59:43] E-Mail wurde versandt
+[2013-10-11 09:01:35] *** Starte Download der angeforderten Datei
+[2013-10-11 09:01:35] Benutzer "j-maske" gefunden
+[2013-10-11 09:01:35] Datei "marfos_de.zip" gefunden
+[2013-10-11 09:01:35] Download von "marfos_de.zip"
+[2013-10-11 09:01:57] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 09:01:57] Benutzer: j-maske
+[2013-10-11 09:01:57] E-Mail: j.maske@otterbach.de
+[2013-10-11 09:01:57] Datei: marfos_de.zip
+[2013-10-11 09:01:57] E-Mail wurde versandt
+[2013-10-11 09:11:40] *** Starte Upload der Datei ***
+[2013-10-11 09:11:40] Datei: uploads/bitburger/Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf
+[2013-10-11 09:11:40] Groesse: 24742272 Bytes
+[2013-10-11 09:11:40] Upload von "uploads/bitburger/Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-10-11 09:11:40] Zugriffsrechte von "uploads/bitburger/Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf" geaendert (0755)
+[2013-10-11 09:11:40] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-11 09:11:40] Absender: Otterbach Team
+[2013-10-11 09:11:40] Empfaenger: c.eberle@otterbach.de
+[2013-10-11 09:11:40] E-Mail erfolgreich versandt
+[2013-10-11 09:12:38] *** Starte Upload der Datei ***
+[2013-10-11 09:12:38] Datei: uploads/bitburger/Bitb_Fassbrause_Geschmack_A1-Plakat_594x841_PDFx3.pdf
+[2013-10-11 09:12:38] Groesse: 24990247 Bytes
+[2013-10-11 09:12:38] Upload von "uploads/bitburger/Bitb_Fassbrause_Geschmack_A1-Plakat_594x841_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-10-11 09:12:38] Zugriffsrechte von "uploads/bitburger/Bitb_Fassbrause_Geschmack_A1-Plakat_594x841_PDFx3.pdf" geaendert (0755)
+[2013-10-11 09:12:38] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-11 09:12:38] Absender: Otterbach Team
+[2013-10-11 09:12:38] Empfaenger: c.eberle@otterbach.de
+[2013-10-11 09:12:38] E-Mail erfolgreich versandt
+[2013-10-11 11:36:33] *** Starte Download der angeforderten Datei
+[2013-10-11 11:36:33] Benutzer "bitburger" gefunden
+[2013-10-11 11:36:33] Datei "Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf" gefunden
+[2013-10-11 11:36:33] Download von "Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf"
+[2013-10-11 11:36:57] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 11:36:57] Benutzer: bitburger
+[2013-10-11 11:36:57] E-Mail: bitburger@otterbach.de
+[2013-10-11 11:36:57] Datei: Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf
+[2013-10-11 11:36:57] E-Mail wurde versandt
+[2013-10-11 11:39:00] *** Starte Download der angeforderten Datei
+[2013-10-11 11:39:00] Benutzer "bitburger" gefunden
+[2013-10-11 11:39:00] Datei "Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf" gefunden
+[2013-10-11 11:39:00] Download von "Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf"
+[2013-10-11 11:39:13] *** Starte Download der angeforderten Datei
+[2013-10-11 11:39:13] Benutzer "bitburger" gefunden
+[2013-10-11 11:39:13] Datei "Bitb_Fassbrause_Geschmack_A1-Plakat_594x841_PDFx3.pdf" gefunden
+[2013-10-11 11:39:13] Download von "Bitb_Fassbrause_Geschmack_A1-Plakat_594x841_PDFx3.pdf"
+[2013-10-11 11:41:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 11:41:17] Benutzer: bitburger
+[2013-10-11 11:41:17] E-Mail: bitburger@otterbach.de
+[2013-10-11 11:41:17] Datei: Bitb_Fassbrause_Geschmack_A1-Plakat_594x841_PDFx3.pdf
+[2013-10-11 11:41:17] E-Mail wurde versandt
+[2013-10-11 11:41:24] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 11:41:24] Benutzer: bitburger
+[2013-10-11 11:41:24] E-Mail: bitburger@otterbach.de
+[2013-10-11 11:41:24] Datei: Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf
+[2013-10-11 11:41:24] E-Mail wurde versandt
+[2013-10-11 12:31:56] *** Starte Upload der Datei ***
+[2013-10-11 12:31:56] Datei: uploads/bitburger/KP_Gastromotiv_Gastrotel_210x297+3_PDFx3.pdf
+[2013-10-11 12:31:56] Groesse: 9774453 Bytes
+[2013-10-11 12:31:56] Upload von "uploads/bitburger/KP_Gastromotiv_Gastrotel_210x297+3_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-10-11 12:31:56] Zugriffsrechte von "uploads/bitburger/KP_Gastromotiv_Gastrotel_210x297+3_PDFx3.pdf" geaendert (0755)
+[2013-10-11 12:31:56] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-11 12:31:56] Absender: Otterbach Team
+[2013-10-11 12:31:56] Empfaenger: c.eberle@otterbach.de
+[2013-10-11 12:31:56] E-Mail erfolgreich versandt
+[2013-10-11 01:30:29] *** Starte Upload der Datei ***
+[2013-10-11 01:30:29] Datei: uploads/n.fiedler/4413_CZ_Flyer_PDF.zip
+[2013-10-11 01:30:29] Groesse: 18894709 Bytes
+[2013-10-11 01:30:29] Upload von "uploads/n.fiedler/4413_CZ_Flyer_PDF.zip" erfolgreich abgeschlossen
+[2013-10-11 01:30:29] Zugriffsrechte von "uploads/n.fiedler/4413_CZ_Flyer_PDF.zip" geaendert (0755)
+[2013-10-11 01:30:29] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-11 01:30:29] Absender: Nicole Fiedler
+[2013-10-11 01:30:29] Empfaenger: stepan@fottom.cz, tomas@fottom.cz
+[2013-10-11 01:30:29] E-Mail erfolgreich versandt
+[2013-10-11 01:40:57] *** Starte Download der angeforderten Datei
+[2013-10-11 01:40:57] Benutzer "n.fiedler" gefunden
+[2013-10-11 01:40:57] Datei "4413_CZ_Flyer_PDF.zip" gefunden
+[2013-10-11 01:40:57] Download von "4413_CZ_Flyer_PDF.zip"
+[2013-10-11 01:41:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 01:41:17] Benutzer: n.fiedler
+[2013-10-11 01:41:17] E-Mail: n.fiedler@otterbach.de
+[2013-10-11 01:41:17] Datei: 4413_CZ_Flyer_PDF.zip
+[2013-10-11 01:41:17] E-Mail wurde versandt
+[2013-10-11 03:14:11] *** Starte Download der angeforderten Datei
+[2013-10-11 03:14:11] Benutzer "h-schwentker" gefunden
+[2013-10-11 03:14:11] Datei "Leipzig_Offl_Mailing_DE.zip" gefunden
+[2013-10-11 03:14:11] Download von "Leipzig_Offl_Mailing_DE.zip"
+[2013-10-11 03:15:44] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 03:15:44] Benutzer: h-schwentker
+[2013-10-11 03:15:44] E-Mail: h.schwentker@otterbach.de
+[2013-10-11 03:15:44] Datei: Leipzig_Offl_Mailing_DE.zip
+[2013-10-11 03:15:44] E-Mail wurde versandt
+[2013-10-11 04:09:38] *** Starte Download der angeforderten Datei
+[2013-10-11 04:09:38] Benutzer "h-schwentker" gefunden
+[2013-10-11 04:09:38] Datei "Leipzig_Offl_Mailing_DE.zip" gefunden
+[2013-10-11 04:09:38] Download von "Leipzig_Offl_Mailing_DE.zip"
+[2013-10-11 04:13:57] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 04:13:57] Benutzer: h-schwentker
+[2013-10-11 04:13:57] E-Mail: h.schwentker@otterbach.de
+[2013-10-11 04:13:57] Datei: Leipzig_Offl_Mailing_DE.zip
+[2013-10-11 04:13:57] E-Mail wurde versandt
+[2013-10-11 04:15:40] *** Starte Upload der Datei ***
+[2013-10-11 04:15:40] Datei: uploads/bitburger/11102013_LicherOriginal1854.zip
+[2013-10-11 04:15:40] Groesse: 25017191 Bytes
+[2013-10-11 04:15:40] Upload von "uploads/bitburger/11102013_LicherOriginal1854.zip" erfolgreich abgeschlossen
+[2013-10-11 04:15:40] Zugriffsrechte von "uploads/bitburger/11102013_LicherOriginal1854.zip" geaendert (0755)
+[2013-10-11 04:15:40] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-11 04:15:40] Absender: Otterbach Team
+[2013-10-11 04:15:40] Empfaenger: c.eberle@otterbach.de
+[2013-10-11 04:15:41] E-Mail erfolgreich versandt
+[2013-10-11 04:30:29] *** Starte Download der angeforderten Datei
+[2013-10-11 04:30:29] Benutzer "bitburger" gefunden
+[2013-10-11 04:30:29] Datei "11102013_LicherOriginal1854.zip" gefunden
+[2013-10-11 04:30:29] Download von "11102013_LicherOriginal1854.zip"
+[2013-10-11 04:30:34] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 04:30:34] Benutzer: bitburger
+[2013-10-11 04:30:34] E-Mail: bitburger@otterbach.de
+[2013-10-11 04:30:34] Datei: 11102013_LicherOriginal1854.zip
+[2013-10-11 04:30:34] E-Mail wurde versandt
+[2013-10-11 04:47:36] *** Starte Download der angeforderten Datei
+[2013-10-11 04:47:36] Benutzer "concept" gefunden
+[2013-10-11 04:47:36] Datei "_VOT-UPDATE.zip" gefunden
+[2013-10-11 04:47:36] Download von "_VOT-UPDATE.zip"
+[2013-10-11 04:47:49] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 04:47:49] Benutzer: concept
+[2013-10-11 04:47:49] E-Mail: jetzt@gas-gebbe.de
+[2013-10-11 04:47:49] Datei: _VOT-UPDATE.zip
+[2013-10-11 04:47:49] E-Mail wurde versandt
+[2013-10-11 04:49:43] *** Starte Download der angeforderten Datei
+[2013-10-11 04:49:43] Benutzer "j-maske" gefunden
+[2013-10-11 04:49:43] Datei "2013-09 - Vichy on Tour.zip" gefunden
+[2013-10-11 04:49:43] Download von "2013-09 - Vichy on Tour.zip"
+[2013-10-11 04:49:44] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-11 04:49:44] Benutzer: j-maske
+[2013-10-11 04:49:44] E-Mail: j.maske@otterbach.de
+[2013-10-11 04:49:44] Datei: 2013-09 - Vichy on Tour.zip
+[2013-10-11 04:49:44] E-Mail wurde versandt
+[2013-10-13 03:31:43] *** Starte Upload der Datei ***
+[2013-10-13 03:31:43] Datei: uploads/t-uebelacker/20131010-layouts-relaunch.zip
+[2013-10-13 03:31:43] Groesse: 9834850 Bytes
+[2013-10-13 03:31:43] Upload von "uploads/t-uebelacker/20131010-layouts-relaunch.zip" erfolgreich abgeschlossen
+[2013-10-13 03:31:43] Zugriffsrechte von "uploads/t-uebelacker/20131010-layouts-relaunch.zip" geaendert (0755)
+[2013-10-13 03:31:43] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-13 03:31:43] Absender: Thomas Uebelacker
+[2013-10-13 03:31:43] Empfaenger: t.uebelacker@otterbach.de
+[2013-10-13 03:31:43] E-Mail erfolgreich versandt
+[2013-10-14 08:23:57] *** Starte Download der angeforderten Datei
+[2013-10-14 08:23:57] Benutzer "bitburger" gefunden
+[2013-10-14 08:23:57] Datei "Bitb_0_0_N11_3er_Copytext_einszueins_05_230x297_PDFx3.pdf" gefunden
+[2013-10-14 08:23:57] Download von "Bitb_0_0_N11_3er_Copytext_einszueins_05_230x297_PDFx3.pdf"
+[2013-10-14 08:24:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 08:24:02] Benutzer: bitburger
+[2013-10-14 08:24:02] E-Mail: bitburger@otterbach.de
+[2013-10-14 08:24:02] Datei: Bitb_0_0_N11_3er_Copytext_einszueins_05_230x297_PDFx3.pdf
+[2013-10-14 08:24:02] E-Mail wurde versandt
+[2013-10-14 09:14:37] *** Starte Download der angeforderten Datei
+[2013-10-14 09:14:37] Benutzer "c-eberle" gefunden
+[2013-10-14 09:14:37] Datei "Max_Schlangenbeschwoerer_43cm.zip" gefunden
+[2013-10-14 09:14:37] Download von "Max_Schlangenbeschwoerer_43cm.zip"
+[2013-10-14 09:14:41] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 09:14:41] Benutzer: c-eberle
+[2013-10-14 09:14:41] E-Mail: c.eberle@otterbach.de
+[2013-10-14 09:14:41] Datei: Max_Schlangenbeschwoerer_43cm.zip
+[2013-10-14 09:14:41] E-Mail wurde versandt
+[2013-10-14 10:33:09] *** Starte Download der angeforderten Datei
+[2013-10-14 10:33:09] Benutzer "bitburger" gefunden
+[2013-10-14 10:33:09] Datei "KP_Gastromotiv_Gastrotel_210x297+3_PDFx3.pdf" gefunden
+[2013-10-14 10:33:09] Download von "KP_Gastromotiv_Gastrotel_210x297+3_PDFx3.pdf"
+[2013-10-14 10:33:15] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 10:33:15] Benutzer: bitburger
+[2013-10-14 10:33:15] E-Mail: bitburger@otterbach.de
+[2013-10-14 10:33:15] Datei: KP_Gastromotiv_Gastrotel_210x297+3_PDFx3.pdf
+[2013-10-14 10:33:15] E-Mail wurde versandt
+[2013-10-14 11:21:33] *** Starte Download der angeforderten Datei
+[2013-10-14 11:21:33] Benutzer "a-curreri" gefunden
+[2013-10-14 11:21:33] Datei "GrandClasse_Rayo_Verde_RGB_vereinfacht_klein.psd.zip" gefunden
+[2013-10-14 11:21:33] Download von "GrandClasse_Rayo_Verde_RGB_vereinfacht_klein.psd.zip"
+[2013-10-14 11:21:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 11:21:43] Benutzer: a-curreri
+[2013-10-14 11:21:43] E-Mail: a.curreri@otterbach.de
+[2013-10-14 11:21:43] Datei: GrandClasse_Rayo_Verde_RGB_vereinfacht_klein.psd.zip
+[2013-10-14 11:21:43] E-Mail wurde versandt
+[2013-10-14 12:06:11] *** Starte Download der angeforderten Datei
+[2013-10-14 12:06:11] Benutzer "bitburger" gefunden
+[2013-10-14 12:06:11] Datei "Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf" gefunden
+[2013-10-14 12:06:11] Download von "Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf"
+[2013-10-14 12:06:32] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 12:06:32] Benutzer: bitburger
+[2013-10-14 12:06:32] E-Mail: bitburger@otterbach.de
+[2013-10-14 12:06:32] Datei: Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf
+[2013-10-14 12:06:32] E-Mail wurde versandt
+[2013-10-14 12:30:33] *** Starte Download der angeforderten Datei
+[2013-10-14 12:30:33] Benutzer "a-curreri" gefunden
+[2013-10-14 12:30:33] Datei "longneck_033l_radler_Drauf_Abstimmer.jpg.zip" gefunden
+[2013-10-14 12:30:33] Download von "longneck_033l_radler_Drauf_Abstimmer.jpg.zip"
+[2013-10-14 12:30:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 12:30:33] Benutzer: a-curreri
+[2013-10-14 12:30:33] E-Mail: a.curreri@otterbach.de
+[2013-10-14 12:30:33] Datei: longneck_033l_radler_Drauf_Abstimmer.jpg.zip
+[2013-10-14 12:30:33] E-Mail wurde versandt
+[2013-10-14 12:37:43] *** Starte Upload der Datei ***
+[2013-10-14 12:37:43] Datei: uploads/a-curreri/longneck_033l_radler_Drauf_Abstimmer.zip
+[2013-10-14 12:37:43] Groesse: 505455 Bytes
+[2013-10-14 12:37:43] Upload von "uploads/a-curreri/longneck_033l_radler_Drauf_Abstimmer.zip" erfolgreich abgeschlossen
+[2013-10-14 12:37:43] Zugriffsrechte von "uploads/a-curreri/longneck_033l_radler_Drauf_Abstimmer.zip" geaendert (0755)
+[2013-10-14 12:37:43] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-14 12:37:43] Absender: Alfons Curreri
+[2013-10-14 12:37:43] Empfaenger: a.curreri@otterbach.de
+[2013-10-14 12:37:43] E-Mail erfolgreich versandt
+[2013-10-14 12:48:06] *** Starte Download der angeforderten Datei
+[2013-10-14 12:48:06] Benutzer "a-curreri" gefunden
+[2013-10-14 12:48:06] Datei "longneck_033l_radler_Drauf_Abstimmer.zip" gefunden
+[2013-10-14 12:48:06] Download von "longneck_033l_radler_Drauf_Abstimmer.zip"
+[2013-10-14 12:48:06] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 12:48:06] Benutzer: a-curreri
+[2013-10-14 12:48:06] E-Mail: a.curreri@otterbach.de
+[2013-10-14 12:48:06] Datei: longneck_033l_radler_Drauf_Abstimmer.zip
+[2013-10-14 12:48:07] E-Mail wurde versandt
+[2013-10-14 12:48:34] *** Starte Download der angeforderten Datei
+[2013-10-14 12:48:34] Benutzer "a-curreri" gefunden
+[2013-10-14 12:48:34] Datei "longneck_033l_radler_Drauf_Abstimmer.zip" gefunden
+[2013-10-14 12:48:34] Download von "longneck_033l_radler_Drauf_Abstimmer.zip"
+[2013-10-14 12:48:34] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 12:48:34] Benutzer: a-curreri
+[2013-10-14 12:48:34] E-Mail: a.curreri@otterbach.de
+[2013-10-14 12:48:34] Datei: longneck_033l_radler_Drauf_Abstimmer.zip
+[2013-10-14 12:48:34] E-Mail wurde versandt
+[2013-10-14 12:51:46] *** Starte Download der angeforderten Datei
+[2013-10-14 12:51:46] Benutzer "a-curreri" gefunden
+[2013-10-14 12:51:46] Datei "longneck_033l_radler_Drauf_Abstimmer.zip" gefunden
+[2013-10-14 12:51:46] Download von "longneck_033l_radler_Drauf_Abstimmer.zip"
+[2013-10-14 12:51:46] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 12:51:46] Benutzer: a-curreri
+[2013-10-14 12:51:46] E-Mail: a.curreri@otterbach.de
+[2013-10-14 12:51:46] Datei: longneck_033l_radler_Drauf_Abstimmer.zip
+[2013-10-14 12:51:46] E-Mail wurde versandt
+[2013-10-14 01:02:12] *** Starte Upload der Datei ***
+[2013-10-14 01:02:12] Datei: uploads/bitburger/2013_10_14_herbstLicher.zip
+[2013-10-14 01:02:12] Groesse: 549819813 Bytes
+[2013-10-14 01:02:12] Upload von "uploads/bitburger/2013_10_14_herbstLicher.zip" erfolgreich abgeschlossen
+[2013-10-14 01:02:12] Zugriffsrechte von "uploads/bitburger/2013_10_14_herbstLicher.zip" geaendert (0755)
+[2013-10-14 01:02:12] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-14 01:02:12] Absender: Otterbach Team
+[2013-10-14 01:02:12] Empfaenger: c.eberle@otterbach.de
+[2013-10-14 01:02:12] E-Mail erfolgreich versandt
+[2013-10-14 02:00:47] *** Starte Loeschen der angeforderten Datei
+[2013-10-14 02:00:47] Ermittle Benutzer und Datei
+[2013-10-14 02:00:47] Benutzer "n.fiedler" gefunden
+[2013-10-14 02:00:47] Datei "4413_CZ_Magazin_PDF.zip" gefunden
+[2013-10-14 02:00:47] Die Datei "4413_CZ_Magazin_PDF.zip" wurde erfolgreich geloescht
+[2013-10-14 02:01:07] *** Starte Loeschen der angeforderten Datei
+[2013-10-14 02:01:07] Ermittle Benutzer und Datei
+[2013-10-14 02:01:07] Benutzer "n.fiedler" gefunden
+[2013-10-14 02:01:07] Datei "4413_SK_Magazin_PDF.zip" gefunden
+[2013-10-14 02:01:07] Die Datei "4413_SK_Magazin_PDF.zip" wurde erfolgreich geloescht
+[2013-10-14 02:01:20] *** Starte Loeschen der angeforderten Datei
+[2013-10-14 02:01:20] Ermittle Benutzer und Datei
+[2013-10-14 02:01:20] Benutzer "n.fiedler" gefunden
+[2013-10-14 02:01:20] Die Datei "index.php" nicht mehr vorhanden
+[2013-10-14 02:01:28] *** Starte Loeschen der angeforderten Datei
+[2013-10-14 02:01:28] Ermittle Benutzer und Datei
+[2013-10-14 02:01:28] Benutzer "n.fiedler" gefunden
+[2013-10-14 02:01:28] Datei "4413_CZ_Flyer_PDF.zip" gefunden
+[2013-10-14 02:01:28] Die Datei "4413_CZ_Flyer_PDF.zip" wurde erfolgreich geloescht
+[2013-10-14 02:42:13] *** Starte Upload der Datei ***
+[2013-10-14 02:42:13] Datei: uploads/a-curreri/2013_10_14_MBA_Felgen_fbx.zip
+[2013-10-14 02:42:13] Groesse: 0 Bytes
+[2013-10-14 02:42:13] Upload von "uploads/a-curreri/2013_10_14_MBA_Felgen_fbx.zip" gescheitert
+[2013-10-14 02:54:34] *** Starte Upload der Datei ***
+[2013-10-14 02:54:34] Datei: uploads/a-curreri/2013_10_14_MBA_Felgen_fbx.zip
+[2013-10-14 02:54:34] Groesse: 61091112 Bytes
+[2013-10-14 02:54:34] Upload von "uploads/a-curreri/2013_10_14_MBA_Felgen_fbx.zip" erfolgreich abgeschlossen
+[2013-10-14 02:54:34] Zugriffsrechte von "uploads/a-curreri/2013_10_14_MBA_Felgen_fbx.zip" geaendert (0755)
+[2013-10-14 02:54:34] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-14 02:54:34] Absender: Alfons Curreri
+[2013-10-14 02:54:34] Empfaenger: a.curreri@otterbach.de
+[2013-10-14 02:54:34] E-Mail erfolgreich versandt
+[2013-10-14 03:58:21] *** Starte Download der angeforderten Datei
+[2013-10-14 03:58:21] Benutzer "bitburger" gefunden
+[2013-10-14 03:58:21] Datei "2013_10_14_herbstLicher.zip" gefunden
+[2013-10-14 03:58:21] Download von "2013_10_14_herbstLicher.zip"
+[2013-10-14 04:06:08] *** Starte Download der angeforderten Datei
+[2013-10-14 04:06:08] Benutzer "bitburger" gefunden
+[2013-10-14 04:06:08] Datei "Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf" gefunden
+[2013-10-14 04:06:08] Download von "Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf"
+[2013-10-14 04:07:39] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 04:07:39] Benutzer: bitburger
+[2013-10-14 04:07:39] E-Mail: bitburger@otterbach.de
+[2013-10-14 04:07:39] Datei: Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf
+[2013-10-14 04:07:39] E-Mail wurde versandt
+[2013-10-14 04:43:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-14 04:43:10] Benutzer: bitburger
+[2013-10-14 04:43:10] E-Mail: bitburger@otterbach.de
+[2013-10-14 04:43:10] Datei: 2013_10_14_herbstLicher.zip
+[2013-10-14 04:43:10] E-Mail wurde versandt
+[2013-10-15 10:08:00] *** Starte Download der angeforderten Datei
+[2013-10-15 10:08:00] Benutzer "a-curreri" gefunden
+[2013-10-15 10:08:00] Datei "2013_10_14_MBA_Felgen_fbx.zip" gefunden
+[2013-10-15 10:08:00] Download von "2013_10_14_MBA_Felgen_fbx.zip"
+[2013-10-15 10:36:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-15 10:36:02] Benutzer: a-curreri
+[2013-10-15 10:36:02] E-Mail: a.curreri@otterbach.de
+[2013-10-15 10:36:02] Datei: 2013_10_14_MBA_Felgen_fbx.zip
+[2013-10-15 10:36:02] E-Mail wurde versandt
+[2013-10-15 02:04:28] *** Starte Upload der Datei ***
+[2013-10-15 02:04:28] Datei: uploads/a-siegesmund/AV11AOtto_Schwab-Version.zip
+[2013-10-15 02:04:28] Groesse: 247648400 Bytes
+[2013-10-15 02:04:28] Upload von "uploads/a-siegesmund/AV11AOtto_Schwab-Version.zip" erfolgreich abgeschlossen
+[2013-10-15 02:04:28] Zugriffsrechte von "uploads/a-siegesmund/AV11AOtto_Schwab-Version.zip" geaendert (0755)
+[2013-10-15 02:04:28] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-15 02:04:28] Absender: Alfred Siegesmund
+[2013-10-15 02:04:28] Empfaenger: pboth@heine.de
+[2013-10-15 02:04:30] E-Mail erfolgreich versandt
+[2013-10-15 02:24:06] *** Starte Upload der Datei ***
+[2013-10-15 02:24:06] Datei: uploads/bitburger/Bitb_Hoffenheim_StadionmagSonderanzeige_210x280_K1_PDFx3.pdf
+[2013-10-15 02:24:06] Groesse: 7523178 Bytes
+[2013-10-15 02:24:06] Upload von "uploads/bitburger/Bitb_Hoffenheim_StadionmagSonderanzeige_210x280_K1_PDFx3.pdf" erfolgreich abgeschlossen
+[2013-10-15 02:24:06] Zugriffsrechte von "uploads/bitburger/Bitb_Hoffenheim_StadionmagSonderanzeige_210x280_K1_PDFx3.pdf" geaendert (0755)
+[2013-10-15 02:24:06] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-15 02:24:06] Absender: Otterbach Team
+[2013-10-15 02:24:06] Empfaenger: c.eberle@otterbach.de
+[2013-10-15 02:24:06] E-Mail erfolgreich versandt
+[2013-10-15 03:09:39] *** Starte Download der angeforderten Datei
+[2013-10-15 03:09:39] Benutzer "bitburger" gefunden
+[2013-10-15 03:09:39] Datei "Bitb_Hoffenheim_StadionmagSonderanzeige_210x280_K1_PDFx3.pdf" gefunden
+[2013-10-15 03:09:39] Download von "Bitb_Hoffenheim_StadionmagSonderanzeige_210x280_K1_PDFx3.pdf"
+[2013-10-15 03:09:49] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-15 03:09:49] Benutzer: bitburger
+[2013-10-15 03:09:49] E-Mail: bitburger@otterbach.de
+[2013-10-15 03:09:49] Datei: Bitb_Hoffenheim_StadionmagSonderanzeige_210x280_K1_PDFx3.pdf
+[2013-10-15 03:09:49] E-Mail wurde versandt
+[2013-10-15 03:25:01] *** Starte Upload der Datei ***
+[2013-10-15 03:25:01] Datei: uploads/l.schoenherr/Portrait.zip
+[2013-10-15 03:25:01] Groesse: 93884215 Bytes
+[2013-10-15 03:25:01] Upload von "uploads/l.schoenherr/Portrait.zip" erfolgreich abgeschlossen
+[2013-10-15 03:25:01] Zugriffsrechte von "uploads/l.schoenherr/Portrait.zip" geaendert (0755)
+[2013-10-15 03:25:01] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-15 03:25:01] Absender: Lisa SchÃ¶nherr
+[2013-10-15 03:25:01] Empfaenger: l.schoenherr@otterbach.de
+[2013-10-15 03:25:02] E-Mail erfolgreich versandt
+[2013-10-15 05:41:47] *** Starte Upload der Datei ***
+[2013-10-15 05:41:47] Datei: uploads/a-curreri/AR8_10203_Plakat.zip
+[2013-10-15 05:41:47] Groesse: 0 Bytes
+[2013-10-15 05:41:47] Upload von "uploads/a-curreri/AR8_10203_Plakat.zip" gescheitert
+[2013-10-15 05:43:57] *** Starte Upload der Datei ***
+[2013-10-15 05:43:57] Datei: uploads/a-curreri/AR8_10203_Plakat.zip
+[2013-10-15 05:43:57] Groesse: 267033855 Bytes
+[2013-10-15 05:43:57] Upload von "uploads/a-curreri/AR8_10203_Plakat.zip" erfolgreich abgeschlossen
+[2013-10-15 05:43:57] Zugriffsrechte von "uploads/a-curreri/AR8_10203_Plakat.zip" geaendert (0755)
+[2013-10-15 05:43:57] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-15 05:43:57] Absender: Alfons Curreri
+[2013-10-15 05:43:57] Empfaenger: a.curreri@otterbach.de
+[2013-10-15 05:43:57] E-Mail erfolgreich versandt
+[2013-10-16 09:23:07] *** Starte Download der angeforderten Datei
+[2013-10-16 09:23:07] Benutzer "a-curreri" gefunden
+[2013-10-16 09:23:07] Datei "AR8_10203_Plakat.zip" gefunden
+[2013-10-16 09:23:07] Download von "AR8_10203_Plakat.zip"
+[2013-10-16 09:24:19] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 09:24:19] Benutzer: a-curreri
+[2013-10-16 09:24:19] E-Mail: a.curreri@otterbach.de
+[2013-10-16 09:24:19] Datei: AR8_10203_Plakat.zip
+[2013-10-16 09:24:19] E-Mail wurde versandt
+[2013-10-16 10:13:11] *** Starte Upload der Datei ***
+[2013-10-16 10:13:11] Datei: uploads/sbr/03 Hey Brother.m4a.zip
+[2013-10-16 10:13:11] Groesse: 8384749 Bytes
+[2013-10-16 10:13:11] Upload von "uploads/sbr/03 Hey Brother.m4a.zip" erfolgreich abgeschlossen
+[2013-10-16 10:13:11] Zugriffsrechte von "uploads/sbr/03 Hey Brother.m4a.zip" geaendert (0755)
+[2013-10-16 10:13:11] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-16 10:13:11] Absender: Sabine Benz-Reichel
+[2013-10-16 10:13:11] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-16 10:13:11] E-Mail erfolgreich versandt
+[2013-10-16 12:03:51] *** Starte Upload der Datei ***
+[2013-10-16 12:03:51] Datei: uploads/sbr/GIT.zip
+[2013-10-16 12:03:51] Groesse: 153565683 Bytes
+[2013-10-16 12:03:51] Upload von "uploads/sbr/GIT.zip" erfolgreich abgeschlossen
+[2013-10-16 12:03:51] Zugriffsrechte von "uploads/sbr/GIT.zip" geaendert (0755)
+[2013-10-16 12:03:51] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-16 12:03:51] Absender: Sabine Benz-Reichel
+[2013-10-16 12:03:51] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-16 12:03:51] E-Mail erfolgreich versandt
+[2013-10-16 01:26:20] *** Starte Download der angeforderten Datei
+[2013-10-16 01:26:20] Benutzer "sbr" gefunden
+[2013-10-16 01:26:20] Datei "GIT.zip" gefunden
+[2013-10-16 01:26:20] Download von "GIT.zip"
+[2013-10-16 01:26:56] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 01:26:56] Benutzer: sbr
+[2013-10-16 01:26:56] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 01:26:56] Datei: GIT.zip
+[2013-10-16 01:26:56] E-Mail wurde versandt
+[2013-10-16 01:27:04] *** Starte Download der angeforderten Datei
+[2013-10-16 01:27:04] Benutzer "sbr" gefunden
+[2013-10-16 01:27:04] Datei "GIT.zip" gefunden
+[2013-10-16 01:27:04] Download von "GIT.zip"
+[2013-10-16 01:27:39] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 01:27:39] Benutzer: sbr
+[2013-10-16 01:27:39] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 01:27:39] Datei: GIT.zip
+[2013-10-16 01:27:39] E-Mail wurde versandt
+[2013-10-16 01:34:47] *** Starte Upload der Datei ***
+[2013-10-16 01:34:47] Datei: uploads/bitburger/Max_Escher_43cm.zip
+[2013-10-16 01:34:47] Groesse: 25709153 Bytes
+[2013-10-16 01:34:47] Upload von "uploads/bitburger/Max_Escher_43cm.zip" erfolgreich abgeschlossen
+[2013-10-16 01:34:47] Zugriffsrechte von "uploads/bitburger/Max_Escher_43cm.zip" geaendert (0755)
+[2013-10-16 01:34:47] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-16 01:34:47] Absender: Otterbach Team
+[2013-10-16 01:34:47] Empfaenger: c.eberle@otterbach.de
+[2013-10-16 01:34:47] E-Mail erfolgreich versandt
+[2013-10-16 01:35:06] *** Starte Upload der Datei ***
+[2013-10-16 01:35:06] Datei: uploads/bitburger/Max_Orchester_43cm.zip
+[2013-10-16 01:35:06] Groesse: 11312591 Bytes
+[2013-10-16 01:35:06] Upload von "uploads/bitburger/Max_Orchester_43cm.zip" erfolgreich abgeschlossen
+[2013-10-16 01:35:06] Zugriffsrechte von "uploads/bitburger/Max_Orchester_43cm.zip" geaendert (0755)
+[2013-10-16 01:35:06] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-16 01:35:06] Absender: Otterbach Team
+[2013-10-16 01:35:06] Empfaenger: c.eberle@otterbach.de
+[2013-10-16 01:35:06] E-Mail erfolgreich versandt
+[2013-10-16 01:35:32] *** Starte Upload der Datei ***
+[2013-10-16 01:35:32] Datei: uploads/bitburger/Max_Sandstrahler_Fachwerkbruecke_43cm.zip
+[2013-10-16 01:35:32] Groesse: 13577994 Bytes
+[2013-10-16 01:35:32] Upload von "uploads/bitburger/Max_Sandstrahler_Fachwerkbruecke_43cm.zip" erfolgreich abgeschlossen
+[2013-10-16 01:35:32] Zugriffsrechte von "uploads/bitburger/Max_Sandstrahler_Fachwerkbruecke_43cm.zip" geaendert (0755)
+[2013-10-16 01:35:32] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-16 01:35:32] Absender: Otterbach Team
+[2013-10-16 01:35:32] Empfaenger: c.eberle@otterbach.de
+[2013-10-16 01:35:32] E-Mail erfolgreich versandt
+[2013-10-16 01:35:56] *** Starte Upload der Datei ***
+[2013-10-16 01:35:56] Datei: uploads/bitburger/Max_Sandstrahler_Stabbogenbruecke_43cm.zip
+[2013-10-16 01:35:56] Groesse: 13765705 Bytes
+[2013-10-16 01:35:56] Upload von "uploads/bitburger/Max_Sandstrahler_Stabbogenbruecke_43cm.zip" erfolgreich abgeschlossen
+[2013-10-16 01:35:56] Zugriffsrechte von "uploads/bitburger/Max_Sandstrahler_Stabbogenbruecke_43cm.zip" geaendert (0755)
+[2013-10-16 01:35:56] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-16 01:35:56] Absender: Otterbach Team
+[2013-10-16 01:35:56] Empfaenger: c.eberle@otterbach.de
+[2013-10-16 01:35:57] E-Mail erfolgreich versandt
+[2013-10-16 03:42:49] *** Starte Download der angeforderten Datei
+[2013-10-16 03:42:49] Benutzer "sbr" gefunden
+[2013-10-16 03:42:49] Datei "GIT.zip" gefunden
+[2013-10-16 03:42:49] Download von "GIT.zip"
+[2013-10-16 03:43:24] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 03:43:24] Benutzer: sbr
+[2013-10-16 03:43:24] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 03:43:24] Datei: GIT.zip
+[2013-10-16 03:43:24] E-Mail wurde versandt
+[2013-10-16 03:58:07] *** Starte Upload der Datei ***
+[2013-10-16 03:58:07] Datei: uploads/sbr/Android-FCBayern-20130923.apk
+[2013-10-16 03:58:07] Groesse: 2733265 Bytes
+[2013-10-16 03:58:07] Upload von "uploads/sbr/Android-FCBayern-20130923.apk" erfolgreich abgeschlossen
+[2013-10-16 03:58:07] Zugriffsrechte von "uploads/sbr/Android-FCBayern-20130923.apk" geaendert (0755)
+[2013-10-16 03:58:07] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-16 03:58:07] Absender: Sabine Benz-Reichel
+[2013-10-16 03:58:07] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-16 03:58:07] E-Mail erfolgreich versandt
+[2013-10-16 04:00:18] *** Starte Download der angeforderten Datei
+[2013-10-16 04:00:18] Benutzer "sbr" gefunden
+[2013-10-16 04:00:18] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:00:18] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:00:19] *** Starte Download der angeforderten Datei
+[2013-10-16 04:00:19] Benutzer "sbr" gefunden
+[2013-10-16 04:00:19] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:00:19] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:00:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:00:21] Benutzer: sbr
+[2013-10-16 04:00:21] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 04:00:21] Datei: Android-FCBayern-20130923.apk
+[2013-10-16 04:00:21] E-Mail wurde versandt
+[2013-10-16 04:00:38] *** Starte Download der angeforderten Datei
+[2013-10-16 04:00:38] Benutzer "sbr" gefunden
+[2013-10-16 04:00:38] Datei "GIT.zip" gefunden
+[2013-10-16 04:00:38] Download von "GIT.zip"
+[2013-10-16 04:00:53] *** Starte Download der angeforderten Datei
+[2013-10-16 04:00:53] Benutzer "sbr" gefunden
+[2013-10-16 04:00:53] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:00:53] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:00:53] *** Starte Download der angeforderten Datei
+[2013-10-16 04:00:53] Benutzer "sbr" gefunden
+[2013-10-16 04:00:53] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:00:53] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:00:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:00:54] Benutzer: sbr
+[2013-10-16 04:00:54] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 04:00:54] Datei: Android-FCBayern-20130923.apk
+[2013-10-16 04:00:54] E-Mail wurde versandt
+[2013-10-16 04:01:11] *** Starte Download der angeforderten Datei
+[2013-10-16 04:01:11] Benutzer "sbr" gefunden
+[2013-10-16 04:01:11] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:01:11] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:01:12] *** Starte Download der angeforderten Datei
+[2013-10-16 04:01:12] Benutzer "sbr" gefunden
+[2013-10-16 04:01:12] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:01:12] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:01:13] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:01:13] Benutzer: sbr
+[2013-10-16 04:01:13] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 04:01:13] Datei: Android-FCBayern-20130923.apk
+[2013-10-16 04:01:13] E-Mail wurde versandt
+[2013-10-16 04:01:18] *** Starte Download der angeforderten Datei
+[2013-10-16 04:01:18] Benutzer "sbr" gefunden
+[2013-10-16 04:01:18] Datei "GIT.zip" gefunden
+[2013-10-16 04:01:18] Download von "GIT.zip"
+[2013-10-16 04:02:09] *** Starte Download der angeforderten Datei
+[2013-10-16 04:02:09] Benutzer "sbr" gefunden
+[2013-10-16 04:02:09] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:02:09] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:02:10] *** Starte Download der angeforderten Datei
+[2013-10-16 04:02:10] Benutzer "sbr" gefunden
+[2013-10-16 04:02:10] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:02:10] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:02:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:02:10] Benutzer: sbr
+[2013-10-16 04:02:10] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 04:02:10] Datei: Android-FCBayern-20130923.apk
+[2013-10-16 04:02:10] E-Mail wurde versandt
+[2013-10-16 04:03:27] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:03:27] Benutzer: sbr
+[2013-10-16 04:03:27] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 04:03:27] Datei: GIT.zip
+[2013-10-16 04:03:27] E-Mail wurde versandt
+[2013-10-16 04:08:15] *** Starte Upload der Datei ***
+[2013-10-16 04:08:15] Datei: uploads/a-curreri/Komfortissimo_Keyvisual_A4.zip
+[2013-10-16 04:08:15] Groesse: 253530614 Bytes
+[2013-10-16 04:08:15] Upload von "uploads/a-curreri/Komfortissimo_Keyvisual_A4.zip" erfolgreich abgeschlossen
+[2013-10-16 04:08:15] Zugriffsrechte von "uploads/a-curreri/Komfortissimo_Keyvisual_A4.zip" geaendert (0755)
+[2013-10-16 04:08:15] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-16 04:08:15] Absender: Alfons Curreri
+[2013-10-16 04:08:15] Empfaenger: a.curreri@otterbach.de
+[2013-10-16 04:08:15] E-Mail erfolgreich versandt
+[2013-10-16 04:08:57] *** Starte Download der angeforderten Datei
+[2013-10-16 04:08:57] Benutzer "sbr" gefunden
+[2013-10-16 04:08:57] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:08:57] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:08:58] *** Starte Download der angeforderten Datei
+[2013-10-16 04:08:58] Benutzer "sbr" gefunden
+[2013-10-16 04:08:58] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-16 04:08:58] Download von "Android-FCBayern-20130923.apk"
+[2013-10-16 04:08:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:08:58] Benutzer: sbr
+[2013-10-16 04:08:58] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 04:08:58] Datei: Android-FCBayern-20130923.apk
+[2013-10-16 04:08:59] E-Mail wurde versandt
+[2013-10-16 04:09:39] *** Starte Upload der Datei ***
+[2013-10-16 04:09:39] Datei: uploads/a-curreri/Komfortissimo_Keyvisual_A4_PSDs.zip
+[2013-10-16 04:09:39] Groesse: 533062286 Bytes
+[2013-10-16 04:09:39] Upload von "uploads/a-curreri/Komfortissimo_Keyvisual_A4_PSDs.zip" erfolgreich abgeschlossen
+[2013-10-16 04:09:39] Zugriffsrechte von "uploads/a-curreri/Komfortissimo_Keyvisual_A4_PSDs.zip" geaendert (0755)
+[2013-10-16 04:09:39] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-16 04:09:39] Absender: Alfons Curreri
+[2013-10-16 04:09:39] Empfaenger: a.curreri@otterbach.de
+[2013-10-16 04:09:39] E-Mail erfolgreich versandt
+[2013-10-16 04:17:56] *** Starte Download der angeforderten Datei
+[2013-10-16 04:17:56] Benutzer "a-curreri" gefunden
+[2013-10-16 04:17:56] Datei "Komfortissimo_Keyvisual_A4.zip" gefunden
+[2013-10-16 04:17:56] Download von "Komfortissimo_Keyvisual_A4.zip"
+[2013-10-16 04:17:56] *** Starte Download der angeforderten Datei
+[2013-10-16 04:17:56] Benutzer "a-curreri" gefunden
+[2013-10-16 04:17:56] Datei "Komfortissimo_Keyvisual_A4.zip" gefunden
+[2013-10-16 04:17:56] Download von "Komfortissimo_Keyvisual_A4.zip"
+[2013-10-16 04:18:09] *** Starte Download der angeforderten Datei
+[2013-10-16 04:18:09] Benutzer "a-curreri" gefunden
+[2013-10-16 04:18:09] Datei "Komfortissimo_Keyvisual_A4.zip" gefunden
+[2013-10-16 04:18:09] Download von "Komfortissimo_Keyvisual_A4.zip"
+[2013-10-16 04:23:42] *** Starte Download der angeforderten Datei
+[2013-10-16 04:23:42] Benutzer "a-curreri" gefunden
+[2013-10-16 04:23:42] Datei "Komfortissimo_Keyvisual_A4.zip" gefunden
+[2013-10-16 04:23:42] Download von "Komfortissimo_Keyvisual_A4.zip"
+[2013-10-16 04:23:45] *** Starte Download der angeforderten Datei
+[2013-10-16 04:23:45] Benutzer "a-curreri" gefunden
+[2013-10-16 04:23:45] Datei "Komfortissimo_Keyvisual_A4_PSDs.zip" gefunden
+[2013-10-16 04:23:45] Download von "Komfortissimo_Keyvisual_A4_PSDs.zip"
+[2013-10-16 04:25:34] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:25:34] Benutzer: a-curreri
+[2013-10-16 04:25:34] E-Mail: a.curreri@otterbach.de
+[2013-10-16 04:25:34] Datei: Komfortissimo_Keyvisual_A4.zip
+[2013-10-16 04:25:34] E-Mail wurde versandt
+[2013-10-16 04:27:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:27:16] Benutzer: a-curreri
+[2013-10-16 04:27:16] E-Mail: a.curreri@otterbach.de
+[2013-10-16 04:27:16] Datei: Komfortissimo_Keyvisual_A4_PSDs.zip
+[2013-10-16 04:27:16] E-Mail wurde versandt
+[2013-10-16 04:28:52] *** Starte Download der angeforderten Datei
+[2013-10-16 04:28:52] Benutzer "sbr" gefunden
+[2013-10-16 04:28:52] Datei "GIT.zip" gefunden
+[2013-10-16 04:28:52] Download von "GIT.zip"
+[2013-10-16 04:29:31] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:29:31] Benutzer: sbr
+[2013-10-16 04:29:31] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 04:29:31] Datei: GIT.zip
+[2013-10-16 04:29:31] E-Mail wurde versandt
+[2013-10-16 04:46:17] *** Starte Download der angeforderten Datei
+[2013-10-16 04:46:17] Benutzer "sbr" gefunden
+[2013-10-16 04:46:17] Datei "03 Hey Brother.m4a.zip" gefunden
+[2013-10-16 04:46:17] Download von "03 Hey Brother.m4a.zip"
+[2013-10-16 04:46:18] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-16 04:46:18] Benutzer: sbr
+[2013-10-16 04:46:18] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-16 04:46:18] Datei: 03 Hey Brother.m4a.zip
+[2013-10-16 04:46:18] E-Mail wurde versandt
+[2013-10-16 04:52:13] *** Starte Loeschen der angeforderten Datei
+[2013-10-16 04:52:13] Ermittle Benutzer und Datei
+[2013-10-16 04:52:13] Benutzer "sbr" gefunden
+[2013-10-16 04:52:13] Datei "03 Hey Brother.m4a.zip" gefunden
+[2013-10-16 04:52:13] Die Datei "03 Hey Brother.m4a.zip" wurde erfolgreich geloescht
+[2013-10-16 04:52:38] *** Starte Loeschen der angeforderten Datei
+[2013-10-16 04:52:38] Ermittle Benutzer und Datei
+[2013-10-16 04:52:38] Benutzer "sbr" gefunden
+[2013-10-16 04:52:38] Die Datei "styleguide_DE_2012_12_10.pdf.zip" nicht mehr vorhanden
+[2013-10-17 08:07:54] *** Starte Download der angeforderten Datei
+[2013-10-17 08:07:54] Benutzer "sbr" gefunden
+[2013-10-17 08:07:54] Datei "GIT.zip" gefunden
+[2013-10-17 08:07:54] Download von "GIT.zip"
+[2013-10-17 08:08:29] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 08:08:29] Benutzer: sbr
+[2013-10-17 08:08:29] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-17 08:08:29] Datei: GIT.zip
+[2013-10-17 08:08:29] E-Mail wurde versandt
+[2013-10-17 08:26:53] *** Starte Download der angeforderten Datei
+[2013-10-17 08:26:53] Benutzer "a-curreri" gefunden
+[2013-10-17 08:26:53] Datei "Komfortissimo_Keyvisual_A4.zip" gefunden
+[2013-10-17 08:26:53] Download von "Komfortissimo_Keyvisual_A4.zip"
+[2013-10-17 08:28:12] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 08:28:12] Benutzer: a-curreri
+[2013-10-17 08:28:12] E-Mail: a.curreri@otterbach.de
+[2013-10-17 08:28:12] Datei: Komfortissimo_Keyvisual_A4.zip
+[2013-10-17 08:28:12] E-Mail wurde versandt
+[2013-10-17 08:28:37] *** Starte Download der angeforderten Datei
+[2013-10-17 08:28:37] Benutzer "a-curreri" gefunden
+[2013-10-17 08:28:37] Datei "Komfortissimo_Keyvisual_A4.zip" gefunden
+[2013-10-17 08:28:37] Download von "Komfortissimo_Keyvisual_A4.zip"
+[2013-10-17 08:29:05] *** Starte Download der angeforderten Datei
+[2013-10-17 08:29:05] Benutzer "a-curreri" gefunden
+[2013-10-17 08:29:05] Datei "Komfortissimo_Keyvisual_A4_PSDs.zip" gefunden
+[2013-10-17 08:29:05] Download von "Komfortissimo_Keyvisual_A4_PSDs.zip"
+[2013-10-17 08:30:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 08:30:10] Benutzer: a-curreri
+[2013-10-17 08:30:10] E-Mail: a.curreri@otterbach.de
+[2013-10-17 08:30:10] Datei: Komfortissimo_Keyvisual_A4.zip
+[2013-10-17 08:30:10] E-Mail wurde versandt
+[2013-10-17 08:30:31] *** Starte Download der angeforderten Datei
+[2013-10-17 08:30:31] Benutzer "a-curreri" gefunden
+[2013-10-17 08:30:31] Datei "Komfortissimo_Keyvisual_A4.zip" gefunden
+[2013-10-17 08:30:31] Download von "Komfortissimo_Keyvisual_A4.zip"
+[2013-10-17 08:31:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 08:31:54] Benutzer: a-curreri
+[2013-10-17 08:31:54] E-Mail: a.curreri@otterbach.de
+[2013-10-17 08:31:54] Datei: Komfortissimo_Keyvisual_A4.zip
+[2013-10-17 08:31:54] E-Mail wurde versandt
+[2013-10-17 08:32:12] *** Starte Download der angeforderten Datei
+[2013-10-17 08:32:12] Benutzer "a-curreri" gefunden
+[2013-10-17 08:32:12] Datei "Komfortissimo_Keyvisual_A4_PSDs.zip" gefunden
+[2013-10-17 08:32:12] Download von "Komfortissimo_Keyvisual_A4_PSDs.zip"
+[2013-10-17 08:33:12] *** Starte Download der angeforderten Datei
+[2013-10-17 08:33:12] Benutzer "a-curreri" gefunden
+[2013-10-17 08:33:12] Datei "Komfortissimo_Keyvisual_A4_PSDs.zip" gefunden
+[2013-10-17 08:33:12] Download von "Komfortissimo_Keyvisual_A4_PSDs.zip"
+[2013-10-17 08:36:04] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 08:36:04] Benutzer: a-curreri
+[2013-10-17 08:36:04] E-Mail: a.curreri@otterbach.de
+[2013-10-17 08:36:04] Datei: Komfortissimo_Keyvisual_A4_PSDs.zip
+[2013-10-17 08:36:04] E-Mail wurde versandt
+[2013-10-17 08:37:57] *** Starte Download der angeforderten Datei
+[2013-10-17 08:37:57] Benutzer "a-curreri" gefunden
+[2013-10-17 08:37:57] Datei "Komfortissimo_Keyvisual_A4_PSDs.zip" gefunden
+[2013-10-17 08:37:57] Download von "Komfortissimo_Keyvisual_A4_PSDs.zip"
+[2013-10-17 08:38:30] *** Starte Download der angeforderten Datei
+[2013-10-17 08:38:30] Benutzer "a-curreri" gefunden
+[2013-10-17 08:38:30] Datei "Komfortissimo_Keyvisual_A4_PSDs.zip" gefunden
+[2013-10-17 08:38:30] Download von "Komfortissimo_Keyvisual_A4_PSDs.zip"
+[2013-10-17 08:41:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 08:41:17] Benutzer: a-curreri
+[2013-10-17 08:41:17] E-Mail: a.curreri@otterbach.de
+[2013-10-17 08:41:17] Datei: Komfortissimo_Keyvisual_A4_PSDs.zip
+[2013-10-17 08:41:17] E-Mail wurde versandt
+[2013-10-17 08:55:41] *** Starte Download der angeforderten Datei
+[2013-10-17 08:55:41] Benutzer "sbr" gefunden
+[2013-10-17 08:55:41] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-17 08:55:41] Download von "Android-FCBayern-20130923.apk"
+[2013-10-17 08:55:41] *** Starte Download der angeforderten Datei
+[2013-10-17 08:55:41] Benutzer "sbr" gefunden
+[2013-10-17 08:55:41] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-17 08:55:41] Download von "Android-FCBayern-20130923.apk"
+[2013-10-17 08:55:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 08:55:43] Benutzer: sbr
+[2013-10-17 08:55:43] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-17 08:55:43] Datei: Android-FCBayern-20130923.apk
+[2013-10-17 08:55:43] E-Mail wurde versandt
+[2013-10-17 09:50:37] *** Starte Download der angeforderten Datei
+[2013-10-17 09:50:37] Benutzer "sbr" gefunden
+[2013-10-17 09:50:37] Datei "Android-FCBayern-20130923.apk.zip" gefunden
+[2013-10-17 09:50:37] Download von "Android-FCBayern-20130923.apk.zip"
+[2013-10-17 09:50:38] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 09:50:38] Benutzer: sbr
+[2013-10-17 09:50:38] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-17 09:50:38] Datei: Android-FCBayern-20130923.apk.zip
+[2013-10-17 09:50:38] E-Mail wurde versandt
+[2013-10-17 09:51:01] *** Starte Download der angeforderten Datei
+[2013-10-17 09:51:01] Benutzer "sbr" gefunden
+[2013-10-17 09:51:01] Datei "Android-FCBayern-20130923.apk.zip" gefunden
+[2013-10-17 09:51:01] Download von "Android-FCBayern-20130923.apk.zip"
+[2013-10-17 09:51:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 09:51:02] Benutzer: sbr
+[2013-10-17 09:51:02] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-17 09:51:02] Datei: Android-FCBayern-20130923.apk.zip
+[2013-10-17 09:51:02] E-Mail wurde versandt
+[2013-10-17 11:53:15] *** Starte Download der angeforderten Datei
+[2013-10-17 11:53:15] Benutzer "sbr" gefunden
+[2013-10-17 11:53:15] Datei "GIT.zip" gefunden
+[2013-10-17 11:53:15] Download von "GIT.zip"
+[2013-10-17 11:53:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 11:53:58] Benutzer: sbr
+[2013-10-17 11:53:58] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-17 11:53:58] Datei: GIT.zip
+[2013-10-17 11:53:58] E-Mail wurde versandt
+[2013-10-17 12:46:29] *** Starte Upload der Datei ***
+[2013-10-17 12:46:29] Datei: uploads/k-wais/Alverde_Korr.zip
+[2013-10-17 12:46:29] Groesse: 160689672 Bytes
+[2013-10-17 12:46:29] Upload von "uploads/k-wais/Alverde_Korr.zip" erfolgreich abgeschlossen
+[2013-10-17 12:46:29] Zugriffsrechte von "uploads/k-wais/Alverde_Korr.zip" geaendert (0755)
+[2013-10-17 12:46:29] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-17 12:46:29] Absender: Karin Wais
+[2013-10-17 12:46:29] Empfaenger: k.wais@otterbach.de
+[2013-10-17 12:46:30] E-Mail erfolgreich versandt
+[2013-10-17 01:58:01] *** Starte Upload der Datei ***
+[2013-10-17 01:58:01] Datei: uploads/sbr/Screenshots.zip
+[2013-10-17 01:58:01] Groesse: 6573850 Bytes
+[2013-10-17 01:58:01] Upload von "uploads/sbr/Screenshots.zip" erfolgreich abgeschlossen
+[2013-10-17 01:58:01] Zugriffsrechte von "uploads/sbr/Screenshots.zip" geaendert (0755)
+[2013-10-17 01:58:01] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-17 01:58:01] Absender: Sabine Benz-Reichel
+[2013-10-17 01:58:01] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-17 01:58:01] E-Mail erfolgreich versandt
+[2013-10-17 02:00:22] *** Starte Download der angeforderten Datei
+[2013-10-17 02:00:22] Benutzer "sbr" gefunden
+[2013-10-17 02:00:22] Datei "Screenshots.zip" gefunden
+[2013-10-17 02:00:22] Download von "Screenshots.zip"
+[2013-10-17 02:00:24] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 02:00:24] Benutzer: sbr
+[2013-10-17 02:00:24] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-17 02:00:24] Datei: Screenshots.zip
+[2013-10-17 02:00:24] E-Mail wurde versandt
+[2013-10-17 02:02:38] *** Starte Download der angeforderten Datei
+[2013-10-17 02:02:38] Benutzer "k-wais" gefunden
+[2013-10-17 02:02:38] Datei "Alverde_Korr.zip" gefunden
+[2013-10-17 02:02:38] Download von "Alverde_Korr.zip"
+[2013-10-17 02:05:38] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 02:05:38] Benutzer: k-wais
+[2013-10-17 02:05:38] E-Mail: k.wais@otterbach.de
+[2013-10-17 02:05:38] Datei: Alverde_Korr.zip
+[2013-10-17 02:05:38] E-Mail wurde versandt
+[2013-10-17 02:52:12] *** Starte Upload der Datei ***
+[2013-10-17 02:52:12] Datei: uploads/k-wais/42-43009210Neu.tif.zip
+[2013-10-17 02:52:12] Groesse: 48799171 Bytes
+[2013-10-17 02:52:12] Upload von "uploads/k-wais/42-43009210Neu.tif.zip" erfolgreich abgeschlossen
+[2013-10-17 02:52:12] Zugriffsrechte von "uploads/k-wais/42-43009210Neu.tif.zip" geaendert (0755)
+[2013-10-17 02:52:12] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-17 02:52:12] Absender: Karin Wais
+[2013-10-17 02:52:12] Empfaenger: k.wais@otterbach.de
+[2013-10-17 02:52:13] E-Mail erfolgreich versandt
+[2013-10-17 05:05:29] *** Starte Download der angeforderten Datei
+[2013-10-17 05:05:29] Benutzer "k-wais" gefunden
+[2013-10-17 05:05:29] Datei "42-43009210Neu.tif.zip" gefunden
+[2013-10-17 05:05:29] Download von "42-43009210Neu.tif.zip"
+[2013-10-17 05:06:25] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 05:06:25] Benutzer: k-wais
+[2013-10-17 05:06:25] E-Mail: k.wais@otterbach.de
+[2013-10-17 05:06:25] Datei: 42-43009210Neu.tif.zip
+[2013-10-17 05:06:25] E-Mail wurde versandt
+[2013-10-17 05:25:32] *** Starte Download der angeforderten Datei
+[2013-10-17 05:25:32] Benutzer "a-curreri" gefunden
+[2013-10-17 05:25:32] Datei "longneck_033l_radler_Drauf_Abstimmer.jpg.zip" gefunden
+[2013-10-17 05:25:32] Download von "longneck_033l_radler_Drauf_Abstimmer.jpg.zip"
+[2013-10-17 05:25:32] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-17 05:25:32] Benutzer: a-curreri
+[2013-10-17 05:25:32] E-Mail: a.curreri@otterbach.de
+[2013-10-17 05:25:32] Datei: longneck_033l_radler_Drauf_Abstimmer.jpg.zip
+[2013-10-17 05:25:32] E-Mail wurde versandt
+[2013-10-18 09:40:45] *** Starte Download der angeforderten Datei
+[2013-10-18 09:40:45] Benutzer "sbr" gefunden
+[2013-10-18 09:40:45] Datei "Android-FCBayern-20130923.apk.zip" gefunden
+[2013-10-18 09:40:45] Download von "Android-FCBayern-20130923.apk.zip"
+[2013-10-18 09:40:46] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 09:40:46] Benutzer: sbr
+[2013-10-18 09:40:46] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-18 09:40:46] Datei: Android-FCBayern-20130923.apk.zip
+[2013-10-18 09:40:46] E-Mail wurde versandt
+[2013-10-18 09:42:52] *** Starte Download der angeforderten Datei
+[2013-10-18 09:42:52] Benutzer "sbr" gefunden
+[2013-10-18 09:42:52] Datei "Android-FCBayern-20130923.apk.zip" gefunden
+[2013-10-18 09:42:52] Download von "Android-FCBayern-20130923.apk.zip"
+[2013-10-18 09:42:53] *** Starte Download der angeforderten Datei
+[2013-10-18 09:42:53] Benutzer "sbr" gefunden
+[2013-10-18 09:42:53] Datei "Android-FCBayern-20130923.apk.zip" gefunden
+[2013-10-18 09:42:53] Download von "Android-FCBayern-20130923.apk.zip"
+[2013-10-18 09:42:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 09:42:54] Benutzer: sbr
+[2013-10-18 09:42:54] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-18 09:42:54] Datei: Android-FCBayern-20130923.apk.zip
+[2013-10-18 09:42:54] E-Mail wurde versandt
+[2013-10-18 09:43:42] *** Starte Download der angeforderten Datei
+[2013-10-18 09:43:42] Benutzer "sbr" gefunden
+[2013-10-18 09:43:42] Datei "Android-FCBayern-20130923.apk.zip" gefunden
+[2013-10-18 09:43:42] Download von "Android-FCBayern-20130923.apk.zip"
+[2013-10-18 09:43:42] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 09:43:42] Benutzer: sbr
+[2013-10-18 09:43:42] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-18 09:43:42] Datei: Android-FCBayern-20130923.apk.zip
+[2013-10-18 09:43:42] E-Mail wurde versandt
+[2013-10-18 10:23:38] *** Starte Download der angeforderten Datei
+[2013-10-18 10:23:38] Benutzer "sbr" gefunden
+[2013-10-18 10:23:38] Datei "Android-FCBayern-20130923.apk" gefunden
+[2013-10-18 10:23:38] Download von "Android-FCBayern-20130923.apk"
+[2013-10-18 10:23:39] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 10:23:39] Benutzer: sbr
+[2013-10-18 10:23:39] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-18 10:23:39] Datei: Android-FCBayern-20130923.apk
+[2013-10-18 10:23:39] E-Mail wurde versandt
+[2013-10-18 10:31:49] *** Starte Download der angeforderten Datei
+[2013-10-18 10:31:49] Benutzer "c-eberle" gefunden
+[2013-10-18 10:31:49] Datei "Max_Schlangenbeschwoerer_43cm.zip" gefunden
+[2013-10-18 10:31:49] Download von "Max_Schlangenbeschwoerer_43cm.zip"
+[2013-10-18 10:31:53] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 10:31:53] Benutzer: c-eberle
+[2013-10-18 10:31:53] E-Mail: c.eberle@otterbach.de
+[2013-10-18 10:31:53] Datei: Max_Schlangenbeschwoerer_43cm.zip
+[2013-10-18 10:31:53] E-Mail wurde versandt
+[2013-10-18 10:38:39] *** Starte Download der angeforderten Datei
+[2013-10-18 10:38:39] Benutzer "bitburger" gefunden
+[2013-10-18 10:38:39] Datei "Max_Escher_43cm.zip" gefunden
+[2013-10-18 10:38:39] Download von "Max_Escher_43cm.zip"
+[2013-10-18 10:38:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 10:38:50] Benutzer: bitburger
+[2013-10-18 10:38:50] E-Mail: bitburger@otterbach.de
+[2013-10-18 10:38:50] Datei: Max_Escher_43cm.zip
+[2013-10-18 10:38:50] E-Mail wurde versandt
+[2013-10-18 10:58:25] *** Starte Download der angeforderten Datei
+[2013-10-18 10:58:25] Benutzer "bitburger" gefunden
+[2013-10-18 10:58:25] Datei "Max_Orchester_43cm.zip" gefunden
+[2013-10-18 10:58:25] Download von "Max_Orchester_43cm.zip"
+[2013-10-18 10:58:29] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 10:58:29] Benutzer: bitburger
+[2013-10-18 10:58:29] E-Mail: bitburger@otterbach.de
+[2013-10-18 10:58:29] Datei: Max_Orchester_43cm.zip
+[2013-10-18 10:58:29] E-Mail wurde versandt
+[2013-10-18 10:58:46] *** Starte Upload der Datei ***
+[2013-10-18 10:58:46] Datei: uploads/sbr/Screenshot.zip
+[2013-10-18 10:58:46] Groesse: 18453866 Bytes
+[2013-10-18 10:58:46] Upload von "uploads/sbr/Screenshot.zip" erfolgreich abgeschlossen
+[2013-10-18 10:58:46] Zugriffsrechte von "uploads/sbr/Screenshot.zip" geaendert (0755)
+[2013-10-18 10:58:46] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-18 10:58:46] Absender: Sabine Benz-Reichel
+[2013-10-18 10:58:46] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-18 10:58:46] E-Mail erfolgreich versandt
+[2013-10-18 11:02:04] *** Starte Download der angeforderten Datei
+[2013-10-18 11:02:04] Benutzer "sbr" gefunden
+[2013-10-18 11:02:04] Datei "Screenshot.zip" gefunden
+[2013-10-18 11:02:04] Download von "Screenshot.zip"
+[2013-10-18 11:02:07] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 11:02:07] Benutzer: sbr
+[2013-10-18 11:02:07] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-18 11:02:07] Datei: Screenshot.zip
+[2013-10-18 11:02:07] E-Mail wurde versandt
+[2013-10-18 11:02:11] *** Starte Download der angeforderten Datei
+[2013-10-18 11:02:11] Benutzer "bitburger" gefunden
+[2013-10-18 11:02:11] Datei "Max_Sandstrahler_Fachwerkbruecke_43cm.zip" gefunden
+[2013-10-18 11:02:11] Download von "Max_Sandstrahler_Fachwerkbruecke_43cm.zip"
+[2013-10-18 11:02:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 11:02:16] Benutzer: bitburger
+[2013-10-18 11:02:16] E-Mail: bitburger@otterbach.de
+[2013-10-18 11:02:16] Datei: Max_Sandstrahler_Fachwerkbruecke_43cm.zip
+[2013-10-18 11:02:16] E-Mail wurde versandt
+[2013-10-18 11:06:53] *** Starte Download der angeforderten Datei
+[2013-10-18 11:06:53] Benutzer "bitburger" gefunden
+[2013-10-18 11:06:53] Datei "Max_Sandstrahler_Stabbogenbruecke_43cm.zip" gefunden
+[2013-10-18 11:06:53] Download von "Max_Sandstrahler_Stabbogenbruecke_43cm.zip"
+[2013-10-18 11:06:59] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 11:06:59] Benutzer: bitburger
+[2013-10-18 11:06:59] E-Mail: bitburger@otterbach.de
+[2013-10-18 11:06:59] Datei: Max_Sandstrahler_Stabbogenbruecke_43cm.zip
+[2013-10-18 11:06:59] E-Mail wurde versandt
+[2013-10-18 11:20:27] *** Starte Download der angeforderten Datei
+[2013-10-18 11:20:27] Benutzer "bitburger" gefunden
+[2013-10-18 11:20:27] Datei "Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf" gefunden
+[2013-10-18 11:20:27] Download von "Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf"
+[2013-10-18 11:20:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 11:20:28] Benutzer: bitburger
+[2013-10-18 11:20:28] E-Mail: bitburger@otterbach.de
+[2013-10-18 11:20:28] Datei: Bitb_0_0_N11_3er_Copytext_KickerSH-MythosPokal_220x302_ISOv2_300_PDFx3.pdf
+[2013-10-18 11:20:28] E-Mail wurde versandt
+[2013-10-18 11:46:25] *** Starte Upload der Datei ***
+[2013-10-18 11:46:25] Datei: uploads/concept/RIMOWA-Praesi_V3.pdf
+[2013-10-18 11:46:25] Groesse: 8994887 Bytes
+[2013-10-18 11:46:25] Upload von "uploads/concept/RIMOWA-Praesi_V3.pdf" erfolgreich abgeschlossen
+[2013-10-18 11:46:25] Zugriffsrechte von "uploads/concept/RIMOWA-Praesi_V3.pdf" geaendert (0755)
+[2013-10-18 11:46:25] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-18 11:46:25] Absender: Otterbach Concept
+[2013-10-18 11:46:25] Empfaenger: c.weissenrieder@otterbach.de
+[2013-10-18 11:46:25] E-Mail erfolgreich versandt
+[2013-10-18 12:24:35] *** Starte Download der angeforderten Datei
+[2013-10-18 12:24:35] Benutzer "concept" gefunden
+[2013-10-18 12:24:35] Datei "RIMOWA-Praesi_V3.pdf" gefunden
+[2013-10-18 12:24:35] Download von "RIMOWA-Praesi_V3.pdf"
+[2013-10-18 12:24:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 12:24:35] Benutzer: concept
+[2013-10-18 12:24:35] E-Mail: jetzt@gas-gebbe.de
+[2013-10-18 12:24:35] Datei: RIMOWA-Praesi_V3.pdf
+[2013-10-18 12:24:35] E-Mail wurde versandt
+[2013-10-18 12:30:21] *** Starte Download der angeforderten Datei
+[2013-10-18 12:30:21] Benutzer "concept" gefunden
+[2013-10-18 12:30:21] Datei "RIMOWA-Praesi_V3.pdf" gefunden
+[2013-10-18 12:30:21] Download von "RIMOWA-Praesi_V3.pdf"
+[2013-10-18 12:30:31] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 12:30:31] Benutzer: concept
+[2013-10-18 12:30:31] E-Mail: jetzt@gas-gebbe.de
+[2013-10-18 12:30:31] Datei: RIMOWA-Praesi_V3.pdf
+[2013-10-18 12:30:31] E-Mail wurde versandt
+[2013-10-18 12:31:09] *** Starte Download der angeforderten Datei
+[2013-10-18 12:31:09] Benutzer "concept" gefunden
+[2013-10-18 12:31:09] Datei "RIMOWA-Praesi_V3.pdf" gefunden
+[2013-10-18 12:31:09] Download von "RIMOWA-Praesi_V3.pdf"
+[2013-10-18 12:31:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 12:31:10] Benutzer: concept
+[2013-10-18 12:31:10] E-Mail: jetzt@gas-gebbe.de
+[2013-10-18 12:31:10] Datei: RIMOWA-Praesi_V3.pdf
+[2013-10-18 12:31:10] E-Mail wurde versandt
+[2013-10-18 02:11:31] *** Starte Upload der Datei ***
+[2013-10-18 02:11:31] Datei: uploads/sbr/Android-FCBayern-20131018.apk.zip
+[2013-10-18 02:11:31] Groesse: 2592963 Bytes
+[2013-10-18 02:11:31] Upload von "uploads/sbr/Android-FCBayern-20131018.apk.zip" erfolgreich abgeschlossen
+[2013-10-18 02:11:31] Zugriffsrechte von "uploads/sbr/Android-FCBayern-20131018.apk.zip" geaendert (0755)
+[2013-10-18 02:11:31] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-18 02:11:31] Absender: Sabine Benz-Reichel
+[2013-10-18 02:11:31] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-18 02:11:31] E-Mail erfolgreich versandt
+[2013-10-18 02:20:31] *** Starte Download der angeforderten Datei
+[2013-10-18 02:20:31] Benutzer "sbr" gefunden
+[2013-10-18 02:20:31] Datei "Android-FCBayern-20131018.apk.zip" gefunden
+[2013-10-18 02:20:31] Download von "Android-FCBayern-20131018.apk.zip"
+[2013-10-18 02:20:32] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 02:20:32] Benutzer: sbr
+[2013-10-18 02:20:32] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-18 02:20:32] Datei: Android-FCBayern-20131018.apk.zip
+[2013-10-18 02:20:32] E-Mail wurde versandt
+[2013-10-18 03:57:11] *** Starte Download der angeforderten Datei
+[2013-10-18 03:57:11] Benutzer "concept" gefunden
+[2013-10-18 03:57:11] Datei "RIMOWA-Praesi_V3.pdf" gefunden
+[2013-10-18 03:57:11] Download von "RIMOWA-Praesi_V3.pdf"
+[2013-10-18 03:57:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-18 03:57:11] Benutzer: concept
+[2013-10-18 03:57:11] E-Mail: jetzt@gas-gebbe.de
+[2013-10-18 03:57:11] Datei: RIMOWA-Praesi_V3.pdf
+[2013-10-18 03:57:11] E-Mail wurde versandt
+[2013-10-18 04:00:28] *** Starte Download der angeforderten Datei
+[2013-10-18 04:00:28] Benutzer "concept" gefunden
+[2013-10-18 04:00:28] Angeforderte Datei wurde nicht gefunden
+[2013-10-18 04:00:28] Download der Datei gescheitert
+[2013-10-19 02:13:10] *** Starte Download der angeforderten Datei
+[2013-10-19 02:13:11] Benutzer "concept" gefunden
+[2013-10-19 02:13:11] Datei "RIMOWA-Praesi_V3.pdf" gefunden
+[2013-10-19 02:13:11] Download von "RIMOWA-Praesi_V3.pdf"
+[2013-10-19 02:13:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-19 02:13:21] Benutzer: concept
+[2013-10-19 02:13:21] E-Mail: jetzt@gas-gebbe.de
+[2013-10-19 02:13:21] Datei: RIMOWA-Praesi_V3.pdf
+[2013-10-19 02:13:21] E-Mail wurde versandt
+[2013-10-21 11:14:56] *** Starte Upload der Datei ***
+[2013-10-21 11:14:56] Datei: uploads/concept/GEBO_GreetingCard_Presentation.pdf
+[2013-10-21 11:14:56] Groesse: 9348006 Bytes
+[2013-10-21 11:14:56] Upload von "uploads/concept/GEBO_GreetingCard_Presentation.pdf" erfolgreich abgeschlossen
+[2013-10-21 11:14:56] Zugriffsrechte von "uploads/concept/GEBO_GreetingCard_Presentation.pdf" geaendert (0755)
+[2013-10-21 11:14:56] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-21 11:14:56] Absender: Otterbach Concept
+[2013-10-21 11:14:56] Empfaenger: t.wagner@otterbach.de, c.weissenrieder@otterbach.de
+[2013-10-21 11:14:56] E-Mail erfolgreich versandt
+[2013-10-21 11:21:48] *** Starte Download der angeforderten Datei
+[2013-10-21 11:21:48] Benutzer "concept" gefunden
+[2013-10-21 11:21:48] Datei "GEBO_GreetingCard_Presentation.pdf" gefunden
+[2013-10-21 11:21:48] Download von "GEBO_GreetingCard_Presentation.pdf"
+[2013-10-21 11:21:49] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 11:21:49] Benutzer: concept
+[2013-10-21 11:21:49] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 11:21:49] Datei: GEBO_GreetingCard_Presentation.pdf
+[2013-10-21 11:21:49] E-Mail wurde versandt
+[2013-10-21 12:30:06] *** Starte Download der angeforderten Datei
+[2013-10-21 12:30:06] Benutzer "concept" gefunden
+[2013-10-21 12:30:06] Datei "RIMOWA-Praesi_V3.pdf" gefunden
+[2013-10-21 12:30:06] Download von "RIMOWA-Praesi_V3.pdf"
+[2013-10-21 12:30:11] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 12:30:11] Benutzer: concept
+[2013-10-21 12:30:11] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 12:30:11] Datei: RIMOWA-Praesi_V3.pdf
+[2013-10-21 12:30:11] E-Mail wurde versandt
+[2013-10-21 12:44:30] *** Starte Download der angeforderten Datei
+[2013-10-21 12:44:30] Benutzer "concept" gefunden
+[2013-10-21 12:44:30] Datei "RIMOWA-Praesi_V3.pdf" gefunden
+[2013-10-21 12:44:30] Download von "RIMOWA-Praesi_V3.pdf"
+[2013-10-21 12:44:31] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 12:44:31] Benutzer: concept
+[2013-10-21 12:44:31] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 12:44:31] Datei: RIMOWA-Praesi_V3.pdf
+[2013-10-21 12:44:31] E-Mail wurde versandt
+[2013-10-21 01:38:25] *** Starte Download der angeforderten Datei
+[2013-10-21 01:38:25] Benutzer "concept" gefunden
+[2013-10-21 01:38:25] Datei "GEBO_GreetingCard_Presentation.pdf" gefunden
+[2013-10-21 01:38:25] Download von "GEBO_GreetingCard_Presentation.pdf"
+[2013-10-21 01:38:26] *** Starte Download der angeforderten Datei
+[2013-10-21 01:38:26] Benutzer "concept" gefunden
+[2013-10-21 01:38:26] Datei "GEBO_GreetingCard_Presentation.pdf" gefunden
+[2013-10-21 01:38:26] Download von "GEBO_GreetingCard_Presentation.pdf"
+[2013-10-21 01:38:39] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 01:38:39] Benutzer: concept
+[2013-10-21 01:38:39] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 01:38:39] Datei: GEBO_GreetingCard_Presentation.pdf
+[2013-10-21 01:38:39] E-Mail wurde versandt
+[2013-10-21 01:41:29] *** Starte Download der angeforderten Datei
+[2013-10-21 01:41:29] Benutzer "concept" gefunden
+[2013-10-21 01:41:29] Datei "GEBO_GreetingCard_Presentation.pdf" gefunden
+[2013-10-21 01:41:29] Download von "GEBO_GreetingCard_Presentation.pdf"
+[2013-10-21 01:41:34] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 01:41:34] Benutzer: concept
+[2013-10-21 01:41:34] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 01:41:34] Datei: GEBO_GreetingCard_Presentation.pdf
+[2013-10-21 01:41:34] E-Mail wurde versandt
+[2013-10-21 03:05:19] *** Starte Upload der Datei ***
+[2013-10-21 03:05:19] Datei: uploads/concept/produktblätter marfos PRINT.pdf
+[2013-10-21 03:05:19] Groesse: 2126724 Bytes
+[2013-10-21 03:05:19] Upload von "uploads/concept/produktblätter marfos PRINT.pdf" erfolgreich abgeschlossen
+[2013-10-21 03:05:19] Zugriffsrechte von "uploads/concept/produktblätter marfos PRINT.pdf" geaendert (0755)
+[2013-10-21 03:05:19] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-21 03:05:19] Absender: Otterbach Concept
+[2013-10-21 03:05:19] Empfaenger: c.weissenrieder@otterbach.de
+[2013-10-21 03:05:19] E-Mail erfolgreich versandt
+[2013-10-21 03:09:20] *** Starte Download der angeforderten Datei
+[2013-10-21 03:09:20] Benutzer "concept" gefunden
+[2013-10-21 03:09:20] Datei "produktblätter marfos PRINT.pdf" gefunden
+[2013-10-21 03:09:20] Download von "produktblätter marfos PRINT.pdf"
+[2013-10-21 03:09:42] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 03:09:42] Benutzer: concept
+[2013-10-21 03:09:42] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 03:09:42] Datei: produktblätter marfos PRINT.pdf
+[2013-10-21 03:09:42] E-Mail wurde versandt
+[2013-10-21 03:28:58] *** Starte Download der angeforderten Datei
+[2013-10-21 03:28:58] Benutzer "c-eberle" gefunden
+[2013-10-21 03:28:58] Datei "Max_Troglage_43cm.zip" gefunden
+[2013-10-21 03:28:58] Download von "Max_Troglage_43cm.zip"
+[2013-10-21 03:29:03] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 03:29:03] Benutzer: c-eberle
+[2013-10-21 03:29:03] E-Mail: c.eberle@otterbach.de
+[2013-10-21 03:29:03] Datei: Max_Troglage_43cm.zip
+[2013-10-21 03:29:03] E-Mail wurde versandt
+[2013-10-21 03:33:12] *** Starte Download der angeforderten Datei
+[2013-10-21 03:33:12] Benutzer "c-eberle" gefunden
+[2013-10-21 03:33:12] Datei "Max_Knotenhochzeit_43cm.zip" gefunden
+[2013-10-21 03:33:12] Download von "Max_Knotenhochzeit_43cm.zip"
+[2013-10-21 03:33:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 03:33:16] Benutzer: c-eberle
+[2013-10-21 03:33:16] E-Mail: c.eberle@otterbach.de
+[2013-10-21 03:33:16] Datei: Max_Knotenhochzeit_43cm.zip
+[2013-10-21 03:33:16] E-Mail wurde versandt
+[2013-10-21 03:46:14] *** Starte Download der angeforderten Datei
+[2013-10-21 03:46:14] Benutzer "c-eberle" gefunden
+[2013-10-21 03:46:14] Datei "Max_Tuersteher_43cm.zip" gefunden
+[2013-10-21 03:46:14] Download von "Max_Tuersteher_43cm.zip"
+[2013-10-21 03:46:19] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 03:46:19] Benutzer: c-eberle
+[2013-10-21 03:46:19] E-Mail: c.eberle@otterbach.de
+[2013-10-21 03:46:19] Datei: Max_Tuersteher_43cm.zip
+[2013-10-21 03:46:19] E-Mail wurde versandt
+[2013-10-21 03:47:54] *** Starte Download der angeforderten Datei
+[2013-10-21 03:47:54] Benutzer "c-eberle" gefunden
+[2013-10-21 03:47:54] Datei "Max_Sperr-Sprinter_43cm.zip" gefunden
+[2013-10-21 03:47:54] Download von "Max_Sperr-Sprinter_43cm.zip"
+[2013-10-21 03:47:58] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 03:47:58] Benutzer: c-eberle
+[2013-10-21 03:47:58] E-Mail: c.eberle@otterbach.de
+[2013-10-21 03:47:58] Datei: Max_Sperr-Sprinter_43cm.zip
+[2013-10-21 03:47:58] E-Mail wurde versandt
+[2013-10-21 03:48:40] *** Starte Download der angeforderten Datei
+[2013-10-21 03:48:40] Benutzer "concept" gefunden
+[2013-10-21 03:48:40] Datei "produktblätter marfos PRINT.pdf" gefunden
+[2013-10-21 03:48:40] Download von "produktblätter marfos PRINT.pdf"
+[2013-10-21 03:48:40] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 03:48:40] Benutzer: concept
+[2013-10-21 03:48:40] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 03:48:40] Datei: produktblätter marfos PRINT.pdf
+[2013-10-21 03:48:40] E-Mail wurde versandt
+[2013-10-21 03:59:15] *** Starte Upload der Datei ***
+[2013-10-21 03:59:15] Datei: uploads/concept/RIMOWA-Praesi_Gesamt.pdf
+[2013-10-21 03:59:15] Groesse: 29028218 Bytes
+[2013-10-21 03:59:15] Upload von "uploads/concept/RIMOWA-Praesi_Gesamt.pdf" erfolgreich abgeschlossen
+[2013-10-21 03:59:15] Zugriffsrechte von "uploads/concept/RIMOWA-Praesi_Gesamt.pdf" geaendert (0755)
+[2013-10-21 03:59:15] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-21 03:59:15] Absender: Otterbach Concept
+[2013-10-21 03:59:15] Empfaenger: c.weissenrieder@otterbach.de
+[2013-10-21 03:59:15] E-Mail erfolgreich versandt
+[2013-10-21 04:07:08] *** Starte Download der angeforderten Datei
+[2013-10-21 04:07:08] Benutzer "concept" gefunden
+[2013-10-21 04:07:08] Datei "RIMOWA-Praesi_Gesamt.pdf" gefunden
+[2013-10-21 04:07:08] Download von "RIMOWA-Praesi_Gesamt.pdf"
+[2013-10-21 04:07:09] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 04:07:09] Benutzer: concept
+[2013-10-21 04:07:09] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 04:07:09] Datei: RIMOWA-Praesi_Gesamt.pdf
+[2013-10-21 04:07:09] E-Mail wurde versandt
+[2013-10-21 04:19:46] *** Starte Download der angeforderten Datei
+[2013-10-21 04:19:46] Benutzer "concept" gefunden
+[2013-10-21 04:19:46] Datei "produktblätter marfos PRINT.pdf" gefunden
+[2013-10-21 04:19:46] Download von "produktblätter marfos PRINT.pdf"
+[2013-10-21 04:19:49] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 04:19:49] Benutzer: concept
+[2013-10-21 04:19:49] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 04:19:49] Datei: produktblätter marfos PRINT.pdf
+[2013-10-21 04:19:49] E-Mail wurde versandt
+[2013-10-21 04:32:21] *** Starte Download der angeforderten Datei
+[2013-10-21 04:32:21] Benutzer "a-curreri" gefunden
+[2013-10-21 04:32:21] Datei "AR8_10203_Plakat.zip" gefunden
+[2013-10-21 04:32:21] Download von "AR8_10203_Plakat.zip"
+[2013-10-21 04:33:29] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 04:33:29] Benutzer: a-curreri
+[2013-10-21 04:33:29] E-Mail: a.curreri@otterbach.de
+[2013-10-21 04:33:29] Datei: AR8_10203_Plakat.zip
+[2013-10-21 04:33:29] E-Mail wurde versandt
+[2013-10-21 05:03:13] *** Starte Download der angeforderten Datei
+[2013-10-21 05:03:13] Benutzer "concept" gefunden
+[2013-10-21 05:03:13] Datei "GEBO_GreetingCard_Presentation.pdf" gefunden
+[2013-10-21 05:03:13] Download von "GEBO_GreetingCard_Presentation.pdf"
+[2013-10-21 05:03:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-21 05:03:17] Benutzer: concept
+[2013-10-21 05:03:17] E-Mail: jetzt@gas-gebbe.de
+[2013-10-21 05:03:17] Datei: GEBO_GreetingCard_Presentation.pdf
+[2013-10-21 05:03:17] E-Mail wurde versandt
+[2013-10-22 09:39:34] *** Starte Download der angeforderten Datei
+[2013-10-22 09:39:34] Benutzer "concept" gefunden
+[2013-10-22 09:39:34] Datei "RIMOWA-Praesi_Gesamt.pdf" gefunden
+[2013-10-22 09:39:34] Download von "RIMOWA-Praesi_Gesamt.pdf"
+[2013-10-22 09:50:44] *** Starte Download der angeforderten Datei
+[2013-10-22 09:50:44] Benutzer "concept" gefunden
+[2013-10-22 09:50:44] Datei "RIMOWA-Praesi_Gesamt.pdf" gefunden
+[2013-10-22 09:50:44] Download von "RIMOWA-Praesi_Gesamt.pdf"
+[2013-10-22 09:51:15] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 09:51:15] Benutzer: concept
+[2013-10-22 09:51:15] E-Mail: jetzt@gas-gebbe.de
+[2013-10-22 09:51:15] Datei: RIMOWA-Praesi_Gesamt.pdf
+[2013-10-22 09:51:16] E-Mail wurde versandt
+[2013-10-22 09:56:33] *** Starte Upload der Datei ***
+[2013-10-22 09:56:33] Datei: uploads/sbr/Archiv.zip
+[2013-10-22 09:56:33] Groesse: 34829326 Bytes
+[2013-10-22 09:56:33] Upload von "uploads/sbr/Archiv.zip" erfolgreich abgeschlossen
+[2013-10-22 09:56:33] Zugriffsrechte von "uploads/sbr/Archiv.zip" geaendert (0755)
+[2013-10-22 09:56:33] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-22 09:56:33] Absender: Sabine Benz-Reichel
+[2013-10-22 09:56:33] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-22 09:56:33] E-Mail erfolgreich versandt
+[2013-10-22 10:00:44] *** Starte Download der angeforderten Datei
+[2013-10-22 10:00:44] Benutzer "sbr" gefunden
+[2013-10-22 10:00:44] Datei "Archiv.zip" gefunden
+[2013-10-22 10:00:44] Download von "Archiv.zip"
+[2013-10-22 10:00:47] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 10:00:47] Benutzer: sbr
+[2013-10-22 10:00:47] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-22 10:00:47] Datei: Archiv.zip
+[2013-10-22 10:00:47] E-Mail wurde versandt
+[2013-10-22 11:11:53] *** Starte Download der angeforderten Datei
+[2013-10-22 11:11:53] Benutzer "t-uebelacker" gefunden
+[2013-10-22 11:11:53] Datei "20131010-layouts-relaunch.zip" gefunden
+[2013-10-22 11:11:53] Download von "20131010-layouts-relaunch.zip"
+[2013-10-22 11:12:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 11:12:02] Benutzer: t-uebelacker
+[2013-10-22 11:12:02] E-Mail: t.uebelacker@otterbach.de
+[2013-10-22 11:12:02] Datei: 20131010-layouts-relaunch.zip
+[2013-10-22 11:12:02] E-Mail wurde versandt
+[2013-10-22 11:12:35] *** Starte Loeschen der angeforderten Datei
+[2013-10-22 11:12:35] Ermittle Benutzer und Datei
+[2013-10-22 11:12:35] Benutzer "t-uebelacker" gefunden
+[2013-10-22 11:12:35] Datei "20131010-layouts-relaunch.zip" gefunden
+[2013-10-22 11:12:35] Die Datei "20131010-layouts-relaunch.zip" wurde erfolgreich geloescht
+[2013-10-22 12:51:12] *** Starte Download der angeforderten Datei
+[2013-10-22 12:51:12] Benutzer "concept" gefunden
+[2013-10-22 12:51:12] Datei "produktblätter marfos PRINT.pdf" gefunden
+[2013-10-22 12:51:12] Download von "produktblätter marfos PRINT.pdf"
+[2013-10-22 12:51:15] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 12:51:15] Benutzer: concept
+[2013-10-22 12:51:15] E-Mail: jetzt@gas-gebbe.de
+[2013-10-22 12:51:15] Datei: produktblätter marfos PRINT.pdf
+[2013-10-22 12:51:15] E-Mail wurde versandt
+[2013-10-22 01:01:37] *** Starte Download der angeforderten Datei
+[2013-10-22 01:01:37] Benutzer "concept" gefunden
+[2013-10-22 01:01:37] Datei "produktblätter marfos PRINT.pdf" gefunden
+[2013-10-22 01:01:37] Download von "produktblätter marfos PRINT.pdf"
+[2013-10-22 01:01:40] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 01:01:40] Benutzer: concept
+[2013-10-22 01:01:40] E-Mail: jetzt@gas-gebbe.de
+[2013-10-22 01:01:40] Datei: produktblätter marfos PRINT.pdf
+[2013-10-22 01:01:40] E-Mail wurde versandt
+[2013-10-22 01:29:55] *** Starte Download der angeforderten Datei
+[2013-10-22 01:29:55] Benutzer "concept" gefunden
+[2013-10-22 01:29:55] Datei "produktblätter marfos PRINT.pdf" gefunden
+[2013-10-22 01:29:55] Download von "produktblätter marfos PRINT.pdf"
+[2013-10-22 01:30:01] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 01:30:01] Benutzer: concept
+[2013-10-22 01:30:01] E-Mail: jetzt@gas-gebbe.de
+[2013-10-22 01:30:01] Datei: produktblätter marfos PRINT.pdf
+[2013-10-22 01:30:01] E-Mail wurde versandt
+[2013-10-22 01:31:48] *** Starte Download der angeforderten Datei
+[2013-10-22 01:31:48] Benutzer "concept" gefunden
+[2013-10-22 01:31:48] Datei "produktblätter marfos PRINT.pdf" gefunden
+[2013-10-22 01:31:48] Download von "produktblätter marfos PRINT.pdf"
+[2013-10-22 01:31:52] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 01:31:52] Benutzer: concept
+[2013-10-22 01:31:52] E-Mail: jetzt@gas-gebbe.de
+[2013-10-22 01:31:52] Datei: produktblätter marfos PRINT.pdf
+[2013-10-22 01:31:52] E-Mail wurde versandt
+[2013-10-22 02:50:06] *** Starte Upload der Datei ***
+[2013-10-22 02:50:06] Datei: uploads/a-siegesmund/AV11A.zip
+[2013-10-22 02:50:06] Groesse: 73311572 Bytes
+[2013-10-22 02:50:06] Upload von "uploads/a-siegesmund/AV11A.zip" erfolgreich abgeschlossen
+[2013-10-22 02:50:06] Zugriffsrechte von "uploads/a-siegesmund/AV11A.zip" geaendert (0755)
+[2013-10-22 02:50:06] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-22 02:50:06] Absender: Alfred Siegesmund
+[2013-10-22 02:50:06] Empfaenger: Jens.Koehler@otto.de, d.bischoff@otterbach.de
+[2013-10-22 02:50:07] E-Mail erfolgreich versandt
+[2013-10-22 02:51:41] *** Starte Download der angeforderten Datei
+[2013-10-22 02:51:41] Benutzer "a-siegesmund" gefunden
+[2013-10-22 02:51:41] Datei "AV11A.zip" gefunden
+[2013-10-22 02:51:41] Download von "AV11A.zip"
+[2013-10-22 02:51:54] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 02:51:54] Benutzer: a-siegesmund
+[2013-10-22 02:51:54] E-Mail: a.siegesmund@otterbach.de
+[2013-10-22 02:51:54] Datei: AV11A.zip
+[2013-10-22 02:51:54] E-Mail wurde versandt
+[2013-10-22 02:53:29] *** Starte Download der angeforderten Datei
+[2013-10-22 02:53:29] Benutzer "bitburger" gefunden
+[2013-10-22 02:53:29] Datei "Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf" gefunden
+[2013-10-22 02:53:29] Download von "Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf"
+[2013-10-22 02:53:54] *** Starte Download der angeforderten Datei
+[2013-10-22 02:53:54] Benutzer "bitburger" gefunden
+[2013-10-22 02:53:54] Datei "Bitb_Fassbrause_Geschmack_A1-Plakat_594x841_PDFx3.pdf" gefunden
+[2013-10-22 02:53:54] Download von "Bitb_Fassbrause_Geschmack_A1-Plakat_594x841_PDFx3.pdf"
+[2013-10-22 02:54:24] *** Starte Download der angeforderten Datei
+[2013-10-22 02:54:24] Benutzer "bitburger" gefunden
+[2013-10-22 02:54:24] Datei "Bitb_Maedels_Plakat_A1_841x594_PDFx3.pdf" gefunden
+[2013-10-22 02:54:24] Download von "Bitb_Maedels_Plakat_A1_841x594_PDFx3.pdf"
+[2013-10-22 02:55:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 02:55:21] Benutzer: bitburger
+[2013-10-22 02:55:21] E-Mail: bitburger@otterbach.de
+[2013-10-22 02:55:21] Datei: Bitb_00_Surfbrett_A1-Plakat_594x841_PDFx3.pdf
+[2013-10-22 02:55:21] E-Mail wurde versandt
+[2013-10-22 02:55:33] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 02:55:33] Benutzer: bitburger
+[2013-10-22 02:55:33] E-Mail: bitburger@otterbach.de
+[2013-10-22 02:55:33] Datei: Bitb_Maedels_Plakat_A1_841x594_PDFx3.pdf
+[2013-10-22 02:55:33] E-Mail wurde versandt
+[2013-10-22 02:55:48] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 02:55:48] Benutzer: bitburger
+[2013-10-22 02:55:48] E-Mail: bitburger@otterbach.de
+[2013-10-22 02:55:48] Datei: Bitb_Fassbrause_Geschmack_A1-Plakat_594x841_PDFx3.pdf
+[2013-10-22 02:55:48] E-Mail wurde versandt
+[2013-10-22 02:58:17] *** Starte Download der angeforderten Datei
+[2013-10-22 02:58:17] Benutzer "concept" gefunden
+[2013-10-22 02:58:18] Datei "RIMOWA-Praesi_V3.pdf" gefunden
+[2013-10-22 02:58:18] Download von "RIMOWA-Praesi_V3.pdf"
+[2013-10-22 02:58:18] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 02:58:18] Benutzer: concept
+[2013-10-22 02:58:18] E-Mail: jetzt@gas-gebbe.de
+[2013-10-22 02:58:18] Datei: RIMOWA-Praesi_V3.pdf
+[2013-10-22 02:58:18] E-Mail wurde versandt
+[2013-10-22 06:00:55] *** Starte Download der angeforderten Datei
+[2013-10-22 06:00:55] Benutzer "l.schoenherr" gefunden
+[2013-10-22 06:00:55] Datei "Portrait.zip" gefunden
+[2013-10-22 06:00:55] Download von "Portrait.zip"
+[2013-10-22 06:01:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-22 06:01:35] Benutzer: l.schoenherr
+[2013-10-22 06:01:35] E-Mail: l.schoenherr@otterbach.de
+[2013-10-22 06:01:35] Datei: Portrait.zip
+[2013-10-22 06:01:35] E-Mail wurde versandt
+[2013-10-23 08:10:48] *** Starte Loeschen der angeforderten Datei
+[2013-10-23 08:10:48] Ermittle Benutzer und Datei
+[2013-10-23 08:10:48] Benutzer "l.schoenherr" gefunden
+[2013-10-23 08:10:48] Datei "Portrait.zip" gefunden
+[2013-10-23 08:10:48] Die Datei "Portrait.zip" wurde erfolgreich geloescht
+[2013-10-23 09:21:43] *** Starte Upload der Datei ***
+[2013-10-23 09:21:43] Datei: uploads/k-wais/Como_18-21.10.13.zip
+[2013-10-23 09:21:43] Groesse: 241391053 Bytes
+[2013-10-23 09:21:43] Upload von "uploads/k-wais/Como_18-21.10.13.zip" erfolgreich abgeschlossen
+[2013-10-23 09:21:43] Zugriffsrechte von "uploads/k-wais/Como_18-21.10.13.zip" geaendert (0755)
+[2013-10-23 09:21:43] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-23 09:21:43] Absender: Karin Wais
+[2013-10-23 09:21:43] Empfaenger: k.wais@otterbach.de
+[2013-10-23 09:21:44] E-Mail erfolgreich versandt
+[2013-10-23 09:24:03] *** Starte Download der angeforderten Datei
+[2013-10-23 09:24:03] Benutzer "k-wais" gefunden
+[2013-10-23 09:24:03] Datei "Como_18-21.10.13.zip" gefunden
+[2013-10-23 09:24:03] Download von "Como_18-21.10.13.zip"
+[2013-10-23 09:24:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-23 09:24:55] Benutzer: k-wais
+[2013-10-23 09:24:55] E-Mail: k.wais@otterbach.de
+[2013-10-23 09:24:55] Datei: Como_18-21.10.13.zip
+[2013-10-23 09:24:55] E-Mail wurde versandt
+[2013-10-23 09:31:52] *** Starte Download der angeforderten Datei
+[2013-10-23 09:31:52] Benutzer "k-wais" gefunden
+[2013-10-23 09:31:52] Datei "Como_18-21.10.13.zip" gefunden
+[2013-10-23 09:31:52] Download von "Como_18-21.10.13.zip"
+[2013-10-23 09:32:00] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-23 09:32:00] Benutzer: k-wais
+[2013-10-23 09:32:00] E-Mail: k.wais@otterbach.de
+[2013-10-23 09:32:00] Datei: Como_18-21.10.13.zip
+[2013-10-23 09:32:00] E-Mail wurde versandt
+[2013-10-23 09:33:49] *** Starte Download der angeforderten Datei
+[2013-10-23 09:33:49] Benutzer "k-wais" gefunden
+[2013-10-23 09:33:49] Datei "Como_18-21.10.13.zip" gefunden
+[2013-10-23 09:33:49] Download von "Como_18-21.10.13.zip"
+[2013-10-23 09:34:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-23 09:34:50] Benutzer: k-wais
+[2013-10-23 09:34:50] E-Mail: k.wais@otterbach.de
+[2013-10-23 09:34:50] Datei: Como_18-21.10.13.zip
+[2013-10-23 09:34:50] E-Mail wurde versandt
+[2013-10-23 12:06:35] *** Starte Upload der Datei ***
+[2013-10-23 12:06:35] Datei: uploads/k-wais/36-37_GH6_Neue Produkte_AGB_BC.indd.zip
+[2013-10-23 12:06:35] Groesse: 1304156 Bytes
+[2013-10-23 12:06:35] Upload von "uploads/k-wais/36-37_GH6_Neue Produkte_AGB_BC.indd.zip" erfolgreich abgeschlossen
+[2013-10-23 12:06:35] Zugriffsrechte von "uploads/k-wais/36-37_GH6_Neue Produkte_AGB_BC.indd.zip" geaendert (0755)
+[2013-10-23 12:06:35] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-23 12:06:35] Absender: Karin Wais
+[2013-10-23 12:06:35] Empfaenger: k.wais@otterbach.de
+[2013-10-23 12:06:35] E-Mail erfolgreich versandt
+[2013-10-23 12:11:31] *** Starte Download der angeforderten Datei
+[2013-10-23 12:11:31] Benutzer "k-wais" gefunden
+[2013-10-23 12:11:31] Datei "36-37_GH6_Neue Produkte_AGB_BC.indd.zip" gefunden
+[2013-10-23 12:11:31] Download von "36-37_GH6_Neue Produkte_AGB_BC.indd.zip"
+[2013-10-23 12:11:31] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-23 12:11:31] Benutzer: k-wais
+[2013-10-23 12:11:31] E-Mail: k.wais@otterbach.de
+[2013-10-23 12:11:31] Datei: 36-37_GH6_Neue Produkte_AGB_BC.indd.zip
+[2013-10-23 12:11:32] E-Mail wurde versandt
+[2013-10-23 12:12:21] *** Starte Upload der Datei ***
+[2013-10-23 12:12:21] Datei: uploads/k-wais/36-37_GH6_Neue Produkte_AGB_BC Ordner.zip
+[2013-10-23 12:12:21] Groesse: 16950090 Bytes
+[2013-10-23 12:12:21] Upload von "uploads/k-wais/36-37_GH6_Neue Produkte_AGB_BC Ordner.zip" erfolgreich abgeschlossen
+[2013-10-23 12:12:21] Zugriffsrechte von "uploads/k-wais/36-37_GH6_Neue Produkte_AGB_BC Ordner.zip" geaendert (0755)
+[2013-10-23 12:12:21] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-23 12:12:21] Absender: Karin Wais
+[2013-10-23 12:12:21] Empfaenger: k.wais@otterbach.de
+[2013-10-23 12:12:21] E-Mail erfolgreich versandt
+[2013-10-23 01:07:08] *** Starte Download der angeforderten Datei
+[2013-10-23 01:07:08] Benutzer "k-wais" gefunden
+[2013-10-23 01:07:08] Datei "36-37_GH6_Neue Produkte_AGB_BC Ordner.zip" gefunden
+[2013-10-23 01:07:08] Download von "36-37_GH6_Neue Produkte_AGB_BC Ordner.zip"
+[2013-10-23 01:07:13] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-23 01:07:13] Benutzer: k-wais
+[2013-10-23 01:07:13] E-Mail: k.wais@otterbach.de
+[2013-10-23 01:07:13] Datei: 36-37_GH6_Neue Produkte_AGB_BC Ordner.zip
+[2013-10-23 01:07:13] E-Mail wurde versandt
+[2013-10-23 02:14:45] *** Starte Download der angeforderten Datei
+[2013-10-23 02:14:45] Benutzer "concept" gefunden
+[2013-10-23 02:14:45] Datei "GEBO_GreetingCard_Presentation.pdf" gefunden
+[2013-10-23 02:14:45] Download von "GEBO_GreetingCard_Presentation.pdf"
+[2013-10-23 02:14:45] *** Starte Download der angeforderten Datei
+[2013-10-23 02:14:45] Benutzer "concept" gefunden
+[2013-10-23 02:14:45] Datei "GEBO_GreetingCard_Presentation.pdf" gefunden
+[2013-10-23 02:14:45] Download von "GEBO_GreetingCard_Presentation.pdf"
+[2013-10-23 02:14:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-23 02:14:55] Benutzer: concept
+[2013-10-23 02:14:55] E-Mail: jetzt@gas-gebbe.de
+[2013-10-23 02:14:55] Datei: GEBO_GreetingCard_Presentation.pdf
+[2013-10-23 02:14:55] E-Mail wurde versandt
+[2013-10-24 10:16:25] *** Starte Download der angeforderten Datei
+[2013-10-24 10:16:25] Benutzer "bitburger" gefunden
+[2013-10-24 10:16:25] Datei "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf" gefunden
+[2013-10-24 10:16:25] Download von "KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf"
+[2013-10-24 10:16:31] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-24 10:16:31] Benutzer: bitburger
+[2013-10-24 10:16:31] E-Mail: bitburger@otterbach.de
+[2013-10-24 10:16:31] Datei: KP_Anzeige_Weihnachten_210x297_PDFx3_isoV2_300.pdf
+[2013-10-24 10:16:31] E-Mail wurde versandt
+[2013-10-24 10:30:42] *** Starte Upload der Datei ***
+[2013-10-24 10:30:42] Datei: uploads/bitburger/Brauerei_Papier_red.psd.zip
+[2013-10-24 10:30:42] Groesse: 216692306 Bytes
+[2013-10-24 10:30:43] Upload von "uploads/bitburger/Brauerei_Papier_red.psd.zip" erfolgreich abgeschlossen
+[2013-10-24 10:30:43] Zugriffsrechte von "uploads/bitburger/Brauerei_Papier_red.psd.zip" geaendert (0755)
+[2013-10-24 10:30:43] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-24 10:30:43] Absender: Otterbach Team
+[2013-10-24 10:30:43] Empfaenger: c.eberle@otterbach.de
+[2013-10-24 10:30:44] E-Mail erfolgreich versandt
+[2013-10-24 10:47:51] *** Starte Download der angeforderten Datei
+[2013-10-24 10:47:51] Benutzer "bitburger" gefunden
+[2013-10-24 10:47:51] Datei "Brauerei_Papier_red.psd.zip" gefunden
+[2013-10-24 10:47:51] Download von "Brauerei_Papier_red.psd.zip"
+[2013-10-24 10:57:04] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-24 10:57:04] Benutzer: bitburger
+[2013-10-24 10:57:04] E-Mail: bitburger@otterbach.de
+[2013-10-24 10:57:04] Datei: Brauerei_Papier_red.psd.zip
+[2013-10-24 10:57:04] E-Mail wurde versandt
+[2013-10-24 11:49:00] *** Starte Download der angeforderten Datei
+[2013-10-24 11:49:00] Benutzer "a-curreri" gefunden
+[2013-10-24 11:49:00] Datei "AR8_10203_Plakat.zip" gefunden
+[2013-10-24 11:49:00] Download von "AR8_10203_Plakat.zip"
+[2013-10-24 11:50:33] *** Starte Download der angeforderten Datei
+[2013-10-24 11:50:33] Benutzer "a-curreri" gefunden
+[2013-10-24 11:50:33] Datei "AR8_10203_Plakat.zip" gefunden
+[2013-10-24 11:50:33] Download von "AR8_10203_Plakat.zip"
+[2013-10-24 11:50:35] *** Starte Download der angeforderten Datei
+[2013-10-24 11:50:35] Benutzer "a-curreri" gefunden
+[2013-10-24 11:50:35] Datei "AR8_10203_Plakat.zip" gefunden
+[2013-10-24 11:50:35] Download von "AR8_10203_Plakat.zip"
+[2013-10-24 11:50:56] *** Starte Download der angeforderten Datei
+[2013-10-24 11:50:56] Benutzer "a-curreri" gefunden
+[2013-10-24 11:50:56] Datei "AR8_10203_Plakat.zip" gefunden
+[2013-10-24 11:50:56] Download von "AR8_10203_Plakat.zip"
+[2013-10-24 11:50:57] *** Starte Download der angeforderten Datei
+[2013-10-24 11:50:57] Benutzer "a-curreri" gefunden
+[2013-10-24 11:50:57] Datei "AR8_10203_Plakat.zip" gefunden
+[2013-10-24 11:50:57] Download von "AR8_10203_Plakat.zip"
+[2013-10-24 11:52:18] *** Starte Download der angeforderten Datei
+[2013-10-24 11:52:18] Benutzer "a-curreri" gefunden
+[2013-10-24 11:52:18] Datei "Keyvisual_Ipanema_CMYK_160x140.tif.zip" gefunden
+[2013-10-24 11:52:18] Download von "Keyvisual_Ipanema_CMYK_160x140.tif.zip"
+[2013-10-24 11:52:25] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-24 11:52:25] Benutzer: a-curreri
+[2013-10-24 11:52:25] E-Mail: a.curreri@otterbach.de
+[2013-10-24 11:52:25] Datei: Keyvisual_Ipanema_CMYK_160x140.tif.zip
+[2013-10-24 11:52:25] E-Mail wurde versandt
+[2013-10-24 11:52:29] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-24 11:52:29] Benutzer: a-curreri
+[2013-10-24 11:52:29] E-Mail: a.curreri@otterbach.de
+[2013-10-24 11:52:29] Datei: AR8_10203_Plakat.zip
+[2013-10-24 11:52:29] E-Mail wurde versandt
+[2013-10-24 02:09:13] *** Starte Upload der Datei ***
+[2013-10-24 02:09:13] Datei: uploads/l.schoenherr/1304_Audi_IDP_Umschlag.zip
+[2013-10-24 02:09:13] Groesse: 136011611 Bytes
+[2013-10-24 02:09:13] Upload von "uploads/l.schoenherr/1304_Audi_IDP_Umschlag.zip" erfolgreich abgeschlossen
+[2013-10-24 02:09:13] Zugriffsrechte von "uploads/l.schoenherr/1304_Audi_IDP_Umschlag.zip" geaendert (0755)
+[2013-10-24 02:09:13] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-24 02:09:13] Absender: Lisa SchÃ¶nherr
+[2013-10-24 02:09:13] Empfaenger: l.schoenherr@otterbach.de
+[2013-10-24 02:09:15] E-Mail erfolgreich versandt
+[2013-10-24 02:10:15] *** Starte Download der angeforderten Datei
+[2013-10-24 02:10:15] Benutzer "l.schoenherr" gefunden
+[2013-10-24 02:10:15] Datei "1304_Audi_IDP_Umschlag.zip" gefunden
+[2013-10-24 02:10:15] Download von "1304_Audi_IDP_Umschlag.zip"
+[2013-10-24 02:10:21] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-24 02:10:21] Benutzer: l.schoenherr
+[2013-10-24 02:10:21] E-Mail: l.schoenherr@otterbach.de
+[2013-10-24 02:10:21] Datei: 1304_Audi_IDP_Umschlag.zip
+[2013-10-24 02:10:21] E-Mail wurde versandt
+[2013-10-24 05:49:57] *** Starte Upload der Datei ***
+[2013-10-24 05:49:57] Datei: uploads/l.schoenherr/1304_Audi_IDP_Umschlag_Druckdaten.zip
+[2013-10-24 05:49:57] Groesse: 132461618 Bytes
+[2013-10-24 05:49:57] Upload von "uploads/l.schoenherr/1304_Audi_IDP_Umschlag_Druckdaten.zip" erfolgreich abgeschlossen
+[2013-10-24 05:49:57] Zugriffsrechte von "uploads/l.schoenherr/1304_Audi_IDP_Umschlag_Druckdaten.zip" geaendert (0755)
+[2013-10-24 05:49:57] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-24 05:49:57] Absender: Lisa SchÃ¶nherr
+[2013-10-24 05:49:57] Empfaenger: l.schoenherr@otterbach.de
+[2013-10-24 05:49:58] E-Mail erfolgreich versandt
+[2013-10-24 05:57:33] *** Starte Download der angeforderten Datei
+[2013-10-24 05:57:33] Benutzer "l.schoenherr" gefunden
+[2013-10-24 05:57:33] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-24 05:57:33] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-24 05:57:40] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-24 05:57:40] Benutzer: l.schoenherr
+[2013-10-24 05:57:40] E-Mail: l.schoenherr@otterbach.de
+[2013-10-24 05:57:40] Datei: 1304_Audi_IDP_Umschlag_Druckdaten.zip
+[2013-10-24 05:57:40] E-Mail wurde versandt
+[2013-10-24 05:59:53] *** Starte Download der angeforderten Datei
+[2013-10-24 05:59:53] Benutzer "l.schoenherr" gefunden
+[2013-10-24 05:59:53] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-24 05:59:53] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-24 06:00:53] *** Starte Download der angeforderten Datei
+[2013-10-24 06:00:53] Benutzer "l.schoenherr" gefunden
+[2013-10-24 06:00:53] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-24 06:00:53] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-24 06:00:57] *** Starte Download der angeforderten Datei
+[2013-10-24 06:00:57] Benutzer "l.schoenherr" gefunden
+[2013-10-24 06:00:57] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-24 06:00:57] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-24 06:01:17] *** Starte Download der angeforderten Datei
+[2013-10-24 06:01:17] Benutzer "l.schoenherr" gefunden
+[2013-10-24 06:01:17] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-24 06:01:17] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-24 06:01:25] *** Starte Download der angeforderten Datei
+[2013-10-24 06:01:25] Benutzer "l.schoenherr" gefunden
+[2013-10-24 06:01:25] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-24 06:01:25] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-24 06:01:28] *** Starte Download der angeforderten Datei
+[2013-10-24 06:01:28] Benutzer "l.schoenherr" gefunden
+[2013-10-24 06:01:28] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-24 06:01:28] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-24 06:02:05] *** Starte Download der angeforderten Datei
+[2013-10-24 06:02:05] Benutzer "l.schoenherr" gefunden
+[2013-10-24 06:02:05] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-24 06:02:05] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-25 09:19:50] *** Starte Download der angeforderten Datei
+[2013-10-25 09:19:50] Benutzer "l.schoenherr" gefunden
+[2013-10-25 09:19:50] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-25 09:19:50] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-25 09:31:29] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-25 09:31:29] Benutzer: l.schoenherr
+[2013-10-25 09:31:29] E-Mail: l.schoenherr@otterbach.de
+[2013-10-25 09:31:29] Datei: 1304_Audi_IDP_Umschlag_Druckdaten.zip
+[2013-10-25 09:31:29] E-Mail wurde versandt
+[2013-10-25 10:03:22] *** Starte Download der angeforderten Datei
+[2013-10-25 10:03:22] Benutzer "l.schoenherr" gefunden
+[2013-10-25 10:03:22] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-25 10:03:22] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-25 10:03:36] *** Starte Download der angeforderten Datei
+[2013-10-25 10:03:36] Benutzer "l.schoenherr" gefunden
+[2013-10-25 10:03:36] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-25 10:03:36] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-25 10:50:40] *** Starte Upload der Datei ***
+[2013-10-25 10:50:40] Datei: uploads/sbr/Presentation_App_A8.zip
+[2013-10-25 10:50:40] Groesse: 35502556 Bytes
+[2013-10-25 10:50:40] Upload von "uploads/sbr/Presentation_App_A8.zip" erfolgreich abgeschlossen
+[2013-10-25 10:50:40] Zugriffsrechte von "uploads/sbr/Presentation_App_A8.zip" geaendert (0755)
+[2013-10-25 10:50:40] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-25 10:50:40] Absender: Sabine Benz-Reichel
+[2013-10-25 10:50:40] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-25 10:50:41] E-Mail erfolgreich versandt
+[2013-10-25 11:09:51] *** Starte Upload der Datei ***
+[2013-10-25 11:09:51] Datei: uploads/sbr/Presentation_App_A8.zip
+[2013-10-25 11:09:51] Groesse: 37016048 Bytes
+[2013-10-25 11:09:51] Upload von "uploads/sbr/Presentation_App_A8.zip" erfolgreich abgeschlossen
+[2013-10-25 11:09:51] Zugriffsrechte von "uploads/sbr/Presentation_App_A8.zip" geaendert (0755)
+[2013-10-25 11:09:51] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-25 11:09:51] Absender: Sabine Benz-Reichel
+[2013-10-25 11:09:51] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-25 11:09:52] E-Mail erfolgreich versandt
+[2013-10-25 11:17:11] *** Starte Download der angeforderten Datei
+[2013-10-25 11:17:11] Benutzer "sbr" gefunden
+[2013-10-25 11:17:11] Datei "Presentation_App_A8.zip" gefunden
+[2013-10-25 11:17:11] Download von "Presentation_App_A8.zip"
+[2013-10-25 11:17:55] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-25 11:17:55] Benutzer: sbr
+[2013-10-25 11:17:55] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-25 11:17:55] Datei: Presentation_App_A8.zip
+[2013-10-25 11:17:55] E-Mail wurde versandt
+[2013-10-25 12:38:56] *** Starte Download der angeforderten Datei
+[2013-10-25 12:38:56] Benutzer "sbr" gefunden
+[2013-10-25 12:38:56] Datei "Presentation_App_A8.zip" gefunden
+[2013-10-25 12:38:56] Download von "Presentation_App_A8.zip"
+[2013-10-25 12:41:10] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-25 12:41:10] Benutzer: sbr
+[2013-10-25 12:41:10] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-25 12:41:10] Datei: Presentation_App_A8.zip
+[2013-10-25 12:41:10] E-Mail wurde versandt
+[2013-10-25 02:57:47] *** Starte Upload der Datei ***
+[2013-10-25 02:57:47] Datei: uploads/sbr/Sales.zip
+[2013-10-25 02:57:47] Groesse: 25044847 Bytes
+[2013-10-25 02:57:47] Upload von "uploads/sbr/Sales.zip" erfolgreich abgeschlossen
+[2013-10-25 02:57:47] Zugriffsrechte von "uploads/sbr/Sales.zip" geaendert (0755)
+[2013-10-25 02:57:47] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-25 02:57:47] Absender: Sabine Benz-Reichel
+[2013-10-25 02:57:47] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-25 02:57:47] E-Mail erfolgreich versandt
+[2013-10-25 03:04:36] *** Starte Download der angeforderten Datei
+[2013-10-25 03:04:36] Benutzer "sbr" gefunden
+[2013-10-25 03:04:36] Datei "Sales.zip" gefunden
+[2013-10-25 03:04:36] Download von "Sales.zip"
+[2013-10-25 03:08:20] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-25 03:08:20] Benutzer: sbr
+[2013-10-25 03:08:20] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-25 03:08:20] Datei: Sales.zip
+[2013-10-25 03:08:20] E-Mail wurde versandt
+[2013-10-25 03:17:58] *** Starte Download der angeforderten Datei
+[2013-10-25 03:17:58] Benutzer "sbr" gefunden
+[2013-10-25 03:17:58] Datei "Sales.zip" gefunden
+[2013-10-25 03:17:58] Download von "Sales.zip"
+[2013-10-25 03:19:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-25 03:19:17] Benutzer: sbr
+[2013-10-25 03:19:17] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-25 03:19:17] Datei: Sales.zip
+[2013-10-25 03:19:17] E-Mail wurde versandt
+[2013-10-25 03:26:16] *** Starte Download der angeforderten Datei
+[2013-10-25 03:26:16] Benutzer "sbr" gefunden
+[2013-10-25 03:26:16] Datei "AudiOfAmerica_2013_09_25.zip" gefunden
+[2013-10-25 03:26:16] Download von "AudiOfAmerica_2013_09_25.zip"
+[2013-10-25 03:26:17] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-25 03:26:17] Benutzer: sbr
+[2013-10-25 03:26:17] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-25 03:26:17] Datei: AudiOfAmerica_2013_09_25.zip
+[2013-10-25 03:26:17] E-Mail wurde versandt
+[2013-10-25 04:28:41] *** Starte Upload der Datei ***
+[2013-10-25 04:28:41] Datei: uploads/sbr/AudiOfAmerica_2013_09_25_live.zip
+[2013-10-25 04:28:41] Groesse: 14230015 Bytes
+[2013-10-25 04:28:41] Upload von "uploads/sbr/AudiOfAmerica_2013_09_25_live.zip" erfolgreich abgeschlossen
+[2013-10-25 04:28:41] Zugriffsrechte von "uploads/sbr/AudiOfAmerica_2013_09_25_live.zip" geaendert (0755)
+[2013-10-25 04:28:41] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-25 04:28:41] Absender: Sabine Benz-Reichel
+[2013-10-25 04:28:41] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-25 04:28:41] E-Mail erfolgreich versandt
+[2013-10-25 04:43:57] *** Starte Upload der Datei ***
+[2013-10-25 04:43:57] Datei: uploads/sbr/AudiOfAmerica_2013_09_25_live.zip
+[2013-10-25 04:43:57] Groesse: 16273041 Bytes
+[2013-10-25 04:43:57] Upload von "uploads/sbr/AudiOfAmerica_2013_09_25_live.zip" erfolgreich abgeschlossen
+[2013-10-25 04:43:57] Zugriffsrechte von "uploads/sbr/AudiOfAmerica_2013_09_25_live.zip" geaendert (0755)
+[2013-10-25 04:43:57] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-25 04:43:57] Absender: Sabine Benz-Reichel
+[2013-10-25 04:43:57] Empfaenger: s.benz-reichel@otterbach.de
+[2013-10-25 04:43:57] E-Mail erfolgreich versandt
+[2013-10-25 06:27:17] *** Starte Download der angeforderten Datei
+[2013-10-25 06:27:17] Benutzer "sbr" gefunden
+[2013-10-25 06:27:17] Datei "AudiOfAmerica_2013_09_25_live.zip" gefunden
+[2013-10-25 06:27:17] Download von "AudiOfAmerica_2013_09_25_live.zip"
+[2013-10-25 06:27:31] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-25 06:27:31] Benutzer: sbr
+[2013-10-25 06:27:31] E-Mail: s.benz-reichel@otterbach.de
+[2013-10-25 06:27:31] Datei: AudiOfAmerica_2013_09_25_live.zip
+[2013-10-25 06:27:31] E-Mail wurde versandt
+[2013-10-28 07:49:38] *** Starte Download der angeforderten Datei
+[2013-10-28 07:49:38] Benutzer "bitburger" gefunden
+[2013-10-28 07:49:38] Datei "Bitb_Hoffenheim_StadionmagSonderanzeige_210x280_K1_PDFx3.pdf" gefunden
+[2013-10-28 07:49:38] Download von "Bitb_Hoffenheim_StadionmagSonderanzeige_210x280_K1_PDFx3.pdf"
+[2013-10-28 07:49:42] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-28 07:49:42] Benutzer: bitburger
+[2013-10-28 07:49:42] E-Mail: bitburger@otterbach.de
+[2013-10-28 07:49:42] Datei: Bitb_Hoffenheim_StadionmagSonderanzeige_210x280_K1_PDFx3.pdf
+[2013-10-28 07:49:42] E-Mail wurde versandt
+[2013-10-28 10:41:51] *** Starte Upload der Datei ***
+[2013-10-28 10:41:51] Datei: uploads/h-schwentker/Davos.pgp
+[2013-10-28 10:41:51] Groesse: 275580278 Bytes
+[2013-10-28 10:41:51] Upload von "uploads/h-schwentker/Davos.pgp" erfolgreich abgeschlossen
+[2013-10-28 10:41:51] Zugriffsrechte von "uploads/h-schwentker/Davos.pgp" geaendert (0755)
+[2013-10-28 10:41:51] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-28 10:41:51] Absender: Henrik Schwentker
+[2013-10-28 10:41:51] Empfaenger: h.schwentker@otterbach.de
+[2013-10-28 10:41:51] E-Mail erfolgreich versandt
+[2013-10-28 10:46:14] *** Starte Download der angeforderten Datei
+[2013-10-28 10:46:14] Benutzer "h-schwentker" gefunden
+[2013-10-28 10:46:14] Datei "Davos.pgp" gefunden
+[2013-10-28 10:46:14] Download von "Davos.pgp"
+[2013-10-28 10:47:39] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-28 10:47:39] Benutzer: h-schwentker
+[2013-10-28 10:47:39] E-Mail: h.schwentker@otterbach.de
+[2013-10-28 10:47:39] Datei: Davos.pgp
+[2013-10-28 10:47:39] E-Mail wurde versandt
+[2013-10-28 12:48:18] *** Starte Upload der Datei ***
+[2013-10-28 12:48:18] Datei: uploads/bitburger/Wiesnfest_Gruendau_v3.tif.zip
+[2013-10-28 12:48:18] Groesse: 106777757 Bytes
+[2013-10-28 12:48:18] Upload von "uploads/bitburger/Wiesnfest_Gruendau_v3.tif.zip" erfolgreich abgeschlossen
+[2013-10-28 12:48:18] Zugriffsrechte von "uploads/bitburger/Wiesnfest_Gruendau_v3.tif.zip" geaendert (0755)
+[2013-10-28 12:48:18] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-28 12:48:18] Absender: Otterbach Team
+[2013-10-28 12:48:18] Empfaenger: c.eberle@otterbach.de
+[2013-10-28 12:48:20] E-Mail erfolgreich versandt
+[2013-10-28 01:19:08] *** Starte Download der angeforderten Datei
+[2013-10-28 01:19:08] Benutzer "bitburger" gefunden
+[2013-10-28 01:19:08] Datei "Wiesnfest_Gruendau_v3.tif.zip" gefunden
+[2013-10-28 01:19:08] Download von "Wiesnfest_Gruendau_v3.tif.zip"
+[2013-10-28 01:21:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-28 01:21:02] Benutzer: bitburger
+[2013-10-28 01:21:02] E-Mail: bitburger@otterbach.de
+[2013-10-28 01:21:02] Datei: Wiesnfest_Gruendau_v3.tif.zip
+[2013-10-28 01:21:02] E-Mail wurde versandt
+[2013-10-28 03:09:48] *** Starte Upload der Datei ***
+[2013-10-28 03:09:48] Datei: uploads/a-siegesmund/O_5001_127_UMA_009_JD_K1_1.pdf.zip
+[2013-10-28 03:09:48] Groesse: 49233401 Bytes
+[2013-10-28 03:09:48] Upload von "uploads/a-siegesmund/O_5001_127_UMA_009_JD_K1_1.pdf.zip" erfolgreich abgeschlossen
+[2013-10-28 03:09:48] Zugriffsrechte von "uploads/a-siegesmund/O_5001_127_UMA_009_JD_K1_1.pdf.zip" geaendert (0755)
+[2013-10-28 03:09:48] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-28 03:09:48] Absender: Alfred Siegesmund
+[2013-10-28 03:09:48] Empfaenger: mstuchl@heine.de
+[2013-10-28 03:09:49] E-Mail erfolgreich versandt
+[2013-10-28 03:11:08] *** Starte Download der angeforderten Datei
+[2013-10-28 03:11:08] Benutzer "a-siegesmund" gefunden
+[2013-10-28 03:11:08] Datei "O_5001_127_UMA_009_JD_K1_1.pdf.zip" gefunden
+[2013-10-28 03:11:08] Download von "O_5001_127_UMA_009_JD_K1_1.pdf.zip"
+[2013-10-28 03:12:38] *** Starte Download der angeforderten Datei
+[2013-10-28 03:12:38] Benutzer "a-siegesmund" gefunden
+[2013-10-28 03:12:38] Datei "O_5001_127_UMA_009_JD_K1_1.pdf.zip" gefunden
+[2013-10-28 03:12:38] Download von "O_5001_127_UMA_009_JD_K1_1.pdf.zip"
+[2013-10-28 03:12:56] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-28 03:12:56] Benutzer: a-siegesmund
+[2013-10-28 03:12:56] E-Mail: a.siegesmund@otterbach.de
+[2013-10-28 03:12:56] Datei: O_5001_127_UMA_009_JD_K1_1.pdf.zip
+[2013-10-28 03:12:56] E-Mail wurde versandt
+[2013-10-28 03:59:05] *** Starte Upload der Datei ***
+[2013-10-28 03:59:05] Datei: uploads/concept/Archiv.zip
+[2013-10-28 03:59:05] Groesse: 9662306 Bytes
+[2013-10-28 03:59:05] Upload von "uploads/concept/Archiv.zip" erfolgreich abgeschlossen
+[2013-10-28 03:59:05] Zugriffsrechte von "uploads/concept/Archiv.zip" geaendert (0755)
+[2013-10-28 03:59:05] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-28 03:59:05] Absender: Otterbach Concept
+[2013-10-28 03:59:05] Empfaenger: c.weissenrieder@otterbach.de
+[2013-10-28 03:59:05] E-Mail erfolgreich versandt
+[2013-10-28 04:27:30] *** Starte Upload der Datei ***
+[2013-10-28 04:27:30] Datei: uploads/h-schwentker/QDIV_131007.pgp
+[2013-10-28 04:27:30] Groesse: 12112521 Bytes
+[2013-10-28 04:27:30] Upload von "uploads/h-schwentker/QDIV_131007.pgp" erfolgreich abgeschlossen
+[2013-10-28 04:27:30] Zugriffsrechte von "uploads/h-schwentker/QDIV_131007.pgp" geaendert (0755)
+[2013-10-28 04:27:30] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-28 04:27:30] Absender: Henrik Schwentker
+[2013-10-28 04:27:30] Empfaenger: h.schwentker@otterbach.de
+[2013-10-28 04:27:30] E-Mail erfolgreich versandt
+[2013-10-28 07:29:43] *** Starte Download der angeforderten Datei
+[2013-10-28 07:29:43] Benutzer "concept" gefunden
+[2013-10-28 07:29:43] Datei "Archiv.zip" gefunden
+[2013-10-28 07:29:43] Download von "Archiv.zip"
+[2013-10-28 07:29:43] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-28 07:29:43] Benutzer: concept
+[2013-10-28 07:29:43] E-Mail: jetzt@gas-gebbe.de
+[2013-10-28 07:29:43] Datei: Archiv.zip
+[2013-10-28 07:29:43] E-Mail wurde versandt
+[2013-10-29 10:14:50] *** Starte Download der angeforderten Datei
+[2013-10-29 10:14:50] Benutzer "h-schwentker" gefunden
+[2013-10-29 10:14:50] Datei "QDIV_131007.pgp" gefunden
+[2013-10-29 10:14:50] Download von "QDIV_131007.pgp"
+[2013-10-29 10:14:50] *** Starte Download der angeforderten Datei
+[2013-10-29 10:14:50] Benutzer "h-schwentker" gefunden
+[2013-10-29 10:14:50] Datei "QDIV_131007.pgp" gefunden
+[2013-10-29 10:14:50] Download von "QDIV_131007.pgp"
+[2013-10-29 10:15:12] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 10:15:12] Benutzer: h-schwentker
+[2013-10-29 10:15:12] E-Mail: h.schwentker@otterbach.de
+[2013-10-29 10:15:12] Datei: QDIV_131007.pgp
+[2013-10-29 10:15:12] E-Mail wurde versandt
+[2013-10-29 10:37:18] *** Starte Download der angeforderten Datei
+[2013-10-29 10:37:18] Benutzer "concept" gefunden
+[2013-10-29 10:37:18] Datei "RIMOWA-Praesi_V3.pdf" gefunden
+[2013-10-29 10:37:18] Download von "RIMOWA-Praesi_V3.pdf"
+[2013-10-29 10:37:26] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 10:37:26] Benutzer: concept
+[2013-10-29 10:37:26] E-Mail: jetzt@gas-gebbe.de
+[2013-10-29 10:37:26] Datei: RIMOWA-Praesi_V3.pdf
+[2013-10-29 10:37:26] E-Mail wurde versandt
+[2013-10-29 02:14:24] *** Starte Upload der Datei ***
+[2013-10-29 02:14:24] Datei: uploads/concept/Plakat.zip
+[2013-10-29 02:14:24] Groesse: 9278935 Bytes
+[2013-10-29 02:14:24] Upload von "uploads/concept/Plakat.zip" erfolgreich abgeschlossen
+[2013-10-29 02:14:24] Zugriffsrechte von "uploads/concept/Plakat.zip" geaendert (0755)
+[2013-10-29 02:14:24] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-29 02:14:24] Absender: Otterbach Concept
+[2013-10-29 02:14:24] Empfaenger: c.weissenrieder@otterbach.de
+[2013-10-29 02:14:24] E-Mail erfolgreich versandt
+[2013-10-29 02:16:49] *** Starte Download der angeforderten Datei
+[2013-10-29 02:16:49] Benutzer "concept" gefunden
+[2013-10-29 02:16:49] Datei "Plakat.zip" gefunden
+[2013-10-29 02:16:49] Download von "Plakat.zip"
+[2013-10-29 02:16:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 02:16:50] Benutzer: concept
+[2013-10-29 02:16:50] E-Mail: jetzt@gas-gebbe.de
+[2013-10-29 02:16:50] Datei: Plakat.zip
+[2013-10-29 02:16:50] E-Mail wurde versandt
+[2013-10-29 02:20:31] *** Starte Upload der Datei ***
+[2013-10-29 02:20:31] Datei: uploads/c-eberle/Drachen.psd.zip
+[2013-10-29 02:20:31] Groesse: 14954023 Bytes
+[2013-10-29 02:20:31] Upload von "uploads/c-eberle/Drachen.psd.zip" erfolgreich abgeschlossen
+[2013-10-29 02:20:31] Zugriffsrechte von "uploads/c-eberle/Drachen.psd.zip" geaendert (0755)
+[2013-10-29 02:20:31] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-29 02:20:31] Absender: Clarissa Eberle
+[2013-10-29 02:20:31] Empfaenger: c.eberle@otterbach.de
+[2013-10-29 02:20:32] E-Mail erfolgreich versandt
+[2013-10-29 02:26:48] *** Starte Download der angeforderten Datei
+[2013-10-29 02:26:48] Benutzer "concept" gefunden
+[2013-10-29 02:26:48] Datei "Plakat.zip" gefunden
+[2013-10-29 02:26:48] Download von "Plakat.zip"
+[2013-10-29 02:26:50] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 02:26:50] Benutzer: concept
+[2013-10-29 02:26:50] E-Mail: jetzt@gas-gebbe.de
+[2013-10-29 02:26:50] Datei: Plakat.zip
+[2013-10-29 02:26:50] E-Mail wurde versandt
+[2013-10-29 03:37:22] *** Starte Upload der Datei ***
+[2013-10-29 03:37:22] Datei: uploads/l.schoenherr/1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip
+[2013-10-29 03:37:22] Groesse: 132463356 Bytes
+[2013-10-29 03:37:22] Upload von "uploads/l.schoenherr/1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" erfolgreich abgeschlossen
+[2013-10-29 03:37:22] Zugriffsrechte von "uploads/l.schoenherr/1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" geaendert (0755)
+[2013-10-29 03:37:22] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-29 03:37:22] Absender: Lisa SchÃ¶nherr
+[2013-10-29 03:37:22] Empfaenger: l.schoenherr@otterbach.de
+[2013-10-29 03:37:23] E-Mail erfolgreich versandt
+[2013-10-29 03:39:59] *** Starte Download der angeforderten Datei
+[2013-10-29 03:39:59] Benutzer "l.schoenherr" gefunden
+[2013-10-29 03:39:59] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-29 03:39:59] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-29 03:40:06] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 03:40:06] Benutzer: l.schoenherr
+[2013-10-29 03:40:06] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 03:40:06] Datei: 1304_Audi_IDP_Umschlag_Druckdaten.zip
+[2013-10-29 03:40:06] E-Mail wurde versandt
+[2013-10-29 03:41:05] *** Starte Download der angeforderten Datei
+[2013-10-29 03:41:05] Benutzer "l.schoenherr" gefunden
+[2013-10-29 03:41:05] Datei "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" gefunden
+[2013-10-29 03:41:05] Download von "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip"
+[2013-10-29 03:41:09] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 03:41:09] Benutzer: l.schoenherr
+[2013-10-29 03:41:09] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 03:41:09] Datei: 1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip
+[2013-10-29 03:41:09] E-Mail wurde versandt
+[2013-10-29 03:41:24] *** Starte Download der angeforderten Datei
+[2013-10-29 03:41:24] Benutzer "l.schoenherr" gefunden
+[2013-10-29 03:41:24] Datei "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" gefunden
+[2013-10-29 03:41:24] Download von "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip"
+[2013-10-29 03:41:27] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 03:41:27] Benutzer: l.schoenherr
+[2013-10-29 03:41:27] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 03:41:27] Datei: 1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip
+[2013-10-29 03:41:27] E-Mail wurde versandt
+[2013-10-29 03:42:11] *** Starte Download der angeforderten Datei
+[2013-10-29 03:42:11] Benutzer "l.schoenherr" gefunden
+[2013-10-29 03:42:11] Datei "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" gefunden
+[2013-10-29 03:42:11] Download von "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip"
+[2013-10-29 03:42:16] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 03:42:16] Benutzer: l.schoenherr
+[2013-10-29 03:42:16] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 03:42:16] Datei: 1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip
+[2013-10-29 03:42:16] E-Mail wurde versandt
+[2013-10-29 03:42:44] *** Starte Download der angeforderten Datei
+[2013-10-29 03:42:44] Benutzer "l.schoenherr" gefunden
+[2013-10-29 03:42:44] Datei "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" gefunden
+[2013-10-29 03:42:44] Download von "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip"
+[2013-10-29 03:42:48] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 03:42:48] Benutzer: l.schoenherr
+[2013-10-29 03:42:48] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 03:42:48] Datei: 1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip
+[2013-10-29 03:42:48] E-Mail wurde versandt
+[2013-10-29 03:48:27] *** Starte Download der angeforderten Datei
+[2013-10-29 03:48:27] Benutzer "l.schoenherr" gefunden
+[2013-10-29 03:48:27] Datei "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" gefunden
+[2013-10-29 03:48:27] Download von "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip"
+[2013-10-29 03:49:22] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 03:49:22] Benutzer: l.schoenherr
+[2013-10-29 03:49:22] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 03:49:22] Datei: 1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip
+[2013-10-29 03:49:22] E-Mail wurde versandt
+[2013-10-29 03:50:00] *** Starte Download der angeforderten Datei
+[2013-10-29 03:50:00] Benutzer "l.schoenherr" gefunden
+[2013-10-29 03:50:00] Datei "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" gefunden
+[2013-10-29 03:50:00] Download von "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip"
+[2013-10-29 03:50:56] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 03:50:56] Benutzer: l.schoenherr
+[2013-10-29 03:50:56] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 03:50:56] Datei: 1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip
+[2013-10-29 03:50:56] E-Mail wurde versandt
+[2013-10-29 03:51:18] *** Starte Download der angeforderten Datei
+[2013-10-29 03:51:18] Benutzer "l.schoenherr" gefunden
+[2013-10-29 03:51:18] Datei "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" gefunden
+[2013-10-29 03:51:18] Download von "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip"
+[2013-10-29 03:52:15] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 03:52:15] Benutzer: l.schoenherr
+[2013-10-29 03:52:15] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 03:52:15] Datei: 1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip
+[2013-10-29 03:52:15] E-Mail wurde versandt
+[2013-10-29 03:56:13] *** Starte Download der angeforderten Datei
+[2013-10-29 03:56:13] Benutzer "l.schoenherr" gefunden
+[2013-10-29 03:56:13] Datei "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip" gefunden
+[2013-10-29 03:56:13] Download von "1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip"
+[2013-10-29 03:57:09] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 03:57:09] Benutzer: l.schoenherr
+[2013-10-29 03:57:09] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 03:57:09] Datei: 1304_Audi_IDP_Umschlag_Druckdaten_FINAL_29.10.2013.zip
+[2013-10-29 03:57:09] E-Mail wurde versandt
+[2013-10-29 04:03:49] *** Starte Upload der Datei ***
+[2013-10-29 04:03:49] Datei: uploads/l.schoenherr/1304_Audi_IDP_Umschlag_Druckdaten_FINAL.zip
+[2013-10-29 04:03:49] Groesse: 132463114 Bytes
+[2013-10-29 04:03:49] Upload von "uploads/l.schoenherr/1304_Audi_IDP_Umschlag_Druckdaten_FINAL.zip" erfolgreich abgeschlossen
+[2013-10-29 04:03:49] Zugriffsrechte von "uploads/l.schoenherr/1304_Audi_IDP_Umschlag_Druckdaten_FINAL.zip" geaendert (0755)
+[2013-10-29 04:03:49] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-29 04:03:49] Absender: Lisa SchÃ¶nherr
+[2013-10-29 04:03:49] Empfaenger: l.schoenherr@otterbach.de
+[2013-10-29 04:03:50] E-Mail erfolgreich versandt
+[2013-10-29 04:08:53] *** Starte Download der angeforderten Datei
+[2013-10-29 04:08:53] Benutzer "l.schoenherr" gefunden
+[2013-10-29 04:08:53] Datei "1304_Audi_IDP_Umschlag_Druckdaten_FINAL.zip" gefunden
+[2013-10-29 04:08:53] Download von "1304_Audi_IDP_Umschlag_Druckdaten_FINAL.zip"
+[2013-10-29 04:09:49] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-29 04:09:49] Benutzer: l.schoenherr
+[2013-10-29 04:09:49] E-Mail: l.schoenherr@otterbach.de
+[2013-10-29 04:09:49] Datei: 1304_Audi_IDP_Umschlag_Druckdaten_FINAL.zip
+[2013-10-29 04:09:49] E-Mail wurde versandt
+[2013-10-30 08:25:56] *** Starte Download der angeforderten Datei
+[2013-10-30 08:25:56] Benutzer "l.schoenherr" gefunden
+[2013-10-30 08:25:56] Datei "1304_Audi_IDP_Umschlag_Druckdaten.zip" gefunden
+[2013-10-30 08:25:56] Download von "1304_Audi_IDP_Umschlag_Druckdaten.zip"
+[2013-10-30 10:53:42] *** Starte Upload der Datei ***
+[2013-10-30 10:53:42] Datei: uploads/e-kraus/RIMOWA-Praesi_V4.pdf
+[2013-10-30 10:53:42] Groesse: 8994887 Bytes
+[2013-10-30 10:53:42] Upload von "uploads/e-kraus/RIMOWA-Praesi_V4.pdf" erfolgreich abgeschlossen
+[2013-10-30 10:53:42] Zugriffsrechte von "uploads/e-kraus/RIMOWA-Praesi_V4.pdf" geaendert (0755)
+[2013-10-30 10:53:42] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-30 10:53:42] Absender: Evelyn Kraus
+[2013-10-30 10:53:42] Empfaenger: e.kraus@otterbach.de
+[2013-10-30 10:53:42] E-Mail erfolgreich versandt
+[2013-10-30 11:11:33] *** Starte Download der angeforderten Datei
+[2013-10-30 11:11:33] Benutzer "e-kraus" gefunden
+[2013-10-30 11:11:33] Datei "RIMOWA-Praesi_V4.pdf" gefunden
+[2013-10-30 11:11:33] Download von "RIMOWA-Praesi_V4.pdf"
+[2013-10-30 11:11:46] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-30 11:11:46] Benutzer: e-kraus
+[2013-10-30 11:11:46] E-Mail: e.kraus@otterbach.de
+[2013-10-30 11:11:46] Datei: RIMOWA-Praesi_V4.pdf
+[2013-10-30 11:11:46] E-Mail wurde versandt
+[2013-10-30 11:16:23] *** Starte Download der angeforderten Datei
+[2013-10-30 11:16:23] Benutzer "concept" gefunden
+[2013-10-30 11:16:23] Datei "Archiv.zip" gefunden
+[2013-10-30 11:16:23] Download von "Archiv.zip"
+[2013-10-30 11:16:35] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-30 11:16:35] Benutzer: concept
+[2013-10-30 11:16:35] E-Mail: jetzt@gas-gebbe.de
+[2013-10-30 11:16:35] Datei: Archiv.zip
+[2013-10-30 11:16:35] E-Mail wurde versandt
+[2013-10-30 01:58:46] *** Starte Loeschen der angeforderten Datei
+[2013-10-30 01:58:46] Ermittle Benutzer und Datei
+[2013-10-30 01:58:46] Benutzer "e-kraus" gefunden
+[2013-10-30 01:58:46] Datei "RIMOWA-Praesi_V4.pdf" gefunden
+[2013-10-30 01:58:46] Die Datei "RIMOWA-Praesi_V4.pdf" wurde erfolgreich geloescht
+[2013-10-30 02:12:47] *** Starte Download der angeforderten Datei
+[2013-10-30 02:12:47] Benutzer "e-kraus" gefunden
+[2013-10-30 02:12:47] Angeforderte Datei wurde nicht gefunden
+[2013-10-30 02:12:47] Download der Datei gescheitert
+[2013-10-30 02:15:28] *** Starte Upload der Datei ***
+[2013-10-30 02:15:28] Datei: uploads/e-kraus/RIMOWA-Praesi_V4.pdf
+[2013-10-30 02:15:28] Groesse: 8994887 Bytes
+[2013-10-30 02:15:28] Upload von "uploads/e-kraus/RIMOWA-Praesi_V4.pdf" erfolgreich abgeschlossen
+[2013-10-30 02:15:28] Zugriffsrechte von "uploads/e-kraus/RIMOWA-Praesi_V4.pdf" geaendert (0755)
+[2013-10-30 02:15:28] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-30 02:15:28] Absender: Evelyn Kraus
+[2013-10-30 02:15:28] Empfaenger: e.kraus@otterbach.de
+[2013-10-30 02:15:29] E-Mail erfolgreich versandt
+[2013-10-30 02:23:42] *** Starte Download der angeforderten Datei
+[2013-10-30 02:23:42] Benutzer "c-eberle" gefunden
+[2013-10-30 02:23:42] Datei "Drachen.psd.zip" gefunden
+[2013-10-30 02:23:42] Download von "Drachen.psd.zip"
+[2013-10-30 02:23:47] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-30 02:23:47] Benutzer: c-eberle
+[2013-10-30 02:23:47] E-Mail: c.eberle@otterbach.de
+[2013-10-30 02:23:47] Datei: Drachen.psd.zip
+[2013-10-30 02:23:47] E-Mail wurde versandt
+[2013-10-30 02:38:17] *** Starte Upload der Datei ***
+[2013-10-30 02:38:17] Datei: uploads/h-schwentker/Klimakomfortsitz.mb
+[2013-10-30 02:38:17] Groesse: 45474932 Bytes
+[2013-10-30 02:38:17] Upload von "uploads/h-schwentker/Klimakomfortsitz.mb" erfolgreich abgeschlossen
+[2013-10-30 02:38:17] Zugriffsrechte von "uploads/h-schwentker/Klimakomfortsitz.mb" geaendert (0755)
+[2013-10-30 02:38:17] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-30 02:38:17] Absender: Henrik Schwentker
+[2013-10-30 02:38:17] Empfaenger: h.schwentker@otterbach.de
+[2013-10-30 02:38:17] E-Mail erfolgreich versandt
+[2013-10-30 02:40:15] *** Starte Download der angeforderten Datei
+[2013-10-30 02:40:15] Benutzer "h-schwentker" gefunden
+[2013-10-30 02:40:15] Datei "Klimakomfortsitz.mb" gefunden
+[2013-10-30 02:40:15] Download von "Klimakomfortsitz.mb"
+[2013-10-30 02:40:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-30 02:40:28] Benutzer: h-schwentker
+[2013-10-30 02:40:28] E-Mail: h.schwentker@otterbach.de
+[2013-10-30 02:40:28] Datei: Klimakomfortsitz.mb
+[2013-10-30 02:40:28] E-Mail wurde versandt
+[2013-10-30 03:46:57] *** Starte Upload der Datei ***
+[2013-10-30 03:46:57] Datei: uploads/h-schwentker/_J8A2180_RGB.psd
+[2013-10-30 03:46:57] Groesse: 60094150 Bytes
+[2013-10-30 03:46:57] Upload von "uploads/h-schwentker/_J8A2180_RGB.psd" erfolgreich abgeschlossen
+[2013-10-30 03:46:57] Zugriffsrechte von "uploads/h-schwentker/_J8A2180_RGB.psd" geaendert (0755)
+[2013-10-30 03:46:57] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-30 03:46:57] Absender: Henrik Schwentker
+[2013-10-30 03:46:57] Empfaenger: h.aberhof@otterbach.de
+[2013-10-30 03:46:57] E-Mail erfolgreich versandt
+[2013-10-30 03:59:13] *** Starte Download der angeforderten Datei
+[2013-10-30 03:59:13] Benutzer "h-schwentker" gefunden
+[2013-10-30 03:59:13] Datei "_J8A2180_RGB.psd" gefunden
+[2013-10-30 03:59:13] Download von "_J8A2180_RGB.psd"
+[2013-10-30 04:00:02] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-30 04:00:02] Benutzer: h-schwentker
+[2013-10-30 04:00:02] E-Mail: h.schwentker@otterbach.de
+[2013-10-30 04:00:02] Datei: _J8A2180_RGB.psd
+[2013-10-30 04:00:02] E-Mail wurde versandt
+[2013-10-31 09:30:54] *** Starte Upload der Datei ***
+[2013-10-31 09:30:54] Datei: uploads/v-geiger/Reisen Ordner.zip
+[2013-10-31 09:30:54] Groesse: 6610961 Bytes
+[2013-10-31 09:30:54] Upload von "uploads/v-geiger/Reisen Ordner.zip" erfolgreich abgeschlossen
+[2013-10-31 09:30:54] Zugriffsrechte von "uploads/v-geiger/Reisen Ordner.zip" geaendert (0755)
+[2013-10-31 09:30:54] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-31 09:30:54] Absender: Vanessa Geiger
+[2013-10-31 09:30:54] Empfaenger: v.geiger@otterbach.de
+[2013-10-31 09:30:54] E-Mail erfolgreich versandt
+[2013-10-31 10:19:19] *** Starte Download der angeforderten Datei
+[2013-10-31 10:19:19] Benutzer "e-kraus" gefunden
+[2013-10-31 10:19:19] Datei "RIMOWA-Praesi_V4.pdf" gefunden
+[2013-10-31 10:19:19] Download von "RIMOWA-Praesi_V4.pdf"
+[2013-10-31 10:19:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-31 10:19:28] Benutzer: e-kraus
+[2013-10-31 10:19:28] E-Mail: e.kraus@otterbach.de
+[2013-10-31 10:19:28] Datei: RIMOWA-Praesi_V4.pdf
+[2013-10-31 10:19:28] E-Mail wurde versandt
+[2013-10-31 12:39:55] *** Starte Upload der Datei ***
+[2013-10-31 12:39:55] Datei: uploads/concept/MB-Strecken.zip
+[2013-10-31 12:39:55] Groesse: 396438876 Bytes
+[2013-10-31 12:39:55] Upload von "uploads/concept/MB-Strecken.zip" erfolgreich abgeschlossen
+[2013-10-31 12:39:55] Zugriffsrechte von "uploads/concept/MB-Strecken.zip" geaendert (0755)
+[2013-10-31 12:39:55] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-31 12:39:55] Absender: Otterbach Concept
+[2013-10-31 12:39:55] Empfaenger: c.schmidt@otterbach.de
+[2013-10-31 12:39:56] E-Mail erfolgreich versandt
+[2013-10-31 01:46:27] *** Starte Download der angeforderten Datei
+[2013-10-31 01:46:27] Benutzer "concept" gefunden
+[2013-10-31 01:46:27] Datei "MB-Strecken.zip" gefunden
+[2013-10-31 01:46:27] Download von "MB-Strecken.zip"
+[2013-10-31 01:49:28] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-31 01:49:28] Benutzer: concept
+[2013-10-31 01:49:28] E-Mail: jetzt@gas-gebbe.de
+[2013-10-31 01:49:28] Datei: MB-Strecken.zip
+[2013-10-31 01:49:28] E-Mail wurde versandt
+[2013-10-31 02:53:20] *** Starte Upload der Datei ***
+[2013-10-31 02:53:20] Datei: uploads/concept/MB_1213_024-031_Biketest_Racehardtails_Lauftext_v.indd
+[2013-10-31 02:53:20] Groesse: 60719104 Bytes
+[2013-10-31 02:53:20] Upload von "uploads/concept/MB_1213_024-031_Biketest_Racehardtails_Lauftext_v.indd" erfolgreich abgeschlossen
+[2013-10-31 02:53:20] Zugriffsrechte von "uploads/concept/MB_1213_024-031_Biketest_Racehardtails_Lauftext_v.indd" geaendert (0755)
+[2013-10-31 02:53:20] *** Starte Versand der E-Mail Benachrichtigung [UPLOAD] ***
+[2013-10-31 02:53:20] Absender: Otterbach Concept
+[2013-10-31 02:53:20] Empfaenger: c.weissenrieder@otterbach.de
+[2013-10-31 02:53:20] E-Mail erfolgreich versandt
+[2013-10-31 02:57:05] *** Starte Download der angeforderten Datei
+[2013-10-31 02:57:05] Benutzer "concept" gefunden
+[2013-10-31 02:57:05] Datei "MB_1213_024-031_Biketest_Racehardtails_Lauftext_v.indd" gefunden
+[2013-10-31 02:57:05] Download von "MB_1213_024-031_Biketest_Racehardtails_Lauftext_v.indd"
+[2013-10-31 02:57:05] *** Starte Versand der E-Mail Benachrichtigung [DOWNLOAD] ***
+[2013-10-31 02:57:05] Benutzer: concept
+[2013-10-31 02:57:05] E-Mail: jetzt@gas-gebbe.de
+[2013-10-31 02:57:05] Datei: MB_1213_024-031_Biketest_Racehardtails_Lauftext_v.indd
+[2013-10-31 02:57:05] E-Mail wurde versandt
