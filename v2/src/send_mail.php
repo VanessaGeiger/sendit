@@ -18,8 +18,8 @@
 	$mailHeader .= "MIME-Version: 1.0\n";
 	$mailHeader .= "X-Mailer: PHP v" . phpversion() . "\n";
 	$mailHeader .= "Content-Transfer-Encoding: 8bit\n";
-	$mailHeader .= "Content-Type: text/html; charset=iso-8859-1";
-	
+	$mailHeader .= "Content-Type: text/html; charset=UTF-8";
+
 	// E-Mail Betreff
 	$mailBetreff = $_POST["betreff"];
 	
@@ -32,21 +32,19 @@
 	$downloadHash = md5( $_FILES["datei"]["name"] );
 	$benutzerHash = md5( $_SESSION["benutzer"] );
 	$downloadLink = "http://" . $serverName . $skriptPfad ."/download.php?benutzer=" . $benutzerHash . "&datei=" . $downloadHash;
-	
+
 	// E-Mail Body
-	$mailBody  = nl2br( htmlspecialchars($_POST["nachricht"]) );
+	//$mailBody  = nl2br(htmlspecialchars($_POST["nachricht"], ENT_COMPAT | ENT_XHML, 'ISO-8859-1'));
+	$mailBody  = nl2br(htmlentities($_POST["nachricht"], ENT_COMPAT | ENT_XHML, 'ISO-8859-1'));
 	$mailBody .= "<br /><br /><br /><b>Downloadlink:</b><br /><a href='{$downloadLink}'>{$_FILES['datei']['name']}</a><br /><br />";
 	$mailBody .= "Sollten Sie keine HTML-Mails empfangen k&ouml;nnen, kopieren Sie den folgenden Link in ihren Internet Browser:<br />";
 	$mailBody .= "$downloadLink";
 	// E-Mail versenden
-	if( @mail($empfaengerSerial, $mailBetreff, $mailBody, $mailHeader) )
-	{
+	if( @mail($empfaengerSerial, $mailBetreff, $mailBody, $mailHeader) ) {
 		$result = 1;
-		sendit_log( "E-Mail erfolgreich versandt" );
-	}
-	else
-	{
+	sendit_log( "E-Mail erfolgreich versandt" );
+	} else {
 		$result = 0;
-		sendit_log( "Senden der E-Mail gescheitert" );
+      sendit_log( "Senden der E-Mail gescheitert" );
 	}
 ?>
