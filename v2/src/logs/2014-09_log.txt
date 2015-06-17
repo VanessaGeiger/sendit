@@ -1,0 +1,5 @@
+[2014-09-30 09:46:54] *** Starte Upload der Datei ***
+[2014-09-30 09:46:54] uploads/ wurde neu angelegt
+[2014-09-30 09:46:54] Datei: uploads//
+[2014-09-30 09:46:54] Groesse:  Bytes
+[2014-09-30 09:46:54] Upload von "uploads//" gescheitert

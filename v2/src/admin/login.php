@@ -10,7 +10,7 @@
 		
 		$kennwortERROR = true;
 		
-		$adminKennwort = "6fea825e7fec5e2f5071edbe1f74d170";
+		$adminKennwort = "098F6BCD4621D373CADE4E832627B4F6";
 		
 		if ( $usr_kennwort == $adminKennwort )
 		{

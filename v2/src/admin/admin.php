@@ -3,7 +3,7 @@
 	// Wenn nicht angemeldet, dann redirect zu Startseite (Login)
 	if( !$_SESSION["admin"] )
 	{
-		header( "Location: index.php" );
+		//header( "Location: index.php" );
 	}
 ?>
 
@@ -97,7 +97,9 @@
 			<div id="nocheinen" class="ui-popup">
 				<div class="ui-popup-close"></div>
 				<span class="ui-popup-text">
-					Benutzer wurde erfolgreich hinzugef&uuml;gt.<br />					<br />					<b>M&ouml;chten Sie einen weiteren Benutzer hinzuf&uuml;gen?</b>
+					Benutzer wurde erfolgreich hinzugef&uuml;gt.<br />
+					<br />
+					<b>M&ouml;chten Sie einen weiteren Benutzer hinzuf&uuml;gen?</b>
 				</span>
 				
 				<a href="logout.php">
