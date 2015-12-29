@@ -44,7 +44,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <section class="content-header">
             <h1>
                 {{ $page_title or "Willkommen bei Send IT" }}
-                <small>{{ $page_description or null }}</small>
+                <small>        @can('show_admin')
+            Du bist ein Admin
+        @endcan {{ $page_description or null }}</small>
             </h1>
             <!-- You can dynamically generate breadcrumbs here -->
             <ol class="breadcrumb">
@@ -56,11 +58,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <!-- Main content -->
         <section class="content">
             <!-- Your Page Content Here -->
->>
-        @can('show_admin')
-            <a href="#">Edit the Forum</a>
-        @endcan
-<<
+
             @yield('content')
 
         </section><!-- /.content -->

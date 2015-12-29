@@ -30,7 +30,7 @@ class DatabaseSeeder extends Seeder
        
 
         DB::table('roles')->insert([
-            'name' => 'Admin',
+            'name' => 'admin',
             'label' => 'admin',
         ]);
 
@@ -45,7 +45,7 @@ class DatabaseSeeder extends Seeder
         ]);
 
         DB::table('permissions')->insert([
-            'name' => 'Administratorrechte',
+            'name' => 'show_admin',
             'label' => 'show_admin',
         ]);
 
