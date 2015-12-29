@@ -57,12 +57,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <section class="content">
             <!-- Your Page Content Here -->
 >>
-        @can('edit_forum')
+        @can('show_admin')
             <a href="#">Edit the Forum</a>
-        @endcan
-
-        @can('manage_money')
-            <a href="#">Manage the Funds</a>
         @endcan
 <<
             @yield('content')
