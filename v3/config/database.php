@@ -54,7 +54,8 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => env('DB_HOST', 'localhost'),
+            'host'      => env('DB_HOST', '127.0.0.1'),
+            'port'      => '8889',
             'database'  => env('DB_DATABASE', 'otterbach_sendit'),
             'username'  => env('DB_USERNAME', 'root'),
             'password'  => env('DB_PASSWORD', 'root'),
