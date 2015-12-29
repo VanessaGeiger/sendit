@@ -69,6 +69,6 @@
 	}
 
 	//getActiveDirectoryAuthentification('f-gehringer','ba1aa552');
-	getActiveDirectoryAuthentification('v-geiger','a5d968e6');
+	getActiveDirectoryAuthentification('v.geiger','a5d968e6');
 	
 ?>
