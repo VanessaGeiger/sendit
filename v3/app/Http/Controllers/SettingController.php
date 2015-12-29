@@ -11,6 +11,6 @@ class SettingController extends Controller
 {
     public function index()
     {
-        return view('einstellungen');
+        return view('settings');
     }
 }

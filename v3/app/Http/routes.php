@@ -32,5 +32,5 @@ Route::group(['middleware' => ['web']], function () {
 });
 
 Route::get('upload', ['as' => 'upload', 'uses' =>'UploadController@index']);
-Route::get('einstellungen', ['as' => 'profile', 'uses' =>'SettingController@index']);
-Route::get('verlauf', ['as' => 'history', 'uses' =>'VerlaufController@index']);
+Route::get('settings', ['as' => 'profile', 'uses' =>'SettingController@index']);
+Route::get('history', ['as' => 'history', 'uses' =>'HistoryController@index']);

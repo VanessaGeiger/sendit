@@ -10,6 +10,6 @@ use App\Http\Controllers\Controller;
 class VerlaufController extends Controller
 {
     public function index() {
-        return view('verlauf');
+        return view('history');
     }
 }
