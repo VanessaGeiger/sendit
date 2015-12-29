@@ -34,3 +34,8 @@ Route::group(['middleware' => ['web']], function () {
 Route::get('upload', ['as' => 'upload', 'uses' =>'UploadController@index']);
 Route::get('settings', ['as' => 'profile', 'uses' =>'SettingController@index']);
 Route::get('history', ['as' => 'history', 'uses' =>'HistoryController@index']);
+
+// Authentication routes...
+Route::get('auth/login', 'Auth\AuthController@getLogin');
+Route::post('auth/login', 'Auth\AuthController@postLogin');
+Route::get('auth/logout', 'Auth\AuthController@getLogout');
