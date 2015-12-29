@@ -36,7 +36,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     @include('header')
 
             <!-- Sidebar -->
-  
+    @include('sidebar')
 
             <!-- Content Wrapper. Contains page content -->
     <div class="content-wrapper">
@@ -56,6 +56,15 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <!-- Main content -->
         <section class="content">
             <!-- Your Page Content Here -->
+>>
+        @can('edit_forum')
+            <a href="#">Edit the Forum</a>
+        @endcan
+
+        @can('manage_money')
+            <a href="#">Manage the Funds</a>
+        @endcan
+<<
             @yield('content')
 
         </section><!-- /.content -->
