@@ -17,9 +17,8 @@
                 <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
             </div>
         </div>
-        //show logged in navbar
         @else
-            nix
+            
         @endif
 
         <!-- search form (Optional) -->
