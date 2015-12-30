@@ -1,17 +1,22 @@
-@extends('layouts.app')
+@extends('admin_template')
 
 @section('content')
-<div class="container spark-screen">
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-            <div class="panel panel-default">
-                <div class="panel-heading">Dashboard</div>
+    <section class="content-header">
+        <h4>
+            {{ $page_title or "Dashboard" }}
+            <small>{{ $page_description or null }}</small>
+        </h4>
+        {{--  <!-- You can dynamically generate breadcrumbs here -->
+          <ol class="breadcrumb">
+              <li><a href="#"><i class="fa fa-dashboard"></i> Level</a></li>
+              <li class="active">Here</li>
+          </ol>--}}
+    </section>
 
-                <div class="panel-body">
-                    You are logged in!
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+    <!-- Main content -->
+    <section class="content">
+        <p> </p>
+        @yield('content')
+
+    </section><!-- /.content -->
 @endsection
