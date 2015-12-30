@@ -13,8 +13,8 @@
             </div>
             <div class="pull-left info">
                 <p>{{{ isset(Auth::user()->name) ? Auth::user()->name : Auth::user()->email }}}</p>
-               {{-- <!-- Status -->
-                <a href="#"><i class="fa fa-circle text-success"></i> Online</a>--}}
+                <!-- Status -->
+                <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
             </div>
         </div>
         //show logged in navbar
