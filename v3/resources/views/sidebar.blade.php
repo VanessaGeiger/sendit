@@ -36,8 +36,11 @@
         <ul class="sidebar-menu">
             <li class="header">Send IT</li>
             <!-- Optionally, you can add icons to the links -->
-            <li><a href="{{ URL::route('login') }}"><span>Login</span><i class="fa fa-sign-in pull-right"></i></a></li>
-            <li><a href="{{ URL::route('logout') }}"><span>Logout</span><i class="fa fa-sign-out pull-right"></i></a></li>
+            @if (Auth::check())
+                <li><a href="{{ URL::route('logout') }}"><span>Logout</span><i class="fa fa-sign-out pull-right"></i></a></li>
+            @else
+                <li><a href="{{ URL::route('login') }}"><span>Login</span><i class="fa fa-sign-in pull-right"></i></a></li>
+            @endif
             <li><a href="{{ URL::route('upload') }}"><span>Upload</span><i class="fa fa-cloud-upload pull-right"></i></a></li>
             <li><a href="{{ URL::route('history') }}"><span>Verlauf</span><i class="fa fa-history pull-right"></i></a></li>
             <li class="treeview">
