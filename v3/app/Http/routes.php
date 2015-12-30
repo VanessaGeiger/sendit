@@ -11,9 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('admin_template');
-});
 
 
 /*
@@ -27,18 +24,11 @@ Route::get('/', function () {
 |
 */
 
-Route::group(['middleware' => ['web']], function () {
-	//Auth::loginUsingId(1);
-	//Auth::logout();
+Route::group(['middleware' => 'web'], function () {
+    Route::auth();
 
-   	Route::get('upload', ['as' => 'upload', 'uses' =>'UploadController@index']);
+    Route::get('/home', 'HomeController@index');
+        Route::get('upload', ['as' => 'upload', 'uses' =>'UploadController@index']);
 	Route::get('settings', ['as' => 'profile', 'uses' =>'SettingController@index']);
 	Route::get('history', ['as' => 'history', 'uses' =>'HistoryController@index']);
-
-	// Authentication routes...
-	Route::get('auth/login', ['as' => 'login', 'uses' =>'Auth\AuthController@getLogin']);
-	Route::post('auth/login', ['as' => 'login', 'uses' =>'Auth\AuthController@postLogin']);
-	Route::get('auth/logout', ['as' => 'logout', 'uses' =>'Auth\AuthController@getLogout']);
 });
-
-
