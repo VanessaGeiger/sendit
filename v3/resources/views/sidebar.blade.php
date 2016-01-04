@@ -40,6 +40,7 @@
                 <li><a href="/logout"><span>Logout</span><i class="fa fa-sign-out pull-right"></i></a></li>
                 <li><a href="{{ URL::route('upload') }}"><span>Upload</span><i class="fa fa-cloud-upload pull-right"></i></a></li>
                 <li><a href="{{ URL::route('history') }}"><span>Verlauf</span><i class="fa fa-history pull-right"></i></a></li>
+                <li><a href="{{ URL::route('users') }}"><span>Benutzerverwaltung</span><i class="fa fa-users pull-right"></i></a></li>
                 <li class="treeview">
                     <a href="{{ URL::route('profile') }}"><span>Einstellungen</span> <i class="fa fa-gear pull-right"></i></a>
                     <ul class="treeview-menu">
