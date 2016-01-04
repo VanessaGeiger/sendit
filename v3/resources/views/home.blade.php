@@ -11,6 +11,133 @@
               <li><a href="#"><i class="fa fa-dashboard"></i> Level</a></li>
               <li class="active">Here</li>
           </ol>--}}
+
+        <div class="row">
+            <div class="col-lg-3 col-xs-6">
+                <div class="small-box bg-aqua">
+                    <div class="inner">
+                        <h3>40</h3>
+                        <p>Aktive Links</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-exchange"></i>
+                    </div>
+                    <a class="small-box-footer" href="#">
+                        Mehr Info
+                        <i class="fa fa-arrow-circle-right"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-xs-6">
+                <div class="small-box bg-green">
+                    <div class="inner">
+                        <h3>3</h3>
+                        <p>Dateien gelöscht</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-trash-o"></i>
+                    </div>
+                    <a class="small-box-footer" href="#">
+                        Mehr Info
+                        <i class="fa fa-arrow-circle-right"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-xs-6">
+                <div class="small-box bg-red">
+                    <div class="inner">
+                        <h3>110</h3>
+                        <p>Dateien gedownloaded</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-arrow-circle-down "></i>
+                    </div>
+                    <a class="small-box-footer" href="#">
+                        Mehr Info
+                        <i class="fa fa-arrow-circle-right"></i>
+                    </a>
+                </div>
+            </div>
+
+            </div>
+
+
+        {{--Liste der letzten Downloads--}}
+        <div class="box box-info">
+            <div class="box-header with-border">
+                <h3 class="box-title">Neuste Uploads</h3>
+                <div class="box-tools pull-right">
+                    <button class="btn btn-box-tool" data-widget="collapse" type="button">
+                        <i class="fa fa-minus"></i>
+                    </button>
+                    <button class="btn btn-box-tool" data-widget="remove" type="button">
+                        <i class="fa fa-times"></i>
+                    </button>
+                </div>
+            </div>
+
+        <div class="box-body">
+            <div class="table-responsive">
+                <table class="table no-margin">
+                    <thead>
+                    <tr>
+                        <th>Datum</th>
+                        <th>Titel</th>
+                        <th>Status</th>
+                        <th>Empfänger</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>
+                            01.01.2016
+                        </td>
+                        <td>Audi A1 Videos</td>
+                        <td>
+                            <span class="label label-danger">ungeöffnet</span>
+                        </td>
+                        <td>
+                            <a href="pages/user/MaxMustermann.html">Max Mustermann</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            30.12.2015
+                        </td>
+                        <td>LRP Schulungsportal PSD</td>
+                        <td>
+                            <span class="label label-info">Zugestellt</span>
+                        </td>
+                        <td>
+                            <a href="pages/user/AndreasMerkel.html">Andres Merkel</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            22.12.2015
+                        </td>
+                        <td>HSV Stadionmagazin PDF</td>
+                        <td>
+                            <span class="label label-success">Heruntergeladen</span>
+                        </td>
+                        <td>
+                            <a href="pages/user/SabinebenzReichel.html">Sabine Benz-Reichel</a>
+                        </td>
+                    </tr>
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="box-footer clearfix">
+             <a class="btn btn-sm btn-default btn-flat pull-right" href="javascript::;">Alle Uploads</a>
+        </div>
+        </div>
+        </div>
+
     </section>
 
     <!-- Main content -->
