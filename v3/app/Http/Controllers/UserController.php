@@ -10,6 +10,14 @@ use App\Http\Controllers\Controller;
 class UserController extends Controller
 {
     public function index() {
-        return view('users');
+    	$users = \App\User::all();
+        return view('users', ['users' => $users]);
+
+    }
+
+    public function details($id) {
+    	$user = \App\User::find($id);
+        var_dump($user->name);
+
     }
 }

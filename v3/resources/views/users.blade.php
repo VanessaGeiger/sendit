@@ -50,116 +50,20 @@
                         </tr>
                         </thead>
                         <tbody>
-                        <tr class="odd" role="row">
-                            <td class="sorting_1">Vanessa Geiger</td>
+                        @foreach ($users as $user)
+
+                        <tr class="{cycle values="even,odd"}" role="row">
+                            <td class="sorting_1">{{ $user->name }}</td>
                             <td>Otterbach IT</td>
                             <td>v.geiger@ottebrach.de</td>
                             <td>07222-952184</td>
                             <td> -</td>
-                            <td><a class="">
+                            <td><a class="" href="{{ URL::route('users') }}/{{ $user->id }}">
                                     <i class="fa fa-edit"></i>
                                     Edit
                                 </a></td>
                         </tr>
-                        <tr class="even" role="row">
-                            <td class="sorting_1">Daniel Stöck</td>
-                            <td>Otterbach Medien</td>
-                            <td>d.stoeck@otterbach.de</td>
-                            <td>07222-952198</td>
-                            <td>-</td>
-                            <td><a class="">
-                                    <i class="fa fa-edit"></i>
-                                    Edit
-                                </a></td>
-                        </tr>
-                        <tr class="odd" role="row">
-                            <td class="sorting_1">Gecko</td>
-                            <td>Firefox 2.0</td>
-                            <td>Win 98+ / OSX.2+</td>
-                            <td>1.8</td>
-                            <td>A</td>
-                            <td><a class="btn btn-box-tool">
-                                    <i class="fa fa-edit"></i>
-                                    Edit
-                                </a></td>
-                        </tr>
-                        <tr class="even" role="row">
-                            <td class="sorting_1">Gecko</td>
-                            <td>Firefox 3.0</td>
-                            <td>Win 2k+ / OSX.3+</td>
-                            <td>1.9</td>
-                            <td>A</td>
-                            <td><a class="btn btn-box-tool">
-                                    <i class="fa fa-edit"></i>
-                                    Edit
-                                </a></td>
-                        </tr>
-                        <tr class="odd" role="row">
-                            <td class="sorting_1">Gecko</td>
-                            <td>Camino 1.0</td>
-                            <td>OSX.2+</td>
-                            <td>1.8</td>
-                            <td>A</td>
-                            <td><a class="btn btn-box-tool">
-                                    <i class="fa fa-edit"></i>
-                                    Edit
-                                </a></td>
-                        </tr>
-                        <tr class="even" role="row">
-                            <td class="sorting_1">Gecko</td>
-                            <td>Camino 1.5</td>
-                            <td>OSX.3+</td>
-                            <td>1.8</td>
-                            <td>A</td>
-                            <td><a class="btn btn-box-tool">
-                                    <i class="fa fa-edit"></i>
-                                    Edit
-                                </a></td>
-                        </tr>
-                        <tr class="odd" role="row">
-                            <td class="sorting_1">Gecko</td>
-                            <td>Netscape 7.2</td>
-                            <td>Win 95+ / Mac OS 8.6-9.2</td>
-                            <td>1.7</td>
-                            <td>A</td>
-                            <td><a class="btn btn-box-tool">
-                                    <i class="fa fa-edit"></i>
-                                    Edit
-                                </a></td>
-                        </tr>
-                        <tr class="even" role="row">
-                            <td class="sorting_1">Gecko</td>
-                            <td>Netscape Browser 8</td>
-                            <td>Win 98SE+</td>
-                            <td>1.7</td>
-                            <td>A</td>
-                            <td><a class="btn btn-box-tool">
-                                    <i class="fa fa-edit"></i>
-                                    Edit
-                                </a></td>
-                        </tr>
-                        <tr class="odd" role="row">
-                            <td class="sorting_1">Gecko</td>
-                            <td>Netscape Navigator 9</td>
-                            <td>Win 98+ / OSX.2+</td>
-                            <td>1.8</td>
-                            <td>A</td>
-                            <td><a class="btn btn-box-tool">
-                                    <i class="fa fa-edit"></i>
-                                    Edit
-                                </a></td>
-                        </tr>
-                        <tr class="even" role="row">
-                            <td class="sorting_1">Gecko</td>
-                            <td>Mozilla 1.0</td>
-                            <td>Win 95+ / OSX.1+</td>
-                            <td>1</td>
-                            <td>A</td>
-                            <td><a class="btn btn-box-tool">
-                                    <i class="fa fa-edit"></i>
-                                    Edit
-                                </a></td>
-                        </tr>
+                        @endforeach
                         </tbody>
                     </table>
                 </div>
