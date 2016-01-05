@@ -18,12 +18,16 @@ class DatabaseSeeder extends Seeder
          DB::table('users')->insert([
             'name' => 'Vanessa Geiger',
             'email' => 'v.geiger@otterbach.de',
+             'abteilung' => 'Otterbach IT',
+             'telnr' => '07222 952-184',
             'password' => bcrypt('sendit'),
         ]);
 
         DB::table('users')->insert([
             'name' => 'Florian Gehringer',
             'email' => 'f.gehringer@otterbach.de',
+            'abteilung' => 'externer Programmierer',
+            'telnr' => '06029 99666-4',
             'password' => bcrypt('sendit'),
         ]);
 
