@@ -35,4 +35,5 @@ Route::group(['middleware' => 'web'], function () {
     Route::get('users', ['as' => 'users', 'uses' =>'UserController@index']);
 
 
+
 });

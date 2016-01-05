@@ -17,7 +17,7 @@ class UserController extends Controller
 
     public function details($id) {
     	$user = \App\User::find($id);
-        var_dump($user->name);
-
+        //var_dump($user->name);
+        return view('userdetail');
     }
 }
