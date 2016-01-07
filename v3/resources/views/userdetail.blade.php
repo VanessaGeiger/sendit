@@ -86,16 +86,15 @@
                         </tr>
                         </thead>
                         <tbody>
-                        {{--@foreach ($users as $user)--}}
+                       @foreach ($entries as $entry)
 
                             <tr class="{cycle values="even,odd"}" role="row">
-                            <td class="sorting_1">Bild1.jpg</td>
+                            <td class="sorting_1">{{ $entry->original_filename }}</td>
                             <td>/Bla/Irgendwo/Wasweissich/Beispiel/Bild.jpg</td>
                             <td>2,7 MB</td>
                             <td>07.01.2016</td>
                             <td><a class="dropdown-toggle" href="#">
-                                <i class="fa fa-edit"></i>
-Bearbeiten
+                                <i class="fa fa-edit"></i>Bearbeiten
                             </a>
                                 <td><a class="" href="#">
                                 <i class="fa fa-trash"></i>
@@ -104,16 +103,16 @@ Bearbeiten
                                 <td>
                             <a class=""  href="#">
                                 <i class="fa fa-archive"></i>
-Archivieren
+                                Archivieren
 
                             </a></td>
                         <td>
                             <a class="" href="#">
                                 <i class="fa fa-download"></i>
-Download
+                                Download
                             </a></td>
                             </tr>
-                        {{--@endforeach--}}
+                        @endforeach
                         </tbody>
                     </table>
                 </div>
