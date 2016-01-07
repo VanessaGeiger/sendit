@@ -41,9 +41,9 @@
 
                         <tr class="{cycle values="even,odd"}" role="row">
                             <td class="sorting_1">{{ $user->name }}</td>
-                            <td>{{ $user->abteilung }}</td>
+                            <td>{{ $user->department }}</td>
                             <td>{{ $user->email }}</td>
-                            <td>{{ $user->telnr }}</td>
+                            <td>{{ $user->phone }}</td>
                             <td> -</td>
                             <td><a class="" href="{{ URL::route('users') }}/{{ $user->id }}">
                                     <i class="fa fa-edit"></i>
