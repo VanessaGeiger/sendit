@@ -33,13 +33,14 @@
                             <td> -</td>
                             <td><a class="" href="{{ URL::route('users') }}/{{ $user->id }}">
                                     <i class="fa fa-edit"></i>
-                                    Edit
+                                    View
                                 </a></td>
                         </tr>
                         @endforeach
                         </tbody>
                     </table>
     </div>
+        </div>
 
         </section>
 
