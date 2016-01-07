@@ -1,6 +1,8 @@
 <?php namespace App\Http\Controllers;
- 
+
+use App\User; 
 use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Auth;
 use App\Fileentry;
 use Request;
  
@@ -28,6 +30,7 @@ class FileEntryController extends Controller {
 		$extension = $file->getClientOriginalExtension();
 		Storage::disk('local')->put($file->getFilename().'.'.$extension,  File::get($file));
 		$entry = new Fileentry();
+		$entry->user_id = Auth::user()->id;
 		$entry->mime = $file->getClientMimeType();
 		$entry->original_filename = $file->getClientOriginalName();
 		$entry->filename = $file->getFilename().'.'.$extension;
