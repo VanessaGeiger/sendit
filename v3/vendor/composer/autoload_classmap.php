@@ -6,6 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'CreateFileentriesTable' => $baseDir . '/database/migrations/2016_01_07_112605_create_fileentries_table.php',
     'CreatePasswordResetsTable' => $baseDir . '/database/migrations/2014_10_12_100000_create_password_resets_table.php',
     'CreateRolesTables' => $baseDir . '/database/migrations/2015_09_10_193651_create_roles_tables.php',
     'CreateUsersTable' => $baseDir . '/database/migrations/2014_10_12_000000_create_users_table.php',
@@ -515,5 +516,4 @@ return array(
     'SebastianBergmann\\Version' => $vendorDir . '/sebastian/version/src/Version.php',
     'TestCase' => $baseDir . '/tests/TestCase.php',
     'Text_Template' => $vendorDir . '/phpunit/php-text-template/src/Template.php',
-    'UsersTableSeeder' => $baseDir . '/database/seeds/UsersTableSeeder.php',
 );

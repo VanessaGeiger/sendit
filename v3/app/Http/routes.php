@@ -35,6 +35,9 @@ Route::group(['middleware' => 'web'], function () {
     Route::get('users', ['as' => 'users', 'uses' =>'UserController@index']);
 
 
+	Route::get('fileentry/get/{filename}', ['as' => 'getfile', 'uses' => 'FileEntryController@get']);
+	Route::post('fileentry/add',['as' => 'addfile', 'uses' => 'FileEntryController@add']);
+ 
 
 });
 

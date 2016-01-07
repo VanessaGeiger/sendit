@@ -12,6 +12,15 @@ class CreateRolesTables extends Migration
      */
     public function up()
     {
+        Schema::create('fileentries', function(Blueprint $table)
+        {
+            $table->increments('id');
+            $table->string('filename');
+            $table->string('mime');
+            $table->string('original_filename');
+            $table->timestamps();
+        });
+
         Schema::create('roles', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');
@@ -69,6 +78,7 @@ class CreateRolesTables extends Migration
     public function down()
     {
         DB::statement('SET FOREIGN_KEY_CHECKS = 0');
+        Schema::dropIfExists('fileentries');
         Schema::dropIfExists('roles');
         Schema::dropIfExists('permissions');
         Schema::dropIfExists('permission_role');

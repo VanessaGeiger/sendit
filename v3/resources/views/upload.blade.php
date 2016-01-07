@@ -11,8 +11,12 @@
 
     <!-- Main content -->
     <section class="content">
-        <p>Hier kann man Sachen uploaden und der ganze scheiß </p>
-        @yield('content')
+            <form action="{{ url('/fileentry/add') }}" method="post" enctype="multipart/form-data">
+            <input type="hidden" name="_token" value="{{ csrf_token() }}">
+
+        <input type="file" name="filefield">
+        <input type="submit">
+    </form>
 
     </section><!-- /.content -->
 @endsection
