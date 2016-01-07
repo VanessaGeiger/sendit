@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -24,6 +25,16 @@ class HomeController extends Controller
      */
     public function index()
     {
-         return view('home');
+        $files = \App\Fileentry::where('user_id', Auth::user()->id)->orderBy('id', 'desc')->take(10)->get();
+        $total_size = $this->human_filesize(\App\Fileentry::where('user_id', Auth::user()->id)->sum('size'));
+        $active = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads', '<', 1)->orderBy('id', 'desc')->take(10)->count();
+        $downloaded = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads', '0')->orderBy('id', 'desc')->take(10)->count();
+        return view('home',compact('files','total_size','active','downloaded'));
+    }
+
+    public function human_filesize($bytes, $dec = 2) { 
+        $size = array('B', 'kB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'); 
+        $factor = floor((strlen($bytes) - 1) / 3); 
+        return sprintf("%.{$dec}f", $bytes / pow(1024, $factor)) ." ". @$size[$factor]; 
     }
 }

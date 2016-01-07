@@ -14,9 +14,9 @@
 
         <div class="row">
             <div class="col-lg-3 col-xs-6">
-                <div class="small-box bg-aqua">
+                <div class="small-box bg-red">
                     <div class="inner">
-                        <h3>40</h3>
+                        <h3>{{$active}}</h3>
                         <p>Aktive Links</p>
                     </div>
                     <div class="icon">
@@ -29,26 +29,12 @@
                 </div>
             </div>
 
+
+
             <div class="col-lg-3 col-xs-6">
                 <div class="small-box bg-green">
                     <div class="inner">
-                        <h3>3</h3>
-                        <p>Dateien gelöscht</p>
-                    </div>
-                    <div class="icon">
-                        <i class="fa fa-trash-o"></i>
-                    </div>
-                    <a class="small-box-footer" href="#">
-                        Mehr Info
-                        <i class="fa fa-arrow-circle-right"></i>
-                    </a>
-                </div>
-            </div>
-
-            <div class="col-lg-3 col-xs-6">
-                <div class="small-box bg-red">
-                    <div class="inner">
-                        <h3>110</h3>
+                        <h3>{{$downloaded}}</h3>
                         <p>Dateien gedownloaded</p>
                     </div>
                     <div class="icon">
@@ -60,7 +46,21 @@
                     </a>
                 </div>
             </div>
-
+            <div class="col-lg-3 col-xs-6">
+                <div class="small-box bg-aqua">
+                    <div class="inner">
+                        <h3>{{$total_size}}</h3>
+                        <p>Datenvolumen gesamt</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-trash-o"></i>
+                    </div>
+                    <a class="small-box-footer" href="#">
+                        Mehr Info
+                        <i class="fa fa-arrow-circle-right"></i>
+                    </a>
+                </div>
+            </div>
             </div>
 
 
@@ -90,42 +90,30 @@
                     </tr>
                     </thead>
                     <tbody>
-                    <tr>
+                    @foreach ($files as $file)
+
+                            
+                    <tr class="{cycle values="even,odd"}" role="row">
                         <td>
-                            01.01.2016
+                            {{$file->created_at->format('d. M. Y - H:i:s')}}
                         </td>
-                        <td>Audi A1 Videos</td>
+                        <td>{{$file->original_filename}}</td>
                         <td>
-                            <span class="label label-danger">ungeöffnet</span>
+                            
+                              @if ($file->downloads)
+                                 <span class="label label-success">geladen</span>
+                              @else
+                                 <span class="label label-danger">ungeöffnet</span>
+                              @endif
+                            
                         </td>
                         <td>
                             <a href="pages/user/MaxMustermann.html">Max Mustermann</a>
                         </td>
                     </tr>
-                    <tr>
-                        <td>
-                            30.12.2015
-                        </td>
-                        <td>LRP Schulungsportal PSD</td>
-                        <td>
-                            <span class="label label-info">Zugestellt</span>
-                        </td>
-                        <td>
-                            <a href="pages/user/AndreasMerkel.html">Andres Merkel</a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            22.12.2015
-                        </td>
-                        <td>HSV Stadionmagazin PDF</td>
-                        <td>
-                            <span class="label label-success">Heruntergeladen</span>
-                        </td>
-                        <td>
-                            <a href="pages/user/SabinebenzReichel.html">Sabine Benz-Reichel</a>
-                        </td>
-                    </tr>
+                    @endforeach
+                    
+                    
 
 
                     </tbody>

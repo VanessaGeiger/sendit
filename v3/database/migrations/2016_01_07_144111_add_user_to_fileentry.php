@@ -16,7 +16,8 @@ class AddUserToFileentry extends Migration
         Schema::table('fileentries', function($table) {
             $table->integer('user_id')->unsigned();
             $table->integer('size');
-
+            $table->integer('downloads');
+            $table->string('hash');
             $table->foreign('user_id')
                   ->references('id')
                   ->on('users')

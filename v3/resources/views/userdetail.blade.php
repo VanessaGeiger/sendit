@@ -91,8 +91,8 @@
                             <tr class="{cycle values="even,odd"}" role="row">
                             <td class="sorting_1">{{ $entry->original_filename }}</td>
                             <td>/Bla/Irgendwo/Wasweissich/Beispiel/Bild.jpg</td>
-                            <td>{{ $entry->size }}</td>
-                            <td>{{ $entry->created_at }}</td>
+                            <td>{{ $entry->human_filesize() }}</td>
+                            <td>{{ $entry->created_at->format('d. M. Y - H:i:s') }}</td>
                             <td><a class="dropdown-toggle" href="#">
                                 <i class="fa fa-edit"></i>Bearbeiten
                             </a>

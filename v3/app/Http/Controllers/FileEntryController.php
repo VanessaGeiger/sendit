@@ -5,7 +5,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Auth;
 use App\Fileentry;
 use Request;
- 
+use Mail;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\File;
 use Illuminate\Http\Response;
@@ -35,20 +35,35 @@ class FileEntryController extends Controller {
 		$entry->original_filename = $file->getClientOriginalName();
 		$entry->filename = $file->getFilename().'.'.$extension;
 		$entry->size = $file->getClientSize();
+		$entry->hash = sha1($entry->original_filename.time());
+		$entry->downloads = 0;
  
 		$entry->save();
+
+		$data['params']['filename']=$entry->hash;
+
+		Mail::queue('emails.download', $data, function ($message) {
+			$message->to('fg@brainium.de');
+			$message->subject('Download');
+			/*$message->cc($address, $name = null);
+			$message->bcc($address, $name = null);
+			$message->replyTo($address, $name = null);
+			$message->priority($level);
+			*/
+
+		});
  
-		return redirect('upload');
+		return redirect('/');
 		
 	}
 
-	public function get($filename){
+	public function get($hash){
 	
-		$entry = Fileentry::where('filename', '=', $filename)->firstOrFail();
+		$entry = Fileentry::where('hash', '=', $hash)->firstOrFail();
 		$file = Storage::disk('local')->get($entry->filename);
- 
-		return (new Response($file, 200))
-              ->header('Content-Type', $entry->mime);
+		$entry->downloads++;
+		$entry->update();
+		return (new Response($file, 200))->header('Content-Type', $entry->mime);
 	}
 }
  

@@ -37,7 +37,8 @@
             <li class="header">Send IT</li>
             <!-- Optionally, you can add icons to the links -->
             @if (Auth::check())
-                <li><a href="/logout"><span>Logout</span><i class="fa fa-sign-out pull-right"></i></a></li>
+                <li><a href="{{ URL::route('dashboard') }}"><span>Dashboard</span><i class="fa fa-dashboard pull-right"></i></a></li>
+                
                 <li><a href="{{ URL::route('upload') }}"><span>Upload</span><i class="fa fa-cloud-upload pull-right"></i></a></li>
                 <li><a href="{{ URL::route('history') }}"><span>Verlauf</span><i class="fa fa-history pull-right"></i></a></li>
                 <li><a href="{{ URL::route('users') }}"><span>Benutzerverwaltung</span><i class="fa fa-users pull-right"></i></a></li>
@@ -48,6 +49,7 @@
                         <li><a href="#">Link in level 2</a></li>
                     </ul>
                 </li>
+                <li><a href="/logout"><span>Logout</span><i class="fa fa-sign-out pull-right"></i></a></li>
             @else
                 <li><a href="/login"><span>Login</span><i class="fa fa-sign-in pull-right"></i></a></li>
             @endif
