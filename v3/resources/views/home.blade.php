@@ -53,7 +53,7 @@
                         <p>Datenvolumen gesamt</p>
                     </div>
                     <div class="icon">
-                        <i class="fa fa-trash-o"></i>
+                        <i class="fa fa-briefcase"></i>
                     </div>
                     <a class="small-box-footer" href="#">
                         Mehr Info
