@@ -34,6 +34,7 @@ class FileEntryController extends Controller {
 		$entry->mime = $file->getClientMimeType();
 		$entry->original_filename = $file->getClientOriginalName();
 		$entry->filename = $file->getFilename().'.'.$extension;
+		$entry->size = $file->getClientSize();
  
 		$entry->save();
  
