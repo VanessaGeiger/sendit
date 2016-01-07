@@ -37,3 +37,13 @@ Route::group(['middleware' => 'web'], function () {
 
 
 });
+
+/*
+// download file
+public function download($fileId){  
+    $entry = Fileentry::where('file_id', '=', $fileId)->firstOrFail();
+    $pathToFile=storage_path()."/app/".$entry->filename;
+    return response()->download($pathToFile);           
+}
+
+*/
