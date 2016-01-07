@@ -39,6 +39,6 @@ class User extends Model implements AuthenticatableContract,
 
     public function fileentries()
     {
-        return $this->hasMany('FileEntry');
+        return $this->hasMany('App\Fileentry');
     }
 }

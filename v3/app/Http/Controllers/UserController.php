@@ -17,7 +17,7 @@ class UserController extends Controller
 
     public function details($id) {
     	$user = \App\User::find($id);
-        $entries = \App\Fileentry::all();
+        $entries = $user->fileentries;
 
         //var_dump($entries->name);
 
