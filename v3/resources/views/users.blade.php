@@ -1,7 +1,6 @@
 @extends('admin_template')
 
 @section('content')
-    <section class="content-header">
         <h4>
             {{ $page_title or "Benutzerverwaltung" }}
             <small>{{ $page_description or null }}</small>
@@ -45,9 +44,8 @@
         </section>
 
         <!-- Main content -->
-        <section class="content">
-            <p> </p>
+
             @yield('content')
 
-        </section><!-- /.content -->
+
 @endsection

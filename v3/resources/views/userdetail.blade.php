@@ -1,11 +1,7 @@
 @extends('admin_template')
 
 @section('content')
-    <section class="content-header">
-        <h4>
-            {{ $page_title or null }}
-            <small>{{ $page_description or null }}</small>
-        </h4>
+
 
     {{--Form zum bearbeiten des Users --}}
         {{--<div class="col-md-5">
@@ -53,7 +49,8 @@
             <div class="box-header with-border">
                 <h3 class="box-title">{{ $user->name }} </h3>
                 <small class="pull-right">zuletz online: 07.01.2016, 14:11:03</small>
-<br>                <span>
+                    <br>
+                <span>
                     {{ $user->email }} <br>
                     {{ $user->department }} <br>
                     {{ $user->phone }} <br>
@@ -64,11 +61,10 @@
                 </span>
             </div>
         </div>
-
+        </div>
 </div>
-    </div>
-        <div class="row">
-            <div class="box box-">
+
+            <div class="box box">
                 <div class="box-header">
                     <h3 class="box-title">Alle Dateien</h3>
                 </div>
@@ -117,15 +113,9 @@
                     </table>
                 </div>
             </div>
-</div>
-
-    </section>
 
 
-    <!-- Main content -->
-    <section class="content">
 
-        @yield('content')
 
-    </section><!-- /.content -->
+
 @endsection

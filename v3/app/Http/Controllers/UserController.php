@@ -19,7 +19,7 @@ class UserController extends Controller
     	$user = \App\User::find($id);
         $entries = $user->fileentries;
 
-        //var_dump($entries->name);
+        //var_dump($user->name);
 
         return view('userdetail', ['user' => $user], ['entries' => $entries]);
     }

@@ -1,15 +1,43 @@
 <!-- Main Header -->
 <header class="main-header">
 
-    <!-- Logo -->
-    <a href="index2.html" class="logo"><b>send</b>IT</a>
-
     <!-- Header Navbar -->
-    <nav class="navbar navbar-static-top" role="navigation">
-        <!-- Sidebar toggle button-->
-        <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
-            <span class="sr-only">Toggle navigation</span>
-        </a>
+    <nav class="navbar navbar-static-top">
+
+        <div class="container">
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+            <div id="navbar-collapse" class="collapse navbar-collapse pull-left">
+                <a class="navbar-brand" href="/">
+                    <b>Send</b>
+                    IT
+                </a>
+            <ul class="nav navbar-nav">
+                <!-- Optionally, you can add icons to the links -->
+                @if (Auth::check())
+                    <li><a href="{{ URL::route('dashboard') }}"><i class="fa fa-dashboard pull-down"></i> Dashboard</a></li>
+                    <li><a href="{{ URL::route('upload') }}"><i class="fa fa-cloud-upload pull-down"></i> Upload</a></li>
+                    <li><a href="{{ URL::route('history') }}"><i class="fa fa-history pull-down"></i> Verlauf</a></li>
+                    <li><a href="{{ URL::route('users') }}"><i class="fa fa-users pull-down"></i> Benutzerverwaltung</a></li>
+                    <li class="treeview">
+                        <a href="{{ URL::route('profile') }}"><i class="fa fa-gear pull-down"></i>Einstellungen</a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#">Link in level 2</a></li>
+                            <li><a href="#">Link in level 2</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/logout"><i class="fa fa-sign-out pull-down"></i>Logout</a></li>
+                @else
+                    <li><a href="/login"><i class="fa fa-sign-in pull-down"></i><Login/a></li>
+                @endif
+
+
+            </ul>
+
+</div>
+
+
+
         <!-- Navbar Right Menu -->
         <div class="navbar-custom-menu">
             <ul class="nav navbar-nav">
@@ -108,7 +136,7 @@
                     <!-- Menu Toggle Button -->
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <!-- The user image in the navbar-->
-                        <img src="{{ asset("/bower_components/admin-lte/dist/img/user2-160x160.jpg") }}" class="user-image" alt="User Image"/>
+                        {{--<img src="{{ asset("/bower_components/admin-lte/dist/img/user2-160x160.jpg") }}" class="user-image" alt="User Image"/>--}}
                         <!-- hidden-xs hides the username on small devices so only the image appears. -->
                         <span class="hidden-xs">Alexander Pierce</span>
                     </a>
@@ -139,7 +167,7 @@
                                 <a href="#" class="btn btn-default btn-flat">Profile</a>
                             </div>
                             <div class="pull-right">
-                                <a href="#" class="btn btn-default btn-flat">Sign out</a>
+                                <a href="#" class="btn btn-default btn-flat">Log out</a>
                             </div>
                         </li>
                     </ul>
