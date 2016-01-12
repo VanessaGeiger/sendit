@@ -13,7 +13,7 @@
   .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Forces Hotmail to display normal line spacing.  More on that: http://www.emailonacid.com/forum/viewthread/43/ */ 
   p {margin: 0; padding: 0; font-size: 0px; line-height: 0px;} /* squash Exact Target injected paragraphs */
   table td {border-collapse: collapse;} /* Outlook 07, 10 padding issue fix */
-  table {border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; } /* remove spacing around Outlook 07, 10 tables */
+  table {border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #4c4c4c} /* remove spacing around Outlook 07, 10 tables */
   table th {font-weight: bold; font-size: larger}
   
   /* bring inline */

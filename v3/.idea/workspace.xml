@@ -27,7 +27,7 @@
       <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-9.375">
               <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="37" />
               <folding />
             </state>
@@ -66,28 +66,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileEntryController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FileEntryController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FileEntryController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.208333">
+            <state vertical-scroll-proportion="0.33600917">
               <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="download.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/emails/download.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17431192">
-              <caret line="44" column="96" selection-start-line="44" selection-start-column="96" selection-end-line="44" selection-end-column="96" />
-              <folding>
-                <element signature="n#style#0;n#table#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#th#0;n#table#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1452614811000" expanded="true" signature="1672:1720" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -536,7 +520,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="1014" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="1014" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -919,7 +903,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-9.375">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="37" />
           <folding />
         </state>
@@ -933,25 +917,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FileEntryController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.208333">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/emails/download.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17431192">
-          <caret line="44" column="96" selection-start-line="44" selection-start-column="96" selection-end-line="44" selection-end-column="96" />
+        <state vertical-scroll-proportion="0.25802752">
+          <caret line="15" column="155" selection-start-line="15" selection-start-column="155" selection-end-line="15" selection-end-column="155" />
           <folding>
             <element signature="n#style#0;n#table#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#th#0;n#table#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1452614811000" expanded="true" signature="1672:1720" placeholder="..." />
+            <marker date="1452615026000" expanded="true" signature="1747:1795" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FileEntryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33600917">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
