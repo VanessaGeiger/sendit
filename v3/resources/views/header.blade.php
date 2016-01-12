@@ -26,9 +26,9 @@
                             <li><a href="#">Link in level 2</a></li>
                         </ul>
                     </li>
-                    <li><a href="/logout"><i class="fa fa-sign-out pull-down"></i>Logout</a></li>
+                    <li><a href="/logout"><i class="fa fa-sign-out pull-down"></i> Logout</a></li>
                 @else
-                    <li><a href="/login"><i class="fa fa-sign-in pull-down"></i><Login/a></li>
+                    <li><a href="/login"><i class="fa fa-sign-in pull-down"></i> Login</a></li>
                 @endif
 
 
