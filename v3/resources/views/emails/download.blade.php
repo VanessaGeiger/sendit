@@ -29,16 +29,17 @@
   </style>
 <![endif]-->
 </head>
-<body style="width:100%; margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; >
+<body style="width:100%; margin-top: 50px;margin-left: auto; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; >
 
 <!-- body wrapper -->
-<table cellpadding="10" cellspacing="10" border="0" style="margin:0; padding:0; width:100%; line-height: 100% !important;">
+<table cellpadding="0" cellspacing="0" border="0" style="margin:0px; padding:0px; width:100%; line-height: 100% !important;">
 
   <tr>
     <td valign="top">
       <!-- edge wrapper -->
-      <table cellpadding="10" cellspacing="10" border="0" align="center" width="600" style="background: #ecf0f5;">
-        <th align="center">Neuste Uploads</th>
+      <table cellpadding="10" cellspacing="20" border="0" align="center" width="600" style="background: #ecf0f5;">
+        <th align="center"><img src="http://localhost:8888/fileentry/get/79368c34c41b4cb770ecff489102bfc2c7b38581" style="width: 70px; padding-bottom: 5px"/>
+        Neuste Uploads</th>
         <tr>
           <td valign="top">
             <!-- content wrapper -->
@@ -47,38 +48,43 @@
                 <td valign="top" style="vertical-align: top;">
                           <!-- ///////////////////////////////////////////////////// -->
 
-                          <table cellpadding="0" cellspacing="0" border="0" align="left">
+                          <table cellpadding="10" cellspacing="3" border="0" align="left">
+
+                              <th align="left" style="font-size: medium; padding-bottom: 15px">
+                                Hier ist dein Link zu deinen Dateien:
+                                </th>
+
                             <tr>
-                              <td valign="top" style="vertical-align: top;">
-                                <span><b>Hi! Hier ist dein Link zu den Dateien:</b></span>
-                                </td>
-                              </tr>
-                            <tr>
-                              <td>
+                            {{--  <td>
                                 <img src="{{ URL::route('getfile',$params) }}"  style="width: 10%;"/>
-                                <span style="">{{ URL::route('getfile',$params) }}</span>
-                              </td>
+                              </td>--}}
+                              <td><span style="">{{ URL::route('getfile',$params) }}</span>
+                              <br></td>
                             </tr>
+
                           </table>
 
 
-                  <table cellpadding="0" cellspacing="0" border="0" align="center">
+                  <table cellpadding="10" cellspacing="0" border="0" align="left">
 
                     <tr height="30">
-                      <td valign="top" style="vertical-align: top; background: #FFFFFF;" width="600" >
+                      <td valign="top" style="vertical-align: top; background: #FFFFFF;" width="600">
                         <span style="">{{ $mailcontent }}</span>
                       </td>
                     </tr>
-                  </table>
-{{--
-                          <table cellpadding="0" cellspacing="0" border="0" align="left">
-                            <tr>
-                              <td valign="top" style="vertical-align: top;">
 
-                                <img src="{{ URL::route('getfile',$params) }}"  style="width: 10%;"/>
-                              </td>
-                            </tr>
-                          </table>--}}
+
+
+
+                    <tr>
+                      <td>
+                       <span>Mit freundlichen Grüßen
+                        <br>{{ $user_name }}</span>
+                      </td>
+                    </tr>
+                  </table>
+
+
 
 
 
