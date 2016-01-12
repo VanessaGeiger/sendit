@@ -41,11 +41,15 @@ class FileEntryController extends Controller {
 		$entry->save();
 
 		$data['params']['filename']=$entry->hash;
+		$data['mailcontent'] = Request::input('mailcontent');
+
+
 
 		Mail::queue('emails.download', $data, function ($message) {
-			$message->to('fg@brainium.de');
-			$message->subject('Download');
-			/*$message->cc($address, $name = null);
+			$message->to(Request::input('email'));
+			$message->subject(Request::input('subject'));
+			/*$message->setBody(Request::input('mailcontent'));
+			$message->cc($address, $name = null);
 			$message->bcc($address, $name = null);
 			$message->replyTo($address, $name = null);
 			$message->priority($level);

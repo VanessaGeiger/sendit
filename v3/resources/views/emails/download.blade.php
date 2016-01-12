@@ -14,13 +14,14 @@
   p {margin: 0; padding: 0; font-size: 0px; line-height: 0px;} /* squash Exact Target injected paragraphs */
   table td {border-collapse: collapse;} /* Outlook 07, 10 padding issue fix */
   table {border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; } /* remove spacing around Outlook 07, 10 tables */
+  table th {font-weight: bold; font-size: larger}
   
   /* bring inline */
   img {display: block; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;}
   a img {border: none;} 
-  a {text-decoration: none; color: #000001;} /* text link */
-  a.phone {text-decoration: none; color: #000001 !important; pointer-events: auto; cursor: default;} /* phone link, use as wrapper on phone numbers */
-  span {font-size: 13px; line-height: 17px; font-family: monospace; color: #000001;}
+  a {text-decoration: none; color: #e2493e;} /* text link */
+  a.phone {text-decoration: none; color: #e2493e !important; pointer-events: auto; cursor: default;} /* phone link, use as wrapper on phone numbers */
+  span {font-size: 13px; line-height: 17px; font-family: "Helvetica Neue LT"; color: #4c4c4c;}
 </style>
 <!--[if gte mso 9]>
   <style>
@@ -28,44 +29,62 @@
   </style>
 <![endif]-->
 </head>
-<body style="width:100%; margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;">
+<body style="width:100%; margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; >
 
 <!-- body wrapper -->
-<table cellpadding="0" cellspacing="0" border="0" style="margin:0; padding:0; width:100%; line-height: 100% !important;">
+<table cellpadding="10" cellspacing="10" border="0" style="margin:0; padding:0; width:100%; line-height: 100% !important;">
+
   <tr>
     <td valign="top">
       <!-- edge wrapper -->
-      <table cellpadding="0" cellspacing="0" border="0" align="center" width="600" style="background: #efefef;">
+      <table cellpadding="10" cellspacing="10" border="0" align="center" width="600" style="background: #ecf0f5;">
+        <th align="center">Neuste Uploads</th>
         <tr>
           <td valign="top">
             <!-- content wrapper -->
-            <table cellpadding="0" cellspacing="0" border="0" align="center" width="560" style="background: #cfcfcf;">
+            <table cellpadding="0" cellspacing="0" border="0" align="center" width="560" style="background: #FFFFFF;">
               <tr>
                 <td valign="top" style="vertical-align: top;">
-<!-- ///////////////////////////////////////////////////// -->
+                          <!-- ///////////////////////////////////////////////////// -->
 
-<table cellpadding="0" cellspacing="0" border="0" align="center">
-  <tr>
-    <td valign="top" style="vertical-align: top;">
-      <span style="">{{ URL::route('getfile',$params) }}</span>
-    </td>
-  </tr>
-</table>
-<table cellpadding="0" cellspacing="0" border="0" align="center">
-  <tr>
-    <td valign="top" style="vertical-align: top;">
-      <img src="full path to image" alt="alt text" title="title text" width="50" height="50" style="width: 50px; height: 50px;"/>
-    </td>
-  </tr>
-</table>
-<table cellpadding="0" cellspacing="0" border="0" align="center">
-  <tr height="30">
-    <td valign="top" style="vertical-align: top; background: #efefef;" width="600" >
-    </td>
-  </tr>
-</table>
+                          <table cellpadding="0" cellspacing="0" border="0" align="left">
+                            <tr>
+                              <td valign="top" style="vertical-align: top;">
+                                <span><b>Hi! Hier ist dein Link zu den Dateien:</b></span>
+                                </td>
+                              </tr>
+                            <tr>
+                              <td>
+                                <img src="{{ URL::route('getfile',$params) }}"  style="width: 10%;"/>
+                                <span style="">{{ URL::route('getfile',$params) }}</span>
+                              </td>
+                            </tr>
+                          </table>
 
-<!-- //////////// -->
+
+                  <table cellpadding="0" cellspacing="0" border="0" align="center">
+
+                    <tr height="30">
+                      <td valign="top" style="vertical-align: top; background: #FFFFFF;" width="600" >
+                        <span style="">{{ $mailcontent }}</span>
+                      </td>
+                    </tr>
+                  </table>
+{{--
+                          <table cellpadding="0" cellspacing="0" border="0" align="left">
+                            <tr>
+                              <td valign="top" style="vertical-align: top;">
+
+                                <img src="{{ URL::route('getfile',$params) }}"  style="width: 10%;"/>
+                              </td>
+                            </tr>
+                          </table>--}}
+
+
+
+
+
+                          <!-- //////////// -->
                 </td>
               </tr>
             </table>

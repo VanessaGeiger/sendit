@@ -17,15 +17,15 @@
                         <div class="box-body">
                             <div class="form-group">
                                 <label for="exampleInputEmpfaenger">Empfänger</label>
-                                <input id="exampleInputEmail1" class="form-control" type="email" placeholder="Enter email">
+                                <input id="exampleInputEmail1" class="form-control" type="email" name="email" placeholder="Enter email">
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputBetreff1">Betreff</label>
-                                <input id="exampleInputBetreff1" class="form-control" type="text" placeholder="Betreff">
+                                <input id="exampleInputBetreff1" class="form-control" type="text" name="subject" placeholder="Betreff">
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputMailtext1">Nachricht</label>
-                            <textarea class="form-control" placeholder="Enter ..." rows="3"></textarea>
+                            <textarea class="form-control" name="mailcontent" placeholder="Enter ..." rows="3"></textarea>
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputFile">Datei hochladen</label>
