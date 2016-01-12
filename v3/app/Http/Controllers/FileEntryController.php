@@ -37,13 +37,12 @@ class FileEntryController extends Controller {
 		$entry->size = $file->getClientSize();
 		$entry->hash = sha1($entry->original_filename.time());
 		$entry->downloads = 0;
-		$entry->user_name = Auth::user(	)->name;
  
 		$entry->save();
 
 		$data['params']['filename']=$entry->hash;
 		$data['mailcontent'] = Request::input('mailcontent');
-		$data['username'] =$entry->user_name;
+		$data['username'] =Auth::user()->name;
 
 
 

@@ -79,7 +79,7 @@
                     <tr>
                       <td>
                        <span>Mit freundlichen Grüßen
-                        <br>{{ $user_name }}</span>
+                        <br>{{ $username }}</span>
                       </td>
                     </tr>
                   </table>
