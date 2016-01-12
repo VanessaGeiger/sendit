@@ -34,11 +34,10 @@
 <!-- body wrapper -->
 <table cellpadding="0" cellspacing="0" border="0" style="margin:0px; padding:0px; width:100%; line-height: 100% !important;">
 
-  <tr>
-    <td valign="top">
+
       <!-- edge wrapper -->
       <table cellpadding="10" cellspacing="20" border="0" align="center" width="600" style="background: #ecf0f5;">
-        <th align="center"><img src="http://localhost:8888/fileentry/get/79368c34c41b4cb770ecff489102bfc2c7b38581" style="width: 70px; padding-bottom: 5px"/>
+        <th align="center"><img src="/bower_components/admin-lte/dist/img/CI_Siegel.jpg" style="width: 70px; padding-bottom: 5px"/>
         Neuste Uploads</th>
         <tr>
           <td valign="top">
@@ -46,9 +45,11 @@
             <table cellpadding="0" cellspacing="0" border="0" align="center" width="560" style="background: #FFFFFF;">
               <tr>
                 <td valign="top" style="vertical-align: top;">
-                          <!-- ///////////////////////////////////////////////////// -->
 
-                          <table cellpadding="10" cellspacing="3" border="0" align="left">
+
+
+                        <!-- ///////////////////////////////////////////////////// -->
+                  <table cellpadding="10" cellspacing="3" border="0" align="left">
 
                               <th align="left" style="font-size: medium; padding-bottom: 15px">
                                 Hier ist dein Link zu deinen Dateien:
@@ -61,36 +62,21 @@
                               <td><span style="">{{ URL::route('getfile',$params) }}</span>
                               <br></td>
                             </tr>
-
-                          </table>
-
-
-                  <table cellpadding="10" cellspacing="0" border="0" align="left">
-
-                    <tr height="30">
-                      <td valign="top" style="vertical-align: top; background: #FFFFFF;" width="600">
-                        <span style="">{{ $mailcontent }}</span>
-                      </td>
-                    </tr>
-
-
-
-
-                    <tr>
-                      <td>
-                       <span>Mit freundlichen Grüßen
-                        <br>{{ $username }}</span>
-                      </td>
-                    </tr>
+                            <tr height="30">
+                              <td valign="top" style="vertical-align: top; background: #FFFFFF;" width="600">
+                                <span style="">{{ $mailcontent }}</span>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                               <span>Mit freundlichen Grüßen
+                                <br>{{ $username }}</span>
+                              </td>
+                            </tr
                   </table>
+                  <!-- //////////// -->
 
 
-
-
-
-
-
-                          <!-- //////////// -->
                 </td>
               </tr>
             </table>
@@ -99,9 +85,7 @@
         </tr>
       </table>
       <!-- / edge wrapper -->
-    </td>
-  </tr>
-</table>  
+
 <!-- / page wrapper -->
 </body>
 </html>
