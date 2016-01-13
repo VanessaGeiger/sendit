@@ -68,15 +68,11 @@ class FileEntryController extends Controller {
 		$file = Storage::disk('local')->get($entry->filename);
 		$entry->downloads++;
 		$entry->update();
-		return (new Response($file, 200))->header('Content-Type', $entry->mime);
+		$pathToFile=storage_path()."/app/".$entry->filename;
+		return response()->download($pathToFile);
 
 			}
 
-	// download file
-	public function download($fileId){
-		$entry = Fileentry::where('file_id', '=', $fileId)->firstOrFail();
-		$pathToFile=storage_path()."/app/".$entry->filename;
-		return response()->download($pathToFile);
 	}
-}
+
  
