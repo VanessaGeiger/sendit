@@ -18,11 +18,12 @@ class AddUserToFileentry extends Migration
             $table->integer('size');
             $table->integer('downloads');
             $table->string('hash');
+            $table->date('expiration');
             $table->foreign('user_id')
                   ->references('id')
                   ->on('users')
                   ->onDelete('cascade');
-            $table->timestamps();
+
         });
     }
 

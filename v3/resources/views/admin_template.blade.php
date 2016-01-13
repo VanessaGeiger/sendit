@@ -88,18 +88,18 @@ $(document).ready(function() {
     $('.dataTable').DataTable();
 
     function cb(start, end) {
-        $('#reportrange span').html(end.format('MMMM D, YYYY')); //start.format('MMMM D, YYYY') + ' - ' + 
+        $('#reportrange span').html(end.format('D MMMM YYYY')); //start.format('MMMM D, YYYY') + ' - ' +
     }
     cb(moment().subtract(29, 'days'), moment());
 
     $('#reportrange').daterangepicker({
         ranges: {
            'Today': [moment(), moment()],
-           'Yesterday': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
-           'Last 7 Days': [moment().subtract(6, 'days'), moment()],
-           'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+           'Tomorrow': [moment().add(1, 'days'), moment().add(1, 'days')],
+           'Next 7 Days': [moment().add(6, 'days'), moment().add(6, 'days')],
+           'Next 30 Days': [moment().add(29, 'days'), moment().add(29, 'days')],
            'This Month': [moment().startOf('month'), moment().endOf('month')],
-           'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+           'Next Month': [moment().add(1, 'month').startOf('month'), moment().add(1, 'month').endOf('month')]
         }
     }, cb);
 

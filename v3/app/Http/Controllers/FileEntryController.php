@@ -37,6 +37,7 @@ class FileEntryController extends Controller {
 		$entry->size = $file->getClientSize();
 		$entry->hash = sha1($entry->original_filename.time());
 		$entry->downloads = 0;
+		$entry->expiration = Request::input('datepicker');
  
 		$entry->save();
 
