@@ -30,13 +30,14 @@
 
 
                             <div class="form-group">
-                                <label>Gültigkeitsdauer</label>
+                                <label>Gültigkeitsdauer:</label>
                                 <div class="input-group">
-                                  <button class="btn btn-default pull-right" id="daterange-btn">
-                                    <i class="fa fa-calendar"></i> Date range picker
-                                    <i class="fa fa-caret-down"></i>
-                                  </button>
-                                </div>
+                                    <div id="reportrange" class="pull-right" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc; width: 100%">
+                                        <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>&nbsp;
+                                        <span></span> <b class="caret"></b>
+                                        <input type="hidden" id="datepicker">
+                                    </div>
+                                  </div>
                               </div><!-- /.form group -->
 
 
