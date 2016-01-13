@@ -4,18 +4,6 @@
 
 
     <!-- Main content -->
-
-<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-<script src="//code.jquery.com/jquery-1.10.2.js"></script>
-<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-<link rel="stylesheet" href="/resources/demos/style.css">
-<script>
-    $(function() {
-                  $( "#datepicker" ).datepicker( "option", "dateFormat", "d M, y" );
-        });
-    });
-</script>
-
         <div class="row">
             <div class="col-md-6">
                 <div class="box box-danger">
@@ -40,15 +28,17 @@
 
 
 
+
                             <div class="form-group">
-                                <label>Gültigkeitsdauer:</label>
+                                <label>Gültigkeitsdauer</label>
                                 <div class="input-group">
-                                    <div class="input-group-addon">
-                                        <i class="fa fa-calendar"></i>
-                                    </div>
-                                    <input id="datepicker" class="form-control pull-right active" type="text">
+                                  <button class="btn btn-default pull-right" id="daterange-btn">
+                                    <i class="fa fa-calendar"></i> Date range picker
+                                    <i class="fa fa-caret-down"></i>
+                                  </button>
                                 </div>
-                            </div>
+                              </div><!-- /.form group -->
+
 
                             <div class="form-group">
                                 <label for="exampleInputFile">Datei hochladen</label>

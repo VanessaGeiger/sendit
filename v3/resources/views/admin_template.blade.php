@@ -16,7 +16,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <link href="http://code.ionicframework.com/ionicons/2.0.0/css/ionicons.min.css" rel="stylesheet" type="text/css" />
 
     <link href="{{ asset ("/bower_components/admin-lte/plugins/datatables/jquery.dataTables.css") }}" rel="stylesheet" type="text/css" />
-
+   <!-- daterange picker -->
+    <link href="{{ asset ("/bower_components/admin-lte/plugins/daterangepicker/daterangepicker-bs3.css") }}" rel="stylesheet" type="text/css" />
 
     <!-- Theme style -->
     <link href="{{ asset("/bower_components/admin-lte/dist/css/AdminLTE.min.css")}}" rel="stylesheet" type="text/css" />
@@ -75,7 +76,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <!-- AdminLTE App -->
 <script src="{{ asset ("/bower_components/admin-lte/dist/js/app.min.js") }}" type="text/javascript"></script>
 
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js" type="text/javascript"></script>
+<script src="{{ asset ("/bower_components/admin-lte//plugins/daterangepicker/daterangepicker.js") }}" type="text/javascript"></script>
 <!-- Optionally, you can add Slimscroll and FastClick plugins.
       Both of these plugins are recommended to enhance the
       user experience -->
@@ -84,6 +86,25 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
 $(document).ready(function() {
     $('.dataTable').DataTable();
+
+    $('#daterange-btn').daterangepicker(
+                {
+                  ranges: {
+                    'Today': [moment(), moment()],
+                    'Yesterday': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+                    'Last 7 Days': [moment().subtract(6, 'days'), moment()],
+                    'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+                    'This Month': [moment().startOf('month'), moment().endOf('month')],
+                    'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+                  },
+                  startDate: moment().subtract(29, 'days'),
+                  endDate: moment()
+                },
+                        function (start, end) {
+                          $('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'));
+                        }
+        );
+     $('#daterange-btn').click(function(e) {e.preventDefault();return false;});
 } );
 
 </script>
