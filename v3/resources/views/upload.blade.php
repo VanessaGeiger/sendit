@@ -5,6 +5,16 @@
 
     <!-- Main content -->
 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script>
+    $(function() {
+                  $( "#datepicker" ).datepicker( "option", "dateFormat", "d M, y" );
+        });
+    });
+</script>
 
         <div class="row">
             <div class="col-md-6">
@@ -27,11 +37,26 @@
                                 <label for="exampleInputMailtext1">Nachricht</label>
                             <textarea class="form-control" name="mailcontent" placeholder="Enter ..." rows="3"></textarea>
                             </div>
+
+
+
+                            <div class="form-group">
+                                <label>Gültigkeitsdauer:</label>
+                                <div class="input-group">
+                                    <div class="input-group-addon">
+                                        <i class="fa fa-calendar"></i>
+                                    </div>
+                                    <input id="datepicker" class="form-control pull-right active" type="text">
+                                </div>
+                            </div>
+
                             <div class="form-group">
                                 <label for="exampleInputFile">Datei hochladen</label>
                                 <input id="exampleInputFile" type="file" name="filefield">
 
                             </div>
+
+                        </div>
 
                         </div>
                         <div class="box-footer">
