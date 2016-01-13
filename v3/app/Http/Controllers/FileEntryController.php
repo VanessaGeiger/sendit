@@ -69,6 +69,14 @@ class FileEntryController extends Controller {
 		$entry->downloads++;
 		$entry->update();
 		return (new Response($file, 200))->header('Content-Type', $entry->mime);
+
+			}
+
+	// download file
+	public function download($fileId){
+		$entry = Fileentry::where('file_id', '=', $fileId)->firstOrFail();
+		$pathToFile=storage_path()."/app/".$entry->filename;
+		return response()->download($pathToFile);
 	}
 }
  
