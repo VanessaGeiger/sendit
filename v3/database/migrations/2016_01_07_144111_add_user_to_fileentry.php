@@ -24,6 +24,7 @@ class AddUserToFileentry extends Migration
                   ->on('users')
                   ->onDelete('cascade');
             $table->string('recipient');
+            $table->string('subject');
 
         });
     }

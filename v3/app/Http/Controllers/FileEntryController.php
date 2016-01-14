@@ -26,8 +26,7 @@ class FileEntryController extends Controller {
  
 	public function add() {
 
- 		$recipient =  Request::input('email');
-		$file = Request::file('filefield');
+ 		$file = Request::file('filefield');
 		$extension = $file->getClientOriginalExtension();
 		Storage::disk('local')->put($file->getFilename().'.'.$extension,  File::get($file));
 		$entry = new Fileentry();
@@ -40,6 +39,7 @@ class FileEntryController extends Controller {
 		$entry->downloads = 0;
 		$entry->expiration = Request::input('datepicker');
 		$entry->recipient = Request::input('recipient');
+		$entry->subject = Request::input ('subject');
  
 		$entry->save();
 
