@@ -101,13 +101,14 @@
                     <!-- Menu Toggle Button -->
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <i class="fa fa-flag-o"></i>
-                        <span class="label label-danger">9</span>
+                        <span class="label label-danger">{{count($notify_downloaded)}}</span>
                     </a>
                     <ul class="dropdown-menu">
-                        <li class="header">You have 9 tasks</li>
+                        <li class="header">You have {{count($notify_downloaded)}} tasks</li>
                         <li>
                             <!-- Inner menu: contains the tasks -->
                             <ul class="menu">
+                                @foreach ($notify_downloaded as $nd)
                                 <li><!-- Task item -->
                                     <a href="#">
                                         <!-- Task title and progress text -->
@@ -124,6 +125,7 @@
                                         </div>
                                     </a>
                                 </li><!-- end task item -->
+                                @endforeach
                             </ul>
                         </li>
                         <li class="footer">
