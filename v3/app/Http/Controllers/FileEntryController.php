@@ -25,7 +25,8 @@ class FileEntryController extends Controller {
 	}
  
 	public function add() {
- 
+
+ 		$recipient =  Request::input('email');
 		$file = Request::file('filefield');
 		$extension = $file->getClientOriginalExtension();
 		Storage::disk('local')->put($file->getFilename().'.'.$extension,  File::get($file));
@@ -38,6 +39,7 @@ class FileEntryController extends Controller {
 		$entry->hash = sha1($entry->original_filename.time());
 		$entry->downloads = 0;
 		$entry->expiration = Request::input('datepicker');
+		$entry->recipient = Request::input('recipient');
  
 		$entry->save();
 
@@ -48,7 +50,7 @@ class FileEntryController extends Controller {
 
 
 		Mail::queue('emails.download', $data, function ($message) {
-			$message->to(Request::input('email'));
+			$message->to(Request::input('recipient'));
 			$message->subject(Request::input('subject'));
 			/*$message->setBody(Request::input('mailcontent'));
 			$message->cc($address, $name = null);

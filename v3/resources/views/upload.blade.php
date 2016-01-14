@@ -15,7 +15,7 @@
                         <div class="box-body">
                             <div class="form-group">
                                 <label for="exampleInputEmpfaenger">Empfänger</label>
-                                <input id="exampleInputEmail1" class="form-control" type="email" name="email" placeholder="Enter email">
+                                <input id="exampleInputEmail1" class="form-control" type="email" name="recipient" placeholder="Enter email">
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputBetreff1">Betreff</label>

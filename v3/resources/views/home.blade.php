@@ -91,7 +91,7 @@
                     <tbody>
                     @foreach ($files as $file)
 
-                            
+
                     <tr class="{cycle values="even,odd"}" role="row">
                         <td>
                             {{$file->created_at->format('d. M. Y - H:i:s')}}
@@ -106,8 +106,9 @@
                               @endif
                             
                         </td>
+
                         <td>
-                            <a href="pages/user/MaxMustermann.html">Max Mustermann</a>
+                            {{ $file->recipient }}
                         </td>
                     </tr>
                     @endforeach
