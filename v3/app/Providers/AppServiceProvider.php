@@ -13,7 +13,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        $downloaded = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads','>', '0')->orderBy('id', 'desc')->get();
+        view()->share("notify_downloaded", $downloaded);
+
     }
 
     /**
