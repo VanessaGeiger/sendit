@@ -148,9 +148,8 @@
                             {{ $file->recipient }}
                         </td>
 
-                    <td><a href="{{ URL::route('getfile', $file->hash) }}">
-                        <i class="fa fa-anchor">
-                        </i></a>
+                    <td>
+                        <div class="btn" data-clipboard-text="{{ URL::route('getfile', $file->hash) }}"><i class="fa fa-anchor"></i></div>
                     </td>
                     </tr>
                     @endforeach
