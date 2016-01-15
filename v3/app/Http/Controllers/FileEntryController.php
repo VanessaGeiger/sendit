@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\File;
 use Illuminate\Http\Response;
 use Carbon\Carbon;
+use Chumper\Zipper\Zipper;
 
  
 class FileEntryController extends Controller {
@@ -42,7 +43,12 @@ class FileEntryController extends Controller {
 		$entry->expiration = Carbon::parse(Request::input('datepicker'))->addDay()->subSecond();
 		$entry->recipient = Request::input('recipient');
 		$entry->subject = Request::input ('subject');
- 
+ 		
+ 		$zipper = new \Chumper\Zipper\Zipper;
+
+ 		$zipper->make('test.zip')->add("bower_components");
+ 		//Zipper::make('public/test.zip')->add($file);
+
 		$entry->save();
 
 		$data['params']['filename']=$entry->hash;
