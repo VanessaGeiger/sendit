@@ -30,8 +30,8 @@ class HomeController extends Controller
         $total_size = $this->human_filesize(\App\Fileentry::where('user_id', Auth::user()->id)->sum('size'));
         $active = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads', '<', 1)->orderBy('id', 'desc')->count();
         $danger = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads', '<', 1)->where('expiration','<',Carbon::now()->addWeek())->orderBy('id', 'desc')->count();
-        
         $downloaded = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads','>','0')->orderBy('id', 'desc')->count();
+
         return view('home',compact('files','total_size','active','danger','downloaded','user'));
     }
 

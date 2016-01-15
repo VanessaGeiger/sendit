@@ -104,6 +104,7 @@
                         <th>Größe</th>
                         <th>Status</th>
                         <th>Empfänger</th>
+                        <th>Link</th>
                     </tr>
                     </thead>
                     <tbody>
@@ -146,6 +147,11 @@
                         <td>
                             {{ $file->recipient }}
                         </td>
+
+                    <td><a href="{{ URL::route('getfile', $file->hash) }}">
+                        <i class="fa fa-anchor">
+                        </i></a>
+                    </td>
                     </tr>
                     @endforeach
                     
