@@ -9,12 +9,9 @@ use Mail;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\File;
 use Illuminate\Http\Response;
-use Carbon\Carbon;
-use Chumper\Zipper\Zipper;
 
- 
 class FileEntryController extends Controller {
- 
+
 	/**
 	 * Display a listing of the resource.
 	 *
@@ -23,10 +20,10 @@ class FileEntryController extends Controller {
 	public function index()
 	{
 		$entries = Fileentry::all();
- 
+
 		return view('fileentries.index', compact('entries'));
 	}
- 
+
 	public function add() {
 
  		$file = Request::file('filefield');
@@ -40,14 +37,9 @@ class FileEntryController extends Controller {
 		$entry->size = $file->getClientSize();
 		$entry->hash = sha1($entry->original_filename.time());
 		$entry->downloads = 0;
-		$entry->expiration = Carbon::parse(Request::input('datepicker'))->addDay()->subSecond();
+		$entry->expiration = Request::input('datepicker');
 		$entry->recipient = Request::input('recipient');
 		$entry->subject = Request::input ('subject');
- 		
- 		$zipper = new \Chumper\Zipper\Zipper;
-
- 		$zipper->make('test.zip')->add("bower_components");
- 		//Zipper::make('public/test.zip')->add($file);
 
 		$entry->save();
 
@@ -68,22 +60,26 @@ class FileEntryController extends Controller {
 			*/
 
 		});
- 
-		return redirect('/');
-		
+
+		return view('uploadsuccess', $data);
+
 	}
 
 	public function get($hash){
-	
+
 		$entry = Fileentry::where('hash', '=', $hash)->firstOrFail();
 		$file = Storage::disk('local')->get($entry->filename);
 		$entry->downloads++;
-		$entry->downloaded_at = Carbon::now();
 		$entry->update();
 		$pathToFile=storage_path()."/app/".$entry->filename;
 		return response()->download($pathToFile);
 
 			}
+	public function success() {
+
+		return view('uploadsuccess');
+	}
+
 
 	}
 
