@@ -16,6 +16,9 @@
         <!-- Main content -->
         <section class="content">
 <p>Hier kann man Sachen Einstellen, wie was weiß ich </p>
+<div class="progress">
+      <div class="progress-bar" style="width: 70%"></div>
+    </div>
             @yield('content')
 
         </section><!-- /.content -->

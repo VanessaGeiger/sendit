@@ -18,7 +18,8 @@ class AddUserToFileentry extends Migration
             $table->integer('size');
             $table->integer('downloads');
             $table->string('hash');
-            $table->date('expiration');
+            $table->timestamp('expiration');
+            $table->timestamp('downloaded_at');
             $table->foreign('user_id')
                   ->references('id')
                   ->on('users')

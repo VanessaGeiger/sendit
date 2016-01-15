@@ -9,6 +9,8 @@ use Mail;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\File;
 use Illuminate\Http\Response;
+use Carbon\Carbon;
+
  
 class FileEntryController extends Controller {
  
@@ -37,7 +39,7 @@ class FileEntryController extends Controller {
 		$entry->size = $file->getClientSize();
 		$entry->hash = sha1($entry->original_filename.time());
 		$entry->downloads = 0;
-		$entry->expiration = Request::input('datepicker');
+		$entry->expiration = Carbon::parse(Request::input('datepicker'))->addDay()->subSecond();
 		$entry->recipient = Request::input('recipient');
 		$entry->subject = Request::input ('subject');
  
@@ -70,6 +72,7 @@ class FileEntryController extends Controller {
 		$entry = Fileentry::where('hash', '=', $hash)->firstOrFail();
 		$file = Storage::disk('local')->get($entry->filename);
 		$entry->downloads++;
+		$entry->downloaded_at = Carbon::now();
 		$entry->update();
 		$pathToFile=storage_path()."/app/".$entry->filename;
 		return response()->download($pathToFile);

@@ -13,7 +13,7 @@
 
         <div class="row">
             <div class="col-lg-3 col-xs-6">
-                <div class="small-box bg-red">
+                <div class="small-box bg-aqua">
                     <div class="inner">
                         <h3>{{$active}}</h3>
                         <p>Aktive Links</p>
@@ -46,7 +46,22 @@
                 </div>
             </div>
             <div class="col-lg-3 col-xs-6">
-                <div class="small-box bg-aqua">
+                <div class="small-box bg-red">
+                    <div class="inner">
+                        <h3>{{$danger}}</h3>
+                        <p>vor Ablauf</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-briefcase"></i>
+                    </div>
+                    <a class="small-box-footer" href="#">
+                        Mehr Info
+                        <i class="fa fa-arrow-circle-right"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-xs-6">
+                <div class="small-box bg-purple">
                     <div class="inner">
                         <h3>{{$total_size}}</h3>
                         <p>Datenvolumen gesamt</p>
@@ -60,7 +75,7 @@
                     </a>
                 </div>
             </div>
-            </div>
+        </div>
 
 
         {{--Liste der letzten Downloads--}}
@@ -82,8 +97,11 @@
                 <table class="table no-margin">
                     <thead>
                     <tr>
+                        <th></th>
+                        <th>Ablaufdatum</th>
                         <th>Datum</th>
                         <th>Titel</th>
+                        <th>Größe</th>
                         <th>Status</th>
                         <th>Empfänger</th>
                     </tr>
@@ -94,9 +112,27 @@
 
                     <tr class="{cycle values="even,odd"}" role="row">
                         <td>
+                            @if (!$file->downloads)
+                                @if ($file->get_status()==1)
+                                    <span class="label label-warning" style="font-weight: bold;"><i class="fa fa-exclamation-triangle"></i></span>
+                                @elseif ($file->get_status()==2)
+                                    <span class="label label-danger" style="font-weight: bold;"><i class="fa fa-exclamation-triangle"></i></span>
+                                @endif
+                            @endif
+                        </td>
+                        <td>
+                           {{$file->expiration->format('d. M. Y - H:i:s')}} 
+                           
+                        </td>
+                        <td>
                             {{$file->created_at->format('d. M. Y - H:i:s')}}
                         </td>
+
+                        
                         <td>{{$file->original_filename}}</td>
+                                                <td>
+                            {{$file->human_filesize()}}
+                        </td>
                         <td>
                             
                               @if ($file->downloads)
