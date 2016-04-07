@@ -41,7 +41,6 @@ class FileEntryController extends Controller {
 		$entry->hash = sha1($entry->original_filename.time());
 		$entry->downloads = 0;
 		$entry->expiration = Carbon::parse(Request::input('datepicker'))->addDay()->subSecond();
-		$entry->expiration = Request::input('datepicker');
 		$entry->recipient = Request::input('recipient');
 		$entry->subject = Request::input ('subject');
  		
@@ -69,25 +68,23 @@ class FileEntryController extends Controller {
 			*/
 
 		});
-
-		return view('uploadsuccess', $data);
-
-
+ 
+		return redirect('/');
+		
 	}
 
 	public function get($hash){
-
+	
 		$entry = Fileentry::where('hash', '=', $hash)->firstOrFail();
 		$file = Storage::disk('local')->get($entry->filename);
 		$entry->downloads++;
+		$entry->downloaded_at = Carbon::now();
 		$entry->update();
 		$pathToFile=storage_path()."/app/".$entry->filename;
 		return response()->download($pathToFile);
 
+			}
+
 	}
-	
-
-
-}
 
  

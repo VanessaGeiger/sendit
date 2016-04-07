@@ -29,7 +29,6 @@ Route::group(['middleware' => 'web'], function () {
 
     Route::get('/', ['as' => 'dashboard', 'uses' =>'HomeController@index']);
     Route::get('upload', ['as' => 'upload', 'uses' =>'UploadController@index']);
-
 	Route::get('settings', ['as' => 'profile', 'uses' =>'SettingController@index']);
 	Route::get('history', ['as' => 'history', 'uses' =>'HistoryController@index']);
 	Route::get('users/{id}', ['as' => 'users','uses' =>'UserController@details']);
