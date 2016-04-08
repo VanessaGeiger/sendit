@@ -2,46 +2,6 @@
 
 @section('content')
 
-
-    {{--Form zum bearbeiten des Users --}}
-        {{--<div class="col-md-5">
-            <div class="box box-primary">
-                <div class="box-header with-border">
-                    <h3 class="box-title">Username bearbeiten</h3>
-                </div>
-                <form role="form">
-                    <div class="box-body">
-                        <div class="form-group">
-                            <label for="exampleInputName1">Name</label>
-                            <input id="exampleInputName1" class="form-control" type="text" placeholder={{ $user->name }}>
-                        </div>
-
-                        <div class="form-group">
-                            <label for="exampleInputEmail1">Email address</label>
-                            <input id="exampleInputEmail1" class="form-control" type="email" placeholder={{ $user->email }}>
-                        </div>
-                        <div class="form-group">
-                            <label for="exampleInputAbteilung1">Abteilung</label>
-                            <input id="exampleInputAbteilung1" class="form-control" type="text" placeholder={{ $user->department }}>
-                        </div>
-
-                        <div class="form-group">
-                            <label for="exampleInputTelNr1">Telefonnummer</label>
-                            <input id="exampleInputTelNr1" class="form-control" type="tel" placeholder={{ $user->phone }}>
-                        </div>
-                        <div class="form-group">
-                            <label for="exampleInputFaxNr1">Faxnummer</label>
-                            <input id="exampleInputFaxNr1" class="form-control" type="text" placeholder="">
-                        </div>
-
-                    </div>
-
-                    <div class="box-footer">
-                        <button class="btn btn-xs" type="submit">Speichern</button>
-                    </div>
-                </form>
-            </div>
-        </div>--}}
 <div class="row">
         <div class="col-md-5">
         <div class="box box-danger">
@@ -89,13 +49,20 @@
                             <td>/Bla/Irgendwo/Wasweissich/Beispiel/Bild.jpg</td>
                             <td>{{ $entry->human_filesize() }}</td>
                             <td>{{ $entry->created_at->format('d. M. Y - H:i:s') }}</td>
-                            <td><a class="dropdown-toggle" href="#">
-                                <i class="fa fa-edit"></i>Bearbeiten
-                            </a>
-                                <td><a class="" href="#">
-                                <i class="fa fa-trash"></i>
-                                Löschen
-                            </a></td>
+                            <td>
+                                <a href="{{ URL::route('editfile', $entry->hash) }}">Bearbeiten</a>
+                             {{--   {!! Form::open(array('url' => 'fileentry/edit/' . $entry->hash)) !!}
+                                {!! Form::submit('Bearbeiten', array('class' => 'btn btn-warning')) !!}
+                                {!! Form::close() !!}--}}
+                            </td>
+
+                                <td>
+                                {!! Form::open(array('url' => 'fileentry/delete/' . $entry->hash)) !!}
+                                {!! Form::hidden('_method', 'DELETE') !!}
+                                {!! Form::submit('Löschen', array('class' => 'btn btn-warning')) !!}
+                                {!! Form::close() !!}
+
+                            </td>
                                 <td>
                             <a class=""  href="#">
                                 <i class="fa fa-archive"></i>

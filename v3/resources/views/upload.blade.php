@@ -62,60 +62,12 @@
 
 
 
-                {{--Upload mit Link Generierung--}}
-                <div class="col-md-6">
-                    <div class="box box-danger">
-                        <div class="box-header with-border">
-                            <h3 class="box-title">Download Link</h3>
-                        </div>
-
-                <form role="form" action="{{ url('/fileentry/add') }}" method="post" enctype="multipart/form-data">
-                    <input type="hidden" name="_token" value="{{ csrf_token() }}">
-                    <div class="box-body">
-
-                    <span>Erstelle dir hier einen Download-Link</span>
-
-                        <div class="form-group">
-                            <label>Gültigkeitsdauer:</label>
-                            <input id="datepicker" class="form-control" type="hidden" name="datepicker">
-                            <div class="input-group">
-                                <div id="reportrange" class="pull-right" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc; width: 100%">
-                                    <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>&nbsp;
-                                    <span></span> <b class="caret"></b>
-                                </div>
-                            </div>
-                        </div><!-- /.form group -->
-
-
-                        <div class="form-group">
-                            <label for="exampleInputFile">Datei hochladen</label>
-                            <input id="exampleInputFile" type="file" name="filefield">
-
-                        </div>
-                    </div>
-
-                    <div class="box-footer">
-                        <button class="btn btn-google" type="submit">Hochladen</button>
-                    </div>
-
-
-
-
-            </form>
-         </div>
 
 
 
 
 
 
-
-        {{--    <form action="{{ url('/fileentry/add') }}" method="post" enctype="multipart/form-data">
-            <input type="hidden" name="_token" value="{{ csrf_token() }}">
-
-        <input type="file" name="filefield">
-        <input type="submit">
-    </form>--}}
 
 
 @endsection

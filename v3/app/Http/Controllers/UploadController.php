@@ -13,4 +13,11 @@ class UploadController extends Controller
 
          return view('upload');
     }
+
+    public function success() {
+
+        return view('uploadsuccess');
+    }
+
+
 }

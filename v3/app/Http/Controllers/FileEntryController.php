@@ -69,7 +69,7 @@ class FileEntryController extends Controller {
 
 		});
  
-		return redirect('/');
+		return view('uploadsuccess', $data);
 		
 	}
 
@@ -85,6 +85,59 @@ class FileEntryController extends Controller {
 
 			}
 
+	public function destroy($hash)
+	{
+		// delete
+		$entry = Fileentry::where('hash', '=', $hash)->firstOrFail();
+		$entry->downloads--;
+
+		$entry->delete();
+
+		$files = \App\Fileentry::where('user_id', Auth::user()->id)->orderBy('id', 'desc')->take(10)->get();
+		$total_size = $this->human_filesize(\App\Fileentry::where('user_id', Auth::user()->id)->sum('size'));
+		$active = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads', '<', 1)->orderBy('id', 'desc')->count();
+		$danger = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads', '<', 1)->where('expiration','<',Carbon::now()->addWeek())->orderBy('id', 'desc')->count();
+		$downloaded = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads','>','0')->orderBy('id', 'desc')->count();
+
+		return view('home',compact('files','total_size','active','danger','downloaded','user'));
 	}
+
+	public function human_filesize($bytes, $dec = 2) {
+		$size = array('B', 'kB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB');
+		$factor = floor((strlen($bytes) - 1) / 3);
+		if($factor<2) {
+			$dec=0;
+		}
+		return sprintf("%.{$dec}f", $bytes / pow(1024, $factor)) ." ". @$size[$factor];
+	}
+
+
+	public function edit($hash){
+
+		$entry = Fileentry::where('hash', '=', $hash)->firstOrFail();
+
+		return view('update', [
+
+				 'entry' => $entry
+        ]);
+
+	}
+
+	public function update($hash){
+
+		$entry = Fileentry::where('hash', '=', $hash)->firstOrFail();
+		$entry->expiration = Carbon::parse(Request::input('datepicker'))->addDay()->subSecond();
+		$entry->save();
+
+		$files = \App\Fileentry::where('user_id', Auth::user()->id)->orderBy('id', 'desc')->take(10)->get();
+		$total_size = $this->human_filesize(\App\Fileentry::where('user_id', Auth::user()->id)->sum('size'));
+		$active = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads', '<', 1)->orderBy('id', 'desc')->count();
+		$danger = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads', '<', 1)->where('expiration','<',Carbon::now()->addWeek())->orderBy('id', 'desc')->count();
+		$downloaded = \App\Fileentry::where('user_id', Auth::user()->id)->where('downloads','>','0')->orderBy('id', 'desc')->count();
+
+		return view('home',compact('files','total_size','active','danger','downloaded','user'));
+
+	}
+}
 
  

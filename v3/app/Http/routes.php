@@ -29,6 +29,8 @@ Route::group(['middleware' => 'web'], function () {
 
     Route::get('/', ['as' => 'dashboard', 'uses' =>'HomeController@index']);
     Route::get('upload', ['as' => 'upload', 'uses' =>'UploadController@index']);
+	Route::get('uploadsuccess', ['as' => 'uploadsuccess', 'uses' =>'UploadController@success']);
+
 	Route::get('settings', ['as' => 'profile', 'uses' =>'SettingController@index']);
 	Route::get('history', ['as' => 'history', 'uses' =>'HistoryController@index']);
 	Route::get('users/{id}', ['as' => 'users','uses' =>'UserController@details']);
@@ -37,7 +39,10 @@ Route::group(['middleware' => 'web'], function () {
 
 	Route::get('fileentry/get/{filename}', ['as' => 'getfile', 'uses' => 'FileEntryController@get']);
 	Route::post('fileentry/add',['as' => 'addfile', 'uses' => 'FileEntryController@add']);
- 
+	Route::get('fileentry/edit/{hash}', ['as' => 'editfile', 'uses' => 'FileEntryController@edit']);
+	Route::put('fileentry/update/{hash}', ['as' => 'updatefile', 'uses' => 'FileEntryController@update']);
+	Route::delete('fileentry/delete/{hash}', ['as' => 'deletefile', 'uses' => 'FileEntryController@destroy']);
+
 
 });
 
